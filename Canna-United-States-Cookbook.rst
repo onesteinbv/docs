@@ -1,5 +1,5 @@
 ============================
-United States Canna Cookbook
+Example Cookbook
 ============================
 
 This document contains the actions which is required manually for pre and post migration specially for US DB.
@@ -19,8 +19,8 @@ Certificates
 
 .. code:: bash
 
-  wget -q -O - http://gitlab.canna.lan/cannaCA.crt > /usr/local/share/ca-certificates/cannaCA.crt
-  wget -q -O - http://gitlab.canna.lan/CannaSSLCA.crt > /usr/local/share/ca-certificates/CannaSSLCA.crt
+  wget -q -O - http://gitlab.xx.lan/xxCA.crt > /usr/local/share/ca-certificates/xxCA.crt
+  wget -q -O - http://gitlab.xx.lan/xxSSLCA.crt > /usr/local/share/ca-certificates/xxSSLCA.crt
   update-ca-certificates
   service docker restart
 
@@ -49,10 +49,10 @@ Upload the V8 backup on x.x.x.x server for V8 UAT.
 Configuration
 =============
 Use migration scripts available at:
-* https://gitlab.canna.lan/canna-odoo/openupgrade
+* https://gitlab.xx.lan/xx-odoo/openupgrade
 
 Use Shell script for auto migration available at:
-* https://gitlab.canna.lan/canna-odoo/migration-scripts
+* https://gitlab.xx.lan/xx-odoo/migration-scripts
 
 V8 to V9
 ========
@@ -88,22 +88,22 @@ QA To Configure
 
 * Uninstall Module
 
-- gamification, hr_holidays, website, hr_attendance, hr_org_chart, sale_expense, canna_groups, account_payment_purchase, account_banking_mandate, canna_l10n_us_out_invoice_analysis
+- gamification, hr_holidays, website, hr_attendance, hr_org_chart, sale_expense, xx_groups, account_payment_purchase, account_banking_mandate, xx_l10n_us_out_invoice_analysis
 *others already removed from script.
 
 * Install modules
 
-- canna_report,canna_invoice,mapbox,canna_role_policy,canna_account_accruals, Extended Approval Sale order, Extended Approval Sales Target, canna_role_policy, web_environment_ribbon 
+- xx_report,xx_invoice,mapbox,xx_role_policy,xx_account_accruals, Extended Approval Sale order, Extended Approval Sales Target, xx_role_policy, web_environment_ribbon 
 
 
 * Role Policy and URIM configuration 
 
-Prerequisite :  Canna_role_policy module install or not check
+Prerequisite :  xx_role_policy module install or not check
 Download from UAT server and import
 
 * URIM Configuration:
-Key	canna_auth_db_id	Value	GU
-Key	canna_auth_url	Value	http://xauth:nlFqOhfm6syOKRqK@x.x.x.x:28069/db_canna_rigtst_odoo
+Key	xx_auth_db_id	Value	GU
+Key	xx_auth_url	Value	http://xauth:nlFqOhfm6syOKRqK@x.x.x.x:28069/db_xx_rigtst_odoo
 
 * Extended Approval flow Configuration
 
@@ -125,7 +125,7 @@ For Payable and receivable change Policy to "Optional”
 
 Add the following analytic dimensions:
 - Cost Center
-- Canna Campaign
+- xx Campaign
 - Project
 - Operating Unit
 
@@ -154,7 +154,7 @@ Check and correct if needed.
 
 * Report Layout
 
-- We need to Set External Layout Canna in Document Layout.
+- We need to Set External Layout xx in Document Layout.
 
 * Configure account type
 1. Open Invoicing > Configuration
@@ -228,7 +228,7 @@ and sets it to any purchase order line or sale order line when no product has be
   SELECT COUNT(pol.id)
   FROM purchase_order_line pol
   JOIN purchase_order po ON pol.order_id=po.id
-  WHERE pol.product_id=(AP_ID) AND po.canna_marketing=false;
+  WHERE pol.product_id=(AP_ID) AND po.xx_marketing=false;
    count
   -------
        5
@@ -548,7 +548,7 @@ Via UI: set type 'Current Assets' for legacy account L-120010, set type 'Current
 
 run invoice line repair script (Not Performed Yet- LDM to perform)
 
-install canna_repair_mig13_invoice_lines module
+install xx_repair_mig13_invoice_lines module
 
 Find out DB migration timestamp:
 SELECT create_date FROM ir_module_module WHERE name = 'role_policy';
@@ -570,7 +570,7 @@ WHERE create_date < '%s' ORDER BY id DESC LIMIT 1;
 %s is the timestamp of the db migration.
 
 run repair wizard
-uninstall canna_repair_mig13_invoice_lines module
+uninstall xx_repair_mig13_invoice_lines module
 
 NOT DONE YET ON UAT:
 ------------------- 
@@ -613,18 +613,18 @@ All other settings they require remain unchanged.
 BI tool -Done
 -------
 
-Follow the instructions on https://gitlab.canna.lan/canna-odoo/scripts-c2c#upgrade to upgrade
+Follow the instructions on https://gitlab.xx.lan/xx-odoo/scripts-c2c#upgrade to upgrade
 the BI tool to the latest version.
 
 Because the new servers are usually clones of different entities, make double sure the config
 file for the BI tool is the config file for the correct entity.
 
-Adjust the config file (typically /home/cannareporting/canna/copy_report_data.config.sh) for V13:
+Adjust the config file (typically /home/xxreporting/xx/copy_report_data.config.sh) for V13:
 
 .. code::
 
   #!/bin/bash
-  LOCAL_DB=gu_canna
+  LOCAL_DB=gu_xx
   VERSION="13"
 
 
@@ -634,7 +634,7 @@ Request Smoose to update the BI proxy settings to point to the new server ip.
 Corporate BI tool
 -----------------
 
-The corporate BI tool for the group (canna or hortisol) to which the entity belongs also has to 
+The corporate BI tool for the group (xx or hortisol) to which the entity belongs also has to 
 be adjuste
 
 Log in to the applicable corporate BI server, and adjust the copy_report_data.config.<ENTITY>.sh
@@ -645,7 +645,7 @@ Log in to the applicable corporate BI server, and adjust the copy_report_data.co
 
   VERSION="13"
 
-  LOCAL_DB=gu_canna
+  LOCAL_DB=gu_xx
   LOCAL_DB_HOST=x.x.x.x
   LOCAL_COMPOSE="/opt/odoo/odoo13/docker-compose.yml"
   LOCAL_ENV="/opt/odoo/odoo13/.env"
@@ -675,7 +675,7 @@ here you will find configuration similar to:
 
     {
       'host': 'x.x.x.x',
-      'db_name': 'db_canna_us_odoo',
+      'db_name': 'db_xx_us_odoo',
       'query_extra': "WHERE date >= '2013-01-01'"
     },
     ## SKIP
@@ -689,7 +689,7 @@ comment this section and add an equivalent section lower:
     ## SKIP
     {
      'host': 'x.x.x.x',
-     'db_name': 'us_canna',
+     'db_name': 'us_xx',
      'query_extra': "WHERE date >= '2013-01-01'"
     },
   ]
