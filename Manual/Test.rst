@@ -30,7 +30,7 @@ Indices and tables
 #. This is a numbered list.
 #. It has two items too.
 
-=======
+========
 
 1234567890
 ==========
