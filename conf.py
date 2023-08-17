@@ -25,3 +25,12 @@ exclude_patterns = []
 
 html_theme = 'classic'
 html_static_path = ['_static']
+
+html_short_title = 'Onestein-Documents'
+html_title = 'Onestein-Documents'
+
+html_logo = 'logo.png'
+html_favicon = 'favicon.png'
+html_show_sphinx = False
+html_show_copyright = True
+
