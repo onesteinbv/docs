@@ -1,43 +1,23 @@
 ==========================
-Technical Documentation
+How to get in touch with Onestein B.V.
 ==========================
 
-http://docs.onestein.eu/Example%20cookbook.html
+----------------------------------------------------------
+Location
+----------------------------------------------------------
+Reduitlaan 45
+4814 DC, Breda
+The netherlands
 
 ----------------------------------------------------------
-FAQ
+Digital locations
 ----------------------------------------------------------
-http://docs.onestein.eu/FAQ/contact.html
-
-----------------------------------------------------------
-Manuals
-----------------------------------------------------------
-
-http://docs.onestein.eu/Manual/Product-Variant.html
-
-http://docs.onestein.eu/Manual/Membership-Module.html
-
-abcdef
+Support Email : support@onestein.nl
+Email : info@onestein.nl
+Web : www.onestein.nl
+Web : www.curq.nl
 
 
-masterfile
-
-----------------------------------------------------------
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
 
 ================================================
 Onestein B.V.
