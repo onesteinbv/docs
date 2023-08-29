@@ -17,10 +17,10 @@ http://docs.onestein.eu/Manual/Product-Variant.html
 
 http://docs.onestein.eu/Manual/Membership-Module.html
 
-abcdef
+http://docs.onestein.eu/Manual/Project-Management.html
 
 
-masterfile
+
 
 ----------------------------------------------------------
 
