@@ -1,8 +1,10 @@
 ===========================
 Odoo 15 Project Management
 ===========================
--
--
+----------------------------------------------------------
+Project Management Configuration
+----------------------------------------------------------
+
 
 Author: Richard Varghese, Angelene Naidoo
 
