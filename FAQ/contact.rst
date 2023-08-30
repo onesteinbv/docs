@@ -6,15 +6,20 @@ How to get in touch with Onestein B.V.
 Location
 ----------------------------------------------------------
 Reduitlaan 45
+
 4814 DC, Breda
+
 The netherlands
 
 ----------------------------------------------------------
 Digital locations
 ----------------------------------------------------------
 Support Email : support@onestein.nl
+
 Email : info@onestein.nl
+
 Web : www.onestein.nl
+
 Web : www.curq.nl
 
 
