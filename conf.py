@@ -29,7 +29,7 @@ html_static_path = ['_static']
 html_short_title = 'Onestein-Documents'
 html_title = 'Onestein-Documents'
 
-html_logo = 'logo-geel-trans.png'
+html_logo = 'logo-blauw.png'
 html_favicon = 'favicon.png'
 html_show_sphinx = False
 html_show_copyright = True
