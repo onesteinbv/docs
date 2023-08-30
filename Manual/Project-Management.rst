@@ -66,7 +66,7 @@ Roles supported: Administrator/ Project administrator
 
 -  Click Create and name the Project
 
-.. image:: Project-Management/image1.png
+.. image:: Project-Management-Media/image1.png
    :width: 6.68958in
    :height: 2.3125in
 
@@ -77,7 +77,7 @@ Roles supported: Administration/settings
 
 -  Navigate to Projects, Configuration, Project Roles
 
-.. image:: Project-Management/image2.png
+.. image:: Project-Management-Media/image2.png
    :width: 6.68958in
    :height: 1.57778in
 
@@ -85,13 +85,13 @@ Roles supported: Administration/settings
 
 -  In Parent Role write main role (Example: Developer) and click Create
 
-.. image:: Project-Management/image3.png
+.. image:: Project-Management-Media/image3.png
    :width: 6.68958in
    :height: 2.69167in
 
 -  Save
 
-.. image:: Project-Management/image4.png
+.. image:: Project-Management-Media/image4.png
    :width: 6.68958in
    :height: 2.16528in
 
@@ -101,7 +101,7 @@ Roles supported: Administration/settings
 
 -  Save
 
-.. image:: Project-Management/image5.png
+.. image:: Project-Management-Media/image5.png
    :width: 6.68958in
    :height: 1.84931in
 
@@ -115,19 +115,19 @@ member select Assignments.
 
 -  Select Project, Role and User. Save
 
-.. image:: Project-Management/image6.png
+.. image:: Project-Management-Media/image6.png
    :width: 6.68958in
    :height: 0.92153in
 
 -  Navigate to Project, select required project, Edit
 
-.. image:: Project-Management/image7.png
+.. image:: Project-Management-Media/image7.png
    :width: 6.68958in
    :height: 1.79028in
 
 -  Members Tab: the new member can be viewed in the project.
 
-.. image:: Project-Management/image8.png
+.. image:: Project-Management-Media/image8.png
    :width: 6.68958in
    :height: 3.86319in
 
@@ -142,7 +142,7 @@ the project Green Energy.
 
 -  Navigate to Project, Configuration, Project Categories
 
-.. image:: Project-Management/image9.png
+.. image:: Project-Management-Media/image9.png
    :width: 6.68958in
    :height: 4.05903in
 
@@ -156,7 +156,7 @@ the project Green Energy.
 
 -  Save
 
-.. image:: Project-Management/image10.png
+.. image:: Project-Management-Media/image10.png
    :width: 6.43333in
    :height: 1.83125in
 
@@ -184,25 +184,25 @@ Roles supported: Administrator/ Project Administrator
 
 -  Select ´More´ and ´Go to Website´
 
-.. image:: Project-Management/image11.png
+.. image:: Project-Management-Media/image11.png
    :width: 6.36736in
    :height: 3.64167in
 
 -  Click Published
 
-.. image:: Project-Management/image12.png
+.. image:: Project-Management-Media/image12.png
    :width: 6.68958in
    :height: 1.98611in
 
 -  Users can view list of projects at **https://{Your domain}/projects**
 
-.. image:: Project-Management/image13.png
+.. image:: Project-Management-Media/image13.png
    :width: 6.68958in
    :height: 3.31111in
 
 -  Click´Discover´ to view the Project and Members
 
-.. image:: Project-Management/image14.png
+.. image:: Project-Management-Media/image14.png
    :width: 6.68958in
    :height: 3.26042in
 
@@ -219,7 +219,7 @@ Roles supported: Administrator/ Project Administrator
 
 -  Use the URL in your any page during content creation
 
-.. image:: Project-Management/image15.png
+.. image:: Project-Management-Media/image15.png
    :width: 6.68958in
    :height: 3.61458in
 
@@ -236,7 +236,7 @@ Roles supported: Administrator/Settings
 
 -  Navigate to Settings, General Settings, select Manage Users
 
-.. image:: Project-Management/image16.png
+.. image:: Project-Management-Media/image16.png
    :width: 6.69306in
    :height: 3.10278in
 
@@ -246,7 +246,7 @@ Roles supported: Administrator/Settings
 
 -  Add image
 
-.. image:: Project-Management/image17.png
+.. image:: Project-Management-Media/image17.png
    :width: 6.68958in
    :height: 1.3875in
 
@@ -261,7 +261,7 @@ For members who do not want to be published at the time of registration:
 -  Name will display with no link to click for further information on
    the member.
 
-.. image:: Project-Management/image18.png
+.. image:: Project-Management-Media/image18.png
    :width: 6.68958in
    :height: 2.56875in
 
@@ -279,7 +279,7 @@ Roles supported: Administrator/Settings
 
 -  Click on member
 
-.. image:: Project-Management/image19.png
+.. image:: Project-Management-Media/image19.png
    :width: 6.69306in
    :height: 1.14444in
 
@@ -292,17 +292,17 @@ Roles supported: Administrator/Settings
 
 -  Click Save
 
-.. image:: Project-Management/image20.png
+.. image:: Project-Management-Media/image20.png
    :width: 6.69306in
    :height: 3.15417in
 
 -  The member will receive an email to activate their account:
 
-.. image:: Project-Management/image21.png
+.. image:: Project-Management-Media/image21.png
    :width: 5.88681in
    :height: 3.69167in
 
-.. image:: Project-Management/image22.png
+.. image:: Project-Management-Media/image22.png
    :width: 6.90625in
    :height: 3.64097in
 
@@ -324,19 +324,19 @@ are invited to, their tasks and time-sheets.
 
 -  Save
 
-.. image:: Project-Management/image23.png
+.. image:: Project-Management-Media/image23.png
    :width: 6.69306in
    :height: 4.81319in
 
 -  Navigate to Project, Select Project, Tasks
 
-.. image:: Project-Management/image24.png
+.. image:: Project-Management-Media/image24.png
    :width: 6.20833in
    :height: 3.10069in
 
 -  Click Create, fill in Task Title and Add
 
-.. image:: Project-Management/image25.png
+.. image:: Project-Management-Media/image25.png
    :width: 5.31944in
    :height: 2.02917in
 
@@ -348,7 +348,7 @@ are invited to, their tasks and time-sheets.
 
 -  Save
 
-.. image:: Project-Management/image26.png
+.. image:: Project-Management-Media/image26.png
    :width: 6.69306in
    :height: 4.175in
 
@@ -362,7 +362,7 @@ Once the task is assigned to the member:
 
 -  The member receives email notification of task.
 
-.. image:: Project-Management/image27.png
+.. image:: Project-Management-Media/image27.png
    :width: 5.43542in
    :height: 2.18611in
 
@@ -370,7 +370,7 @@ Once the task is assigned to the member:
 
 -  Logs into account and views task
 
-.. image:: Project-Management/image28.png
+.. image:: Project-Management-Media/image28.png
    :width: 6.68958in
    :height: 3.41667in
 
@@ -380,6 +380,6 @@ Once the task is assigned to the member:
 
 -  Save
 
-.. image:: Project-Management/image29.png
+.. image:: Project-Management-Media/image29.png
    :width: 6.29722in
    :height: 3.2125in
