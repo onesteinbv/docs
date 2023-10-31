@@ -19,8 +19,13 @@ http://docs.onestein.eu/Manual/Membership-Module.html
 
 http://docs.onestein.eu/Manual/Project-Management.html
 
+----------------------------------------------------------
+Manuals Curq
+----------------------------------------------------------
 
+http://docs.onestein.eu/Manual/Curq%20User%20Documentation/Accounting/accounting.html
 
+*  http://docs.onestein.eu/Manual/Curq%20User%20Documentation/Accounting/gettingstartedfin.html
 
 ----------------------------------------------------------
 
