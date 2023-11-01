@@ -1,10 +1,11 @@
 My Ponto Bank Feed
+==================
 
 In Curq bank statements can be synchronized with your bank using the
 MyPonto connection
 
 Steps to create the connection.
-
+-------------------------------
 1. Set up your My Ponto connection, see https://myponto.com/en/
 
 2. After registering go to ‘Integraties’
@@ -19,17 +20,20 @@ Steps to create the connection.
 .. image:: My-Ponto-Bank-Feed-Media/image1.png
    :width: 6.3in
    :height: 2.93264in
+-----
 
 .. image:: My-Ponto-Bank-Feed-Media/image2.png
    :width: 6.3in
    :height: 2.93264in
+-----
 
 .. image:: My-Ponto-Bank-Feed-Media/image3.png
    :width: 6.3in
    :height: 2.93264in
+-----
 
 Then go to Curq
-
+---------------
 1. First create your Bank account in Curq
 
 2. The related Bank Journal will be created automatically
@@ -52,22 +56,27 @@ Then go to Curq
 .. image:: My-Ponto-Bank-Feed-Media/image4.png
    :width: 6.3in
    :height: 2.90069in
+-----
 
 .. image:: My-Ponto-Bank-Feed-Media/image5.png
    :width: 6.3in
    :height: 2.90069in
+-----
 
 .. image:: My-Ponto-Bank-Feed-Media/image6.png
    :width: 6.3in
    :height: 2.90069in
+-----
 
 .. image:: My-Ponto-Bank-Feed-Media/image7.png
    :width: 6.3in
    :height: 2.90069in
+-----
 
 .. image:: My-Ponto-Bank-Feed-Media/image8.png
    :width: 6.3in
    :height: 2.90069in
+-----
 
 .. image:: My-Ponto-Bank-Feed-Media/image9.png
    :width: 5.50833in
