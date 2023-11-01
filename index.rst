@@ -23,9 +23,11 @@ http://docs.onestein.eu/Manual/Project-Management.html
 Manuals Curq
 ----------------------------------------------------------
 
-http://docs.onestein.eu/Manual/Curq%20User%20Documentation/Accounting/accounting.html
+http://docs.onestein.eu/Manual/Curq-User-Documentation/Accounting/accounting.html
 
-*  http://docs.onestein.eu/Manual/Curq%20User%20Documentation/Accounting/gettingstartedfin.html
+*  http://docs.onestein.eu/Manual/Curq-User-Documentation/Accounting/gettingstartedfin.html
+
+http://docs.onestein.eu/Manual/Curq-User-Documentation/My-Ponto-Bank-Feed.html
 
 ----------------------------------------------------------
 
