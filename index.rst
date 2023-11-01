@@ -7,27 +7,28 @@ http://docs.onestein.eu/Example%20cookbook.html
 ----------------------------------------------------------
 FAQ
 ----------------------------------------------------------
-http://docs.onestein.eu/FAQ/contact.html
+`Onestein BV Contact info <http://docs.onestein.eu/FAQ/contact.html>`_
 
 ----------------------------------------------------------
 Manuals
 ----------------------------------------------------------
 
-http://docs.onestein.eu/Manual/Product-Variant.html
+`Product Varianten <http://docs.onestein.eu/Manual/Product-Variant.html>`_
 
-http://docs.onestein.eu/Manual/Membership-Module.html
+`Membership Module <http://docs.onestein.eu/Manual/Membership-Module.html>`_
 
-http://docs.onestein.eu/Manual/Project-Management.html
+`Project Managment <http://docs.onestein.eu/Manual/Project-Management.html>`_
 
 ----------------------------------------------------------
 Manuals Curq
 ----------------------------------------------------------
 
-http://docs.onestein.eu/Manual/Curq-User-Documentation/Accounting/accounting.html
+`Accounting <http://docs.onestein.eu/Manual/Curq-User-Documentation/Accounting/accounting.html>`_
 
-*  http://docs.onestein.eu/Manual/Curq-User-Documentation/Accounting/gettingstartedfin.html
+*  `Beginnen met de boekhouding <http://docs.onestein.eu/Manual/Curq-User-Documentation/Accounting/gettingstartedfin.html>`_
 
-http://docs.onestein.eu/Manual/Curq-User-Documentation/My-Ponto-Bank-Feed.html
+`Ponto bankafschriften overzicht <http://docs.onestein.eu/Manual/Curq-User-Documentation/My-Ponto-Bank-Feed.html>`_
+
 
 ----------------------------------------------------------
 
@@ -44,13 +45,6 @@ http://docs.onestein.eu/Manual/Curq-User-Documentation/My-Ponto-Bank-Feed.html
 .
 .
 .
-.
-.
-.
-.
-.
-.
-
 ================================================
 Onestein B.V.
 ================================================
