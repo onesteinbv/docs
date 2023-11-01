@@ -7,12 +7,14 @@ Om te beginnen met de boekhouding in Odoo volgen we deze stappen
 
     * Ga naar de instellingen van jouw bedrijf in Curq. Je kan deze instellingen benaderen via Instelligen > Gebruikers & Bedrijven > Bedrijven. Open uw bedrijf en configureer uw bedrijfsgegevens.
       ![gettingstarted001.png](./Accounting-Media/gettingstarted001.png)
+      .. image:: Accounting-Media/gettingstarted001.png
 
 2. **Bankkoppeling:**
 
     * Als je bankrekeningen heeft, kan je deze koppelen aan Curq om transacties automatisch te importeren en af te stemmen. De koppeling maakt gebruik van de dienst van Ponto. Ponto is een service provider die jouw bankrekening doorstuurt van jouw bank naar Curq. Een abonnement aanschaffen kan via www.myponto.com.
     * De koppeling van Ponto wordt op de volgende manier ingesteld. Ga naar Facturatie > Configuratie > Online Bank afschrift Aanbieders. Klik op [NIEUW]. In het scherm vul je de volgende gegevens in:
    ![gettingstarted002.png](./Accounting-Media/gettingstarted002.png)
+   .. image:: Accounting-Media/gettingstarted002.png
         * Als je net bent gestart dan heb je nog geen dagboek met je eigen bankrekening. Kies hier Bank.
         * Bij Service moet MyPonto.com ingevuld worden.
         * De Login en Secret Key kan worden opgehaald via jouw account bij MyPonto.
@@ -20,8 +22,10 @@ Om te beginnen met de boekhouding in Odoo volgen we deze stappen
 
         * Na het selecteren van de Bank dagboek, vullen we jouw bankgegevens in de dagboek. Dit doe je door met je muis op de Bank Dagboek te staan. Aan de rechterkant vind je een pijl.
 ![gettingstarted003.png](./Accounting-Media/gettingstarted003.png)
+.. image:: Accounting-Media/gettingstarted003.png
         * Zodra je hier op klikt, dan verschijnt de instellingen van de dagboek.
  ![gettingstarted004.png](./Accounting-Media/gettingstarted004.png)     
+.. image:: Accounting-Media/gettingstarted004.png
         * Vul daar het juiste rekeningnummer in. Kies dan voor aanmaken en bewerken. In het nieuwe scherm vul je de resterende bankgegevens in.
      
 `Curq slaat automatisch de gegevens op bij elke wijziging. Je hoeft binnen Curq niet apart een gegeven op te slaan.`
