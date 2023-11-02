@@ -17,4 +17,3 @@ Door processen te automatiseren en efficiënter te werken, kun je kosten bespare
 
 Al met al kan Curq een waardevolle hulpbron zijn voor je boekhouding, ongeacht de omvang van je bedrijf, en kan het bijdragen aan een efficiënte, nauwkeurige, en geïntegreerde financiële administratie. Het is echter belangrijk om ervoor te zorgen dat je de boekhoudmodule van Curq goed configureert en onderhoudt om er maximaal van te profiteren.
 
-[Gettting Started](Tech-Docs/Manual/Curq User Documentation/Accounting/gettingstarted.md)
