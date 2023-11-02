@@ -31,6 +31,8 @@ Manuals Curq
 
 `SEPA betalingen leverancier <http://docs.onestein.eu/Manual/Curq-User-Documentation/SEPA-betalingen-leverancier.html>`_
 
+`Herinneringen in Curq <http://docs.onestein.eu/Manual/Curq-User-Documentation/Herinneringen-in-Curq.html>`_
+
 ----------------------------------------------------------
 
 .
