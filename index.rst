@@ -29,6 +29,7 @@ Manuals Curq
 
 `Ponto bankafschriften overzicht <http://docs.onestein.eu/Manual/Curq-User-Documentation/My-Ponto-Bank-Feed.html>`_
 
+`SEPA betalingen leverancier <http://docs.onestein.eu/Manual/Curq-User-Documentation/SEPA-betalingen-leverancier.html>`_
 
 ----------------------------------------------------------
 
