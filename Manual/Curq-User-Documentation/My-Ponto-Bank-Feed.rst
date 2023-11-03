@@ -17,19 +17,23 @@ Steps to create the connection.
 5. As a result you will see the client and secret id. You need this
    information later on in Curq.
 
-.. image:: My-Ponto-Bank-Feed-Media/image1.png
-   :width: 6.3in
-   :height: 2.93264in
 -----
 
-.. image:: My-Ponto-Bank-Feed-Media/image2.png
-   :width: 6.3in
-   :height: 2.93264in
+    .. image:: My-Ponto-Bank-Feed-Media/image1.png
+       :width: 6.3in
+       :height: 2.93264in
+
 -----
 
-.. image:: My-Ponto-Bank-Feed-Media/image3.png
-   :width: 6.3in
-   :height: 2.93264in
+    .. image:: My-Ponto-Bank-Feed-Media/image2.png
+       :width: 6.3in
+       :height: 2.93264in
+
+-----
+
+    .. image:: My-Ponto-Bank-Feed-Media/image3.png
+       :width: 6.3in
+       :height: 2.93264in
 -----
 
 Then go to Curq
@@ -53,31 +57,33 @@ Then go to Curq
 
 9. You are now ready to retrieve data from your Bank
 
-.. image:: My-Ponto-Bank-Feed-Media/image4.png
-   :width: 6.3in
-   :height: 2.90069in
 -----
 
-.. image:: My-Ponto-Bank-Feed-Media/image5.png
-   :width: 6.3in
-   :height: 2.90069in
+    .. image:: My-Ponto-Bank-Feed-Media/image4.png
+       :width: 6.3in
+       :height: 2.90069in
 -----
 
-.. image:: My-Ponto-Bank-Feed-Media/image6.png
-   :width: 6.3in
-   :height: 2.90069in
+    .. image:: My-Ponto-Bank-Feed-Media/image5.png
+       :width: 6.3in
+       :height: 2.90069in
 -----
 
-.. image:: My-Ponto-Bank-Feed-Media/image7.png
-   :width: 6.3in
-   :height: 2.90069in
+    .. image:: My-Ponto-Bank-Feed-Media/image6.png
+       :width: 6.3in
+       :height: 2.90069in
 -----
 
-.. image:: My-Ponto-Bank-Feed-Media/image8.png
-   :width: 6.3in
-   :height: 2.90069in
+    .. image:: My-Ponto-Bank-Feed-Media/image7.png
+       :width: 6.3in
+       :height: 2.90069in
 -----
 
-.. image:: My-Ponto-Bank-Feed-Media/image9.png
-   :width: 5.50833in
-   :height: 0.78333in
+    .. image:: My-Ponto-Bank-Feed-Media/image8.png
+       :width: 6.3in
+       :height: 2.90069in
+-----
+
+    .. image:: My-Ponto-Bank-Feed-Media/image9.png
+       :width: 5.50833in
+       :height: 0.78333in
