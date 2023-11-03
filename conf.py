@@ -33,4 +33,4 @@ html_logo = 'logo-blauw.png'
 html_favicon = 'favicon.png'
 html_show_sphinx = False
 html_show_copyright = True
-
+html_show_sourcelink = False

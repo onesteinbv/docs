@@ -1,35 +1,31 @@
-==========================
-Technical Documentation
-==========================
+=============
+Documentation
+=============
 
-http://docs.onestein.eu/Example%20cookbook.html
+.. admonition:: Manuals
 
-----------------------------------------------------------
-FAQ
-----------------------------------------------------------
-`Onestein BV Contact info <http://docs.onestein.eu/FAQ/contact.html>`_
+    `Product Varianten <http://docs.onestein.eu/Manual/Product-Variant.html>`_
 
-----------------------------------------------------------
-Manuals
-----------------------------------------------------------
+    `Membership Module <http://docs.onestein.eu/Manual/Membership-Module.html>`_
 
-`Product Varianten <http://docs.onestein.eu/Manual/Product-Variant.html>`_
+    `Project Managment <http://docs.onestein.eu/Manual/Project-Management.html>`_
 
-`Membership Module <http://docs.onestein.eu/Manual/Membership-Module.html>`_
+.. admonition:: Manuals Curq
 
-`Project Managment <http://docs.onestein.eu/Manual/Project-Management.html>`_
 
-----------------------------------------------------------
-Manuals Curq
-----------------------------------------------------------
+    `Accounting <http://docs.onestein.eu/Manual/Curq-User-Documentation/Accounting/accounting.html>`_
 
-`Accounting <http://docs.onestein.eu/Manual/Curq-User-Documentation/Accounting/accounting.html>`_
+    `Beginnen met de boekhouding <http://docs.onestein.eu/Manual/Curq-User-Documentation/Accounting/gettingstartedfin.html>`_
 
-*  `Beginnen met de boekhouding <http://docs.onestein.eu/Manual/Curq-User-Documentation/Accounting/gettingstartedfin.html>`_
+    `Ponto bankafschriften overzicht <http://docs.onestein.eu/Manual/Curq-User-Documentation/My-Ponto-Bank-Feed.html>`_
 
-`Ponto bankafschriften overzicht <http://docs.onestein.eu/Manual/Curq-User-Documentation/My-Ponto-Bank-Feed.html>`_
+    `SEPA betalingen leverancier <http://docs.onestein.eu/Manual/Curq-User-Documentation/SEPA-betalingen-leverancier-OCA.html>`_
 
-`SEPA betalingen leverancier OCA <http://docs.onestein.eu/Manual/Curq-User-Documentation/SEPA-betalingen-leverancier-OCA.html>`_
+    `Herinneringen in Curq <http://docs.onestein.eu/Manual/Curq-User-Documentation/Herinneringen-in-Curq.html>`_
 
-`Herinneringen in Curq <http://docs.onestein.eu/Manual/Curq-User-Documentation/Herinneringen-in-Curq.html>`_
+.. admonition:: FAQ
 
+    `Contact info Onestein BV <http://docs.onestein.eu/FAQ/contact.html>`_
+
+
+.. topic:: Onestein BV
