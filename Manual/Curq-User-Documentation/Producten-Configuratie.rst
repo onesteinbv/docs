@@ -1,4 +1,4 @@
-.. image:: Product-Configuratie-Media/image1.png
+.. image:: Producten-Configuratie-Media/image1.png
    :width: 3.21528in
    :height: 0.94444in
 
@@ -34,7 +34,7 @@ Inhoudsopgave
 
    `Tab overig 9 <#tab-overig>`__
 
-.. image:: Product-Configuratie-Media/image1.png
+.. image:: Producten-Configuratie-Media/image1.png
    :width: 3.21528in
    :height: 0.94444in
 
@@ -51,17 +51,17 @@ In dit voorbeeld maak ik gebruik van toegang via de Voorraad app. Als je
 deze procedure volgt, krijg je een overzicht te zien van enkele
 'standaard' geïnstalleerde producten.
 
-.. image:: Product-Configuratie-Media/image2.png
+.. image:: Producten-Configuratie-Media/image2.png
    :width: 6.26806in
    :height: 1.18056in
 
-   .. image:: Product-Configuratie-Media/image1.png
+   .. image:: Producten-Configuratie-Media/image1.png
       :width: 3.21528in
       :height: 0.94444in
 
 Rechtsboven (foto onder)vind je de zoekbalk:
 
-.. image:: Product-Configuratie-Media/image3.png
+.. image:: Producten-Configuratie-Media/image3.png
    :width: 6.45347in
    :height: 1.49028in
 
@@ -80,7 +80,7 @@ Rechtsboven (foto onder)vind je de zoekbalk:
 4. **List view:** hiermee krijg je de producten in lijst overzicht te
       zien.
 
-.. image:: Product-Configuratie-Media/image1.png
+.. image:: Producten-Configuratie-Media/image1.png
    :width: 3.21528in
    :height: 0.94444in
 
@@ -127,11 +127,11 @@ Dit veld wordt gebruikt om de voorraad te waarderen en om marges op
 verkooporders te berekenen. De voorraadwaardering stel je in op
 productcategorie.
 
-.. image:: Product-Configuratie-Media/image4.png
+.. image:: Producten-Configuratie-Media/image4.png
    :width: 6.05764in
    :height: 3.46111in
 
-.. image:: Product-Configuratie-Media/image1.png
+.. image:: Producten-Configuratie-Media/image1.png
    :width: 3.21528in
    :height: 0.94444in
 
@@ -172,11 +172,11 @@ gewogen gemiddelde waarde van het product.
 **Voorraadwaardering:** hierbij de keuze om de voorraadberekening
 (boekingen) handmatig uit te voeren of geautomatiseerd.
 
-.. image:: Product-Configuratie-Media/image5.png
+.. image:: Producten-Configuratie-Media/image5.png
    :width: 7.08194in
    :height: 2.34097in
 
-.. image:: Product-Configuratie-Media/image1.png
+.. image:: Producten-Configuratie-Media/image1.png
    :width: 3.21528in
    :height: 0.94444in
 
@@ -209,7 +209,7 @@ Tab Kenmerken en varianten\ |image1|
   geen invloed heeft op de database prestaties.
   *
 
-.. image:: Product-Configuratie-Media/image1.png
+.. image:: Producten-Configuratie-Media/image1.png
    :width: 3.21528in
    :height: 0.94444in
 
@@ -238,14 +238,14 @@ Tab Kenmerken en varianten\ |image1|
   er is ruimte om een verkoopomschrijving op te stellen dat zichtbaar is
   op een offerte/order en facturen.
 
-.. image:: Product-Configuratie-Media/image1.png
+.. image:: Producten-Configuratie-Media/image1.png
    :width: 3.21528in
    :height: 0.94444in
 
 Tab Inkoop
 ~~~~~~~~~~
 
-.. image:: Product-Configuratie-Media/image9.png
+.. image:: Producten-Configuratie-Media/image9.png
    :width: 6.26806in
    :height: 3.29167in
 
@@ -262,14 +262,14 @@ Beschrijving'.** Deze functies helpen bij het beheren van
 inkoopgerelateerde aspecten en het vastleggen van belangrijke informatie
 voor het inkoopproces.
 
-.. image:: Product-Configuratie-Media/image1.png
+.. image:: Producten-Configuratie-Media/image1.png
    :width: 3.21528in
    :height: 0.94444in
 
 Tab Voorraad
 ~~~~~~~~~~~~
 
-.. image:: Product-Configuratie-Media/image11.png
+.. image:: Producten-Configuratie-Media/image11.png
    :width: 6.26806in
    :height: 3.75in
 
@@ -296,7 +296,7 @@ Tab Voorraad
   voortkomen uit respectievelijk productieorders en inventarisatie
   operaties.
 
-.. image:: Product-Configuratie-Media/image1.png
+.. image:: Producten-Configuratie-Media/image1.png
    :width: 3.21528in
    :height: 0.94444in
 
@@ -312,7 +312,7 @@ Tab overig
 Met de tabbladen aan de bovenkant van het productblad heb je direct
 inzicht in de overige productinformatie:
 
-.. image:: Product-Configuratie-Media/image13.png
+.. image:: Producten-Configuratie-Media/image13.png
    :width: 6.26806in
    :height: 2.125in
 
@@ -343,22 +343,22 @@ inzicht in de overige productinformatie:
 -  Aantal stuks 'verkocht' en 'in gekocht' geeft direct inzicht van de
       laatste 365 dagen.
 
-.. image:: Product-Configuratie-Media/image1.png
+.. image:: Producten-Configuratie-Media/image1.png
    :width: 3.21528in
    :height: 0.94444in
 
-.. |image1| image:: Product-Configuratie-Media/image6.png
+.. |image1| image:: Producten-Configuratie-Media/image6.png
    :width: 6.26806in
    :height: 2.48611in
-.. |image2| image:: Product-Configuratie-Media/image7.png
+.. |image2| image:: Producten-Configuratie-Media/image7.png
    :width: 4.39028in
    :height: 2.77222in
-.. |image3| image:: Product-Configuratie-Media/image8.png
+.. |image3| image:: Producten-Configuratie-Media/image8.png
    :width: 6.26806in
    :height: 4.40278in
-.. |image4| image:: Product-Configuratie-Media/image10.png
+.. |image4| image:: Producten-Configuratie-Media/image10.png
    :width: 2.71319in
    :height: 1.98681in
-.. |image5| image:: Product-Configuratie-Media/image12.png
+.. |image5| image:: Producten-Configuratie-Media/image12.png
    :width: 6.26806in
    :height: 2.31944in

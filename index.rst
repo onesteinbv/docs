@@ -12,7 +12,6 @@ Documentation
 
 .. admonition:: Manuals Curq
 
-
     `Accounting <http://docs.onestein.eu/Manual/Curq-User-Documentation/Accounting/accounting.html>`_
 
     `Beginnen met de boekhouding <http://docs.onestein.eu/Manual/Curq-User-Documentation/Accounting/gettingstartedfin.html>`_
@@ -22,6 +21,8 @@ Documentation
     `SEPA betalingen leverancier <http://docs.onestein.eu/Manual/Curq-User-Documentation/SEPA-betalingen-leverancier-OCA.html>`_
 
     `Herinneringen in Curq <http://docs.onestein.eu/Manual/Curq-User-Documentation/Herinneringen-in-Curq.html>`_
+
+    `Product Configuratie <http://docs.onestein.eu/Manual/Curq-User-Documentation/Product-Configuratie.html>`_
 
 .. admonition:: FAQ
 
