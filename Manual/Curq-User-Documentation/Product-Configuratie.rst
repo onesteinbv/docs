@@ -1,3 +1,4 @@
+=====================================
 Curq - Product configuratie
 =====================================
 
@@ -143,13 +144,19 @@ artikelnummer. De barcode wordt daarentegen gebruikt voor de EAN-code
 van een product. De barcode wordt weergegeven op verzamellijsten en
 pakbonnen.
 
-**Productlabels
-**\ Dit is een handige tool waarmee je producten van extra kenmerken
+**Productlabels**
+
+Dit is een handige tool waarmee je producten van extra kenmerken
 kunt voorzien. Bij het zoeken naar producten kun je indien nodig
 filteren op basis van deze kenmerken.
 
-Tab Kenmerken en varianten\ |image3|
-------------------------------------
+Tab Kenmerken en varianten
+--------------------------
+
+.. image:: Product-Configuratie-Media/image6.png
+   :width: 6.26806in
+   :height: 2.48611in
+
 
 Via tab Kenmerken en varianten kun je kenmerken instellen voor een
 product als deze in verschillende opties verkrijgbaar zijn. Kenmerk en
@@ -299,12 +306,3 @@ inzicht in overige productinformatie:
 -  Aantal stuks 'verkocht' en 'in gekocht' geeft direct inzicht van de
       laatste 365 dagen.
 
-.. |image1| image:: Product-Configuratie-Media/image1.png
-   :width: 3.21528in
-   :height: 0.94444in
-.. |image2| image:: Product-Configuratie-Media/image1.png
-   :width: 3.21528in
-   :height: 0.94444in
-.. |image3| image:: Product-Configuratie-Media/image6.png
-   :width: 6.26806in
-   :height: 2.48611in
