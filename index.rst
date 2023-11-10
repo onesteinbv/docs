@@ -22,7 +22,7 @@ Documentation
 
     `Herinneringen in Curq <http://docs.onestein.eu/Manual/Curq-User-Documentation/Herinneringen-in-Curq.html>`_
 
-    `Product Configuratie <http://docs.onestein.eu/Manual/Curq-User-Documentation/Producten-Configuratie.html>`_
+    `Product Configuratie <http://docs.onestein.eu/Manual/Curq-User-Documentation/Product-Configuratie.html>`_
 
 .. admonition:: FAQ
 

@@ -1,5 +1,6 @@
 Curq - Product configuratie
-===========================
+=====================================
+
 
 Een doordachte productconfiguratie is van cruciaal belang voor een
 naadloze werking van diverse Odoo-modules, waaronder Inkoop, Voorraad,
@@ -9,7 +10,7 @@ te identificeren en aan te passen. In deze handleiding nemen we de
 mogelijke opties met je door.
 
 Toegang tot producten
----------------------
+=====================
 
 Er zijn twee beste opties om toegang te krijgen tot je producten:
 
@@ -21,13 +22,14 @@ In dit voorbeeld maak ik gebruik van toegang via de Voorraad app. Als je
 deze procedure volgt, krijg je een overzicht te zien van enkele
 'standaard' geïnstalleerde producten.
 
-.. image:: Producten-Configuratie-Media/image2.png
+.. image:: Product-Configuratie-Media/image2.png
    :width: 6.26806in
    :height: 1.18056in
 
+
 Rechtsboven (foto onder)vind je de zoekbalk:
 
-.. image:: Producten-Configuratie-Media/image3.png
+.. image:: Product-Configuratie-Media/image3.png
    :width: 6.45347in
    :height: 1.49028in
 
@@ -47,14 +49,15 @@ Rechtsboven (foto onder)vind je de zoekbalk:
       zien.
 
 Productblad
------------
+===========
 
 We gaan een nieuw product aanmaken en klikken op **NIEUW +**
 
-Het productblad wordt geopend en we hebben een smartphone als voorbeeld genomen.
+Het productblad wordt geopend en heb een smartphone als voorbeeld
+genomen.
 
 Tab Algemene informatie
-~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------
 
 | **Productsoort:**
 | Er zijn 3 verschillende opties >
@@ -88,7 +91,7 @@ Dit veld wordt gebruikt om de voorraad te waarderen en om marges op
 verkooporders te berekenen. De voorraadwaardering stel je in op
 productcategorie.
 
-.. image:: Producten-Configuratie-Media/image4.png
+.. image:: Product-Configuratie-Media/image4.png
    :width: 6.05764in
    :height: 3.46111in
 
@@ -129,7 +132,7 @@ gewogen gemiddelde waarde van het product.
 **Voorraadwaardering:** hierbij de keuze om de voorraadberekening
 (boekingen) handmatig uit te voeren of geautomatiseerd.
 
-.. image:: Producten-Configuratie-Media/image5.png
+.. image:: Product-Configuratie-Media/image5.png
    :width: 7.08194in
    :height: 2.34097in
 
@@ -145,28 +148,33 @@ pakbonnen.
 kunt voorzien. Bij het zoeken naar producten kun je indien nodig
 filteren op basis van deze kenmerken.
 
-Tab Kenmerken en varianten
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tab Kenmerken en varianten\ |image3|
+------------------------------------
 
-| Via tab Kenmerken en varianten kun je kenmerken instellen voor een
-  product als deze in verschillende opties verkrijgbaar zijn. Kenmerk en
-  waarde kun je zelf aanmaken via **Voorraad - configuratie -
-  kenmerken.** Aan de hand van het aantal waarden maakt Odoo automatisch
-  de verschillende varianten aan (zie 6 Varianten). Via 'configureren'
-  in de regel kun je prijsverschillen instellen per waarde die is
-  opgegeven.
-| Tip!\ |image2|
-    *Als je voor een product meerdere kenmerken en waarden
-  instelt, wat resulteert in 1500 of meer varianten, overweeg dan om
-  'Dynamisch' te selecteren in de instellingen. Op deze manier worden
-  varianten pas aangemaakt wanneer ze daadwerkelijk worden verkocht, wat
-  geen invloed heeft op de database prestaties.
-  *
+Via tab Kenmerken en varianten kun je kenmerken instellen voor een
+product als deze in verschillende opties verkrijgbaar zijn. Kenmerk en
+waarde kun je zelf aanmaken via **Voorraad - configuratie - kenmerken.**
+Aan de hand van het aantal waarden maakt Odoo automatisch de
+verschillende varianten aan (zie 6 Varianten). Via 'configureren' in de
+regel kun je prijsverschillen instellen per waarde die is opgegeven.
 
-|image3|\
+Tip! *Als je voor een product meerdere kenmerken en waarden instelt, wat
+resulteert in 1500 of meer varianten, overweeg dan om 'Dynamisch' te
+selecteren in de instellingen. Op deze manier worden varianten pas
+aangemaakt wanneer ze daadwerkelijk worden verkocht, wat geen invloed
+heeft op de database prestaties.
+*
+
+.. image:: Product-Configuratie-Media/image7.png
+   :width: 4.39028in
+   :height: 2.77222in
 
 Tab Verkoop
-~~~~~~~~~~~~~~~~~~~~~
+-----------
+
+.. image:: Product-Configuratie-Media/image8.png
+   :width: 6.26806in
+   :height: 4.40278in
 
 | In het gedeelte Upsell & Cross-Sell zijn drie velden beschikbaar:
   **Optionele producten, Aanvullende producten en Alternatieve
@@ -190,17 +198,20 @@ Tab Verkoop
   er is ruimte om een verkoopomschrijving op te stellen dat zichtbaar is
   op een offerte/order en facturen.
 
-
 Tab Inkoop
-~~~~~~~~~~
+----------
 
-.. image:: Producten-Configuratie-Media/image9.png
+.. image:: Product-Configuratie-Media/image9.png
    :width: 6.26806in
    :height: 3.29167in
 
-|image4|\ In dit overzicht kun je één of meerdere leveranciers koppelen
-met de bijbehorende inkoopprijzen en levertijden. Via de filterknop zijn
+In dit overzicht kun je één of meerdere leveranciers koppelen met de
+bijbehorende inkoopprijzen en levertijden. Via de filterknop zijn
 meerdere 'standaard' velden zichtbaar te maken (zie onder).
+
+.. image:: Product-Configuratie-Media/image10.png
+   :width: 2.71319in
+   :height: 1.98681in
 
 Met **'Inkoop BTW'** kun je de standaard belastingtarieven instellen die
 van toepassing zijn bij de aankoop van het product. Onder
@@ -212,9 +223,9 @@ inkoopgerelateerde aspecten en het vastleggen van belangrijke informatie
 voor het inkoopproces.
 
 Tab Voorraad
-~~~~~~~~~~~~
+------------
 
-.. image:: Producten-Configuratie-Media/image11.png
+.. image:: Product-Configuratie-Media/image11.png
    :width: 6.26806in
    :height: 3.75in
 
@@ -241,22 +252,23 @@ Tab Voorraad
   voortkomen uit respectievelijk productieorders en inventarisatie
   operaties.
 
-
-|image5|\
-
 Tab Boekhouding
-~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------
+
+.. image:: Product-Configuratie-Media/image12.png
+   :width: 6.26806in
+   :height: 2.31944in
 
 Deze setting wordt vaak leeg gelaten. Advies is om de omzet- en
 kostenrekening in te stellen op de productcategorie.
 
-Tab overig
-~~~~~~~~~~
+Slimme Knoppen
+==============
 
-Met de tabbladen aan de bovenkant van het productblad heb je direct
-inzicht in de overige productinformatie:
+Met de slimme knoppen aan de bovenkant van het productblad heb je direct
+inzicht in overige productinformatie:
 
-.. image:: Producten-Configuratie-Media/image13.png
+.. image:: Product-Configuratie-Media/image13.png
    :width: 6.26806in
    :height: 2.125in
 
@@ -287,22 +299,12 @@ inzicht in de overige productinformatie:
 -  Aantal stuks 'verkocht' en 'in gekocht' geeft direct inzicht van de
       laatste 365 dagen.
 
-.. |image1| image:: Producten-Configuratie-Media/image6.png
+.. |image1| image:: Product-Configuratie-Media/image1.png
+   :width: 3.21528in
+   :height: 0.94444in
+.. |image2| image:: Product-Configuratie-Media/image1.png
+   :width: 3.21528in
+   :height: 0.94444in
+.. |image3| image:: Product-Configuratie-Media/image6.png
    :width: 6.26806in
    :height: 2.48611in
-
-.. |image2| image:: Producten-Configuratie-Media/image7.png
-   :width: 4.39028in
-   :height: 2.77222in
-
-.. |image3| image:: Producten-Configuratie-Media/image8.png
-   :width: 6.26806in
-   :height: 4.40278in
-
-.. |image4| image:: Producten-Configuratie-Media/image10.png
-   :width: 2.71319in
-   :height: 1.98681in
-
-.. |image5| image:: Producten-Configuratie-Media/image12.png
-   :width: 6.26806in
-   :height: 2.31944in
