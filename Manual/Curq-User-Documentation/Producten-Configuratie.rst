@@ -1,8 +1,5 @@
-.. image:: Producten-Configuratie-Media/image1.png
-   :width: 3.21528in
-   :height: 0.94444in
-
 Curq - Product configuratie
+===========================
 
 Een doordachte productconfiguratie is van cruciaal belang voor een
 naadloze werking van diverse Odoo-modules, waaronder Inkoop, Voorraad,
@@ -10,33 +7,6 @@ Verkoop, E-commerce en Verhuur. Met Curq kun je producten gestructureerd
 categoriseren, waardoor het gemakkelijker wordt om specifieke producten
 te identificeren en aan te passen. In deze handleiding nemen we de
 mogelijke opties met je door.
-
-Inhoudsopgave
-=============
-
-`Inhoudsopgave 1 <#inhoudsopgave>`__
-
-   `Toegang tot producten 2 <#toegang-tot-producten>`__
-
-   `Productblad 3 <#productblad>`__
-
-   `Tab Algemene informatie 3 <#tab-algemene-informatie>`__
-
-   `Tab Kenmerken en varianten 5 <#tab-kenmerken-en-varianten>`__
-
-   `Tab Verkoop 6 <#tab-verkoop>`__
-
-   `Tab Inkoop 7 <#tab-inkoop>`__
-
-   `Tab Voorraad 8 <#tab-voorraad>`__
-
-   `Tab Boekhouding 9 <#tab-boekhouding>`__
-
-   `Tab overig 9 <#tab-overig>`__
-
-.. image:: Producten-Configuratie-Media/image1.png
-   :width: 3.21528in
-   :height: 0.94444in
 
 Toegang tot producten
 ---------------------
@@ -54,10 +24,6 @@ deze procedure volgt, krijg je een overzicht te zien van enkele
 .. image:: Producten-Configuratie-Media/image2.png
    :width: 6.26806in
    :height: 1.18056in
-
-   .. image:: Producten-Configuratie-Media/image1.png
-      :width: 3.21528in
-      :height: 0.94444in
 
 Rechtsboven (foto onder)vind je de zoekbalk:
 
@@ -80,17 +46,12 @@ Rechtsboven (foto onder)vind je de zoekbalk:
 4. **List view:** hiermee krijg je de producten in lijst overzicht te
       zien.
 
-.. image:: Producten-Configuratie-Media/image1.png
-   :width: 3.21528in
-   :height: 0.94444in
-
 Productblad
 -----------
 
 We gaan een nieuw product aanmaken en klikken op **NIEUW +**
 
-Het productblad wordt geopend en heb een smartphone als voorbeeld
-genomen.
+Het productblad wordt geopend en heb een smartphone als voorbeeld genomen.
 
 Tab Algemene informatie
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -130,10 +91,6 @@ productcategorie.
 .. image:: Producten-Configuratie-Media/image4.png
    :width: 6.05764in
    :height: 3.46111in
-
-.. image:: Producten-Configuratie-Media/image1.png
-   :width: 3.21528in
-   :height: 0.94444in
 
 **Productcategorie:**
 
@@ -176,10 +133,6 @@ gewogen gemiddelde waarde van het product.
    :width: 7.08194in
    :height: 2.34097in
 
-.. image:: Producten-Configuratie-Media/image1.png
-   :width: 3.21528in
-   :height: 0.94444in
-
 **Interne referentie / barcode**
 
 De interne referentie wordt toegekend aan producten als een intern
@@ -208,10 +161,6 @@ Tab Kenmerken en varianten\ |image1|
   varianten pas aangemaakt wanneer ze daadwerkelijk worden verkocht, wat
   geen invloed heeft op de database prestaties.
   *
-
-.. image:: Producten-Configuratie-Media/image1.png
-   :width: 3.21528in
-   :height: 0.94444in
 
 |image3|\ Tab Verkoop
 ~~~~~~~~~~~~~~~~~~~~~
@@ -261,10 +210,6 @@ notities toevoegen aan inkooporders met behulp van de **'Inkoop
 Beschrijving'.** Deze functies helpen bij het beheren van
 inkoopgerelateerde aspecten en het vastleggen van belangrijke informatie
 voor het inkoopproces.
-
-.. image:: Producten-Configuratie-Media/image1.png
-   :width: 3.21528in
-   :height: 0.94444in
 
 Tab Voorraad
 ~~~~~~~~~~~~
@@ -343,22 +288,22 @@ inzicht in de overige productinformatie:
 -  Aantal stuks 'verkocht' en 'in gekocht' geeft direct inzicht van de
       laatste 365 dagen.
 
-.. image:: Producten-Configuratie-Media/image1.png
-   :width: 3.21528in
-   :height: 0.94444in
-
 .. |image1| image:: Producten-Configuratie-Media/image6.png
    :width: 6.26806in
    :height: 2.48611in
+
 .. |image2| image:: Producten-Configuratie-Media/image7.png
    :width: 4.39028in
    :height: 2.77222in
+
 .. |image3| image:: Producten-Configuratie-Media/image8.png
    :width: 6.26806in
    :height: 4.40278in
+
 .. |image4| image:: Producten-Configuratie-Media/image10.png
    :width: 2.71319in
    :height: 1.98681in
+
 .. |image5| image:: Producten-Configuratie-Media/image12.png
    :width: 6.26806in
    :height: 2.31944in
