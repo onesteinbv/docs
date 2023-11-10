@@ -51,7 +51,7 @@ Productblad
 
 We gaan een nieuw product aanmaken en klikken op **NIEUW +**
 
-Het productblad wordt geopend en heb een smartphone als voorbeeld genomen.
+Het productblad wordt geopend en we hebben een smartphone als voorbeeld genomen.
 
 Tab Algemene informatie
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -145,8 +145,8 @@ pakbonnen.
 kunt voorzien. Bij het zoeken naar producten kun je indien nodig
 filteren op basis van deze kenmerken.
 
-Tab Kenmerken en varianten\ |image1|
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tab Kenmerken en varianten
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 | Via tab Kenmerken en varianten kun je kenmerken instellen voor een
   product als deze in verschillende opties verkrijgbaar zijn. Kenmerk en
@@ -155,14 +155,17 @@ Tab Kenmerken en varianten\ |image1|
   de verschillende varianten aan (zie 6 Varianten). Via 'configureren'
   in de regel kun je prijsverschillen instellen per waarde die is
   opgegeven.
-| Tip!\ |image2| *Als je voor een product meerdere kenmerken en waarden
+| Tip!\ |image2|
+    *Als je voor een product meerdere kenmerken en waarden
   instelt, wat resulteert in 1500 of meer varianten, overweeg dan om
   'Dynamisch' te selecteren in de instellingen. Op deze manier worden
   varianten pas aangemaakt wanneer ze daadwerkelijk worden verkocht, wat
   geen invloed heeft op de database prestaties.
   *
 
-|image3|\ Tab Verkoop
+|image3|\
+
+Tab Verkoop
 ~~~~~~~~~~~~~~~~~~~~~
 
 | In het gedeelte Upsell & Cross-Sell zijn drie velden beschikbaar:
@@ -187,9 +190,6 @@ Tab Kenmerken en varianten\ |image1|
   er is ruimte om een verkoopomschrijving op te stellen dat zichtbaar is
   op een offerte/order en facturen.
 
-.. image:: Producten-Configuratie-Media/image1.png
-   :width: 3.21528in
-   :height: 0.94444in
 
 Tab Inkoop
 ~~~~~~~~~~
@@ -241,11 +241,10 @@ Tab Voorraad
   voortkomen uit respectievelijk productieorders en inventarisatie
   operaties.
 
-.. image:: Producten-Configuratie-Media/image1.png
-   :width: 3.21528in
-   :height: 0.94444in
 
-|image5|\ Tab Boekhouding
+|image5|\
+
+Tab Boekhouding
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze setting wordt vaak leeg gelaten. Advies is om de omzet- en
