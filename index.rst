@@ -8,15 +8,15 @@ Handleiding
 
 .. admonition:: Boekhouding
 
-    `Accounting <http://docs.onestein.eu/Manual/Curq-User-Documentation/Accounting/accounting.html>`_
+    `Accounting <http://http://docs.onestein.eu/Handleiding/Boekhouding/accounting.html>`_
 
-    `Beginnen met de boekhouding <http://docs.onestein.eu/Manual/Curq-User-Documentation/Accounting/gettingstartedfin.html>`_
+    `Beginnen met de boekhouding <http://docs.onestein.eu/Handleiding/Boekhouding/gettingstartedfin.html>`_
 
-    `Ponto bankafschriften overzicht <http://docs.onestein.eu/Manual/Curq-User-Documentation/My-Ponto-Bank-Feed.html>`_
+    `Ponto bankafschriften overzicht <http://docs.onestein.eu/Handleiding/Boekhouding/My-Ponto-Bank-Feed.html>`_
 
-    `SEPA betalingen leverancier <http://docs.onestein.eu/Manual/Curq-User-Documentation/SEPA-betalingen-leverancier-OCA.html>`_
+    `SEPA betalingen leverancier <http://docs.onestein.eu/Handleiding/Boekhouding/SEPA-betalingen-leverancier-OCA.html>`_
 
-    `Herinneringen in Curq <http://docs.onestein.eu/Manual/Curq-User-Documentation/Herinneringen-in-Curq.html>`_
+    `Herinneringen in Curq <http://docs.onestein.eu/Handleiding/Boekhouding/Herinneringen-in-Curq.html>`_
 
 .. admonition:: Inkoop
 
@@ -28,7 +28,7 @@ Handleiding
 
 .. admonition:: Voorraad
 
-    `Product Configuratie <http://docs.onestein.eu/Manual/Curq-User-Documentation/Product-Configuratie.html>`_
+    `Product Configuratie <http://docs.onestein.eu/Handleiding/Voorraad/Product-Configuratie.html>`_
 
 .. admonition:: Website
 
