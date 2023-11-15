@@ -1,16 +1,12 @@
 =============
-Documentation
+Handleiding
 =============
 
-.. admonition:: Manuals
+.. admonition:: Algemeen
 
-    `Product Varianten <http://docs.onestein.eu/Manual/Product-Variant.html>`_
+    `12345 <http://docs.onestein.eu/index.html>`_
 
-    `Membership Module <http://docs.onestein.eu/Manual/Membership-Module.html>`_
-
-    `Project Managment <http://docs.onestein.eu/Manual/Project-Management.html>`_
-
-.. admonition:: Manuals Curq
+.. admonition:: Boekhouding
 
     `Accounting <http://docs.onestein.eu/Manual/Curq-User-Documentation/Accounting/accounting.html>`_
 
@@ -22,7 +18,29 @@ Documentation
 
     `Herinneringen in Curq <http://docs.onestein.eu/Manual/Curq-User-Documentation/Herinneringen-in-Curq.html>`_
 
+.. admonition:: Inkoop
+
+    `12345 <http://docs.onestein.eu/index.html>`_
+
+.. admonition:: Verkoop
+
+    `12345 <http://docs.onestein.eu/index.html>`_
+
+.. admonition:: Voorraad
+
     `Product Configuratie <http://docs.onestein.eu/Manual/Curq-User-Documentation/Product-Configuratie.html>`_
+
+.. admonition:: Website
+
+    `12345 <http://docs.onestein.eu/index.html>`_
+
+.. admonition:: Manuals ENG
+
+    `Product Varianten <http://docs.onestein.eu/Manual/Product-Variant.html>`_
+
+    `Membership Module <http://docs.onestein.eu/Manual/Membership-Module.html>`_
+
+    `Project Managment <http://docs.onestein.eu/Manual/Project-Management.html>`_
 
 .. admonition:: FAQ
 
