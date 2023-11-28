@@ -4,6 +4,7 @@ Belastingen
 Als ondernemer wil je dat de belastingen zo goed mogelijk worden bepaald. Curq kan je hier in helpen. We stellen eerst de basis instellingen goed in. De basis instellingen vind je terug in de app Instellingen > links in het menu bij Facturatie.
 
 .. image:: Accounting-Media/taxes_001.png
+ :scale: 100%
 
 - Algemene BTW: Bepaal welke BTW Code standaard worden gebruikt bij jouw facturen en orders voor zowel Verkoop als Inkoop.
 - BTW-vermindering op betalingskorting: Wanneer wordt er BTW vermindert als je een betalingskorting aanbiedt. Stel je hebt een factuur van 100,- met 21,- BTW. Als je binnen 7 dagen betaalt ontvang je 2% korting.
