@@ -8,7 +8,8 @@ De BTW codes zijn al voorgedefinieerd door Curq. Met de Fiscale Posities bepaalt
 Binnen Curq zijn de standaard Fiscale Posities al ingericht. Afhankelijk van jouw bedrijfsvoering kan je in overleg met Accountant dit verder aanpassen specifiek voor jouw bedrijf.
 
 BTW Codes
-=========
+---------
+
 De BTW Codes vind je terug onder Facturatie > Configuratie > BTW. Je kan ze hier aanpassen door op de BTW Code te klikken.
 
 .. image:: Accounting-Media/taxes_vat_fiscalpositions001.png
@@ -44,7 +45,8 @@ Bij Geavanceerde opties kan je de BTW Code nog verder instellen.
 In Curq zijn de BTW Codes al voor je ingericht. Het kan zijn dat sommige BTW Codes niet van toepassing zijn. Deactiveer deze door de optie Actief uit te zetten.
 
 Fiscale Posities
-================
+----------------
+
 De Fiscale Posities vind je terug onder Facturatie > Configuratie > Fiscale Posities. De BTW regio's zijn reeds ingedeeld in Curq. Bijvoorbeeld, voor zakenrelaties in EU worden andere BTW-tarieven gehanteerd. Curq zorgt op deze manier ervoor dat de correcte BTW op de orders en facturen staat. 
 
 .. image:: Accounting-Media/taxes_vat_fiscalpositions004.png
@@ -53,7 +55,8 @@ Op tabblad [Vervangingstabel BTW] worden de BTW codes vertaald naar de juiste. A
 Op tabblad [Vervangingstabel Grootboekrekeningen] worden de grootboekrekeningen vertaald naar de juiste. Daar wordt dezelfde principe toepast.
 
 Automatische toepassing
-=======================
+-----------------------
+
 Voor de automatische toepassing van een Fiscale Positie zijn de instellingen rechtsboven van belang. Deze zullen we hier even toelichten.
 
 .. image:: Accounting-Media/taxes_vat_fiscalpositions005.png
@@ -68,7 +71,8 @@ Als er meerdere Fiscale Posities automatisch worden toegepast dan is de volgorde
 .. image:: Accounting-Media/taxes_vat_fiscalpositions006.png
 
 Handmatige toepassing
-=====================
+---------------------
+
 In sommige gevallen wil je afwijken van de automatisch voorgestelde Fiscale Positie. Dit kan voorkomen als de relatie waar je zaken mee doet in een aparte BTW regime valt. Je kan de Fiscale Positie vastleggen bij een relatie of in een order / factuur. We adviseren om zoveel mogelijk dit in te stellen op de relatie. Zodra deze relatie wordt gebruikt bij een order / factuur, dan wordt de Fiscale Positie hiervan afgeleid. Je kan dit instellen bij het contact.
 
 .. image:: Accounting-Media/taxes_vat_fiscalpositions007.png
