@@ -23,7 +23,7 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'sphinxdoc'
+html_theme = 'bizstyle'
 html_static_path = ['_static']
 
 html_short_title = 'Onestein-Documents'
@@ -34,3 +34,5 @@ html_favicon = 'favicon.png'
 html_show_sphinx = True
 html_show_copyright = True
 html_show_sourcelink = False
+body_max_width = 800px
+stickysidebar = True
