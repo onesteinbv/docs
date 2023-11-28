@@ -8,9 +8,15 @@ Handleiding
 
 .. admonition:: Boekhouding
 
-    `Accounting <http://http://docs.onestein.eu/Handleiding/Boekhouding/accounting.html>`_
+    `Accounting <http://docs.onestein.eu/Handleiding/Boekhouding/accounting.html>`_
 
-    `Beginnen met de boekhouding <http://docs.onestein.eu/Handleiding/Boekhouding/gettingstartedfin.html>`_
+        `Beginnen met de boekhouding <http://docs.onestein.eu/Handleiding/Boekhouding/gettingstartedfin.html>`_
+
+        `Belastingen <http://docs.onestein.eu/Handleiding/Boekhouding/accounting_taxes.html>`_
+
+            `Controle BTW nummer VIES <http://docs.onestein.eu/Handleiding/Boekhouding/accounting_taxes_vies.html>`_
+
+            `BTW Codes en Fiscale Posities <http://docs.onestein.eu/Handleiding/Boekhouding/accounting_taxes_vies.html>`_
 
     `Ponto bankafschriften overzicht <http://docs.onestein.eu/Handleiding/Boekhouding/My-Ponto-Bank-Feed.html>`_
 
