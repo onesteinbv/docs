@@ -9,11 +9,12 @@ Binnen Curq zijn de standaard Fiscale Posities al ingericht. Afhankelijk van jou
 
 BTW Codes
 =========
-De BTW Codes vind je terug onder Facturatie > Configuratie > BTW. Als het noodzakelijk is om ze aan te passen, dan kan je een BTW Code aanklikken.
+De BTW Codes vind je terug onder Facturatie > Configuratie > BTW. Je kan ze hier aanpassen door op de BTW Code te klikken.
 
 .. image:: Accounting-Media/taxes_vat_fiscalpositions001.png
 
-- BTW naam: Hier kan je een naam opgeven voor je BTW code. Deze verschijnt overal binnen Odoo, dus geef een naam zodat je deze snel kan herkennen.
+- BTW naam: Hier kan je een naam opgeven voor je BTW code. Deze verschijnt overal binnen Odoo, dus geef een herkenbare naam mee.
+
 - BTW berekening: Je krijgt hier een aantal opties.
 
   * Groep van BTW: Hiermee kan je meerdere btw codes combineren in 1 BTW code.
@@ -27,24 +28,24 @@ De BTW Codes vind je terug onder Facturatie > Configuratie > BTW. Als het noodza
 
 .. image:: Accounting-Media/taxes_vat_fiscalpositions002.png
 
-In de definitie leg je de belastingregels vast voor facturen of credits. Het is verplicht om 1 regel te hebben voor grondslag en BTW. Je kan hier bepalen welke percentage van de berekende BTW op welke grootboekrekening en BTW vak geboekt wordt. Bij de credits worden de regels en vakken vaak omgedraaid.
+In de definitie tabblad leg je de belastingregels vast voor facturen of credits. Het is verplicht om minimaal 1 regel te hebben voor grondslag en voor BTW. Je kan hier bepalen welke percentage van de berekende BTW op de grootboekrekening en BTW vak geboekt wordt. Bij de credits worden de regels en vakken vaak omgedraaid.
 
 .. image:: Accounting-Media/taxes_vat_fiscalpositions003.png
 
 Bij Geavanceerde opties kan je de BTW Code nog verder instellen.
 
 - Label op facturen: Dit is de omschrijving welke op de facturen verschijnen.
-- BTW-groep: Dit wordt onderaan bij het totaal getoond. Het totaal van alle BTW Codes wordt opgeteld in deze groep.
+- BTW-groep: Dit wordt onderaan in een factuur of order bij het totaal getoond. Het totaal van alle BTW Codes wordt opgeteld in deze groep.
 - In de analytische kost inbegrepen?: Moet de berekende BTW ook worden opgenomen in de kostenplaats.
 - Land: In welke Land is deze BTW Code geldig.
-- inclusief BTW: Wordt de BTW inclusief berekend.
-- Beïnvloed grondslag van daarop volgende BTW's?: Als er meerdere BTW Codes worden toegepast, beïnvloed deze BTW Code het grondslag van de volgende BTW Code?
+- inclusief BTW: Word de BTW inclusief berekend.
+- Beïnvloed grondslag van daarop volgende BTW's?: Als er meerdere BTW Codes worden toegepast, beïnvloed deze BTW Code het grondslag van de volgende BTW Code. Als er meerdere codes wordt toegepast dan houdt Curq rekening met de volgorde van de BTW codes. De codes met een hogere volgorde worden als eerst toegepast.
 
-In Curq zijn de BTW Codes al voor je ingericht. Het kan zijn dat sommige BTW Codes niet van toepassing zijn. Je kan deze dan deactiveren.
+In Curq zijn de BTW Codes al voor je ingericht. Het kan zijn dat sommige BTW Codes niet van toepassing zijn. Deactiveer deze door de optie Actief uit te zetten.
 
 Fiscale Posities
 ================
-De Fiscale Posities vind je terug onder Facturatie > Configuratie > Fiscale Posities. De BTW regio's zijn reeds ingedeeld in Curq. Bijvoorbeeld, voor zakenrelaties in EU worden andere BTW-tarieven gehanteerd. Zodra je handelt, dan zorgt Curq ervoor dat de correcte BTW op de orders en facturen staat. 
+De Fiscale Posities vind je terug onder Facturatie > Configuratie > Fiscale Posities. De BTW regio's zijn reeds ingedeeld in Curq. Bijvoorbeeld, voor zakenrelaties in EU worden andere BTW-tarieven gehanteerd. Curq zorgt op deze manier ervoor dat de correcte BTW op de orders en facturen staat. 
 
 .. image:: Accounting-Media/taxes_vat_fiscalpositions004.png
 
@@ -72,6 +73,6 @@ In sommige gevallen wil je afwijken van de automatisch voorgestelde Fiscale Posi
 
 .. image:: Accounting-Media/taxes_vat_fiscalpositions007.png
 
-Wil je toch bij een order of factuur dit toepassen dan onder tabblad [Overige info]
+Wil je toch bij een order of factuur dit toepassen dan kan dit onder tabblad [Overige info].
 
 .. image:: Accounting-Media/taxes_vat_fiscalpositions008.png
