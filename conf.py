@@ -34,5 +34,5 @@ html_favicon = 'favicon.png'
 html_show_sphinx = True
 html_show_copyright = True
 html_show_sourcelink = False
-body_max_width = 800px
+body_max_width = 800
 stickysidebar = True
