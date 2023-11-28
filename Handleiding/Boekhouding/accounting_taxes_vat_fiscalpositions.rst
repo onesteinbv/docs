@@ -50,8 +50,10 @@ Fiscale Posities
 De Fiscale Posities vind je terug onder Facturatie > Configuratie > Fiscale Posities. De BTW regio's zijn reeds ingedeeld in Curq. Bijvoorbeeld, voor zakenrelaties in EU worden andere BTW-tarieven gehanteerd. Curq zorgt op deze manier ervoor dat de correcte BTW op de orders en facturen staat. 
 
 .. image:: Accounting-Media/taxes_vat_fiscalpositions004.png
+ :scale: 100%
 
 Op tabblad [Vervangingstabel BTW] worden de BTW codes vertaald naar de juiste. Aan de linkerkant vind je de standaard BTW die je op de producten kan definiëren. Zodra deze Fiscale Positie is toegepast op jouw order or factuur, dan wordt eerste de standaard BTW herleidt. Vervolgens wordt de BTW code aan de rechterkant toegepast op jouw order of factuur.
+
 Op tabblad [Vervangingstabel Grootboekrekeningen] worden de grootboekrekeningen vertaald naar de juiste. Daar wordt dezelfde principe toepast.
 
 Automatische toepassing
