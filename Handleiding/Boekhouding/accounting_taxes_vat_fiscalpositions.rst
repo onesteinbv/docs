@@ -45,6 +45,6 @@ In sommige gevallen wil je afwijken van de automatisch voorgestelde Fiscale Posi
 
 .. image:: Accounting-Media/taxes_vat_fiscalpositions005.png
 
-Wil je toch bij een order of factuur dit toepassen dan kan dat hier.
+Wil je toch bij een order of factuur dit toepassen dan onder tabblad [Overige info]
 
 .. image:: Accounting-Media/taxes_vat_fiscalpositions006.png
