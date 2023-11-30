@@ -17,6 +17,8 @@ Handleiding
             `Controle BTW nummer VIES <http://docs.onestein.eu/Handleiding/Boekhouding/accounting_taxes_vies.html>`_
 
             `BTW Codes en Fiscale Posities <http://docs.onestein.eu/Handleiding/Boekhouding/accounting_taxes_vat_fiscalpositions.html>`_
+            
+        `Verkoopfacturen <http://docs.onestein.eu/Handleiding/Boekhouding/customer_invoices.html>`_    
 
     `Ponto bankafschriften overzicht <http://docs.onestein.eu/Handleiding/Boekhouding/My-Ponto-Bank-Feed.html>`_
 
