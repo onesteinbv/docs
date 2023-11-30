@@ -34,3 +34,4 @@ Heb je een uitgebreidere versie afgenomen van Curq, dan kunnen verkoopfacturen o
 
 Voor het aanmaken van een factuur klik je linksboven op [Nieuw]. Mocht de facturen vanuit een andere software pakket zijn verstuurd, maar je wilt ze wel in Curq bijhouden, dan kan je ook gebruik maken van de knop [UPLOADEN].
 
+
