@@ -124,7 +124,7 @@ Diverse uitzonderingen
 
 Uiteraard kan het zijn dat de betaalregel niet volledig overeenkomt met
 een af te letteren factuur. Ook kunnen er andere uitzonderingen in het
-afletterproces zijn. Hieronder volgen een aantal; uitzonderingen.
+afletterproces zijn. Hieronder volgen een aantal voorbeelden.
 
 Wat te doen als het bedrag dat de klant betaalt en je of het openstaande
 bedrag direct wil afboeken?
