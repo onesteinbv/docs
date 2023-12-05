@@ -42,12 +42,11 @@ puntjes rechts in de tegel:
 
 Afletteren van een volledig betaalde factuur
 ----
-
-Wanneer de klant bij de transactieregel staat ingevuld, het bedrag
-overeenkomt, dan zal Curq de regel automatisch afletteren met de
+Wanneer de klant bij de transactieregel staat ingevulden het bedrag
+overeenkomt met een openstaande post, dan zal Curq de regel automatisch afletteren met de
 openstaande factuur. Je kunt er zelfs voor kiezen ook deze laatste stap
-te automatiseren. Curq zal dan de gevonden regel direct afletteren. Ook
-dit stel je in bij de afletterregels
+te automatiseren. Curq zal dan de gevonden regel direct verwerken. Ook
+dit stel je in bij de afletterregels:
 
 .. image:: Afletteren/media/image4.png
    :width: 6.69306in
@@ -101,7 +100,7 @@ hieronder bij de boekingsregel).
    :width: 6.69306in
    :height: 3.08125in
 
-**Na controle van de regel klik je op ‘stel in als gecontroleerd’ om**
+|Na controle van de regel klik je op ‘stel in als gecontroleerd’ om aan te geven dat de regel gecontroleerd is.
 
 .. image:: Afletteren/media/image9.png
    :width: 6.69306in
