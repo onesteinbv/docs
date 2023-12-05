@@ -56,15 +56,6 @@ dit stel je in bij de afletterregels:
    :width: 6.69306in
    :height: 3.08125in
 
-BTW in combinatie met een af te letteren regel
-----
-Het kan voorkomen dat er een afschriftregel is met een betaling zonder
-onderliggende factuur, maar wel met BTW. Na kiezen van de juiste
-kostenrekening is het vervolgens mogelijk om in het BTW de juiste BTW
-code te selecteren. Curq rekent dan automatisch de juiste bedragen uit.
-De extra regel die wordt aangemaakt voor verwerken van de BTW is terug
-te vinden op de BTW aangifte.
-
 Aflettermodellen
 ----
 Met aflettermodellen kun je het proces van afletteren verder
@@ -81,6 +72,16 @@ Je kunt met 3 doeleinden een afletter regel aanmaken:
 
 3. Als je automatisch inkoop-en of verkoopfacturen wil matchen en door
    Curq wil laten afletteren. Optie 3 wordt standaard in Curq toegepast.
+BTW in combinatie met een af te letteren regel
+----
+Het kan voorkomen dat er een afschriftregel is met een betaling zonder
+onderliggende factuur, maar wel met BTW. Na kiezen van de juiste
+kostenrekening is het vervolgens mogelijk om in het BTW de juiste BTW
+code te selecteren. Curq rekent dan automatisch de juiste bedragen uit.
+De extra regel die wordt aangemaakt voor verwerken van de BTW is terug
+te vinden op de BTW aangifte.
+
+
 
 Extra controle, terugdraaien aflettering
 ----
