@@ -83,6 +83,13 @@ code te selecteren. Curq rekent dan automatisch de juiste bedragen uit.
 De extra regel die wordt aangemaakt voor verwerken van de BTW is terug
 te vinden op de BTW aangifte.
 
+.. image:: Afletteren/media/bankkosten_1.png
+   :width: 6.69306in
+   :height: 3.08125in
+
+.. image:: Afletteren/media/bankkosten_2.png
+   :width: 6.69306in
+   :height: 3.08125in
 
 Extra controle, terugdraaien aflettering
 ----
