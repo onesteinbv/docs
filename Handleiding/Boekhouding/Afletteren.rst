@@ -1,7 +1,8 @@
 Afletteren in Odoo
 ===========
 
-#. Afletteren
+Afletteren
+----
 
 | Bank reconciliatie is het proces van het matchen van je
   banktransacties met je bedrijfsadministratie, zoals klantenfacturen,
@@ -13,7 +14,8 @@ Afletteren in Odoo
 | Dankzij de reconciliatiemodellen kan Curq de overeenkomende boekingen
   automatisch vinden en afletteren..
 
-**Algemeen**
+Algemeen
+----
 
 Via het boekhoud dashboard kun je via de bank(en) zien of er af te
 letteren regels zijn. Wij adviseren om gebruik te maken van de MyPonto
@@ -44,7 +46,8 @@ puntjes rechts in de tegel:
    :width: 6.69306in
    :height: 3.08125in
 
-#. Afletteren van een volledig betaalde factuur
+Afletteren van een volledig betaalde factuur
+----
 
 Wanneer de klant bij de transactieregel staat ingevuld, het bedrag
 overeenkomt, dan zal Curq de regel automatisch afletteren met de
@@ -69,7 +72,8 @@ code te selecteren. Curq rekent dan automatisch de juiste bedragen uit.
 De extra regel die wordt aangemaakt voor verwerken van de BTW is terug
 te vinden op de BTW aangifte.
 
-**Aflettermodellen**
+Aflettermodellen
+----
 
 Met aflettermodellen kun je het proces van afletteren verder
 automatiseren. Curq heeft zelf een aantal standaard aflettermodellen
