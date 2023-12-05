@@ -7,4 +7,4 @@ Bij het adres van een contact vind je het BTW-nummer terug. De controle gaat pas
 
 .. image:: Accounting-Media/taxes_vies001.png
 
-Als het BTW-nummer verkeerd is dan verschijnt er een foutmelding. Hiermee voorkom je dat verkeerde gegevens bij de contacten worden staan.
+Als het BTW-nummer verkeerd is, dan verschijnt er een foutmelding. Hiermee voorkom je dat verkeerde gegevens bij de contacten worden staan.
