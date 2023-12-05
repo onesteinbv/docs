@@ -29,8 +29,7 @@ puntjes rechts in de tegel:
    :width: 6.69306in
    :height: 3.08125in
 
-| **
-  **\ klik op de naam van het dagboek (bijv. Bank) om alle transacties
+| klik op de naam van het dagboek (bijv. Bank) om alle transacties
   weer te geven, inclusief de transacties die eerder zijn afgeletterd.
 | klik op de knop Afstemmen om alle transacties weer te geven die Odoo
   vooraf heeft geselecteerd voor afstemming. Je kunt de filter Niet
