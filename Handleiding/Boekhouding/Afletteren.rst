@@ -31,7 +31,7 @@ puntjes rechts in de tegel:
 
 | klik op de naam van het dagboek (bijv. Bank) om alle transacties
   weer te geven, inclusief de transacties die eerder zijn afgeletterd.
-| klik op de knop Afstemmen om alle transacties weer te geven die Curq
+| klik op de knop Afletter x regels om alle transacties weer te geven die Curq
   vooraf heeft geselecteerd voor afstemming. Je kunt de filter 'Niet
   gematcht' uit de zoekbalk verwijderen om ook eerder afgeletterde
   transacties weer te geven.
