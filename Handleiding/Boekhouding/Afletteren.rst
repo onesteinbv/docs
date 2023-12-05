@@ -8,11 +8,11 @@ Afletteren in Curq
   financiële rapporten, detectie van frauduleuze activiteiten en
   verbeterd cashflowbeheer.
 | Dankzij de reconciliatiemodellen kan Curq de overeenkomende boekingen
-  automatisch vinden en afletteren..
+  automatisch vinden en afletteren.
 
 Algemeen
 ----
-Via het boekhoud dashboard kun je via de bank(en) zien of er af te
+Via het boekhoud dashboard zie je via de banktegel(s) of er af te
 letteren regels zijn. Wij adviseren om gebruik te maken van de MyPonto
 koppeling waarmee je bank transactieregels automatisch vanuit je
 bankomgeving naar Curq synchroniseert.
@@ -22,7 +22,7 @@ te downloaden in uw bankapplicatie (Curq ondersteunt de formaten
 camt.053.001.02, Camt.054.001.02). Dit Camt bestand kun je vervolgens
 uploaden in het overeenkomstige bankdagboek in Curq.
 
-|image1|\ Je kunt alle transactieregels ook benaderen via de drie
+|image1|\ Alle transactieregels zijn ook te benaderen via de drie
 puntjes rechts in de tegel:
 
 .. image:: Afletteren/media/image2.png
@@ -31,9 +31,9 @@ puntjes rechts in de tegel:
 
 | klik op de naam van het dagboek (bijv. Bank) om alle transacties
   weer te geven, inclusief de transacties die eerder zijn afgeletterd.
-| klik op de knop Afstemmen om alle transacties weer te geven die Odoo
-  vooraf heeft geselecteerd voor afstemming. Je kunt de filter Niet
-  gematcht uit de zoekbalk verwijderen om ook eerder afgeletterde
+| klik op de knop Afstemmen om alle transacties weer te geven die Curq
+  vooraf heeft geselecteerd voor afstemming. Je kunt de filter 'Niet
+  gematcht' uit de zoekbalk verwijderen om ook eerder afgeletterde
   transacties weer te geven.
 
 
@@ -57,7 +57,7 @@ Aflettermodellen
 ----
 Met aflettermodellen kun je het proces van afletteren verder
 automatiseren. Curq heeft zelf een aantal standaard aflettermodellen
-ingericht, je vind deze onder menu afletterregels.
+ingericht, je vind deze onder menu 'afletterregels'.
 
 Je kunt met 3 doeleinden een afletter regel aanmaken:
 
@@ -81,7 +81,7 @@ onderliggende factuur, maar wel met BTW. Na kiezen van de juiste
 kostenrekening is het vervolgens mogelijk om in het BTW de juiste BTW
 code te selecteren. Curq rekent dan automatisch de juiste bedragen uit.
 De extra regel die wordt aangemaakt voor verwerken van de BTW is terug
-te vinden op de BTW aangifte.
+te vinden op de BTW aangifte in de juiste rubriek.
 
 .. image:: Afletteren/media/bankkosten_1.png
    :width: 6.69306in
@@ -93,10 +93,10 @@ te vinden op de BTW aangifte.
 
 Extra controle, terugdraaien aflettering
 ----
-Wanneer je een extra controle wil uitvoeren op de af te letteren regel.,
-dan kun je bij de regel aangeven met de knop ‘te controleren’.
+Wanneer je een extra controle wil uitvoeren op de af te letteren regel,
+dan kun je dat bij de regel aangeven met de knop ‘te controleren'.
 
-Mocht je een fout hebben gemaakt, dan is het mogelijk om een
+Heb je een fout gemaakt, dan is het mogelijk om een
 afgeletterde regel terug te draaien. De na te kijken regel kan
 vervolgens op diverse plekken in de boekhouding nagekeken worden (zoals
 hieronder bij de boekingsregel).
