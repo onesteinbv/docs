@@ -84,8 +84,8 @@ Je kunt met 3 doeleinden een afletter regel aanmaken:
 3. Als je automatisch inkoop-en of verkoopfacturen wil matchen en door
    Curq wil laten afletteren. Optie 3 wordt standaard in Curq toegepast.
 
-**Extra controle, terugdraaien aflettering**
-
+Extra controle, terugdraaien aflettering
+----
 Wanneer je een extra controle wil uitvoeren op de af te letteren regel.,
 dan kun je bij de regel aangeven met de knop ‘te controleren’.
 
