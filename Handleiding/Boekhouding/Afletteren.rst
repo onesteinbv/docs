@@ -99,11 +99,13 @@ te vinden op de BTW aangifte in de juiste rubriek.
    :width: 6.69306in
    :height: 3.08125in
 
-Extra controle, terugdraaien aflettering
+Extra controle
 ----
 Wanneer je een extra controle wil uitvoeren op de af te letteren regel,
 dan kun je dat bij de regel aangeven met de knop ‘te controleren'.
 
+Terugdraaien aflettering
+----
 Heb je een fout gemaakt, dan is het mogelijk om een
 afgeletterde regel terug te draaien. De na te kijken regel kan
 vervolgens op diverse plekken in de boekhouding nagekeken worden (zoals
