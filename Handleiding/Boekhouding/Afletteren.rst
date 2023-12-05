@@ -84,7 +84,6 @@ De extra regel die wordt aangemaakt voor verwerken van de BTW is terug
 te vinden op de BTW aangifte.
 
 
-
 Extra controle, terugdraaien aflettering
 ----
 Wanneer je een extra controle wil uitvoeren op de af te letteren regel.,
