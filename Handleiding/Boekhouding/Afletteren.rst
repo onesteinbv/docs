@@ -1,4 +1,4 @@
-Afletteren in Odoo
+Afletteren in Curq
 ===========
 | Bank reconciliatie is het proces van het matchen van je
   banktransacties met je bedrijfsadministratie, zoals klantenfacturen,
