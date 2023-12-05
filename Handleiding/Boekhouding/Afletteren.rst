@@ -30,7 +30,7 @@ uploaden in het overeenkomstige bankdagboek in Curq.
 |image1|\ Je kunt alle transactieregels ook benaderen via de drie
 puntjes rechts in de tegel:
 
-.. image:: vertopal_ac671f372a4349d0b3a8a3648ee7c60e/media/image2.png
+.. image:: Afletteren/media/image2.png
    :width: 6.69306in
    :height: 3.08125in
 
