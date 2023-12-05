@@ -42,7 +42,7 @@ puntjes rechts in de tegel:
   gematcht uit de zoekbalk verwijderen om ook eerder afgeletterde
   transacties weer te geven.
 
-.. image:: vertopal_ac671f372a4349d0b3a8a3648ee7c60e/media/image3.png
+.. image:: Afletteren/media/image3.png
    :width: 6.69306in
    :height: 3.08125in
 
@@ -55,11 +55,11 @@ openstaande factuur. Je kunt er zelfs voor kiezen ook deze laatste stap
 te automatiseren. Curq zal dan de gevonden regel direct afletteren. Ook
 dit stel je in bij de afletterregels
 
-.. image:: vertopal_ac671f372a4349d0b3a8a3648ee7c60e/media/image4.png
+.. image:: Afletteren/media/image4.png
    :width: 6.69306in
    :height: 3.08125in
 
-.. image:: vertopal_ac671f372a4349d0b3a8a3648ee7c60e/media/image5.png
+.. image:: Afletteren/media/image5.png
    :width: 6.69306in
    :height: 3.08125in
 
@@ -100,21 +100,21 @@ afgeletterde regel terug te draaien. De na te kijken regel kan
 vervolgens op diverse plekken in de boekhouding nagekeken worden (zoals
 hieronder bij de boekingsregel).
 
-.. image:: vertopal_ac671f372a4349d0b3a8a3648ee7c60e/media/image7.png
+.. image:: Afletteren/media/image7.png
    :width: 6.69306in
    :height: 3.08125in
 
-.. image:: vertopal_ac671f372a4349d0b3a8a3648ee7c60e/media/image8.png
+.. image:: Afletteren/media/image8.png
    :width: 6.69306in
    :height: 3.08125in
 
 **Na controle van de regel klik je op ‘stel in als gecontroleerd’ om**
 
-.. image:: vertopal_ac671f372a4349d0b3a8a3648ee7c60e/media/image9.png
+.. image:: Afletteren/media/image9.png
    :width: 6.69306in
    :height: 3.08125in
 
-.. image:: vertopal_ac671f372a4349d0b3a8a3648ee7c60e/media/image10.png
+.. image:: Afletteren/media/image10.png
    :width: 6.69306in
    :height: 3.08125in
 
@@ -135,13 +135,13 @@ schermvoorbeeld. Hiermee wordt de optie zichtbaar om de factuur op
 volledig betaald te zetten. Je kunt er vervolgens voor kiezen om het
 restbedrag af te schrijven op een andere grootboekrekening.
 
-.. image:: vertopal_ac671f372a4349d0b3a8a3648ee7c60e/media/image12.png
+.. image:: Afletteren/media/image12.png
    :width: 6.69306in
    :height: 3.08125in
 
-.. |image1| image:: vertopal_ac671f372a4349d0b3a8a3648ee7c60e/media/image1.png
+.. |image1| image:: Afletteren/media/image1.png
    :width: 6.69306in
    :height: 3.08125in
-.. |image2| image:: vertopal_ac671f372a4349d0b3a8a3648ee7c60e/media/image11.png
+.. |image2| image:: Afletteren/media/image11.png
    :width: 6.69306in
    :height: 3.08125in
