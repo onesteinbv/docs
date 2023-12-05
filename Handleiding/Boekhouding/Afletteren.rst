@@ -53,6 +53,14 @@ dit stel je in bij de afletterregels:
    :width: 6.69306in
    :height: 3.08125in
 
+Chatter functionaliteit
+----
+De chatter fuctionaliteit is beschikbaar bij het afletteren van een regel. Hierdoor kun je direct een collega of een klant een bericht sturenbij een vraag over de betaalregel. Ook kun je in de chatter documenten koppelen.
+
+.. image:: Afletteren/media/Chatter_afletteren.png
+   :width: 6.69306in
+   :height: 3.08125in
+
 Aflettermodellen
 ----
 Met aflettermodellen kun je het proces van afletteren verder
