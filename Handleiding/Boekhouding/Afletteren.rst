@@ -36,6 +36,7 @@ puntjes rechts in de tegel:
   gematcht uit de zoekbalk verwijderen om ook eerder afgeletterde
   transacties weer te geven.
 
+
 .. image:: Afletteren/media/image3.png
    :width: 6.69306in
    :height: 3.08125in
