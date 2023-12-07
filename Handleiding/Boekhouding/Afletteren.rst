@@ -14,12 +14,12 @@ Algemeen
 ----
 Via het boekhoud dashboard zie je via de banktegel(s) of er af te
 letteren regels zijn. Wij adviseren om gebruik te maken van de MyPonto
-koppeling waarmee je bank transactieregels automatisch vanuit je
+koppeling waarmee je transactieregels automatisch vanuit je
 bankomgeving naar Curq synchroniseert.
 
 Naast automatisch synchroniseren is het ook mogelijk om een Camt bestand
-te downloaden in uw bankapplicatie (Curq ondersteunt de formaten
-camt.053.001.02, Camt.054.001.02). Dit Camt bestand kun je vervolgens
+te downloaden in je bankapplicatie (Curq ondersteunt de formaten
+camt.053.001.02, Camt.054.001.02). Deze download kun je vervolgens
 uploaden in het overeenkomstige bankdagboek in Curq.
 
 |image1|\ Alle transactieregels zijn ook te benaderen via de drie
@@ -36,7 +36,6 @@ puntjes rechts in de tegel:
   gematcht' uit de zoekbalk verwijderen om ook eerder afgeletterde
   transacties weer te geven.
 
-
 .. image:: Afletteren/media/image3.png
    :width: 6.69306in
    :height: 3.08125in
@@ -45,7 +44,7 @@ Let op
 ----
 Bij het afletteren kan het zijn dat je een regel geheel of gedeeltelijk hebt afgeletterd en er op dat moment achter komt dat je een fout hebt gemaakt. Zorg er op dat moment altijd voor dat je de afgeletterde regels eerst verwijderd. Je doet dit door de regels in de prullenbak te gooien.
 
-.. image:: Afletteren/media/image3.png
+.. image:: Afletteren/media/regels_verwijderen.png
    :width: 6.69306in
    :height: 3.08125in
 
@@ -84,12 +83,15 @@ restbedrag af te schrijven op een andere grootboekrekening.
    :width: 6.69306in
    :height: 3.08125in
 
+Klant betaalt meerdere facturen in 1 bedrag
+in dit geval kun je de klant opzoeken en meerdere facturen achter elkaar aanklikken. Het kan zijn dat de klant ook een factuur betaalt die op een andere naam staat. Je kan een andere klant opzoeken de openstaande post(en) toevoegen.
+
 Afletteren betaalregel zonder factuur
 ----
 Het kan voorkomen dat er een afschriftregel is met een betaling zonder
 onderliggende factuur. In dit scenario kun je op het tabblad handmatige werking zelf een grootboekrekening opzoeken.
 
-.. |image2| image:: Afletteren/media/image11.png
+.. image:: Afletteren/media/handmatig_afletteren.png
    :width: 6.69306in
    :height: 3.08125in
 
@@ -102,11 +104,7 @@ code te selecteren. Curq rekent dan automatisch de juiste bedragen uit.
 De extra regel die wordt aangemaakt voor verwerken van de BTW is terug
 te vinden op de BTW aangifte in de juiste rubriek.
 
-.. image:: Afletteren/media/bankkosten_1.png
-   :width: 6.69306in
-   :height: 3.08125in
-
-.. image:: Afletteren/media/bankkosten_2.png
+.. image:: Afletteren/media/btw_handmatige_betaling.png
    :width: 6.69306in
    :height: 3.08125in
 
