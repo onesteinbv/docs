@@ -14,18 +14,18 @@ De BTW Codes vind je terug onder Facturatie > Configuratie > BTW. Je kan ze hier
 
 .. image:: Accounting-Media/taxes_vat_fiscalpositions001.png
 
-- BTW naam: Hier kan je een naam opgeven voor je BTW code. Deze verschijnt overal binnen Curq, dus geef een herkenbare naam mee.
+- **BTW naam:** Hier kan je een naam opgeven voor je BTW code. Deze verschijnt overal binnen Curq, dus geef een herkenbare naam mee.
 
-- BTW berekening: Je krijgt hier een aantal opties.
+- **BTW berekening:** Je krijgt hier een aantal opties.
 
-* Groep van BTW: Hiermee kan je meerdere btw codes combineren in 1 BTW code.
-* Vast: Een vast bedrag als Belasting.
-* Percentage van prijs: Een percentage als Belasting.
-* Percentage van prijs, inclusief BTW: Een percentage als Belasting die rekening houdt met het totaalbedrag inclusief BTW.
+* **Groep van BTW:** Hiermee kan je meerdere btw codes combineren in 1 BTW code.
+* **Vast:** Een vast bedrag als Belasting.
+* **Percentage van prijs:** Een percentage als Belasting.
+* **Percentage van prijs, inclusief BTW:** Een percentage als Belasting die rekening houdt met het totaalbedrag inclusief BTW.
 
-- BTW-soort: Hiermee bepaal je waar deze BTW code kan selecteren binnen Curq.
-- BTW-over: Hiermee bepaal je tot welke soort producten je deze BTW Code kan toepassen.
-- Bedrag: Afhankelijk van de instelling bij BTW berekening geef je hier het percentage of bedrag in.
+- **BTW-soort:** Hiermee bepaal je waar deze BTW code kan selecteren binnen Curq.
+- **BTW-over:** Hiermee bepaal je tot welke soort producten je deze BTW Code kan toepassen.
+- **Bedrag:** Afhankelijk van de instelling bij BTW berekening geef je hier het percentage of bedrag in.
 
 .. image:: Accounting-Media/taxes_vat_fiscalpositions002.png
 
@@ -35,12 +35,12 @@ In de definitie tabblad leg je de belastingregels vast voor facturen of credits.
 
 Bij Geavanceerde opties kan je de BTW Code nog verder instellen.
 
-- Label op facturen: Dit is de omschrijving welke op de facturen verschijnen.
-- BTW-groep: Dit wordt onderaan in een factuur of order bij het totaal getoond. Het totaal van alle BTW Codes wordt opgeteld in deze groep.
-- In de analytische kost inbegrepen?: Moet de berekende BTW ook worden opgenomen in de kostenplaats.
-- Land: In welke Land is deze BTW Code geldig.
-- inclusief BTW: Word de BTW inclusief berekend.
-- Beïnvloed grondslag van daarop volgende BTW's?: Als er meerdere BTW Codes worden toegepast, beïnvloed deze BTW Code de grondslag van de volgende BTW Code. Als er meerdere codes wordt toegepast dan houdt Curq rekening met de volgorde van de BTW codes. De codes met een hogere volgorde worden als eerst toegepast.
+- **Label op facturen:** Dit is de omschrijving welke op de facturen verschijnen.
+- **BTW-groep:** Dit wordt onderaan in een factuur of order bij het totaal getoond. Het totaal van alle BTW Codes wordt opgeteld in deze groep.
+- **In de analytische kost inbegrepen?:** Moet de berekende BTW ook worden opgenomen in de kostenplaats.
+- **Land:** In welke Land is deze BTW Code geldig.
+- **Inclusief BTW:** Word de BTW inclusief berekend.
+- **Beïnvloed grondslag van daarop volgende BTW's?:** Als er meerdere BTW Codes worden toegepast, beïnvloed deze BTW Code de grondslag van de volgende BTW Code. Als er meerdere codes wordt toegepast dan houdt Curq rekening met de volgorde van de BTW codes. De codes met een hogere volgorde worden als eerst toegepast.
 
 In Curq zijn de BTW Codes al voor je ingericht. Het kan zijn dat sommige BTW Codes niet van toepassing zijn. Deactiveer deze door de optie Actief uit te zetten.
 
@@ -62,10 +62,10 @@ Voor de automatische toepassing van een Fiscale Positie zijn de instellingen rec
 
 .. image:: Accounting-Media/taxes_vat_fiscalpositions005.png
 
-- Automatisch detecteren: Voor het automatisch toepassing aan of uit.
-- BTW verplicht: De relatie moet voorzien zijn van een BTW-nummers voor automatische toepassing.
-- Landengroep: De relatie bevindt zich in een land binnen de Landengroep.
-- Land: De relatie bevindt zich in de opgegeven land.
+- **Automatisch detecteren:** Voor het automatisch toepassing aan of uit.
+- **BTW verplicht:** De relatie moet voorzien zijn van een BTW-nummers voor automatische toepassing.
+- **Landengroep:** De relatie bevindt zich in een land binnen de Landengroep.
+- **Land:** De relatie bevindt zich in de opgegeven land.
 
 Als er meerdere Fiscale Posities automatisch worden toegepast dan is de volgorde waar deze in staat van belang. In de lijst van alle Fiscale Posities zie je in welke volgorde ze staan. Het is mogelijk om deze volgorde te wijzigen door ze te slepen.
 

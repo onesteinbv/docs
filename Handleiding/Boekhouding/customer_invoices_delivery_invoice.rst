@@ -1,31 +1,34 @@
 Verkoopfacturen Afleveradres en Factuuradres
 ============================================
 
-BEZIG YW
+Met Curq kan je ook jouw klanten bedienen als ze over meerdere adressen of e-mailadressen beschikken. Vaak hebben bedrijven een ander afleveradres voor het magazijn dan hun bezoekadres. Facturen en orders worden naar andere e-mailadressen verstuurd dan bijv. het algemene of persoonlijke e-mailadres.
 
-Facturen maken is een essentieel onderdeel v
-.. image:: Customer-Invoices/customer_invoices005.png
+De afzonderlijke afleveradressen en factuuradressen zijn zichtbaar bij het contact onder de tab [Contacten & Adressen].
 
-- Volgers: Contacten, medewerkers kunnen volgers zijn van het documenten. Afhankelijk van hun aanmelding worden deze volgers op de hoogte gehouden van wijzigingen op dit document.
+.. image:: Customer-Invoices/customer_invoices_delivery_invoice001.png
 
-Zodra de factuur gereed is, dan kan de factuur worden bevestigd via de knop [BEVESTIGEN]. De factuur wordt op dit moment dan financieel geboekt.
+Een afleveradres kan je herkennen aan de **vrachtwagen** en factuuradres aan **geldbiljet**. Voor het aanmaken en bewerken van deze contacten kan je de handleiding voor contact volgen.
 
-.. image:: Customer-Invoices/customer_invoices006.png
+Verkooporder
+--------------
 
-De de factuur is nu open in de boekhouding en de status verandert naar geboekt. Er verschijnen nu andere knoppen. Wil je nog eerst de factuur controleren dan kan je via de knop midden in het scherm eerst een afdruk downloaden. Bij het afdrukken kies dan voor "Facturen". Als je de factuur wilt verbeteren, dan kan je de factuur terugzetten via de knop [TERUGZETTEN NAAR CONCEPT].
+Maak je gebruik van de integratie met verkooporder, dan vind je meer informatie hierover in die handleiding.
 
-.. image:: Customer-Invoices/customer_invoices007.png
 
-Met de knop [VERZEND & AFDRUKKEN] kan je meteen de factuur via de mail versturen. Als er een e-mailadres ontbreken, dan zal Curq dit vragen. Het volgende verzendscherm verschijnt.
+Verkoopfactuur
+--------------
 
-.. image:: Customer-Invoices/customer_invoices008.png
+.. image:: Customer-Invoices/customer_invoices_delivery_invoice002.png
 
-In dit scherm heb je de optie om een factuur af te drukken en te mailen. Zorg dat de juiste optie aanstaat. Je kan hier ook de mail aanpassen en een persoonlijk tintje meegeven. Curq zal de factuur in de bijlage als PDF bestand meesturen naar de klant.
+In de factuur kan je een klant ingeven. Dit is het adres waar de factuur naar toe wordt gestuurd en welke ook op de factuur verschijnt als afnemer. Heb je een contact zonder extra adressen vul dan dit adres in. Heb je eentje met extra adressen, controleer dan welke je je neemt. Neem dan bij voorkeur het factuuradres ipv het algemene contact.
 
-Eenmaal goed, dan kan je jouw factuur versturen via [VERZEND & AFDRUKKEN].
+Het afleveradres wordt automatisch gevuld vanuit het geselecteerde contact. Heb je geen aparte afleveradres, dan wordt hier het algemene contact ingevuld.
+Het is ook mogelijk om een andere adres/afleveradres in te geven. Dit kan handig zijn als jouw klanten aan dropshipment doen. Voorbeeld: jij factureert dan aan jouw afnemer (zoals Bol.com) maar levert aan de consument.
 
-Heb je een persoonlijke mail aangemaakt en je wilt die de volgende keer weer gebruiken, dan kan je die opslaan via de knop [OPSLAAN ALS NIEUW SJABLOON]
+Voorbeeld factuur waarvan alle adressen gelijk zijn.
 
-Zodra de factuur is verzonden binnen Curq, dan is dit meteen zichtbaar in de logging deel. Je ziet jouw mail terug en aan de hand van de enveloppe kan je de status van jouw mail terugvinden. Je kan eventueel corrigerende acties ondernemen door te klikken op de enveloppe.
+.. image:: Customer-Invoices/customer_invoices_delivery_invoice003.png
 
-.. image:: Customer-Invoices/customer_invoices009.png
+Voorbeeld factuur waarvan het afleveradres anders is.
+
+.. image:: Customer-Invoices/customer_invoices_delivery_invoice004.png

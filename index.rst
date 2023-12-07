@@ -20,6 +20,8 @@ Handleiding
             
         `Verkoopfacturen <http://docs.onestein.eu/Handleiding/Boekhouding/customer_invoices.html>`_    
 
+            `Verkoopfacturen Afleveradres en Factuuradres <http://docs.onestein.eu/Handleiding/Boekhouding/customer_invoices_delivery_invoice.html>`_            
+
     `Ponto bankafschriften overzicht <http://docs.onestein.eu/Handleiding/Boekhouding/My-Ponto-Bank-Feed.html>`_
 
     `SEPA betalingen leverancier <http://docs.onestein.eu/Handleiding/Boekhouding/SEPA-betalingen-leverancier-OCA.html>`_
