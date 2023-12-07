@@ -1,4 +1,4 @@
-Afletteren in Curq
+Afletteren (reconciliatie) in Curq
 ===========
 | Bank reconciliatie is het proces van het matchen van je
   banktransacties met je bedrijfsadministratie, zoals klantenfacturen,
@@ -29,20 +29,17 @@ puntjes rechts in de tegel:
    :width: 6.69306in
    :height: 3.08125in
 
-| klik op de naam van het dagboek (bijv. Bank) om alle transacties
-  weer te geven, inclusief de transacties die eerder zijn afgeletterd.
-| klik op de knop Afletter x regels om alle transacties weer te geven die Curq
-  vooraf heeft geselecteerd voor afstemming. Je kunt de filter 'Niet
-  gematcht' uit de zoekbalk verwijderen om ook eerder afgeletterde
+| Klik bij het desbetreffende dagboek in het dashoard op de knop 'Afletter regels' om alle transacties weer te geven die Curq
+  vooraf heeft geselecteerd voor afstemming. Je kunt het standaard filter uit de zoekbalk verwijderen om ook eerder afgeletterde
   transacties weer te geven.
-
+|
 .. image:: Afletteren/media/image3.png
    :width: 6.69306in
    :height: 3.08125in
 
 Let op
 ----
-Bij het afletteren kan het zijn dat je een regel geheel of gedeeltelijk hebt afgeletterd en er op dat moment achter komt dat je een fout hebt gemaakt. Zorg er op dat moment altijd voor dat je de afgeletterde regels eerst verwijderd. Je doet dit door de regels in de prullenbak te gooien.
+Bij het afletteren kan het zijn dat je een regel geheel of gedeeltelijk hebt afgeletterd en er op dat moment achter komt dat je een fout hebt gemaakt. Zorg er op dat moment altijd voor dat je eerst de verkeerd afgeletterde regels verwijderd. Je doet dit door die regels in de prullenbak te gooien.
 
 .. image:: Afletteren/media/regels_verwijderen.png
    :width: 6.69306in
@@ -52,30 +49,30 @@ Afletter scenario's
 ===========
 Afletteren van een volledig betaalde factuur
 ----
-Wanneer de klant bij de transactieregel staat ingevuld, het bedrag overeenkomt met een openstaande post en het factuurnummer in de regel overeenkomt met een openstaande post, dan zal Curq de regel automatisch afletteren. Je kunt er zelfs voor kiezen ook deze laatste stap te automatiseren. Curq zal dan de gevonden regel direct verwerken. Dit stel je in bij de afletterregels.
+Wanneer bij de gekozen transactieregel de klant of leverancier staat ingevuld, het bedrag overeenkomt met een openstaande post en het overeenkomstige factuurnummer vermeld staat in de label omschrijving, dan zal Curq de regel automatisch afletteren. Je kunt er voor kiezen ook deze laatste stap te automatiseren. Curq zal dan de gevonden regel direct bevestigen. Stel dit in bij de afletterregels.
 
 .. image:: Afletteren/media/image4.png
    :width: 6.69306in
    :height: 3.08125in
 
-Niet volledig betaalde factuur
+Afletteren niet volledig betaalde factuur
 ----
-Het kan zijn dat de betaalregel niet volledig overeenkomt met
-een af te letteren factuur (klant betaalt voor een aantal facturen tegelijk of betaalt een deelbedrag). 
+Het kan zijn dat de betaalregel niet volledig overeenkomt met een af te letteren factuur (klant betaalt voor een aantal facturen tegelijk of betaalt een deelbedrag). 
 
-Klant betaalt minder dan het factuurbedrag. Curq zal het betaalde bedrag automatisch afletteren tegen de openstaande post
+Scenario 1: klant betaalt minder dan het factuurbedrag. 
+Curq zal het betaalde bedrag automatisch afletteren tegen de openstaande post.
 
 |image2|\ Vervolgens kun je het restbedrag ook direct afboeken, je doet
 dit door de regel aan te klikken zoals je hieronder ziet in het
 schermvoorbeeld. Hiermee wordt de optie zichtbaar om de factuur op
 volledig betaald te zetten. Je kunt er vervolgens voor kiezen om het
-restbedrag af te schrijven op een andere grootboekrekening.
+restbedrag af te schrijven op een andere grootboekrekening. Je kan hier of een aflettermodel voor gebruiken of de rekening handmatig op te zoeken.
 
-.. image:: Afletteren/media/image12.png
+.. image:: Afletteren/media/rest_afboeken_1.png
    :width: 6.69306in
    :height: 3.08125in
 
-.. |image1| image:: Afletteren/media/image1.png
+.. image:: Afletteren/media/rest_afboeken_2.png
    :width: 6.69306in
    :height: 3.08125in
 
@@ -83,8 +80,12 @@ restbedrag af te schrijven op een andere grootboekrekening.
    :width: 6.69306in
    :height: 3.08125in
 
-Klant betaalt meerdere facturen in 1 bedrag
-in dit geval kun je de klant opzoeken en meerdere facturen achter elkaar aanklikken. Het kan zijn dat de klant ook een factuur betaalt die op een andere naam staat. Je kan een andere klant opzoeken de openstaande post(en) toevoegen.
+Scenario 2: klant betaalt meerdere facturen in 1 bedrag.
+in dit geval kun je de klant opzoeken en meerdere facturen achter elkaar aanklikken. Het kan zijn dat de klant ook een factuur betaalt die op een andere naam staat. Je kan een andere klant opzoeken de openstaande post(en) toevoegen. In onderstaand schermvoorbeeld is eerst de factuur 1 voor klant 1 toegevoegd. Vervolgens is bij 'filter' gezocht op klant 2 en is een deel van factuur 2 aan de transactieregel toegevoegd.
+
+.. image:: Afletteren/media/meerdere_facturen.png
+   :width: 6.69306in
+   :height: 3.08125in
 
 Afletteren betaalregel zonder factuur
 ----
