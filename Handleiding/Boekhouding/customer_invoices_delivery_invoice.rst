@@ -1,18 +1,18 @@
 Verkoopfacturen Afleveradres en Factuuradres
 ============================================
 
-Met Curq kan je ook jouw klanten bedienen als ze over meerdere adressen of e-mailadressen beschikken. Vaak hebben bedrijven een ander afleveradres voor het magazijn dan hun bezoekadres. Facturen en orders worden naar andere e-mailadressen verstuurd dan bijv. het algemene of persoonlijke e-mailadres.
+Met Curq kun je ook jouw klanten bedienen als ze over meerdere adressen of e-mailadressen beschikken. Vaak hebben bedrijven een ander afleveradres voor het magazijn dan hun bezoekadres. Facturen en orders worden naar andere e-mailadressen verstuurd dan bijvoorbeeld het algemene of persoonlijke e-mailadres.
 
 De afzonderlijke afleveradressen en factuuradressen zijn zichtbaar bij het contact onder de tab [Contacten & Adressen].
 
 .. image:: Customer-Invoices/customer_invoices_delivery_invoice001.png
 
-Een afleveradres kan je herkennen aan de **vrachtwagen** en factuuradres aan **geldbiljet**. Voor het aanmaken en bewerken van deze contacten kan je de handleiding voor contact volgen.
+Een afleveradres kun je herkennen aan de **vrachtwagen** en het factuuradres aan **geldbiljet**. Voor het aanmaken en bewerken van deze contacten kun je de handleiding voor contacten volgen.
 
 Verkooporder
 --------------
 
-Maak je gebruik van de integratie met verkooporder, dan vind je meer informatie hierover in die handleiding.
+Als je gebruikmaakt van de integratie met de verkooporder, vind je meer informatie hierover in die handleiding.
 
 
 Verkoopfactuur
@@ -20,15 +20,15 @@ Verkoopfactuur
 
 .. image:: Customer-Invoices/customer_invoices_delivery_invoice002.png
 
-In de factuur kan je een klant ingeven. Dit is het adres waar de factuur naar toe wordt gestuurd en welke ook op de factuur verschijnt als afnemer. Heb je een contact zonder extra adressen vul dan dit adres in. Heb je eentje met extra adressen, controleer dan welke je je neemt. Neem dan bij voorkeur het factuuradres ipv het algemene contact.
+In de factuur kun je een klant invoeren. Dit is het adres waarnaar de factuur wordt verzonden en dat ook op de factuur verschijnt als afnemer. Als je een contactpersoon hebt zonder extra adressen, vul dan dit adres in. Als je er een hebt met extra adressen, controleer dan welk adres je moet gebruiken. Geef bij voorkeur het factuuradres op in plaats van het algemene contactadres.
 
-Het afleveradres wordt automatisch gevuld vanuit het geselecteerde contact. Heb je geen aparte afleveradres, dan wordt hier het algemene contact ingevuld.
-Het is ook mogelijk om een andere adres/afleveradres in te geven. Dit kan handig zijn als jouw klanten aan dropshipment doen. Voorbeeld: jij factureert dan aan jouw afnemer (zoals Bol.com) maar levert aan de consument.
+Het afleveradres wordt automatisch ingevuld vanuit het geselecteerde contact. Als je geen apart afleveradres hebt, wordt hier het algemene contactadres ingevuld.
+Het is ook mogelijk om een ander adres/afleveradres in te voeren. Dit kan handig zijn als jouw klanten aan dropshipment doen. Bijvoorbeeld: jij factureert dan aan jouw afnemer (zoals Bol.com), maar levert aan de consument.
 
-Voorbeeld factuur waarvan alle adressen gelijk zijn.
+Voorbeeldfactuur waarvan alle adressen gelijk zijn.
 
 .. image:: Customer-Invoices/customer_invoices_delivery_invoice003.png
 
-Voorbeeld factuur waarvan het afleveradres anders is.
+Voorbeeldfactuur waarvan het afleveradres verschillend is.
 
 .. image:: Customer-Invoices/customer_invoices_delivery_invoice004.png
