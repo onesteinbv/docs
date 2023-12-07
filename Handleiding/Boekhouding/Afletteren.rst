@@ -47,7 +47,7 @@ Bij het afletteren kan het zijn dat je een regel geheel of gedeeltelijk hebt afg
 
 Let op 2
 ----
-In onderstaand schermvoorbeeld zie je dat de geslecteerde regel aangeklikt is en van kleur is veranderd. Dit betekent in Curq dat de focus op de regel staat en je bijvoorbeeld de BTW code kan toevoegen. 
+In onderstaand schermvoorbeeld zie je dat de geslecteerde regel aangeklikt is en van kleur is veranderd. Dit betekent in Curq dat de focus op de regel staat en je bijvoorbeeld de BTW code kan toevoegen. Bij enkele scenario's is het belangrijk dat je duidelijk ziet dat de regel staat aangeklikt. Wij geven dit per afletter scenario aan.
 
 .. image:: Afletteren/media/focus.png
    :width: 6.69306in
