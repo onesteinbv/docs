@@ -161,12 +161,12 @@ dan kun je dat bij de regel aangeven met de knop ‘te controleren'. De na te ki
 vervolgens op diverse plekken in de boekhouding nagekeken worden (zoals
 hieronder bij de boekingsregel).
 
-
 .. image:: Afletteren/media/image7.png
    :width: 6.69306in
    :height: 3.08125in
 
 |Na controle van de regel klik je op ‘stel in als gecontroleerd’ om aan te geven dat de regel gecontroleerd is.
+
 .. image:: Afletteren/media/image10.png
    :width: 6.69306in
    :height: 3.08125in
