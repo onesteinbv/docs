@@ -11,6 +11,8 @@ Handleiding
     `Accounting <http://docs.onestein.eu/Handleiding/Boekhouding/accounting.html>`_
 
         `Beginnen met de boekhouding <http://docs.onestein.eu/Handleiding/Boekhouding/accounting_gettingstarted.html>`_
+        
+            `Openingsbalans <http://docs.onestein.eu/Handleiding/Boekhouding/accounting_gettingstarted_openingbalance.html>`_
 
         `Belastingen <http://docs.onestein.eu/Handleiding/Boekhouding/accounting_taxes.html>`_
 
