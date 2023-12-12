@@ -9,7 +9,7 @@ Om te beginnen met de boekhouding in Curq, volg je deze stappen:
 
 .. image:: Accounting-Media/gettingstarted001.png
 
-1. **Bankkoppeling:**
+2. **Bankkoppeling:**
 
 * Als je een bankrekening hebt, kun je deze koppelen aan Curq om transacties automatisch te importeren en af te stemmen. De koppeling maakt gebruik van de diensten van Ponto. Ponto is een serviceprovider die jouw bankrekeninggegevens doorstuurt van jouw bank naar Curq. Een abonnement aanschaffen kan via www.myponto.com.
 * De koppeling van Ponto wordt op de volgende manier ingesteld. Ga naar Facturatie > Configuratie > Online Bankafschrift Aanbieders. Klik op [NIEUW]. In het scherm vul je de volgende gegevens in:
