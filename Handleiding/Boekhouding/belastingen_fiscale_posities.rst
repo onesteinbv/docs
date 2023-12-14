@@ -12,7 +12,7 @@ BTW Codes
 
 De BTW-codes vind je terug onder Facturatie > Configuratie > BTW. Je kunt ze hier aanpassen door op de BTW-code te klikken.
 
-.. image:: Accounting-Media/taxes_vat_fiscalpositions001.png
+.. image:: Accounting-Media/belastingen_fiscale_posities001.png
 
 - **BTW naam:** Hier kun je een naam opgeven voor je BTW-code. Deze verschijnt overal binnen Curq, dus geef een herkenbare naam mee.
 
@@ -27,11 +27,11 @@ De BTW-codes vind je terug onder Facturatie > Configuratie > BTW. Je kunt ze hie
 - **BTW-over:** HHiermee bepaal je tot welke soort producten je deze BTW-code kunt toepassen.
 - **Bedrag:** Afhankelijk van de instelling bij BTW berekening geef je hier het percentage of bedrag in.
 
-.. image:: Accounting-Media/taxes_vat_fiscalpositions002.png
+.. image:: Accounting-Media/belastingen_fiscale_posities002.png
 
 In het definitie tabblad leg je de belastingregels vast voor facturen of creditnota's. Het is verplicht om minimaal 1 regel te hebben voor grondslag en voor BTW. Je kunt hier bepalen welk percentage van de berekende BTW op de grootboekrekening en BTW-vak wordt geboekt. Bij de creditnota's worden de regels en vakken vaak omgedraaid.
 
-.. image:: Accounting-Media/taxes_vat_fiscalpositions003.png
+.. image:: Accounting-Media/belastingen_fiscale_posities003.png
 
 Bij Geavanceerde opties kun je de BTW-code nog verder instellen.
 
@@ -49,7 +49,7 @@ Fiscale Posities
 
 De Fiscale Posities vind je terug onder Facturatie > Configuratie > Fiscale Posities. De BTW-regio's zijn reeds ingedeeld in Curq. Bijvoorbeeld, voor zakenrelaties in de EU worden andere BTW-tarieven gehanteerd. Curq zorgt op deze manier ervoor dat de correcte BTW op de orders en facturen staat.
 
-.. image:: Accounting-Media/taxes_vat_fiscalpositions004.png
+.. image:: Accounting-Media/belastingen_fiscale_posities004.png
 
 Op het tabblad [Vervangingstabel BTW] worden de BTW-codes vertaald naar de juiste. Aan de linkerkant vind je de standaard BTW die je op de producten kunt definiëren. Zodra deze Fiscale Positie is toegepast op jouw order of factuur, wordt eerst de standaard BTW herleidt. Vervolgens wordt de BTW-code aan de rechterkant toegepast op jouw order of factuur.
 
@@ -60,7 +60,7 @@ Automatische toepassing
 
 Voor de automatische toepassing van een Fiscale Positie zijn de instellingen rechtsboven van belang. Deze zullen we hier even toelichten.
 
-.. image:: Accounting-Media/taxes_vat_fiscalpositions005.png
+.. image:: Accounting-Media/belastingen_fiscale_posities005.png
 
 - **Automatisch detecteren:** Voor automatische toepassing aan of uit.
 - **BTW verplicht:** De relatie moet voorzien zijn van een BTW-nummer voor automatische toepassing.
@@ -69,15 +69,15 @@ Voor de automatische toepassing van een Fiscale Positie zijn de instellingen rec
 
 Als er meerdere Fiscale Posities automatisch worden toegepast dan is de volgorde waar deze in staat van belang. In de lijst van alle Fiscale Posities zie je in welke volgorde ze staan. Het is mogelijk om deze volgorde te wijzigen door ze te slepen.
 
-.. image:: Accounting-Media/taxes_vat_fiscalpositions006.png
+.. image:: Accounting-Media/belastingen_fiscale_posities006.png
 
 Handmatige toepassing
 ---------------------
 
 In sommige gevallen wil je afwijken van de automatisch voorgestelde Fiscale Positie. Dit kan voorkomen als de relatie waar je zaken mee doet in een apart BTW-regime valt. Je kunt de Fiscale Positie vastleggen bij een relatie of in een order / factuur. We adviseren om zoveel mogelijk dit in te stellen op de relatie. Zodra deze relatie wordt gebruikt bij een order / factuur, wordt de Fiscale Positie hiervan afgeleid. Je kunt dit instellen bij het contact.
 
-.. image:: Accounting-Media/taxes_vat_fiscalpositions007.png
+.. image:: Accounting-Media/belastingen_fiscale_posities007.png
 
 Wil je toch bij een order of factuur dit toepassen dan kan dit onder het tabblad [Overige info].
 
-.. image:: Accounting-Media/taxes_vat_fiscalpositions008.png
+.. image:: Accounting-Media/belastingen_fiscale_posities008.png

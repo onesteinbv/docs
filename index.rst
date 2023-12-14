@@ -8,21 +8,21 @@ Handleiding
 
 .. admonition:: Boekhouding
 
-    `Accounting <http://docs.onestein.eu/Handleiding/Boekhouding/accounting.html>`_
+    `Accounting <http://docs.onestein.eu/Handleiding/Boekhouding/boekhouding.html>`_
 
-        `Beginnen met de boekhouding <http://docs.onestein.eu/Handleiding/Boekhouding/accounting_gettingstarted.html>`_
+        `Beginnen met de boekhouding <http://docs.onestein.eu/Handleiding/Boekhouding/boekhouding_starten.html>`_
         
-            `Openingsbalans <http://docs.onestein.eu/Handleiding/Boekhouding/accounting_gettingstarted_openingbalance.html>`_
+            `Openingsbalans <http://docs.onestein.eu/Handleiding/Boekhouding/boekhouding_starten_beginbalans.html>`_
 
-        `Belastingen <http://docs.onestein.eu/Handleiding/Boekhouding/accounting_taxes.html>`_
+        `Belastingen <http://docs.onestein.eu/Handleiding/Boekhouding/belastingen.html>`_
 
-            `Controle BTW nummer VIES <http://docs.onestein.eu/Handleiding/Boekhouding/accounting_taxes_vies.html>`_
+            `Controle BTW nummer VIES <http://docs.onestein.eu/Handleiding/Boekhouding/belastingen_vies.html>`_
 
-            `BTW Codes en Fiscale Posities <http://docs.onestein.eu/Handleiding/Boekhouding/accounting_taxes_vat_fiscalpositions.html>`_
+            `BTW Codes en Fiscale Posities <http://docs.onestein.eu/Handleiding/Boekhouding/belastingen_fiscale_posities.html>`_
             
-        `Verkoopfacturen <http://docs.onestein.eu/Handleiding/Boekhouding/customer_invoices.html>`_    
+        `Verkoopfacturen <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen.html>`_    
 
-            `Verkoopfacturen Afleveradres en Factuuradres <http://docs.onestein.eu/Handleiding/Boekhouding/customer_invoices_delivery_invoice.html>`_            
+            `Verkoopfacturen Afleveradres en Factuuradres <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_afleveradres_factuuradres.html>`_            
 
     `Ponto bankafschriften overzicht <http://docs.onestein.eu/Handleiding/Boekhouding/My-Ponto-Bank-Feed.html>`_
 
