@@ -70,10 +70,8 @@ Het kan zijn dat de betaalregel niet volledig overeenkomt met een af te letteren
 Scenario 1: klant betaalt minder dan het factuurbedrag. 
 Curq zal het betaalde bedrag automatisch afletteren tegen de openstaande post.
 
-|image2|\ Vervolgens kun je het restbedrag ook direct afboeken, je doet
-dit door de regel aan te klikken zoals je hieronder ziet in het
-schermvoorbeeld. Hiermee wordt de optie zichtbaar om de factuur op
-volledig betaald te zetten. Je kunt er vervolgens voor kiezen om het
+Vervolgens kun je het restbedrag ook direct afboeken, je doet dit door de regel aan te klikken zoals je hieronder ziet in het
+schermvoorbeeld. Hiermee wordt de optie zichtbaar om de factuur op volledig betaald te zetten. Je kunt er vervolgens voor kiezen om het
 restbedrag af te schrijven op een andere grootboekrekening. Je kan hier of een aflettermodel voor gebruiken of de rekening handmatig op te zoeken.
 
 .. image:: Afletteren/media/rest_afboeken_1.png
@@ -114,10 +112,8 @@ onderliggende factuur. In dit scenario kun je op het tabblad handmatige werking 
 Afletteren betaalregel zonder factuur met BTW 
 ----
 Het kan voorkomen dat er een afschriftregel is met een betaling zonder
-onderliggende factuur, maar wel met BTW. Na kiezen van de juiste
-kostenrekening is het vervolgens mogelijk om in het BTW de juiste BTW
-code te selecteren. Curq rekent dan automatisch de juiste bedragen uit.
-De extra regel die wordt aangemaakt voor verwerken van de BTW is terug
+onderliggende factuur, maar wel met BTW. Na kiezen van de juiste kostenrekening is het vervolgens mogelijk om in het BTW de juiste BTW
+code te selecteren. Curq rekent dan automatisch de juiste bedragen uit. De extra regel die wordt aangemaakt voor verwerken van de BTW is terug
 te vinden op de BTW aangifte in de juiste rubriek.
 
 .. image:: Afletteren/media/btw_handmatige_betaling.png
@@ -142,8 +138,7 @@ Overige functionaliteit
 
 Aflettermodellen
 ----
-Met aflettermodellen kun je het proces van afletteren verder
-automatiseren. Curq heeft zelf een aantal standaard aflettermodellen
+Met aflettermodellen kun je het proces van afletteren verder automatiseren. Curq heeft zelf een aantal standaard aflettermodellen
 ingericht, je vind deze onder menu 'afletterregels'.
 
 Je kunt met 3 doeleinden een afletter regel aanmaken:
@@ -156,13 +151,14 @@ Je kunt met 3 doeleinden een afletter regel aanmaken:
 
 3. Als je automatisch inkoop-en of verkoopfacturen wil matchen en door
    Curq wil laten afletteren. Optie 3 wordt standaard in Curq toegepast.
+
 .. image:: Afletteren/media/image5.png
    :width: 6.69306in
    :height: 3.08125in
 
 Chatter
 ----
-De chatter fuctionaliteit is beschikbaar bij het afletteren van een regel. Hierdoor kun je direct een collega of een klant een bericht sturenbij een vraag over de betaalregel. Ook kun je in de chatter documenten koppelen.
+De chatter fuctionaliteit is beschikbaar bij het afletteren van een regel. Hierdoor kun je direct een collega of een klant een bericht sturen bij een vraag over de betaalregel. Ook kun je in de chatter documenten koppelen.
 
 .. image:: Afletteren/media/Chatter_afletteren.png
    :width: 6.69306in
@@ -172,14 +168,13 @@ Extra controle
 ----
 Wanneer je een extra controle wil uitvoeren op de af te letteren regel,
 dan kun je dat bij de regel aangeven met de knop ‘te controleren'. De na te kijken regel kan
-vervolgens op diverse plekken in de boekhouding nagekeken worden (zoals
-hieronder bij de boekingsregel).
+vervolgens op diverse plekken in de boekhouding nagekeken worden (zoals hieronder bij de boekingsregel).
 
 .. image:: Afletteren/media/image7.png
    :width: 6.69306in
    :height: 3.08125in
 
-|Na controle van de regel klik je op ‘stel in als gecontroleerd’ om aan te geven dat de regel gecontroleerd is.
+Na controle van de regel klik je op ‘stel in als gecontroleerd’ om aan te geven dat de regel gecontroleerd is.
 
 .. image:: Afletteren/media/image10.png
    :width: 6.69306in
