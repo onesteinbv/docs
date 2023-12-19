@@ -22,7 +22,7 @@ te downloaden in je bankapplicatie (Curq ondersteunt de formaten
 camt.053.001.02, Camt.054.001.02). Deze download kun je vervolgens
 uploaden in het overeenkomstige bankdagboek in Curq.
 
-|image1|\ Alle transactieregels zijn ook te benaderen via de drie
+Alle transactieregels zijn ook te benaderen via de drie
 puntjes rechts in de tegel:
 
 .. image:: Afletteren/media/image2.png
@@ -88,7 +88,14 @@ restbedrag af te schrijven op een andere grootboekrekening. Je kan hier of een a
    :width: 6.69306in
    :height: 3.08125in
 
-Scenario 2: klant betaalt meerdere facturen in 1 bedrag.
+Scenario 2: klant bijna gehele factuur, een bedrag van een paar cent blijft open staan.
+Indien dit vaker voor komt dan kuj je ervoor kiezen het standaard aflettermodel 'perfecte matching'iets aan te vullen. Wanneer je de tolerantie iets aanpast en vervolgens ook een grootboekrekening toevoegt aan het model, dan zal Curq automatisch het restverschil wegboeken.
+
+.. image:: Afletteren/media/rest_afboeken_2.png
+   :width: 6.69306in
+   :height: 3.08125in
+
+Scenario 3: klant betaalt meerdere facturen in 1 bedrag.
 in dit geval kun je de klant opzoeken en meerdere facturen achter elkaar aanklikken. Het kan zijn dat de klant ook een factuur betaalt die op een andere naam staat. Je kan een andere klant opzoeken de openstaande post(en) toevoegen. In onderstaand schermvoorbeeld is eerst de factuur 1 voor klant 1 toegevoegd. Vervolgens is bij 'filter' gezocht op klant 2 en is een deel van factuur 2 aan de transactieregel toegevoegd.
 
 .. image:: Afletteren/media/meerdere_facturen.png
