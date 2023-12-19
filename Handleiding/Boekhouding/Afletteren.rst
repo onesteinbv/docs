@@ -91,7 +91,7 @@ restbedrag af te schrijven op een andere grootboekrekening. Je kan hier of een a
 Scenario 2: klant bijna gehele factuur, een bedrag van een paar cent blijft open staan.
 Indien dit vaker voor komt dan kuj je ervoor kiezen het standaard aflettermodel 'perfecte matching'iets aan te vullen. Wanneer je de tolerantie iets aanpast en vervolgens ook een grootboekrekening toevoegt aan het model, dan zal Curq automatisch het restverschil wegboeken.
 
-.. image:: Afletteren/media/rest_afboeken_2.png
+.. image:: Afletteren/media/Betalingsverschillen_afboeken.png
    :width: 6.69306in
    :height: 3.08125in
 
