@@ -44,11 +44,45 @@ Op het tabblad "Uitgaande betalingen" kun je aangeven welke betalingsmethoden be
 
 .. image:: Accounting-Media/boekhouding_starten_dagboeken004.png
 
+Op het tabblad "Geavanceerde instellingen" kun je de volgende instellingen configureren.
+
+.. image:: Accounting-Media/boekhouding_starten_dagboeken005.png
+
+- **Toegestane rekeningen:** Bepaalt welke grootboekrekeningen mogen worden gebruikt in dit dagboek.
+- **Saldolijn toevoegen:** Voegt een extra regel toe aan het bankafschrift voor het saldo.
+- **Blokkeer datum:** Vergrendelt het dagboek volledig, zodat niemand wijzigingen kan aanbrengen na de opgegeven datum.
+- **Blokkeerdatum voor standaard gebruiker:** Alleen de facturatiebeheerder kan nog wijzigingen aanbrengen in dit dagboek. Dit is handig als de boekhouder wel wijzigingen mag aanbrengen, maar een standaard gebruiker niet.
 
 Verkoop
 -------
 
 In het verkoopboek wordt gedetailleerde informatie bijgehouden over alle verkopen. Het omvat niet alleen de datum van de verkoop, maar ook de naam van de klant, de aard van de verkochte goederen of diensten, en het ontvangen bedrag. Dit specifieke dagboek is met name van belang voor bedrijven die frequent goederen of diensten verkopen. Het verkoopboek vormt niet alleen een beheersinstrument voor de cashflow, maar levert ook waardevolle gegevens voor het opstellen van toekomstige verkoopprognoses en het formuleren van doeltreffende bedrijfsstrategieën.
+
+De configuratie van het verkoopboek ziet er als volgt uit.
+
+.. image:: Accounting-Media/boekhouding_starten_dagboeken006.png
+
+- **Standaard omzetrekening:** De standaard grootboekrekening die wordt gebruikt wanneer een factuur wordt aangemaakt. Als er vanuit andere processen geen specifieke omzetrekening wordt opgegeven, zal deze standaardrekening worden gebruikt.
+- **Specifieke creditfactuur reeks:** Vink dit aan als je niet dezelfde nummerreeks wilt gebruiken voor creditfacturen die in dit dagboek zijn geboekt. 
+- **Korte code:** Een korte code voor de weergave. Daarnaast worden transacties voorzien van dit voorvoegsel.
+- **Chronologie controleren?:** Als de datum van een boeking niet chronologisch opvolgt, kan de boeking niet worden bevestigd. Dit voorkomt onbedoelde boekingen in de verkeerde periode.
+- **Valuta:** De valuta van dit dagboek. In de meeste gevallen is dit leeg voor verkoop. Als je een factuur in een andere valuta wilt opstellen, kun je dat direct op de factuur instellen.
+
+Op het tabblad "Geavanceerde instellingen" kun je de volgende instellingen configureren.
+
+.. image:: Accounting-Media/boekhouding_starten_dagboeken007.png
+
+- **Toegestane rekeningen:** Bepaalt welke grootboekrekeningen mogen worden gebruikt in dit dagboek.
+- **Saldolijn toevoegen:** Deze is niet van toepassing voor het verkoopdagboek.
+- **Blokkeer datum:** Vergrendelt het dagboek volledig, zodat niemand wijzigingen kan aanbrengen na de opgegeven datum.
+- **Blokkeerdatum voor standaard gebruiker:** Alleen de facturatiebeheerder kan nog wijzigingen aanbrengen in dit dagboek. Dit is handig als de boekhouder wel wijzigingen mag aanbrengen, maar een standaard gebruiker niet.
+- **Vergrendel ingevoerde gegevens met hash:** Zodra een factuur wordt geboekt, wordt deze vergrendeld. Achteraf aanpassingen maken op de factuur is hierdoor niet mogelijk.
+- **E-mailservers configureren:** Deze is niet van toepassing voor het verkoopdagboek.
+- **Elektronische facturatie:** Je kunt een factuur ook via XML of EDI versturen. Je hebt de keuze tussen NLCIUS of Peppol BIS Billing 3.0 formaat. De ontvangende partij kan hierdoor sneller jouw factuur invoeren als ze hiervan gebruik maken. Alle factuurgegevens zijn dan opgeslagen in het XML- of EDI-formaat.
+- - **Communicatiesoort:** Bepaalt hoe de referentie op de factuur zal verschijnen, zodat de klant beter zijn betaling kan uitvoeren.
+- - **Standaard communicatie:** Bepaalt hoe de referentie wordt opgebouwd. Standaard staat deze instelling op Odoo.
+- - **Plan activiteit:** Hiermee kun je een activiteit laten inplannen op de vervaldag van de factuur. Dit kan helpen om het betalingsproces te verbeteren en je facturen beter op te volgen.
+
 
 Inkoop
 ------
