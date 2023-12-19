@@ -125,7 +125,7 @@ Afletteren verstuurde SEPA betaalbatch
 Wanneer je gebruikt maakt van de SEPA functionaliteit (waarmee je direct een set van inkoopfacturen aan de bank kan aanbieden), dan kun je de afschriftregel van deze betaling kiezen om alle inkoopfacturen van de batch in 1 keer af te handelen.
 Na selecteren van de transactieregel zoek je de juiste betaalbatch op 
 
-.. image:: Afletteren/media/btw_handmatige_betaling.png
+.. image:: Afletteren/media/SEPA_bankstatementline.png
    :width: 6.69306in
    :height: 3.08125in
 
