@@ -12,6 +12,8 @@ Handleiding
 
         `Beginnen met de boekhouding <http://docs.onestein.eu/Handleiding/Boekhouding/boekhouding_starten.html>`_
         
+            `Dagboeken <http://docs.onestein.eu/Handleiding/Boekhouding/boekhouding_starten_dagboeken.html>`_
+
             `Openingsbalans <http://docs.onestein.eu/Handleiding/Boekhouding/boekhouding_starten_beginbalans.html>`_
 
         `Belastingen <http://docs.onestein.eu/Handleiding/Boekhouding/belastingen.html>`_
