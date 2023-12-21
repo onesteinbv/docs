@@ -26,6 +26,10 @@ Waarom moet je een winst en verliesrekening opmaken?
 Elk jaar moet je belasting betalen in de vorm van Inkomstenbelasting en Vennootschapsbelasting. De soort belasting hangt af van je rechtsvorm. Als je een BV hebt, moet je Vennootschapsbelasting betalen. Eenmanszaken en zzp’ers betalen Inkomstenbelasting over de winst. Om het totaal van de belasting te kunnen bepalen, dien je overzichtelijk te maken hoe dit tot stand is gekomen. De Belastingdienst is de instantie die de belasting int. Dit kan je door middel van een winst en verliesrekening aantonen.
 Hieronder zie je een voorbeeld van een verlies- en winstrekening. 
 
+Kort samengevat wordt het resultaat bepaalt met de volgende formule:
+
+**Bedrijfsresultaat na belastingen = Netto omzet - inkoopwaarde van de omzet - overige kosten en opbrengsten - belasting**
+
 **Bruto Omzetresultaat**
 
 • *Netto Omzet*
