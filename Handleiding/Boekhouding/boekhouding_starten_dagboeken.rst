@@ -73,31 +73,57 @@ Op het tabblad "Geavanceerde instellingen" kun je de volgende instellingen confi
 .. image:: Accounting-Media/boekhouding_starten_dagboeken007.png
 
 - **Toegestane rekeningen:** Bepaalt welke grootboekrekeningen mogen worden gebruikt in dit dagboek.
-- **Saldolijn toevoegen:** Deze is niet van toepassing voor het verkoopdagboek.
+- **Saldolijn toevoegen:** Deze is niet van toepassing.
 - **Blokkeer datum:** Vergrendelt het dagboek volledig, zodat niemand wijzigingen kan aanbrengen na de opgegeven datum.
 - **Blokkeerdatum voor standaard gebruiker:** Alleen de facturatiebeheerder kan nog wijzigingen aanbrengen in dit dagboek. Dit is handig als de boekhouder wel wijzigingen mag aanbrengen, maar een standaard gebruiker niet.
 - **Vergrendel ingevoerde gegevens met hash:** Zodra een factuur wordt geboekt, wordt deze vergrendeld. Achteraf aanpassingen maken op de factuur is hierdoor niet mogelijk.
-- **E-mailservers configureren:** Deze is niet van toepassing voor het verkoopdagboek.
+- **E-mailservers configureren:** Deze is niet van toepassing.
 - **Elektronische facturatie:** Je kunt een factuur ook via XML of EDI versturen. Je hebt de keuze tussen NLCIUS of Peppol BIS Billing 3.0 formaat. De ontvangende partij kan hierdoor sneller jouw factuur invoeren als ze hiervan gebruik maken. Alle factuurgegevens zijn dan opgeslagen in het XML- of EDI-formaat.
-- - **Communicatiesoort:** Bepaalt hoe de referentie op de factuur zal verschijnen, zodat de klant beter zijn betaling kan uitvoeren.
-- - **Standaard communicatie:** Bepaalt hoe de referentie wordt opgebouwd. Standaard staat deze instelling op Odoo.
-- - **Plan activiteit:** Hiermee kun je een activiteit laten inplannen op de vervaldag van de factuur. Dit kan helpen om het betalingsproces te verbeteren en je facturen beter op te volgen.
-
+- **Communicatiesoort:** Bepaalt hoe de referentie op de factuur zal verschijnen, zodat de klant beter zijn betaling kan uitvoeren.
+- **Standaard communicatie:** Bepaalt hoe de referentie wordt opgebouwd. Standaard staat deze instelling op Odoo.
+- **Plan activiteit:** Hiermee kun je een activiteit laten inplannen op de vervaldag van de factuur. Dit kan helpen om het betalingsproces te verbeteren en je facturen beter op te volgen.
 
 Inkoop
 ------
 
 Het inkoopboek richt zich op alle aankopen van goederen en diensten door het bedrijf. Het zorgvuldig noteren van gegevens zoals de aankoopdatum, leveranciersnaam, aard van de gekochte goederen en diensten, en het betaalde bedrag biedt waardevol inzicht in de uitgaven van het bedrijf. Het inkoopboek komt vooral van pas voor bedrijven die nauwgezet hun uitgaven willen volgen en financiële gegevens op georganiseerde wijze willen beheren. Dit resulteert niet alleen in een beter begrip van de cashflow, maar versterkt ook de controle over de budgetten.
 
+De configuratie van het verkoopboek ziet er als volgt uit.
+
+.. image:: Accounting-Media/boekhouding_starten_dagboeken008.png
+
+- **Standaard kostenrekening:** De standaard grootboekrekening die wordt gebruikt wanneer een factuur wordt aangemaakt. Als er vanuit andere processen geen specifieke kostenrekening wordt opgegeven, zal deze standaardrekening worden gebruikt.
+- **Specifieke creditfactuur reeks:** Vink dit aan als je niet dezelfde nummerreeks wilt gebruiken voor creditfacturen die in dit dagboek zijn geboekt. 
+- **Korte code:** Een korte code voor de weergave. Daarnaast worden transacties voorzien van dit voorvoegsel.
+- **Chronologie controleren?:** Als de datum van een boeking niet chronologisch opvolgt, kan de boeking niet worden bevestigd. Dit voorkomt onbedoelde boekingen in de verkeerde periode.
+- **Valuta:** De valuta van dit dagboek. In de meeste gevallen is dit leeg voor inkoop. Als je een factuur in een andere valuta wilt opstellen, kun je dat direct op de factuur instellen.
+
+.. image:: Accounting-Media/boekhouding_starten_dagboeken009.png
+
+- **Toegestane rekeningen:** Bepaalt welke grootboekrekeningen mogen worden gebruikt in dit dagboek.
+- **Saldolijn toevoegen:** Deze is niet van toepassing.
+- **Blokkeer datum:** Vergrendelt het dagboek volledig, zodat niemand wijzigingen kan aanbrengen na de opgegeven datum.
+- **Blokkeerdatum voor standaard gebruiker:** Alleen de facturatiebeheerder kan nog wijzigingen aanbrengen in dit dagboek. Dit is handig als de boekhouder wel wijzigingen mag aanbrengen, maar een standaard gebruiker niet.
+- **Vergrendel ingevoerde gegevens met hash:** Zodra een factuur wordt geboekt, wordt deze vergrendeld. Achteraf aanpassingen maken op de factuur is hierdoor niet mogelijk.
+- **E-mailservers configureren:** Hiermee kun je een mailbox koppelen aan je inkoopfacturen. Curq leest dan automatisch je e-mails uit en maakt de factuur automatisch aan. Je hoeft de PDF dan niet apart in Curq te uploaden.
+
+
 Diversen / Memoriaal
 --------------------
 
 Een bijzonder dagboek is het dagboek memoriaal, dat fungeert als een veelzijdig administratief instrument. Dit dagboek komt van pas voor boekingen die geen specifieke thuisbasis hebben in andere dagboeken. Voorbeelden hiervan zijn correcties, het verrekenen van openstaande en oninbare facturen, salarisboekingen en standaardboekingen.
 
+De configuratie van het verkoopboek ziet er als volgt uit.
 
+.. image:: Accounting-Media/boekhouding_starten_dagboeken010.png
 
-Klik vervolgens op de knop [NIEUW]. Het volgende scherm verschijnt.
+- **Korte code:** Een korte code voor de weergave. Daarnaast worden transacties voorzien van dit voorvoegsel.
+- **Valuta:** De valuta van dit dagboek. In de meeste gevallen is dit leeg voor memoriaal.
+  
+.. image:: Accounting-Media/boekhouding_starten_dagboeken011.png
 
-.. image:: Accounting-Media/gettingstarted_openingsbalance002.png
-
-- **Referentie:** Geef hier een duidelijke omschrijving mee, zodat je weet waar deze boeking voor bedoeld is.
+- **Toegestane rekeningen:** Bepaalt welke grootboekrekeningen mogen worden gebruikt in dit dagboek.
+- **Saldolijn toevoegen:** Deze is niet van toepassing.
+- **Blokkeer datum:** Vergrendelt het dagboek volledig, zodat niemand wijzigingen kan aanbrengen na de opgegeven datum.
+- **Blokkeerdatum voor standaard gebruiker:** Alleen de facturatiebeheerder kan nog wijzigingen aanbrengen in dit dagboek. Dit is handig als de boekhouder wel wijzigingen mag aanbrengen, maar een standaard gebruiker niet.
+- **Vergrendel ingevoerde gegevens met hash:** Zodra een boeking wordt geboekt, wordt deze vergrendeld. Achteraf aanpassingen maken op de boeking is hierdoor niet mogelijk.
