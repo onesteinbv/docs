@@ -18,6 +18,9 @@ Bovenstaande aanpassingen zorgen ervoor dat je direct kan starten in Curq en in 
 
 Velden van grootboekrekening
 ----
+.. image:: Afletteren/media/handmatig_afletteren.png
+   :width: 6.69306in
+   :height: 3.08125in
 
 **Code**: Dit is een 6 cijferige code die vanuit het standaard RGS schema is overgenomen naar Curq. Rapportages zijn niet op dit veld gebaseerd dus je kan ervoor kiezen om de code aan te passen. Doe dit wel altijd in overleg met je boekhouder.
 
