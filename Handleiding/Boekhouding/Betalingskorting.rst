@@ -11,6 +11,10 @@ De klant kan €98 betalen tot 8 januari. Daarna zou hij €100 moeten betalen o
 Er kan ook een belastingvermindering worden toegepast, afhankelijk van het land of de regio.
 
 
+.. image:: SEPA-betalingen-leverancier-OCA-Media/instellingenbetalingskorting.png
+   :width: 6.3in
+   :height: 2.90069in
+
 Configuratie
 Om kortingen in contanten toe te kennen aan klanten, moet je eerst de winst- en verliesrekeningen controleren. Configureer vervolgens de betalingsvoorwaarden en voeg een betalingskorting toe door het selectievakje Vroegtijdige korting in te schakelen en het kortingspercentage, de kortingsdagen en de velden voor belastingvermindering in te vullen.
 
