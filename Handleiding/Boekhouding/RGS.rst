@@ -17,6 +17,11 @@ Het RGS is volledig geïntegreerd in de boekhouding binnen Curq, inclusief algem
 Bovenstaande aanpassingen zorgen ervoor dat je direct kunt starten in Curq en in de basis alleen je eigen bankrekeningen hoeft in te voeren om te beginnen met de boekhouding.
 
 Velden van grootboekrekening
+----
+
+.. image:: SEPA-betalingen-leverancier-OCA-Media/Rekening.png
+   :width: 6.3in
+   :height: 2.90069in
 
 **Code**: Dit is een zescijferige code die vanuit het standaard RGS-schema is overgenomen naar Curq. Rapportages zijn niet gebaseerd op dit veld, dus je kunt ervoor kiezen de code aan te passen. Doe dit wel altijd in overleg met je boekhouder.
 
