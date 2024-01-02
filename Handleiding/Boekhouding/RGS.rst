@@ -18,7 +18,7 @@ Bovenstaande aanpassingen zorgen ervoor dat je direct kan starten in Curq en in 
 
 Velden van grootboekrekening
 ----
-.. image:: Afletteren/media/handmatig_afletteren.png
+.. image:: SEPA-betalingen-leverancier-OCA-Media/Rekening.png
    :width: 6.69306in
    :height: 3.08125in
 
