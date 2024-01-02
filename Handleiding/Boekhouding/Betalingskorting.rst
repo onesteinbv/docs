@@ -1,10 +1,19 @@
-Betalingskortingen
+Betalingskortingen klant en inkoopkorting
 ----
 
-Betalingskortingen zijn kortingen op het bedrag dat een klant moet betalen voor goederen of diensten als stimulans voor het snel betalen van de factuur. Deze kortingen zijn meestal een percentage van het totale factuurbedrag en worden toegepast als de klant binnen een bepaalde tijd betaalt. Betalingskortingen kunnen een bedrijf helpen om een regelmatige cashflow te behouden.
+Betalingskortingen zijn kortingen op het bedrag dat een klant moet betalen voor goederen of diensten als stimulans voor het snel betalen van de factuur. Inkoopkortingen zijn kortingen die je afspreekt met je leverancier als je zelf binnen een afgesproken termijn betaalt. 
 
-Je maakt een factuur van €100 op 1 januari. De volledige betaling moet binnen 30 dagen worden voldaan en je biedt ook een korting van 2% als de klant binnen zeven dagen betaalt.
-De klant kan €98 betalen tot 8 januari. Daarna zou hij €100 moeten betalen op 31 januari.
+Deze kortingen zijn meestal een percentage van het totale factuurbedrag en worden toegepast als de klant binnen een bepaalde tijd betaalt. Betalingskortingen kunnen een bedrijf helpen om een regelmatige cashflow te behouden. inkoopkrting levert direct resultaat op, het verlaagt het bedrag van je inkoopfactuur.
+
+Om kortingen in contanten te kunnen registreren, moet je eerst de winst- en verliesrekeningen controleren. In Curq zijn deze velden standaard ingevuld.
+
+Configureer vervolgens de betalingsvoorwaarden en voeg een betalingskorting toe door het selectievakje Vroegtijdige korting in te schakelen en het kortingspercentage, de kortingsdagen en de velden voor belastingvermindering in te vullen.
+
+Voorbeeld
+----
+
+Je maakt een factuur van €100,- op 2 januari. De volledige betaling moet binnen 30 dagen worden voldaan en je biedt ook een korting van 2% als de klant binnen vijf  dagen betaalt.
+De klant kan €98,- betalen tot 7 januari. Daarna zou hij €100,- moeten betalen op 31 januari.
 
 Hieronder zie je rekeningen waarop de verschillen worden geboekt. Daaronder zie je hoe het beschreven voorbeeld er in Curq uitziet.
 
@@ -15,15 +24,4 @@ Hieronder zie je rekeningen waarop de verschillen worden geboekt. Daaronder zie 
 .. image:: My-Ponto-Bank-Feed-Media/voorbeeldbetalingskorting.png
    :width: 6.3in
    :height: 2.90069in
-
-Configuratie
-Om kortingen in contanten toe te kennen aan klanten, moet je eerst de winst- en verliesrekeningen controleren. Configureer vervolgens de betalingsvoorwaarden en voeg een betalingskorting toe door het selectievakje Vroegtijdige korting in te schakelen en het kortingspercentage, de kortingsdagen en de velden voor belastingvermindering in te vullen.
-
-Winst- en verliesrekeningen met contante korting
-Met een korting in contanten hangt het bedrag dat je verdient af van het feit of de klant al dan niet profiteert van de korting in contanten. Dit leidt onvermijdelijk tot winsten en verliezen, die worden geboekt op standaardrekeningen.
-
-Om deze rekeningen te wijzigen, ga je naar Boekhouding ‣ Configuratie ‣ Instellingen en selecteer je in het gedeelte Standaardrekeningen de rekeningen die je wilt gebruiken voor de rekening Winst op kaskorting en de rekening Verlies op kaskorting.
-
-Betalin
-
 
