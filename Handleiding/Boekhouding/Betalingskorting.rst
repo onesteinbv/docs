@@ -25,3 +25,19 @@ Hieronder zie je rekeningen waarop de verschillen worden geboekt. Daaronder zie 
    :width: 6.3in
    :height: 2.90069in
 
+Pas een korting in contanten toe op een klantfactuur door de betalingsvoorwaarden te selecteren die je hebt gemaakt. Odoo berekent automatisch de juiste bedragen, belastingbedragen, vervaldatums en boekhoudgegevens.
+
+Op het tabblad Boekingsregels kun je de details van de korting weergeven door op de knop "Wisselen" te klikken en de kolommen Kortingsdatum en Kortingsbedrag toe te voegen.
+
+.. image:: My-Ponto-Bank-Feed-Media/Betalingsconditie_op_factuur.png
+   :width: 6.3in
+   :height: 2.90069in
+
+.. image:: My-Ponto-Bank-Feed-Media/voorbeeld_verkoopfactuur.png
+   :width: 6.3in
+   :height: 2.90069in
+
+Het kortingsbedrag en de vervaldatum worden ook weergegeven op de gegenereerde factuur die naar de klant wordt gestuurd. 
+Als de klant het met de korting gereduceerde bedrag overmaakt, dan zal Odoo automatisch voorstellen om het verschil af te boeken op de betalingsverschillen rekening. Dit wrdt alleen gedaan als de klant op tijd betaalt.
+
+
