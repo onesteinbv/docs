@@ -1,13 +1,13 @@
-Betalingskortingen klant en inkoopkorting
+Betalingskortingen klant en inkoopkorting leveranciers
 ----
 
 Betalingskortingen zijn kortingen op het bedrag dat een klant moet betalen voor goederen of diensten als stimulans voor het snel betalen van de factuur. Inkoopkortingen zijn kortingen die je afspreekt met je leverancier als je zelf binnen een afgesproken termijn betaalt. 
 
-Deze kortingen zijn meestal een percentage van het totale factuurbedrag en worden toegepast als de klant binnen een bepaalde tijd betaalt. Betalingskortingen kunnen een bedrijf helpen om een regelmatige cashflow te behouden. inkoopkrting levert direct resultaat op, het verlaagt het bedrag van je inkoopfactuur.
+Deze kortingen zijn meestal een percentage van het totale factuurbedrag en worden toegepast als de klant binnen een bepaalde tijd betaalt. Betalingskortingen kunnen een bedrijf helpen om een regelmatige cashflow te behouden. inkoopkorting levert direct resultaat op, het verlaagt immers het bedrag van je inkoopfactuur.
 
 Om kortingen in contanten te kunnen registreren, moet je eerst de winst- en verliesrekeningen controleren. In Curq zijn deze velden standaard ingevuld.
 
-Configureer vervolgens de betalingsvoorwaarden en voeg een betalingskorting toe door het selectievakje Vroegtijdige korting in te schakelen en het kortingspercentage, de kortingsdagen en de velden voor belastingvermindering in te vullen.
+Configureer vervolgens de betalingsvoorwaarden en voeg een betalingskorting toe door het selectievakje Vroegtijdige korting in te schakelen en het kortingspercentage, de kortingsdagen en de velden voor belastingvermindering in te vullen. de betingsvoorwaarden kun je voor zowel de verkoop- als ook de inkoopfacturen gebruiken.
 
 Voorbeeld
 ----
