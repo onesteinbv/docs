@@ -3,15 +3,16 @@ Betalingskortingen
 
 Betalingskortingen zijn kortingen op het bedrag dat een klant moet betalen voor goederen of diensten als stimulans voor het snel betalen van de factuur. Deze kortingen zijn meestal een percentage van het totale factuurbedrag en worden toegepast als de klant binnen een bepaalde tijd betaalt. Betalingskortingen kunnen een bedrijf helpen om een regelmatige cashflow te behouden.
 
- Voorbeeld
-
 Je maakt een factuur van €100 op 1 januari. De volledige betaling moet binnen 30 dagen worden voldaan en je biedt ook een korting van 2% als de klant binnen zeven dagen betaalt.
 De klant kan €98 betalen tot 8 januari. Daarna zou hij €100 moeten betalen op 31 januari.
 
-Er kan ook een belastingvermindering worden toegepast, afhankelijk van het land of de regio.
+Hieronder zie je rekeningen waarop de verschillen worden geboekt. Daaronder zie je hoe het beschreven voorbeeld er in Curq uitziet.
 
+.. image:: My-Ponto-Bank-Feed-Media/instellingen_betalingskorting.png
+   :width: 6.3in
+   :height: 2.90069in
 
-.. image:: SEPA-betalingen-leverancier-OCA-Media/instellingenbetalingskorting.png
+.. image:: My-Ponto-Bank-Feed-Media/voorbeeldbetalingskorting.png
    :width: 6.3in
    :height: 2.90069in
 
