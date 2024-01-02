@@ -1,11 +1,15 @@
+Bankrekening
+----
+
+
 My Ponto Bank Feed
 ==================
 
 In Curq kunnen bankafschriften worden gesynchroniseerd met je bank via de
-MyPonto verbinding
+MyPonto verbinding. Eerst maak je de integratie aan via myponto.com. Hierna configureer je Curq.
 
-Stappen om de verbinding te maken.
--------------------------------
+Stappen om de verbinding te maken op MyPonto.
+-------
 1. Stel uw My Ponto verbinding in, zie https://myponto.com/en/.
 
 2. Ga na het registreren naar 'Integraties'.
@@ -29,9 +33,9 @@ Stappen om de verbinding te maken.
        :width: 6.3in
        :height: 2.93264in
 
-Ga dan naar Curq
+Configuratie in Curq
 ---------------
-1. Maak eerst uw bankrekening aan in Curq
+1. Maak eerst je bankrekening aan in Curq
 
 2. Het bijbehorende Bankjournaal wordt automatisch aangemaakt
 
