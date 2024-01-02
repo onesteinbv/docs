@@ -1,88 +1,76 @@
 My Ponto Bank Feed
 ==================
 
-In Curq bank statements can be synchronized with your bank using the
-MyPonto connection
+In Curq kunnen bankafschriften worden gesynchroniseerd met je bank via de
+MyPonto verbinding
 
-Steps to create the connection.
+Stappen om de verbinding te maken.
 -------------------------------
-1. Set up your My Ponto connection, see https://myponto.com/en/
+1. Stel uw My Ponto verbinding in, zie https://myponto.com/en/.
 
-2. After registering go to ‘Integraties’
+2. Ga na het registreren naar 'Integraties'.
 
-3. Choose ‘Maak een aangepaste ingratie’
+3. Kies 'Maak een aangepaste ingratie'.
 
-4. Fill in your bank account number and choose ‘Toevoegen’.
+4. Vul je bankrekeningnummer in en kies 'Toevoegen'.
 
-5. As a result you will see the client and secret id. You need this
-   information later on in Curq.
+5. Als resultaat zie je de klant- en geheime id. Deze
+   informatie later nodig in Curq.
 
------
-
-    .. image:: My-Ponto-Bank-Feed-Media/image1.png
+.. image:: My-Ponto-Bank-Feed-Media/image1.png
        :width: 6.3in
        :height: 2.93264in
 
------
-
-    .. image:: My-Ponto-Bank-Feed-Media/image2.png
+.. image:: My-Ponto-Bank-Feed-Media/image2.png
        :width: 6.3in
        :height: 2.93264in
 
------
-
-    .. image:: My-Ponto-Bank-Feed-Media/image3.png
+.. image:: My-Ponto-Bank-Feed-Media/image3.png
        :width: 6.3in
        :height: 2.93264in
------
 
-Then go to Curq
+Ga dan naar Curq
 ---------------
-1. First create your Bank account in Curq
+1. Maak eerst uw bankrekening aan in Curq
 
-2. The related Bank Journal will be created automatically
+2. Het bijbehorende Bankjournaal wordt automatisch aangemaakt
 
-3. The go to menu ‘Online Bank afschrift aanbieders’
+3. Ga naar het menu 'Online Bank afschrift aanbieders'
 
-4. Create a new record, choose the correct Bank journal
+4. Maak een nieuw record aan, kies het juiste Bankjournaal
 
-5. Choose MyPonto
+5. Kies MyPonto
 
-6. Choose between a daily, weekly or Monthly statement
+6. Kies tussen een dagelijks, wekelijks of maandelijks overzicht
 
-7. In the Login field fill in the Client ID string from the Ponto
-   integration
+7. Vul in het veld Login de Client ID string in van de Ponto
+   integratie
 
-8. In the Secret id field fill in the secret it from MyPonto
+8. Vul in het veld Secret id het geheim van MyPonto in
 
-9. You are now ready to retrieve data from your Bank
+9. Je bent nu klaar om gegevens van je bank op te halen
 
------
-
-    .. image:: My-Ponto-Bank-Feed-Media/image4.png
+.. image:: My-Ponto-Bank-Feed-Media/image4.png
        :width: 6.3in
        :height: 2.90069in
------
 
-    .. image:: My-Ponto-Bank-Feed-Media/image5.png
+.. image:: My-Ponto-Bank-Feed-Media/image5.png
        :width: 6.3in
        :height: 2.90069in
------
 
-    .. image:: My-Ponto-Bank-Feed-Media/image6.png
+.. image:: My-Ponto-Bank-Feed-Media/image6.png
        :width: 6.3in
        :height: 2.90069in
------
 
-    .. image:: My-Ponto-Bank-Feed-Media/image7.png
+.. image:: My-Ponto-Bank-Feed-Media/image7.png
        :width: 6.3in
        :height: 2.90069in
------
 
-    .. image:: My-Ponto-Bank-Feed-Media/image8.png
+.. image:: My-Ponto-Bank-Feed-Media/image8.png
        :width: 6.3in
        :height: 2.90069in
------
+
+
 
     .. image:: My-Ponto-Bank-Feed-Media/image9.png
        :width: 5.50833in
