@@ -38,6 +38,6 @@ Op het tabblad Boekingsregels kun je de details van de korting weergeven door op
    :height: 2.90069in
 
 Het kortingsbedrag en de vervaldatum worden ook weergegeven op de gegenereerde factuur die naar de klant wordt gestuurd. 
-Als de klant het met de korting gereduceerde bedrag overmaakt, dan zal Odoo automatisch voorstellen om het verschil af te boeken op de betalingsverschillen rekening. Dit wrdt alleen gedaan als de klant op tijd betaalt.
+Als de klant het met de korting gereduceerde bedrag overmaakt, dan zal Odoo automatisch voorstellen om het verschil af te boeken op de betalingsverschillen rekening. Dit wordt alleen gedaan als de klant op tijd betaalt en je kiest voor het registreren van de betaling bij de factuur zelf. Als je direct het bedrag verwerkt vanuit de bank, dan is het aan te raden om een aflettermodel aan te maken waarmee je het betalingsverschil kunt wegboeken.
 
 
