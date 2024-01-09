@@ -62,7 +62,7 @@ Alle belangrijke wijzigingen met betrekking tot de factuur worden hier bijgehoud
 - **Log notitie:** Dit is een interne notitie die alleen intern zichtbaar is. Voor de klant is deze niet zichtbaar.
 - **Activiteiten:** Je kan een bepaalde activiteit inplannen voor iemand. Dit kan een todo zijn, maar ook een afspraak.
 
-.. image::leveransierfactuur/Leveransierfactuur006.png
+.. image:: leveransierfactuur/Leveransierfactuur006.png
 
 - **Volgers:** Contacten, medewerkers kunnen volgers zijn van het documenten. Afhankelijk van hun aanmelding worden deze volgers op de hoogte gehouden van wijzigingen op dit document.
 
