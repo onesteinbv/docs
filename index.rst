@@ -26,7 +26,7 @@ Handleiding
 
             `Verkoopfacturen Afleveradres en Factuuradres <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_afleveradres_factuuradres.html>`_            
 
-    `Ponto bankafschriften overzicht <http://docs.onestein.eu/Handleiding/Boekhouding/My-Ponto-Bank-Feed.html>`_
+    `Ponto bankafschriften overzicht <http://docs.onestein.eu/Handleiding/Boekhouding/myponto_inrichting.html>`_
 
     `SEPA betalingen leverancier <http://docs.onestein.eu/Handleiding/Boekhouding/SEPA-betalingen-leverancier-OCA.html>`_
 
