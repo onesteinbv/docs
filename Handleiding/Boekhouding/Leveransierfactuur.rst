@@ -31,14 +31,14 @@ Factuurregels
 - **Algemene voorwaarden:** Links onder de factuurregels zie je de algemene voorwaarden staan. Deze tekst verschijnt op je facturen. TIP: Heb je deze op je website staan, dan kan je daar naar verwijzen.
 - **Totalen:** Rechts onder de factuurregels zie je de totalen van de factuur inclusief welke BTW wordt toegepast.
 
--- image:: leveransierfactuur/Leveransierfactuur003.png
+.. image:: leveransierfactuur/Leveransierfactuur003.png
 
 Boekingsregels
 --------------
 
 Hier wordt de journaalpost getoond van de factuur. Dit is voor de boekhouder van belangrijke informatie.
 
--- image:: leveransierfactuur/Leveransierfactuur004.png
+.. image:: leveransierfactuur/Leveransierfactuur004.png
 
 Overige informatie
 ------------------
@@ -49,7 +49,7 @@ Hier worden leveringscondities, fiscale positie, automatisch boeken en controle 
 - **Automatische boeken:** Alleen op een concept factuur kan dit worden ingesteld. Je kan een factuur al vooruit plannen om die later te laten boeken. Of je kan terugkerende facturen automatisch laten boeken tot een bepaalde tijd door Curq. Dit is handig als je elke maand dezelfde factuur wilt laten aanmaken.
 - **Te controleren:** De factuur krijgt de status te controleren. Je kan bijv. jouw boekhouder hiermee attenderen dat deze factuur nog een keer extra moeten worden gecontroleerd.
 
--- image::leveransierfactuur/Leveransierfactuur005.png
+.. image::leveransierfactuur/Leveransierfactuur005.png
 
 Wanneer een factuur geüpload wordt verschijnt dezen aan de rechter kant van het scherm en kan de informatie direct overgenomen worden.
 
@@ -62,15 +62,15 @@ Alle belangrijke wijzigingen met betrekking tot de factuur worden hier bijgehoud
 - **Log notitie:** Dit is een interne notitie die alleen intern zichtbaar is. Voor de klant is deze niet zichtbaar.
 - **Activiteiten:** Je kan een bepaalde activiteit inplannen voor iemand. Dit kan een todo zijn, maar ook een afspraak.
 
--- image::leveransierfactuur/Leveransierfactuur006.png
+.. image::leveransierfactuur/Leveransierfactuur006.png
 
 - **Volgers:** Contacten, medewerkers kunnen volgers zijn van het documenten. Afhankelijk van hun aanmelding worden deze volgers op de hoogte gehouden van wijzigingen op dit document.
 
 Wanneer alle informatie is ingevuld, selecteer "Bevestigen" links boven in de hoek.
 
--- image:: leveransierfactuur/Leveransierfactuur007.png
+.. image:: leveransierfactuur/Leveransierfactuur007.png
 
 Hierna kan de betaling geregistreerd worden, een creditfactuur voor de huidige factuur worden aangemaakt en de factuur teruggezet worden naar een consent om aanpassingen te maken
 
--- image:: leveransierfactuur/Leveransierfactuur008.png
+.. image:: leveransierfactuur/Leveransierfactuur008.png
 
