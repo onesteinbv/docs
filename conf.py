@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'onestein'
-copyright = '2023, Onestein B.V.'
+copyright = '2024, Onestein B.V.'
 author = 'Onestein'
 
 # -- General configuration ---------------------------------------------------
