@@ -28,9 +28,9 @@ Handleiding
 
     `Ponto bankafschriften overzicht <http://docs.onestein.eu/Handleiding/Boekhouding/myponto_inrichting.html>`_
 
-    `SEPA betalingen leverancier <http://docs.onestein.eu/Handleiding/Boekhouding/SEPA-betalingen-leverancier-OCA.html>`_
+    `SEPA betalingen leverancier <http://docs.onestein.eu/Handleiding/Boekhouding/sepa.html>`_
 
-    `Herinneringen in Curq <http://docs.onestein.eu/Handleiding/Boekhouding/Herinneringen-in-Curq.html>`_
+    `Herinneringen in Curq <http://docs.onestein.eu/Handleiding/Boekhouding/herinneringen.html>`_
 
 .. admonition:: Inkoop
 
