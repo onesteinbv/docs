@@ -5,7 +5,7 @@ Met Curq kun je ook jouw klanten bedienen als ze over meerdere adressen of e-mai
 
 De verschillende afleveradressen en factuuradressen zijn zichtbaar bij het contact onder de tab [Contacten & Adressen].
 
-.. image:: Customer-Invoices/verkoopfacturen_afleveradres_factuuradres001.png
+.. image:: Verkoopfacturen/verkoopfacturen_afleveradres_factuuradres001.png
 
 
 Een afleveradres herken je aan het symbool van de **vrachtwagen**, terwijl het factuuradres wordt aangeduid met het symbool van het **geldbiljet**. Raadpleeg de handleiding voor contacten voor instructies over het aanmaken en bewerken van deze contacten.
@@ -18,7 +18,7 @@ Indien je gebruikmaakt van de integratie met de verkooporder, kun je meer inform
 Verkoopfactuur
 --------------
 
-.. image:: Customer-Invoices/verkoopfacturen_afleveradres_factuuradres002.png
+.. image:: Verkoopfacturen/verkoopfacturen_afleveradres_factuuradres002.png
 
 
 In de factuur kun je een klant invoeren. Dit is het adres waarnaar de factuur wordt verzonden en dat ook op de factuur verschijnt als afnemer. Als je een contactpersoon hebt zonder extra adressen, vul dan dit adres in. Als je er een hebt met extra adressen, controleer dan welk adres je moet gebruiken. Geef bij voorkeur het factuuradres op in plaats van het algemene contactadres.
@@ -28,8 +28,8 @@ Het is ook mogelijk om een ander adres/afleveradres in te voeren. Dit kan handig
 
 Voor een voorbeeldfactuur waarvan alle adressen gelijk zijn, zie onderstaande afbeelding:
 
-.. image:: Customer-Invoices/verkoopfacturen_afleveradres_factuuradres003.png
+.. image:: Verkoopfacturen/verkoopfacturen_afleveradres_factuuradres003.png
 
 Voor een voorbeeldfactuur waarvan het afleveradres verschilt, zie onderstaande afbeelding:
 
-.. image:: Customer-Invoices/verkoopfacturen_afleveradres_factuuradres004.png
+.. image:: Verkoopfacturen/verkoopfacturen_afleveradres_factuuradres004.png

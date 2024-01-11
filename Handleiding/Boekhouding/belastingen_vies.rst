@@ -5,6 +5,6 @@ Curq maakt gebruik van de `VAT Information Exchange System (VIES) <https://ec.eu
 
 Bij het adres van een contact vind je het BTW-nummer terug. De controle wordt pas uitgevoerd als ook het land is ingevuld. Zodra de controle heeft plaatsgevonden, verandert het VIES-validatievinkje. Eenmaal de controle succesvol is uitgevoerd en het BTW-nummer correct is, wordt het vinkje aangezet.
 
-.. image:: Accounting-Media/belastingen_vies001.png
+.. image:: Boekhouding/belastingen_vies001.png
 
 Als het BTW-nummer onjuist is, verschijnt er een foutmelding. Hiermee voorkom je dat onjuiste gegevens bij de contacten worden opgeslagen.

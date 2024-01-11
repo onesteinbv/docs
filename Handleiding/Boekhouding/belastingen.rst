@@ -5,7 +5,7 @@ Als ondernemer wil je dat de belastingen zo goed mogelijk worden bepaald. Curq k
 
 Belastinginstellingen
 
-.. image:: Accounting-Media/belastingen001.png
+.. image:: Boekhouding/belastingen001.png
 
 - **Algemene BTW:** Bepaal welke BTW-code standaard wordt gebruikt bij jouw facturen en orders, zowel voor Verkoop als Inkoop.
 - **BTW-vermindering op betalingskorting:** Wanneer wordt er BTW verminderd als je een betalingskorting aanbiedt? Stel je hebt een factuur van 100,- met 21,- BTW. Als je binnen 7 dagen betaalt, ontvang je 2% korting.

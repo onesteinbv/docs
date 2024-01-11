@@ -21,16 +21,16 @@ Voor B2C worden de prijzen meestal inclusief BTW weergegeven. Stel, je verkoopt 
 
 Met de volgende instellingen kun je jouw omgeving configureren voor B2C. Ga naar Instellingen > Facturatie > BTW. Zorg ervoor dat je bij de algemene BTW-instelling een BTW-code met inclusief BTW kiest voor **Verkoop BTW**.
 
-.. image:: Accounting-Media/belastingen_b2c_b2b001.png
+.. image:: Boekhouding/belastingen_b2c_b2b001.png
 
 De tweede instelling kun je configureren via Instellingen > Facturatie > Klantfacturen. Zorg ervoor dat deze op **inclusief BTW** staat.
 
-.. image:: Accounting-Media/belastingen_b2c_b2b002.png
+.. image:: Boekhouding/belastingen_b2c_b2b002.png
 
 Zodra je een product aanmaakt, vul je daar de verkoopprijs in, inclusief het BTW-bedrag, bijvoorbeeld 121,-. Je ziet meteen ook het bedrag exclusief BTW, bijvoorbeeld 100,-. Op basis van jouw instellingen stelt Curq nu automatisch de BTW-code met inclusief BTW in voor elk product.
 Ook op je facturen en verkooporders zal je nu op de regels het bedrag inclusief het BTW zien.
 
-.. image:: Accounting-Media/belastingen_b2c_b2b003.png
+.. image:: Boekhouding/belastingen_b2c_b2b003.png
 
 * **Groep van BTW:** Hiermee kun je meerdere BTW-codes combineren in 1 BTW-code.
 * **Vast:** Een vast bedrag als Belasting.
@@ -41,7 +41,7 @@ Ook op je facturen en verkooporders zal je nu op de regels het bedrag inclusief 
 - **BTW-over:** HHiermee bepaal je tot welke soort producten je deze BTW-code kunt toepassen.
 - **Bedrag:** Afhankelijk van de instelling bij BTW berekening geef je hier het percentage of bedrag in.
 
-.. image:: Accounting-Media/belastingen_b2c_b2b001.png
+.. image:: Boekhouding/belastingen_b2c_b2b001.png
 
 In het definitie tabblad leg je de belastingregels vast voor facturen of 
 
@@ -50,7 +50,7 @@ B2B
 
 De BTW-codes vind je terug onder Facturatie > Configuratie > BTW. Je kunt ze hier aanpassen door op de BTW-code te klikken.
 
-.. image:: Accounting-Media/belastingen_b2c_b2b001.png
+.. image:: Boekhouding/belastingen_b2c_b2b001.png
 
 - **BTW naam:** Hier kun je een naam opgeven voor je BTW-code. Deze verschijnt overal binnen Curq, dus geef een herkenbare naam mee.
 
@@ -65,7 +65,7 @@ De BTW-codes vind je terug onder Facturatie > Configuratie > BTW. Je kunt ze hie
 - **BTW-over:** HHiermee bepaal je tot welke soort producten je deze BTW-code kunt toepassen.
 - **Bedrag:** Afhankelijk van de instelling bij BTW berekening geef je hier het percentage of bedrag in.
 
-.. image:: Accounting-Media/belastingen_b2c_b2b001.png
+.. image:: Boekhouding/belastingen_b2c_b2b001.png
 
 In het definitie tabblad leg je de belastingregels vast voor facturen of 
 
@@ -74,7 +74,7 @@ B2C en B2B
 
 De BTW-codes vind je terug onder Facturatie > Configuratie > BTW. Je kunt ze hier aanpassen door op de BTW-code te klikken.
 
-.. image:: Accounting-Media/belastingen_b2c_b2b001.png
+.. image:: Boekhouding/belastingen_b2c_b2b001.png
 
 - **BTW naam:** Hier kun je een naam opgeven voor je BTW-code. Deze verschijnt overal binnen Curq, dus geef een herkenbare naam mee.
 
@@ -89,6 +89,6 @@ De BTW-codes vind je terug onder Facturatie > Configuratie > BTW. Je kunt ze hie
 - **BTW-over:** HHiermee bepaal je tot welke soort producten je deze BTW-code kunt toepassen.
 - **Bedrag:** Afhankelijk van de instelling bij BTW berekening geef je hier het percentage of bedrag in.
 
-.. image:: Accounting-Media/belastingen_b2c_b2b001.png
+.. image:: Boekhouding/belastingen_b2c_b2b001.png
 
 In het definitie tabblad leg je de belastingregels vast voor facturen of 

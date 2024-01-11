@@ -5,7 +5,7 @@ Dagboeken vormen essentiële onderdelen van een gedegen boekhoudsysteem, waarbij
 
 De beheerfunctie voor dagboeken is te vinden onder Facturatie > Configuratie > Dagboeken. In Curq zijn de meest gangbare dagboeken alvast voor je ingesteld.
 
-.. image:: Accounting-Media/boekhouding_starten_dagboeken001.png
+.. image:: Boekhouding/boekhouding_starten_dagboeken001.png
 
 Bank
 ----
@@ -14,7 +14,7 @@ Het bankboek fungeert als een gedetailleerd financieel dagboek waarin alle bankt
 
 De configuratie van het bankboek ziet er als volgt uit.
 
-.. image:: Accounting-Media/boekhouding_starten_dagboeken002.png
+.. image:: Boekhouding/boekhouding_starten_dagboeken002.png
 
 - **Bankrekening:** Koppel de juiste grootboekrekening aan de bank hier.
 - **Afletteringsmodus:** Bepaal of het mogelijk is om een aflettering op de bank ongedaan te maken na uitvoering.
@@ -38,15 +38,15 @@ De configuratie van het bankboek ziet er als volgt uit.
 
 Op het tabblad "Inkomende betalingen" kun je aangeven welke betalingsmethoden beschikbaar zijn in dit dagboek. Als je van plan bent om facturen van je klanten te innen, kun je gebruikmaken van Sepa Direct Debit, dat standaard al voor je is geactiveerd.
 
-.. image:: Accounting-Media/boekhouding_starten_dagboeken003.png
+.. image:: Boekhouding/boekhouding_starten_dagboeken003.png
 
 Op het tabblad "Uitgaande betalingen" kun je aangeven welke betalingsmethoden beschikbaar zijn in dit dagboek. Als je van plan bent om je leveranciers via de boekhouding te betalen, kun je gebruikmaken van Sepa Credit Transfer. Hiermee genereer je een bestand dat je vervolgens kunt uploaden naar je bank. Daarna kun je de betaling verder afhandelen in je bankomgeving. Hiermee voorkom je dubbele invoer en fouten die kunnen optreden bij handmatige betalingsverwerking.
 
-.. image:: Accounting-Media/boekhouding_starten_dagboeken004.png
+.. image:: Boekhouding/boekhouding_starten_dagboeken004.png
 
 Op het tabblad "Geavanceerde instellingen" kun je de volgende instellingen configureren.
 
-.. image:: Accounting-Media/boekhouding_starten_dagboeken005.png
+.. image:: Boekhouding/boekhouding_starten_dagboeken005.png
 
 - **Toegestane rekeningen:** Bepaalt welke grootboekrekeningen mogen worden gebruikt in dit dagboek.
 - **Saldolijn toevoegen:** Voegt een extra regel toe aan het bankafschrift voor het saldo.
@@ -60,7 +60,7 @@ In het verkoopboek wordt gedetailleerde informatie bijgehouden over alle verkope
 
 De configuratie van het verkoopboek ziet er als volgt uit.
 
-.. image:: Accounting-Media/boekhouding_starten_dagboeken006.png
+.. image:: Boekhouding/boekhouding_starten_dagboeken006.png
 
 - **Standaard omzetrekening:** De standaard grootboekrekening die wordt gebruikt wanneer een factuur wordt aangemaakt. Als er vanuit andere processen geen specifieke omzetrekening wordt opgegeven, zal deze standaardrekening worden gebruikt.
 - **Specifieke creditfactuur reeks:** Vink dit aan als je niet dezelfde nummerreeks wilt gebruiken voor creditfacturen die in dit dagboek zijn geboekt. 
@@ -70,7 +70,7 @@ De configuratie van het verkoopboek ziet er als volgt uit.
 
 Op het tabblad "Geavanceerde instellingen" kun je de volgende instellingen configureren.
 
-.. image:: Accounting-Media/boekhouding_starten_dagboeken007.png
+.. image:: Boekhouding/boekhouding_starten_dagboeken007.png
 
 - **Toegestane rekeningen:** Bepaalt welke grootboekrekeningen mogen worden gebruikt in dit dagboek.
 - **Saldolijn toevoegen:** Deze is niet van toepassing.
@@ -90,7 +90,7 @@ Het inkoopboek richt zich op alle aankopen van goederen en diensten door het bed
 
 De configuratie van het verkoopboek ziet er als volgt uit.
 
-.. image:: Accounting-Media/boekhouding_starten_dagboeken008.png
+.. image:: Boekhouding/boekhouding_starten_dagboeken008.png
 
 - **Standaard kostenrekening:** De standaard grootboekrekening die wordt gebruikt wanneer een factuur wordt aangemaakt. Als er vanuit andere processen geen specifieke kostenrekening wordt opgegeven, zal deze standaardrekening worden gebruikt.
 - **Specifieke creditfactuur reeks:** Vink dit aan als je niet dezelfde nummerreeks wilt gebruiken voor creditfacturen die in dit dagboek zijn geboekt. 
@@ -98,7 +98,7 @@ De configuratie van het verkoopboek ziet er als volgt uit.
 - **Chronologie controleren?:** Als de datum van een boeking niet chronologisch opvolgt, kan de boeking niet worden bevestigd. Dit voorkomt onbedoelde boekingen in de verkeerde periode.
 - **Valuta:** De valuta van dit dagboek. In de meeste gevallen is dit leeg voor inkoop. Als je een factuur in een andere valuta wilt opstellen, kun je dat direct op de factuur instellen.
 
-.. image:: Accounting-Media/boekhouding_starten_dagboeken009.png
+.. image:: Boekhouding/boekhouding_starten_dagboeken009.png
 
 - **Toegestane rekeningen:** Bepaalt welke grootboekrekeningen mogen worden gebruikt in dit dagboek.
 - **Saldolijn toevoegen:** Deze is niet van toepassing.
@@ -115,12 +115,12 @@ Een bijzonder dagboek is het dagboek memoriaal, dat fungeert als een veelzijdig 
 
 De configuratie van het verkoopboek ziet er als volgt uit.
 
-.. image:: Accounting-Media/boekhouding_starten_dagboeken010.png
+.. image:: Boekhouding/boekhouding_starten_dagboeken010.png
 
 - **Korte code:** Een korte code voor de weergave. Daarnaast worden transacties voorzien van dit voorvoegsel.
 - **Valuta:** De valuta van dit dagboek. In de meeste gevallen is dit leeg voor memoriaal.
   
-.. image:: Accounting-Media/boekhouding_starten_dagboeken011.png
+.. image:: Boekhouding/boekhouding_starten_dagboeken011.png
 
 - **Toegestane rekeningen:** Bepaalt welke grootboekrekeningen mogen worden gebruikt in dit dagboek.
 - **Saldolijn toevoegen:** Deze is niet van toepassing.

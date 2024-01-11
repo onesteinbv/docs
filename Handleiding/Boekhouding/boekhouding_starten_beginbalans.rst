@@ -7,11 +7,11 @@ Indien je een startende ondernemer bent, is het mogelijk dat je een deel van je 
 
 Een openingsbalans wordt opgesteld in het memoriaal dagboek. Zo'n memoriaalboeking maak je via Facturatie > Boekhouding > Boekingen.
 
-.. image:: Accounting-Media/boekhouding_starten_beginbalans001.png
+.. image:: Boekhouding/boekhouding_starten_beginbalans001.png
 
 Klik vervolgens op de knop [NIEUW]. Het volgende scherm verschijnt.
 
-.. image:: Accounting-Media/boekhouding_starten_beginbalans002.png
+.. image:: Boekhouding/boekhouding_starten_beginbalans002.png
 
 - **Referentie:** Geef hier een duidelijke omschrijving mee, zodat je weet waar deze boeking voor bedoeld is.
 - **Boekhouddatum:** Dit is de datum van deze boeking. Voor een openingsbalans wordt vaak het einde van een periode gekozen, meestal 31 december voor de meeste bedrijven. Als je ergens in het jaar overgaat, kies dan de laatste dag van de vorige maand. Mocht je twijfelen, overleg dan met je boekhouder welke datum geschikt is.
@@ -19,7 +19,7 @@ Klik vervolgens op de knop [NIEUW]. Het volgende scherm verschijnt.
 
 Op de boekingsregels geef je de details van de boeking in.
 
-.. image:: Accounting-Media/boekhouding_starten_beginbalans003.png
+.. image:: Boekhouding/boekhouding_starten_beginbalans003.png
 
 - **Rekening:** Vul hier de grootboekrekening in.
 - **Relatie:** Voeg een relatie toe als je ook openstaande posten of facturen in de openingsbalans opneemt. Maak per relatie een regel aan, zowel voor klanten als leveranciers. Als je veel regels moet invoeren, is het voor overzichtelijkheid aan te raden om meerdere openingsbalansboekingen te maken. Je kunt bijvoorbeeld een aparte boeking maken voor klanten en een aparte voor leveranciers.
