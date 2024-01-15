@@ -3,7 +3,7 @@ Valuta
 
 In de facturatie/boekhouding module ga naar Configuratie > Instellingen. Hier ziet u de valutasectie. Onder 'Hoofdvaluta' kan de standaardvaluta die uw bedrijf gebruikt worden geselecteerd. Deze wordt standaard ingesteld op basis van uw locatie. Aan de rechterzijde van het scherm staat de optie 'Automatische wisselkoersen'; wanneer deze optie is aangevinkt, wordt eens per dag de standaard wisselkoers overgenomen naar de geactiveerde valuta die u heeft geselecteerd.
 
-.. image:: Boekhouding/Valuta/Valuta001.png
+.. image:: Handleiding/Boekhouding/Valuta/Valuta001.png
 
 Door op de 'Valuta'-knop onder de 'Hoofdvaluta'-knop te drukken, komt u op de valutapagina. U kunt hier ook komen via Configuratie > Valuta (onder het kopje Boekhouden). Op de valutapagina staan alle beschikbare valuta. U zult zien dat de standaardvaluta al op actief staat en onder 'Huidige wisselkoers' op 1,00000 staat weergegeven. Dit is de valuta waar de wisselkoers van andere valuta op wordt berekend. Om andere valuta te gebruiken, moeten deze op actief worden gezet aan de rechterkant van het scherm. Wanneer de automatische wisselkoers is aangezet, wordt de koers automatisch berekend; als dit niet het geval is, moet deze handmatig worden ingevoerd. Dit kan door op de valuta te klikken.
 
