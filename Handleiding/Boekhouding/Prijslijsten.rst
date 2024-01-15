@@ -31,8 +31,10 @@ Onder het kopje 'Website' staan drie opties:
 
 * **Website:**
 voor welke website de prijslijst geldt.
+
 * **Kiesbaar:**
 of de klant de prijslijst in de webshop kan selecteren.
+
 * **E-commerce promotiecode:**
 de code die een klant kan invullen op de webshop om toegang te krijgen tot de prijslijst.
 
