@@ -73,4 +73,4 @@ Toepassen op heeft vier opties: alle producten, productcategorie - deze zijn per
 Minimum hoeveelheid is de minimale hoeveelheid van de producten die gekocht moeten worden om de regel te laten gelden.
 De laatste optie is Geldig tot hier kan de begin- en einddatum ingesteld worden gedurende wanneer de regel geldig is. Wanneer dit leeg gelaten wordt, is dit tot de regel of prijslijst verwijderd wordt.
 
-Waneer alle benodigde informatie is toegevoegd kan onder aan het pop-up scherm gekozen worden voor opslaan en sluiten waneer alle wijzegingen zijn doorgevoerd en opslaan en nieuw wanneer er meer regels moeten worden toegevoegd.
+Wanneer alle benodigde informatie is toegevoegd kan onder aan het pop-up scherm gekozen worden voor opslaan en sluiten waneer alle wijzegingen zijn doorgevoerd en opslaan en nieuw wanneer er meer regels moeten worden toegevoegd.
