@@ -1,11 +1,13 @@
 Verkoopfacturen - Creditnota
 ============================
 
-Het is belangrijk om de regels en voorwaarden duidelijk op te stellen, zodat belangrijke zaken in een contract worden vastgelegd. Denk hierbij aan hoe om te gaan met retourzendingen en terugbetalingen, garanties en service na verkoop. Door deze voorwaarden helder te formuleren, weten zowel jij als de klant wat te verwachten staat, en dit helpt geschillen te voorkomen.
+Het maken van een creditnota is erg belangrijk voor het geld van een bedrijf. Het is een document dat helpt bij het organiseren van het geld. Het heeft veel handige toepassingen die helpen bij het regelen van de financiën. Laten we eens kijken naar een paar van die belangrijke dingen:
 
-Een handige manier om deze voorwaarden te delen is door standaardteksten of links naar een webpagina met de volledige voorwaarden toe te voegen onderaan klantfacturen, verkooporders en offertes. Zo hebben klanten makkelijk toegang tot alle nodige informatie, wat zorgt voor duidelijkheid en vertrouwen tussen jouw bedrijf en de klant.
+**Fouten verbeteren:**
+Soms maken we foutjes als we bonnetjes schrijven. Misschien zetten we de verkeerde hoeveelheid neer of schrijven we een fout bedrag op. Een creditnota is als een speciaal papiertje waarmee we die fouten kunnen verbeteren. Het zorgt ervoor dat alles weer goed en netjes wordt opgeschreven.
 
-Daarnaast helpt het vermelden van deze voorwaarden in alle relevante documenten om een gestroomlijnd en consistent beleid binnen je bedrijf te creëren. Het geeft niet alleen duidelijkheid aan klanten, maar fungeert ook als leidraad voor je team bij het afhandelen van verschillende zakelijke transacties. Regelmatige herziening van de voorwaarden is slim om ervoor te zorgen dat ze up-to-date zijn en voldoen aan eventuele wettelijke vereisten of veranderingen in bedrijfspraktijken. Zo blijf je juridisch compliant en kunnen klanten met vertrouwen blijven zaken doen met jouw bedrijf.
+**Retourzendingen of annuleren van bestellingen:**
+Soms willen mensen iets teruggeven wat ze hebben gekocht, of ze willen hun bestelling annuleren. Als dat gebeurt, moeten we ervoor zorgen dat het geld ook wordt aangepast. Een creditnota is als een bonnetje dat laat zien dat ze hun geld terugkrijgen of dat de betaling wordt veranderd.
 
 Instellingen
 ------------
