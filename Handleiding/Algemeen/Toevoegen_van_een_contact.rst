@@ -5,16 +5,16 @@ Een contact in Odoo kan meerdere functies hebben. Dit kan een klant zijn, een le
 Om een contact aan te maken, ga naar de Contacten-pap en binnen Curq. Dit scherm is ook bereikbaar via veel van de andere apps, bijvoorbeeld via Facturatie > Klanten > Klanten, waar je een scherm ziet met alle contacten die als klant worden beschouwd.
 Eenmaal in het Contacten-venster, zoek en klik op de knop 'Nieuw' in de linkerbovenhoek van het scherm.
 
-.. image:: 
+.. image:: Contact/Toevoegen_van_een_contact001.png
 
-.. image::
+.. image:: Contact/Toevoegen_van_een_contact002.png
 
 Vul de relevante informatie in:
 -------------------------------
 Voer alle benodigde informatie van het hoofd veld in voor de nieuwe klant, zoals naam, type (individu of bedrijf), adres, contactgegevens, de website, de taal waarmee het contact wordt benaderd en labels om contacten te identificeren en groeperen. Ook kan een foto toegevoegd worden.
 Let op land of type specifieke velden zoals het KvK- of BTW-nummer, indien van toepassing.
 
-.. image::
+.. image:: Contact/Toevoegen_van_een_contact003.png
 
 Contacten en adressen:
 ----------------------
@@ -22,17 +22,15 @@ Om een contact of adres toe te voegen, selecteer 'Toevoegen' in het venster Cont
 
 Dit kan wenselijk zijn wanneer je werknemers van een bedrijf aan het bedrijf wilt toevoegen, vooral als het factuur- of afleveradres verschilt van het eerder opgegeven adres. Bijvoorbeeld, als de factuur naar het hoofdkantoor moet worden gestuurd, maar het product of de dienst naar een ander pand wordt verzonden. Ook als het contact meerdere adressen heeft of als er verwezen moet worden naar het privéadres van de contactpersoon.
 
-.. image::
+.. image:: Contact/Toevoegen_van_een_contact004.png
 
 Bij het in vullen van het veld wordt bij alle opties gevraagd om de voor- en achternaam van het contact persoon en de contactgegevens op te geven. Bij een contact wordt ook gevraagd om de titel (Dhr, de heer, mevrouw) en de functie (CEO, CFO Verkoopdirecteur), bij een adres wordt om de adres gegevens gevraagd. In elk geval kunnen er ook interne notities gemaakt worden. 
 Na dat alle informatie is ingevuld kun het contact of adres worden opgeslagen en en gesloten worden, er ik ook de optie om meteen een nieuw contact of adres aan te maken.
 
-
-
 verkoop en inkoop:
 ------------------
 
-.. image::
+.. image:: Contact/Toevoegen_van_een_contact005.png
 
 Verkoop
 -------
@@ -66,12 +64,12 @@ onder Facturatie kun je de bankrekening van het contact invullen dit gaat over d
 op welke bank de rekening staat, wat het nummer van de rekening is en of geld automatisch overgemaakt kan worden.
 Ook kunnen de grootboekrekeningen aan de rechter zijde gevonden worden. Deze zijn standaard ingesteld naar de algemene debiteur en crediteur rekeningen en er wordt geadviseerd dezen zo te laten staan tenzij het contact een specifieke rekening nodig heeft.
 
-.. image::
+.. image:: Contact/Toevoegen_van_een_contact006.png
 
 Notieties:
 maak de nodige interne notities over het contact.
 
-.. image::
+.. image:: Contact/Toevoegen_van_een_contact007.png
 
 Abonomenten(optioneel):
 -----------------------
@@ -84,12 +82,12 @@ onder het abonomenten veld staan alle abonomenten waar het contact op geaboneerd
 * **Volgende betalingsdatum:** Hier wordt aangegeven waneer het contact de volgende betaling moet leveren. Dit kan een perodieke betaling gedurende het lopen van het abonoment of een betaling om het abonoment te vernieuwe.
 * **Status:** De status waar het abonoment zich nu in verkeerd bijvoorbeeld.
 
-.. image::
+.. image:: Contact/Toevoegen_van_een_contact008.png
 
 partnertoekenning(optioneel):
 -----------------------------
 
-.. image::
+.. image:: Contact/Toevoegen_van_een_contact009.png
 
 Dit veld bevat drie cruciale secties voor effectief partnermanagement:
 
@@ -107,11 +105,6 @@ Dit veld bevat drie cruciale secties voor effectief partnermanagement:
 	
 3. **Geolocatie:** Voer de coördinaten van het contact in voor efficiënte routeplanning naar verschillende locaties. Coördinaten worden berekend op basis van het ingevoerde adres.
 	
-
-
-
-
-
 Litmaatschap(optioneel):
 ------------------------
 Onder het lidmaatschapveld staat alle informatie die van toepassing is met betrekking tot de ledenmodule voor het contact. 
@@ -121,7 +114,7 @@ Onder deze informatie staan drie vakken. In het eerste vak staat algemene inform
 In het tweede vak staat onder welke sectie het contact valt en of het contact de sectie volgt, er mee samenwerkt of beide. 
 In het laatste vak wordt weergegeven of het contact in een commissie zit en zo ja, in welke. Voor meer informatie over leden ga naar onze leden documentatie.
 
-.. image::
+.. image:: Contact/Toevoegen_van_een_contact010.png
 
 Chat functie:
 -------------
@@ -131,7 +124,7 @@ Alle belangrijke wijzigingen met betrekking tot het contact worden hier bijgehou
 * **Log notitie:** Dit is een interne notitie die alleen intern zichtbaar is. Voor het contact is deze niet zichtbaar.
 * **Activiteiten:** Je kunt een bepaalde activiteit inplannen voor iemand. Dit kan een to-do zijn, maar ook een afspraak.
 
-.. image::
+.. image:: Contact/Toevoegen_van_een_contact011.png
 
 * **Volgers:** Contacten en medewerkers kunnen volgers zijn van het document. Afhankelijk van hun aanmelding worden deze volgers op de hoogte gehouden van wijzigingen in verbant met het contact.
 
@@ -153,7 +146,7 @@ Bovenaan het scherm zijn sneltoetsen te vinden die toegang bieden tot essentiël
 * **Mass mailing groepen:** Bekijk de mass mailing groepen waar het contact aan is gekoppeld.
 * **Websitepagina van het contact:** Navigeer naar de specifieke pagina van het contact op de website.
 
-.. image::
+.. image:: Contact/Toevoegen_van_een_contact012.png
 
 Automatische opslag van de klantgegevens:
 -----------------------------------------
