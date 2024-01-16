@@ -4,7 +4,7 @@ Handleiding
 
 .. admonition:: Algemeen
 
-    `12345 <http://docs.onestein.eu/index.html>`_
+    `Toevoegen van een contact <http://docs.onestein.eu/Handleiding/Algemeen/Toevoegen_van_een_contact.rst>`_
 
 .. admonition:: Boekhouding
 
