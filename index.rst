@@ -38,7 +38,7 @@ Handleiding
 
     `Prijslijsten <http://docs.onestein.eu/Handleiding/Boekhouding/Prijslijsten.html>`_
 
-    `Valuta <http://docs.onestein.eu/Handleiding/Boekhouding/Valuta.html>
+    `Valuta <http://docs.onestein.eu/Handleiding/Boekhouding/Valuta.html>`_
 
 .. admonition:: Inkoop
 
