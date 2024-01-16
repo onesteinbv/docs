@@ -26,11 +26,19 @@ Handleiding
 
             `Verkoopfacturen Afleveradres en Factuuradres <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_afleveradres_factuuradres.html>`_            
 
+        `Leverancierfactuur <http://docs.onestein.eu/Handleiding/Boekhouding/Leverancierfactuur.html>`_
+
     `Ponto bankafschriften overzicht <http://docs.onestein.eu/Handleiding/Boekhouding/myponto_inrichting.html>`_
 
     `SEPA betalingen leverancier <http://docs.onestein.eu/Handleiding/Boekhouding/sepa.html>`_
 
     `Herinneringen in Curq <http://docs.onestein.eu/Handleiding/Boekhouding/herinneringen.html>`_
+
+    `Betalingscondities <http://docs.onestein.eu/Handleiding/Boekhouding/Betalingscondities.html>`_
+
+    `Prijslijsten <http://docs.onestein.eu/Handleiding/Boekhouding/Prijslijsten.html>`_
+
+    `Valuta <http://docs.onestein.eu/Handleiding/Boekhouding/Valuta.html>
 
 .. admonition:: Inkoop
 
@@ -47,6 +55,14 @@ Handleiding
 .. admonition:: Website
 
     `12345 <http://docs.onestein.eu/index.html>`_
+
+.. admonition:: Leden
+
+    `Introductie <http://docs.onestein.eu/Handleiding/Leden/Introductie.html>`_
+
+    `Producten voor leden <http://docs.onestein.eu/Handleiding/Leden/Producten_voor_leden.html>`_
+
+    `Registratie pagina <http://docs.onestein.eu/Handleiding/Leden/Registratie_pagina.html>`_
 
 .. admonition:: Manuals ENG
 
