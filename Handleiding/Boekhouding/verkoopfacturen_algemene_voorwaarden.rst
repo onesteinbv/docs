@@ -24,3 +24,5 @@ Je vindt de configuratieopties voor algemene voorwaarden onder Instellingen > Fa
 
 Verkoopfacturen
 ---------------
+
+De ingestelde tekst van de algemene voorwaarden verschijnt bij het aanmaken van een verkoopfactuur onderaan. Het is uiteraard mogelijk om van deze tekst aanpassen mocht je het op een bepaalde factuur een andere voorwaarden hanteren.

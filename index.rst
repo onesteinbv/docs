@@ -21,10 +21,14 @@ Handleiding
             `Controle BTW nummer VIES <http://docs.onestein.eu/Handleiding/Boekhouding/belastingen_vies.html>`_
 
             `BTW Codes en Fiscale Posities <http://docs.onestein.eu/Handleiding/Boekhouding/belastingen_fiscale_posities.html>`_
+
+            `Belastingen B2B en B2C <http://docs.onestein.eu/Handleiding/Boekhouding/belastingen_B2B_B2C.html>`_
             
         `Verkoopfacturen <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen.html>`_    
 
             `Verkoopfacturen Afleveradres en Factuuradres <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_afleveradres_factuuradres.html>`_            
+
+            `Verkoopfacturen Algemene Voorwaarden <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_algemene_voorwaarden.html>`_            
 
         `Leverancierfactuur <http://docs.onestein.eu/Handleiding/Boekhouding/Leverancierfactuur.html>`_
 
