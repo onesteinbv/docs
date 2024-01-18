@@ -58,7 +58,7 @@ Handleiding
 
 .. admonition:: Website
 
-    `12345 <http://docs.onestein.eu/index.html>`_
+    `Webdomein instellen <http://docs.onestein.eu/Handleiding/Website/Webdomein_instellen.html>`_
 
 .. admonition:: Leden
 
