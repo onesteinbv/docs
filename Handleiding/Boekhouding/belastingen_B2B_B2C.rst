@@ -62,7 +62,7 @@ De BTW-codes vind je terug onder Facturatie > Configuratie > BTW. Je kunt ze hie
 * **Percentage van prijs, inclusief BTW:** Een percentage als Belasting die rekening houdt met het totaalbedrag inclusief BTW.
 
 - **BTW-soort:** Hiermee bepaal je waar deze BTW-code kan worden geselecteerd binnen Curq.
-- **BTW-over:** HHiermee bepaal je tot welke soort producten je deze BTW-code kunt toepassen.
+- **BTW-over:** Hiermee bepaal je tot welke soort producten je deze BTW-code kunt toepassen.
 - **Bedrag:** Afhankelijk van de instelling bij BTW berekening geef je hier het percentage of bedrag in.
 
 .. image:: Boekhouding/belastingen_b2c_b2b001.png

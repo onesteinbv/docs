@@ -29,8 +29,11 @@ Na het activeren van de knop, verschijnt er een pop-upvenster met aanvullende op
 - **Creditdatum:** Je kunt kiezen tussen "Specifiek" en "Boekingsdatum". Met "Specifiek" kun je een andere datum selecteren aan de rechterkant. Bij "Boekingsdatum" heb je geen keuze en stelt Curq automatisch de datum van vandaag voor.
 - **Gebruik een specifiek dagboek:** Als je met je boekhouder een apart dagboek hebt aangemaakt voor creditnota's, kun je dat hier selecteren. In de meeste gevallen zal het echter niet nodig zijn om dit aan te passen.
 
+Afhankelijk van de geselecteerde opties zal Curq je automatisch doorverwijzen naar de creditnota of nieuwe factuur. Je hebt dan de mogelijkheid om de creditnota/verkoopfactuur te bevestigen en naar je klant te verzenden.
+
 Aparte Creditnota
 -----------------
 
-Je vindt de configuratieopties voor algemene voorwaarden onder Instellingen > Facturatie > Sectie Klantfacturen - Standaard algemene voorwaarden.
+Je hebt nog steeds de optie om een afzonderlijke creditnota te genereren. Dit kan bijvoorbeeld van toepassing zijn op meerdere facturen of op specifieke afspraken tussen jou en de klant. Een aparte creditnota maak je aan via Facturatie > Klanten > Creditfacturen.
 
+Het genereren van een creditnota verschilt niet van het opstellen van een verkoopfactuur. De procedure is vrijwel identiek. Om de correcte verwerking te waarborgen, dien je de bedragen positief in te voeren. Mocht je echter regels willen toevoegen met een negatief bedrag, zorg er dan in ieder geval voor dat het totaal van de gehele creditnota of verkoopfactuur nooit negatief wordt.
