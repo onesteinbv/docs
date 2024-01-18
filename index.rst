@@ -26,9 +26,13 @@ Handleiding
             
         `Verkoopfacturen <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen.html>`_    
 
-            `Verkoopfacturen Afleveradres en Factuuradres <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_afleveradres_factuuradres.html>`_            
+            `Verkoopfacturen Afleveradres en Factuuradres <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_afleveradres_factuuradres.html>`_
 
-            `Verkoopfacturen Algemene Voorwaarden <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_algemene_voorwaarden.html>`_            
+            `Verkoopfacturen Algemene Voorwaarden <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_algemene_voorwaarden.html>`_
+
+            `Verkoopfacturen Creditnota <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_creditnota.html>`_
+
+            `Verkoopfacturen Incoterms <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_incoterms.html>`_
 
         `Leverancierfactuur <http://docs.onestein.eu/Handleiding/Boekhouding/Leverancierfactuur.html>`_
 
