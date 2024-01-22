@@ -5,6 +5,7 @@ Handleiding
 .. admonition:: Algemeen
 
     `Toevoegen van een contact <http://docs.onestein.eu/Handleiding/Algemeen/Toevoegen_van_een_contact.html>`_
+    `Support proces <http://docs.onestein.eu/Handleiding/Algemeen/support_proces.html>`_
 
 .. admonition:: Boekhouding
 
