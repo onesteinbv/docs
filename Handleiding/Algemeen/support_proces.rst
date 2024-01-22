@@ -30,6 +30,6 @@ Algemene Tips:
 * Zorg ervoor dat je alle benodigde informatie in je vraag opneemt om het proces te versnellen.
 * Wees duidelijk en beknopt bij het formuleren van je vraag, zodat het supportteam je snel kan helpen.
 * Bewaar alle communicatie en ticketnummers voor referentie in de toekomst.
-* stel een vraag per mail om het support prosses te versoepelen.
+* stel een vraag per mail om het support proces te versoepelen.
 
 Met deze eenvoudige stappen kun je snel en efficiënt een support ticket aanmaken bij Curq, zodat je hulp kunt krijgen bij eventuele problemen of vragen.
