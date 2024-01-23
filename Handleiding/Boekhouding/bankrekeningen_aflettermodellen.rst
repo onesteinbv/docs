@@ -18,3 +18,14 @@ Je kunt met 3 doeleinden een afletter regel aanmaken:
 .. image:: Afletteren/media/image5.png
    :width: 6.69306in
    :height: 3.08125in
+
+TIP
+----
+Wanneer je te maken krijgt met kleine betalingsverschillen op facturen dan kun je die middels een aanpassing aan het standaard aflettermodel standaard wegboeken. 
+
+In onderstaand voorbeeld staat dat bij een afwijking onder de 5 cent het verschil automatisch op een verschillenrekening wordt weggeboekt.
+
+.. image:: Afletteren/media/aflettermodellen_betalingsverschillen.png
+   :width: 6.69306in
+   :height: 3.08125in
+
