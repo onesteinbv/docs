@@ -46,6 +46,9 @@ Dit onderdeel gaat over de inhoud van het contract; welke producten en/of dienst
 **Aan te maken soort**. Bij verkoopcontracten zal hier invoice staan, bij leverancierscontracten 'vendorbill'. 
 
 Voeg de regels toe waarmee gefactureerd moet worden:
+
+Abonnementsproduct
+-----
 Het product met een beschrijving, een hoeveelheid en een prijs
 
 **auto-price**.  Om automatisch een prijs uit de prijslijst te laten halen
@@ -60,6 +63,12 @@ De snelkoppeling Toon terugkerende facturen op contracten toont alle facturen di
 Het contractoverzicht kan worden afgedrukt via het menu Afdrukken.
 
 Het contract kan per e-mail worden verzonden met de knop Verzenden per e-mail
+
+Vernieuwen van een contract
+----
+Beeindigen van een contract
+----
+
 
 Contractsjablonen
 -----
