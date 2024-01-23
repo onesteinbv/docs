@@ -6,7 +6,15 @@ Het bankboek fungeert als een gedetailleerd financieel dagboek waarin alle bankt
 Wanneer je start met Curq dan is er al 1 bank dagboek aangemaakt, je dient hier alleen nog je eigen bankrekening aan toe te voegen. Ook kun je de omschrijving aanpassen.
 Belangrijk om te weten is dat als je een tweede of aanvullende bankrekening wil toevoegen, je dit doet via het menu 'Toevoegen bank'. Je hoeft in dat menu alleen je bankrekening toe te voegen, Curq zal na opslaan zelf een nieuw dagboek aanmaken dat aan deze bankrekening is gekoppeld. 
 
-TOEVEOEGEN SCHERMPRINT INVOEREN BANK 
+Hieronder zie je hoe je een tweede en volgende bankdagboek aanmaakt.
+
+.. image:: My-Ponto-Bank-Feed-Media/bankrekening_toevoegen_1.png
+       :width: 6.3in
+       :height: 2.93264in
+
+.. image:: My-Ponto-Bank-Feed-Media/bankrekening_toevoegen_2.png
+       :width: 6.3in
+       :height: 2.93264in
 
 De configuratie van het eerste bankboek ziet er als volgt uit.
 
