@@ -64,8 +64,7 @@ Het contractoverzicht kan worden afgedrukt via het menu Afdrukken.
 
 Het contract kan per e-mail worden verzonden met de knop Verzenden per e-mail
 
-Vernieuwen van een contract
-----
+
 Beeindigen van een contract
 ----
 
