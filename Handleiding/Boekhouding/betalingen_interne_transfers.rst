@@ -1,12 +1,14 @@
-Internal transfers
+Interne overboekingen
 ----
-Internal money transfers can be handled in Odoo. At least two bank accounts are needed to make internal transfers.
+Interne overboekingen kunnen worden afgehandeld in Odoo. Er zijn minstens twee bankrekeningen nodig om interne overschrijvingen te doen.
 
 Configuratie
-An internal transfer account is automatically created on your database based on your company’s localization and depending on your country’s legislation. To modify the default Internal transfer account, go to Accounting ‣ Configuration ‣ Settings and scroll down to the Default Accounts section.
+----
+Een interne overboekingsrekening wordt automatisch aangemaakt in je database op basis van het in Curq gebruikte RGS. Om de standaardrekening voor interne overschrijvingen te wijzigen, ga naar Boekhouding ‣ Configuratie ‣ Instellingen en scroll naar beneden naar de sectie Standaardrekeningen. Wij adviseren deze aanpassing alleen te doen in oveleg met je boekhouder.
 
-Register an internal transfer from one bank to another
-If you want to transfer money from one bank to another, access the Accounting Dashboard, click the drop-down selection button (⋮) on the bank from which you want to make the transfer, then click Payments. Select or create a payment, tick the Internal Transfer checkbox, and select a Destination Journal before you Confirm the internal transfer.
+Een interne overschrijving van de ene bank naar de andere registreren
+----
 
-The money is now booked in the transfer account and another payment is automatically created in the destination journal.
-Once this is done, you can book and reconcile your bank statement lines as usual.
+Als je geld wilt overmaken van de ene bank naar de andere, gaat dan naar het Boekhouddashboard, klikt u op de keuzeknop (⋮) bij de bank van waaruit u de overschrijving wilt doen en klikt u vervolgens op Betalingen. Selecteer of creëer een betaling, vink Interne overboeking aan en selecteer een Bestemmingsjournaal voordat je de interne overboeking bevestigt.
+
+Het geld wordt nu geboekt op de overboekingsrekening en er wordt automatisch nog een betaling aangemaakt in het bestemmingsjournaal. Zodra dit is gebeurd, kun je zoals gewoonlijk je bankafschriftregels boeken en afletteren.
