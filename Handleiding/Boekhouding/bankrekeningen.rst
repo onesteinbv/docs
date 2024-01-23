@@ -3,9 +3,12 @@ Bank
 
 Het bankboek fungeert als een gedetailleerd financieel dagboek waarin alle banktransacties worden vastgelegd, waaronder stortingen, opnames en afschrijvingen. Het zorgvuldig bijhouden van deze transacties via het bankboek biedt niet alleen de mogelijkheid om financiële bewegingen nauwkeurig te monitoren, maar speelt tevens een cruciale rol bij het vaststellen van budgetten en het analyseren van uitgavenpatronen.
 
-Wanneer je start met Curq dan is er al 1 bank dagboek aangemaakt, je dient hier alleen nog je eigen bankrekening aan toe te voegen. Ook kun je de omschrijving 
+Wanneer je start met Curq dan is er al 1 bank dagboek aangemaakt, je dient hier alleen nog je eigen bankrekening aan toe te voegen. Ook kun je de omschrijving aanpassen.
+Belangrijk om te weten is dat als je een tweede of aanvullende bankrekening wil toevoegen, je dit doet via het menu 'Toevoegen bank'. Je hoeft in dat menu alleen je bankrekening toe te voegen, Curq zal na opslaan zelf een nieuw dagboek aanmaken dat aan deze bankrekening is gekoppeld. 
 
-De configuratie van het bankboek ziet er als volgt uit.
+TOEVEOEGEN SCHERMPRINT INVOEREN BANK 
+
+De configuratie van het eerste bankboek ziet er als volgt uit.
 
 .. image:: Boekhouding/boekhouding_starten_dagboeken002.png
 
