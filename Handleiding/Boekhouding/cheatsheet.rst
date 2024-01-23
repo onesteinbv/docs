@@ -1,3 +1,9 @@
+In dit onderdeel geven we een korte uitleg waar de balans en de verlies en winst onderdelen in Curq uit bestaan. We beschrijven de onderdelen op basis van de door Curq voorgedefineerde rekening categorien
+
+.. image:: My-Ponto-Bank-Feed-Media/bankrekening_toevoegen_1.png
+       :width: 6.3in
+       :height: 2.93264in
+
 Introductie Balans
 ----
 De **Balans** is een momentopname van de financiën van het bedrijf op een specifieke datum (in tegenstelling tot de Winst- en Verliesrekening, die een analyse is over een periode).
