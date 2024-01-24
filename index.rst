@@ -44,6 +44,14 @@ Handleiding
 
         `Leverancierfactuur <http://docs.onestein.eu/Handleiding/Boekhouding/Leverancierfactuur.html>`_
 
+        `Verkoopcontracten en abonnementen <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopcontracten.html>`_   
+
+         `Verkoopcontractsjablonen <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopcontracten_sjablonen.html>`_ 
+
+         `Verkoopcontract vernieuwen <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopcontracten_vernieuwen.html>`_ 
+
+         `Verkoopcontract beeindigen <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopcontracten_beeindigen.html>`_  
+
         `Betalingen <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen.html>`_
 
             `Online Betalingen <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_online_betalingen.html>`_
