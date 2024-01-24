@@ -33,7 +33,7 @@ puntjes rechts in de tegel:
 |
 .. image:: Afletteren/media/image3.png
 
-.. note::
+.. Note::
    Bij het afletteren kan het zijn dat je een regel geheel of gedeeltelijk hebt afgeletterd en er op dat moment achter komt dat je een fout hebt gemaakt. Zorg er op dat moment altijd    voor dat je eerst de verkeerd afgeletterde regels verwijderd. Je doet dit door die regels in de prullenbak te gooien.
 
 .. image:: Afletteren/media/regels_verwijderen.png
