@@ -36,13 +36,28 @@ Handleiding
 
             `Verkoopfacturen Incoterms <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_incoterms.html>`_
 
+            `Herinneringsproces facturen <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_herinneringen.html>`_
+
         `Leverancierfactuur <http://docs.onestein.eu/Handleiding/Boekhouding/Leverancierfactuur.html>`_
 
-    `Ponto bankafschriften overzicht <http://docs.onestein.eu/Handleiding/Boekhouding/myponto_inrichting.html>`_
+        `Betalingen <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen.html>`_
 
-    `SEPA betalingen leverancier <http://docs.onestein.eu/Handleiding/Boekhouding/sepa.html>`_
+            `Online Betalingen <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_online_betalingen.html>`_
 
-    `Herinneringen in Curq <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_herinneringen.html>`_
+            `Direct Debit <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_direct_debit.html>`_
+
+            `SEPA betaling <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_sepa.html>`_
+
+            `Interne transfers <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_interne_transfers.html>`_
+
+        `Bankrekeningen <http://docs.onestein.eu/Handleiding/Boekhouding/bankrekeningen.html>`_
+
+         `Banksynchronisatie MyPonto <http://docs.onestein.eu/Handleiding/Boekhouding/bankrekeningen_myponto.html>`_
+
+         `Afletteren bank <http://docs.onestein.eu/Handleiding/Boekhouding/bankrekeningen_afletteren.html>`_
+
+         `Aflettermodellen <http://docs.onestein.eu/Handleiding/Boekhouding/bankrekeningen_aflettermodellen.html>`_
+ 
 
     `Betalingscondities <http://docs.onestein.eu/Handleiding/Boekhouding/Betalingscondities.html>`_
 
