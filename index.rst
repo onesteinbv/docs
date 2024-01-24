@@ -54,6 +54,8 @@ Handleiding
 
          `Banksynchronisatie MyPonto <http://docs.onestein.eu/Handleiding/Boekhouding/bankrekeningen_myponto.html>`_
 
+         `Banktransacties importeren <http://docs.onestein.eu/Handleiding/Boekhouding/bankrekeningen_importeren_afschrift.html>`_
+
          `Afletteren bank <http://docs.onestein.eu/Handleiding/Boekhouding/bankrekeningen_afletteren.html>`_
 
          `Aflettermodellen <http://docs.onestein.eu/Handleiding/Boekhouding/bankrekeningen_aflettermodellen.html>`_
