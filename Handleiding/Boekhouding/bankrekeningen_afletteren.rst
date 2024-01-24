@@ -26,32 +26,23 @@ Alle transactieregels zijn ook te benaderen via de drie
 puntjes rechts in de tegel:
 
 .. image:: Afletteren/media/image2.png
-   :width: 6.69306in
-   :height: 3.08125in
 
 | Klik bij het desbetreffende dagboek in het dashoard op de knop 'Afletter regels' om alle transacties weer te geven die Curq
   vooraf heeft geselecteerd voor afstemming. Je kunt het standaard filter uit de zoekbalk verwijderen om ook eerder afgeletterde
   transacties weer te geven.
 |
 .. image:: Afletteren/media/image3.png
-   :width: 6.69306in
-   :height: 3.08125in
 
-Let op 1
-----
-Bij het afletteren kan het zijn dat je een regel geheel of gedeeltelijk hebt afgeletterd en er op dat moment achter komt dat je een fout hebt gemaakt. Zorg er op dat moment altijd voor dat je eerst de verkeerd afgeletterde regels verwijderd. Je doet dit door die regels in de prullenbak te gooien.
+.. note::
+   Bij het afletteren kan het zijn dat je een regel geheel of gedeeltelijk hebt afgeletterd en er op dat moment achter komt dat je een fout hebt gemaakt. Zorg er op dat moment altijd    voor dat je eerst de verkeerd afgeletterde regels verwijderd. Je doet dit door die regels in de prullenbak te gooien.
 
 .. image:: Afletteren/media/regels_verwijderen.png
-   :width: 6.69306in
-   :height: 3.08125in
 
 Let op 2
 ----
 In onderstaand schermvoorbeeld zie je dat de geslecteerde regel aangeklikt is en van kleur is veranderd. Dit betekent in Curq dat de focus op de regel staat en je bijvoorbeeld de BTW code kan toevoegen. Bij enkele scenario's is het belangrijk dat je duidelijk ziet dat de regel staat aangeklikt. Wij geven dit per afletter scenario aan.
 
 .. image:: Afletteren/media/focus.png
-   :width: 6.69306in
-   :height: 3.08125in
 
 Afletter scenario's
 ===========
@@ -60,8 +51,6 @@ Afletteren van een volledig betaalde factuur
 Wanneer bij de gekozen transactieregel de klant of leverancier staat ingevuld, het bedrag overeenkomt met een openstaande post en het overeenkomstige factuurnummer vermeld staat in de label omschrijving, dan zal Curq de regel automatisch afletteren. Je kunt er voor kiezen ook deze laatste stap te automatiseren. Curq zal dan de gevonden regel direct bevestigen. Stel dit in bij de afletterregels.
 
 .. image:: Afletteren/media/image4.png
-   :width: 6.69306in
-   :height: 3.08125in
 
 Afletteren niet volledig betaalde factuur
 ----
@@ -83,22 +72,16 @@ restbedrag af te schrijven op een andere grootboekrekening. Je kan hier of een a
    :height: 3.08125in
 
 .. |image2| image:: Afletteren/media/image11.png
-   :width: 6.69306in
-   :height: 3.08125in
 
 Scenario 2: klant bijna gehele factuur, een bedrag van een paar cent blijft open staan.
 Indien dit vaker voor komt dan kuj je ervoor kiezen het standaard aflettermodel 'perfecte matching'iets aan te vullen. Wanneer je de tolerantie iets aanpast en vervolgens ook een grootboekrekening toevoegt aan het model, dan zal Curq automatisch het restverschil wegboeken.
 
 .. image:: Afletteren/media/Betalingsverschillen_afboeken.png
-   :width: 6.69306in
-   :height: 3.08125in
 
 Scenario 3: klant betaalt meerdere facturen in 1 bedrag.
 in dit geval kun je de klant opzoeken en meerdere facturen achter elkaar aanklikken. Het kan zijn dat de klant ook een factuur betaalt die op een andere naam staat. Je kan een andere klant opzoeken de openstaande post(en) toevoegen. In onderstaand schermvoorbeeld is eerst de factuur 1 voor klant 1 toegevoegd. Vervolgens is bij 'filter' gezocht op klant 2 en is een deel van factuur 2 aan de transactieregel toegevoegd.
 
 .. image:: Afletteren/media/meerdere_facturen.png
-   :width: 6.69306in
-   :height: 3.08125in
 
 Afletteren betaalregel zonder factuur
 ----
