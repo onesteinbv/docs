@@ -39,7 +39,6 @@ puntjes rechts in de tegel:
 
 .. image:: Afletteren/media/regels_verwijderen.png
 
-
 .. Notitie::
    In onderstaand schermvoorbeeld zie je dat de geselecteerde regel aangeklikt is en van kleur is veranderd. Dit betekent in Curq dat de focus op de regel staat en je bijvoorbeeld de
    BTW code kan toevoegen. Bij enkele scenario's is het belangrijk dat je duidelijk ziet dat de regel staat aangeklikt. Wij geven dit per afletter scenario aan.
