@@ -42,7 +42,7 @@ Handleiding
 
     `SEPA betalingen leverancier <http://docs.onestein.eu/Handleiding/Boekhouding/sepa.html>`_
 
-    `Herinneringen in Curq <http://docs.onestein.eu/Handleiding/Boekhouding/herinneringen.html>`_
+    `Herinneringen in Curq <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_herinneringen.html>`_
 
     `Betalingscondities <http://docs.onestein.eu/Handleiding/Boekhouding/Betalingscondities.html>`_
 
