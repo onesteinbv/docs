@@ -13,6 +13,10 @@ Handleiding
     `Accounting <http://docs.onestein.eu/Handleiding/Boekhouding/boekhouding.html>`_
 
         `Beginnen met de boekhouding <http://docs.onestein.eu/Handleiding/Boekhouding/boekhouding_starten.html>`_
+
+            `RGS Grootboekschema <http://docs.onestein.eu/Handleiding/Boekhouding/boekhouding_rgs.html>`_
+
+            `Grootboekschema cheatsheet <http://docs.onestein.eu/Handleiding/Boekhouding/boekhouding_cheatsheet.html>`_
         
             `Dagboeken <http://docs.onestein.eu/Handleiding/Boekhouding/boekhouding_starten_dagboeken.html>`_
 
