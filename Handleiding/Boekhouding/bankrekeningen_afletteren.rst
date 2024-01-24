@@ -33,14 +33,14 @@ puntjes rechts in de tegel:
 |
 .. image:: Afletteren/media/image3.png
 
-.. Note::
+.. Notitie 1::
    Bij het afletteren kan het zijn dat je een regel geheel of gedeeltelijk hebt afgeletterd en er op dat moment achter komt dat je een fout hebt gemaakt. Zorg er op dat moment altijd    voor dat je eerst de verkeerd afgeletterde regels verwijderd. Je doet dit door die regels in de prullenbak te gooien.
 
 .. image:: Afletteren/media/regels_verwijderen.png
 
-Let op 2
-----
-In onderstaand schermvoorbeeld zie je dat de geslecteerde regel aangeklikt is en van kleur is veranderd. Dit betekent in Curq dat de focus op de regel staat en je bijvoorbeeld de BTW code kan toevoegen. Bij enkele scenario's is het belangrijk dat je duidelijk ziet dat de regel staat aangeklikt. Wij geven dit per afletter scenario aan.
+.. Notitie 2::
+   In onderstaand schermvoorbeeld zie je dat de geslecteerde regel aangeklikt is en van kleur is veranderd. Dit betekent in Curq dat de focus op de regel staat en je bijvoorbeeld de
+   BTW code kan toevoegen. Bij enkele scenario's is het belangrijk dat je duidelijk ziet dat de regel staat aangeklikt. Wij geven dit per afletter scenario aan.
 
 .. image:: Afletteren/media/focus.png
 
