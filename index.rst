@@ -42,7 +42,7 @@ Handleiding
 
             `Herinneringsproces facturen <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_herinneringen.html>`_
 
-        `Leverancierfactuur <http://docs.onestein.eu/Handleiding/Boekhouding/Leverancierfactuur.html>`_
+        `Leverancierfacturen <http://docs.onestein.eu/Handleiding/Boekhouding/Leverancierfactuur.html>`_
 
         `Verkoopcontracten en abonnementen <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopcontracten.html>`_   
 
