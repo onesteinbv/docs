@@ -80,6 +80,8 @@ Handleiding
 
          `Management rapportages <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_management.html>`_
 
+        `Activa <http://docs.onestein.eu/Handleiding/Boekhouding/activa.html>`_   
+
     `Betalingscondities <http://docs.onestein.eu/Handleiding/Boekhouding/Betalingscondities.html>`_
 
     `Prijslijsten <http://docs.onestein.eu/Handleiding/Boekhouding/Prijslijsten.html>`_
