@@ -74,9 +74,11 @@ Handleiding
  
         `Rapportages in Curq <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages.html>`_
         
-         `Boekhoudrapportages <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_boekhoudkundig.html>`_
+         `Boekhoud rapportages <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_boekhoudkundig.html>`_
 
          `BTW en ICP aangifte <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_BTW_ICP.html>`_
+
+         `Management rapportages <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_management.html>`_
 
     `Betalingscondities <http://docs.onestein.eu/Handleiding/Boekhouding/Betalingscondities.html>`_
 
