@@ -59,13 +59,14 @@ Handleiding
 
         `Betalingen <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen.html>`_
 
-            `Online Betalingen <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_online_betalingen.html>`_
+         `SEPA betaling <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_sepa.html>`_
 
-            `Direct Debit <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_direct_debit.html>`_
+         `Interne transfers <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_interne_transfers.html>`_
 
-            `SEPA betaling <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_sepa.html>`_
+         `Online Betalingen <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_online_betalingen.html>`_
 
-            `Interne transfers <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_interne_transfers.html>`_
+         `Direct Debit <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_direct_debit.html>`_           
+           
 
         `Bankrekeningen <http://docs.onestein.eu/Handleiding/Boekhouding/bankrekeningen.html>`_
 
