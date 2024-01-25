@@ -36,6 +36,8 @@ Handleiding
 
             `Verkoopfacturen Algemene Voorwaarden <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_algemene_voorwaarden.html>`_
 
+            `Verkoopfacturen Snelle betalingskorting en BTW <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_betalingskorting.html>`_
+
             `Verkoopfacturen Creditnota <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_creditnota.html>`_
 
             `Verkoopfacturen Incoterms <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_incoterms.html>`_
