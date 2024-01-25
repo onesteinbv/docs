@@ -42,17 +42,27 @@ Stappen Jaarafsluiting binnen Curq
 
 Binnen Curq zal je de volgende stappen moeten volgen om tot een correcte jaarafsluiting te komen.
 
- **Afletteren financiële rekeningen:** Letter al je bankrekeningen, creditcards en andere financiële rekening af tot einde boekjaar. Controleer het saldo van het grootboek of deze overeenkomt met het saldo van de bankrekeningen.
+**Afletteren financiële rekeningen:** Letter al je bankrekeningen, creditcards, tussenrekeningen en andere financiële rekening af tot einde boekjaar. Controleer het saldo van het grootboek of deze overeenkomt met het saldo van de bankrekeningen.
  
 **Controleer facturen en betalingen:** Controleer alle openstaande posten en betalingen. Letter waar nodig deze met elkaar af. Verwerk alle facturen mocht dat niet zijn gebeurd. Check of alle betalingen zijn uitgevoerd of betaald.
 
-- **Afletteringsmodus:** Bepaal of het mogelijk is om een aflettering op de bank ongedaan te maken na uitvoering.
+**Voorraad tellen en evalueren:** Controleer of alle leveringen en ontvangsten zijn verwerkt. Tel de voorraad en controleer of de voorraadwaarde op elkaar aansluit.
 
- * Boekingsbewerking: Afletteringen kunnen ongedaan worden gemaakt en bewerkt. 
- * Tussenrekening behouden: Het is niet mogelijk om een aflettering ongedaan te maken.
+**Verwerk afschrijvingen en uitgestelde kosten / omzetten:** Boek de afschrijvingen in en controleer of er nog uitgestelde kosten en omzetten verwerkt dienen te worden.
 
+**Verwerk alle declaraties:** Verwerk of alle declaraties zijn goedgekeurd, geboekt en betaald.
 
+Als alles hier boven gereed is dan kunnen we de volgende stappen (eventueel samen met de accountant) uitvoeren.
 
-De Balans en de Winst & Verlies-rapporten spelen een cruciale rol bij het afronden van het boekjaar. Je kunt deze rapporten vinden door naar Facturatie > Mis Rapportage > Mis Rapporten te gaan. Het gebruik van de MIS Rapporten wordt gedetailleerd toegelicht in de handleiding voor MIS Rapportages.
+**Doe de BTW-aangifte:** Zorg dat je alle verplichte BTW-aangiften hebt ingediend en dat de BTW-verplichtingen zijn voldaan. Indien nodig voer eventuele BTW-correcties uit voordat de aangifte wordt ingediend.
+
+**Sluit de periode (datum) voor BTW:** 
+
+**Stel de Balans en Winst & Verlies:** De Balans en de Winst & Verlies-rapporten spelen een cruciale rol bij het afronden van het boekjaar. Je kunt deze rapporten vinden door naar Facturatie > Mis Rapportage > Mis Rapporten te gaan. Het gebruik van de MIS Rapporten wordt gedetailleerd toegelicht in de handleiding voor MIS Rapportages.
 
 .. image:: Rapportages/rapportages_jaarafsluiting001.png
+
+**Maak correctieboekingen:** De accountant zal de hele boekhouding controleren en eventuele fouten corrigeren via een memoriaalboeking of waar mogelijk de boekingen aanpassen.
+
+
+**Bereken de winst of verlies:**
