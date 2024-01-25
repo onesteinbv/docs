@@ -22,3 +22,38 @@ Je kunt met 3 doeleinden een afletter regel aanmaken:
   In onderstaand voorbeeld staat dat bij een afwijking onder de 5 cent het verschil automatisch op een verschillenrekening wordt weggeboekt.
 
 .. image:: Afletteren/media/aflettermodellen_betalingsverschillen.png
+
+Uitleg velden aflettermodel
+----
+
+**Dagboek beschikbaarheid** 
+
+Hiermee kun je aangeven voor welke dagboeken de regel van toepassing is. Als je dit veld leeg laat dan geldt de regel voor alle dagboeken.
+
+**Bedragsoort** 
+
+Hiermee kun je aangeven of de regel alleen geldt voor ontvangen of te betalen bedragen.
+
+**Betalingstolerantie**
+
+Zie de uitleg eerder in dit onderdeel, met deze optie kun je betalingsverschillen direct weg laten boeken.
+
+**Automatisch bevestigen**
+
+Wanneer je deze optie aan zet, dan zal Curq de gematchte regel direct bevestigen. Gebruik deze optie alleen als je zeker weet dat je de juiste instellingen gebruikt.
+
+**Limiet voor zoekmaanden**
+
+Je kunt het aantal maanden terug waarvoor de regel geldt beperken met deze regel. 
+
+**Factuur afletteren met** 
+
+Gebruik deze optie als je specifiek op een vaste omschrijving of tekst wil zoeken om de match te zoeken
+
+**Overeenkomstige relaties**
+
+Met deze regel kun je een aflettermodel specifiek voor een klant of leverancier maken.
+
+.. image:: Afletteren/media/aflettermodellen_velden.png
+
+
