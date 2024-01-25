@@ -15,6 +15,8 @@ Aanmaken verkoopcontract
 ----
 Contracten zijn voor klanten te vinden in Facturatie -> Klanten -> Klant en Facturatie  en voor leveranciers onder Leveranciers -> Leverancierscontracten.
 
+.. image:: My-Ponto-Bank-Feed-Media/Verkoopcontract_invoer.png
+
 Algemene gegevens contract
 ----
 Vul bij het maken van een contract de velden in voor het selecteren van de factureringsparameters:
@@ -22,7 +24,7 @@ Vul bij het maken van een contract de velden in voor het selecteren van de factu
 **Contractnaam**
 **Klantnaam**. Hier kies je de klant.
 
-**Betaalmode**. Wanneer je met de klant afpreekt dat je het abonnement iedere maand incasseert, dan kun je kiezen voor betaalwijze 'Direct debit'. Voor deze betaalwijze dien je dan wel een mandaat te hebben ingesteld via menu 'Facturatie -> klanten-> bankmandaten.
+**Betaalmode**. Wanneer je met de klant afpreekt dat je het abonnement iedere maand incasseert, dan kun je kiezen voor betaalwijze 'Direct debit'. Voor deze betaalwijze dien je dan wel een mandaat te hebben ingesteld via menu Facturatie -> klanten-> bankmandaten.
 
 **Prijslijst (optioneel)**. Indien je afwijkende prijsafspraken wil vastleggen, dan kun je de aangepaste prijslijst hier kiezen (dit kan ook via het contractsjabloon).
 Verantwoordelijke
@@ -58,11 +60,16 @@ Het product met een beschrijving, een hoeveelheid en een prijs
 **Stop**. Met deze knop kun je het contract van de regel stopzetten. Je kan hierbij de reden van opzegging invoeren en een einddatum van het contract.
 
 De "Generate Recurring Invoices from Contracts" cron draait dagelijks om de facturen te genereren. Als je je in debugmodus bevindt, kun je op de knop voor het aanmaken van facturen klikken.
+
 De snelkoppeling Toon terugkerende facturen op contracten toont alle facturen die zijn aangemaakt op basis van het contract.
 
 Het contractoverzicht kan worden afgedrukt via het menu Afdrukken.
 
 Het contract kan per e-mail worden verzonden met de knop Verzenden per e-mail
+
+Hieronder zie je een voorbeeld van een ingevoerd voorbeeld abonnement:
+
+.. image:: My-Ponto-Bank-Feed-Media/Verkoopcontract_ingevoerd_voorbeeldcontract.png
 
 
 
