@@ -1,11 +1,17 @@
 Betalingen
 ----
-In Odoo, payments can either be automatically linked to an invoice or bill or be stand-alone records for use at a later date:
+In Odoo kunnen betalingen automatisch worden gekoppeld aan een factuur of rekening of het zijn los staande records voor gebruik op een later tijdstip:
 
-If a payment is linked to an invoice or bill, it reduces/settles the amount due of the invoice. You can have multiple payments related to the same invoice.
+Als een betaling is gekoppeld aan een factuur of nota, wordt het verschuldigde bedrag van de factuur verlaagd/verrekend. Je kunt meerdere betalingen aan dezelfde factuur koppelen.
 
-If a payment is not linked to an invoice or bill, the customer has an outstanding credit with your company, or your company has an outstanding debit with a vendor. You can use those outstanding amounts to reduce/settle unpaid invoices/bills.
-Registering payment from an invoice or bill
-When clicking Register payment in a customer invoice or vendor bill, it generates a new journal entry and changes the amount due according to the payment amount. The counterpart is reflected in an outstanding receipts or payments account. At this point, the customer invoice or vendor bill is marked as In payment. Then, when the outstanding account is reconciled with a bank statement line, the invoice or vendor bill changes to the Paid status.
+Als een betaling niet aan een factuur of rekening is gekoppeld, heeft de klant een openstaand krediet bij je bedrijf, of heeft je bedrijf een openstaand debet bij een leverancier. Je kunt deze openstaande bedragen gebruiken om onbetaalde facturen/rekeningen te verlagen/vereffenen. Hoe je dit doet vind je terug in het onderdeel 'afletteren'.
 
-The information icon near the payment line displays more information about the payment. You can access additional information, such as the related journal, by clicking View.
+Betaling registreren van een factuur of rekening
+----
+
+Wanneer je klikt op Betaling registreren in een klantfactuur of factuur van een leverancier, wordt een nieuwe journaalpost gegenereerd en wordt het verschuldigde bedrag gewijzigd overeenkomstig het betalingsbedrag. De tegenboeking wordt weergegeven op een rekening voor uitstaande ontvangsten of betalingen. Op dat moment wordt de klantfactuur of leveranciersfactuur gemarkeerd als Betaald. Wanneer de openstaande rekening vervolgens wordt afgeletterd met een bankafschriftregel, dan zal Curq automatisch het bedrag op de uitstaande ontvangst of betalingen rekening afboeken en op of afboeken op de bankrekening.
+
+Hieronder zie je de 4 boekingen die Curq maakt bij het op betaald zetten van de factuur en verwerken van de dagafschriftregel.
+
+
+Het informatiepictogram naast de betalingsregel geeft meer informatie over de betaling weer. Je hebt toegang tot aanvullende informatie, zoals het bijbehorende journaal, door op Weergeven te klikken.
