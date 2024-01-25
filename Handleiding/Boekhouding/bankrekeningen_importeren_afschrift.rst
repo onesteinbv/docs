@@ -1,33 +1,26 @@
-Transacties
-Importing transactions from your bank statements allows keeping track of bank account transactions and reconciling them with the ones recorded in your accounting.
+Importeren bank transacties
+----
 
-Bank synchronization automates the process. However, if you do not want to use it or if your bank is not yet supported, other options exist:
+Door transacties uit je bankafschriften te importeren, kun je bankrekeningtransacties bijhouden en afstemmen met de transacties in je boekhouding.
+Bank synchronisatie automatiseert dit proces. Als je dit echter niet wilt gebruiken of als je bank nog niet wordt ondersteund, zijn er andere opties:
 
-Import bank transactions delivered by your bank;
+* Importeren van door je bank aangeleverde banktransacties
+* Banktransacties handmatig registreren.
 
-Register bank transactions manually.
+.. Note::
+   Het groeperen van transacties per afschrift is optioneel.
 
- Notitie
+Transacties importeren
+----
 
-Grouping transactions by statement is optional.
+Curq ondersteunt meerdere bestandsformaten om transacties te importeren:
 
-Import transactions
-Odoo supports multiple file formats to import transactions:
+* SEPA aanbevolen Cash Management formaat (CAMT.053)
+* SEPA aanbevolen Cash Management formaat (CAMT.054)
 
-SEPA recommended Cash Management format (CAMT.053);
+Om een bestand te importeren, gaat u naar het Boekhouddashboard en klikt u in het Bankjournaal op Transactie importeren.
 
-Comma-separated values (.CSV);
-
-Open Financial Exchange (.OFX);
-
-Quicken Interchange Format (.QIF);
-
-Belgium: Coded Statement of Account (.CODA).
-
-To import a file, go to the Accounting Dashboard, and in the Bank journal, click on Import Transactions.
-
-Import bank transactions from the bank journal
-Next, select the file and upload it.
+.. image:: My-Ponto-Bank-Feed-Media/banktransacties_importeren.png
 
 After setting the necessary formatting options and mapping the file columns with their related Odoo fields, you can run a Test and Import your bank transactions.
 
