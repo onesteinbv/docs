@@ -10,6 +10,15 @@ Gebruikelijk is om de factuur direct op betaald te zetten als deze binnenkomt op
 
 Wanneer je inkoopfacturen via SEPA bestanden bij je bank verwerkt, kijk dan bij het onderdeel SEPA inde handleiding hoe je deze betalingen verwerkt (dit gaat in Curq niet via de knop betalingen maar via menu Facturatie-> Leveranciers-> Uitgaande betalingen.
 
+Bankrekening controle
+----
+
+Zorg er altijd voor dat je bij aanmaken van een nieuwe leverancier controleert of de gegevens correct zijn. Curq helpt je met controleren van het banknummer. Ook is er een aparte knop waarmee je expliciet aangeeft dat het nummer gecontroleerd is en betalingen gedaan kunnen worden. In onderstaand voorbeeld zie je dat het ingevoerde nummer geen officieel IBAN nummer is. Curq controleert hierop maar omdat er ook niet IBAN nummers toegevoegd kunnen worden, is dit geen blokkerende melding.
+
+Als de schuif 'Betalen' aan staat dan kun je de rekening gebruiken bij betalingen.
+
+.. image:: My-Ponto-Bank-Feed-Media/betalingen_bankrekening.png
+
 Betaling registreren van een factuur of rekening
 ----
 
