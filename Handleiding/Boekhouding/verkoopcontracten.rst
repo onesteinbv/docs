@@ -5,11 +5,12 @@ Met de contractenmodule kun je diensten en of producten als abonnement verkopen 
 Je kunt een contract los invoeren, maar dit kan ook door eerst een sjabloon aan te maken. Heb je een vaak terugkerend abonnement dan is het aan te raden om met sjablonen te werken.
 
 De werkwijze van invoeren van een contract bestaat uit de volgende stappen:
-1. maak een contract aan, eventueel gebaseerd op een contractsjabloon
-2. Geef aan hoe vaak en voor welke periode je het abonnement wil laten lopen
-3. Voeg minimaal de verplichte velden aan en voeg de dienst(en) en /of producten die je wil gaan factureren
-4. Na ingeven van de velden zal Curq de factuur genereren via een automatisch proces. Voor de eerste factuur kun je ervoor kiezen deze meteen aan te maken via menu 'Handmatig factureren verkoopcontracten'.
-5. Na ingeven van alle gegevens kun je via de knop 'verzenden via mail' de klant het contract te mailen.
+
+#. Maak een contract aan, eventueel gebaseerd op een contractsjabloon
+#. Geef aan hoe vaak en voor welke periode je het abonnement wil laten lopen
+#. Voeg minimaal de verplichte velden aan en voeg de dienst(en) en /of producten die je wil gaan factureren
+#. Na ingeven van de velden zal Curq de factuur genereren via een automatisch proces. Voor de eerste factuur kun je ervoor kiezen deze meteen aan te maken via menu 'Handmatig factureren verkoopcontracten'.
+#. Na ingeven van alle gegevens kun je via de knop 'verzenden via mail' de klant het contract mailen.
 
 Aanmaken verkoopcontract
 ----
@@ -33,6 +34,8 @@ facturatie instellingen
 -----
 **Herhalend op regelniveau**. Wanneer je dit vinkje aanzet, dan kun je op regelniveau de herhalingsinstellingen aanpassen. Met deze optie wordt het mogelijk om verschillende abonnementen onder 1 contract vast te leggen. Curq zal op basis van de regel een factuur genereren. In het schermvoorbeeld hieronder is een maand en een jaarabonnement op 1 contract gezet.
 
+.. image:: My-Ponto-Bank-Feed-Media/Verkoopcontract_voorbeeld_verschillende_periodes.png
+
 **Factureer iedere**. de herhalingsparameters: interval (dagen, weken, maanden, maanden laatste dag of jaren), begindatum, datum van de volgende factuur (automatisch berekend, kan worden gewijzigd) en einddatum (optioneel)
 
 **Factuursoort**. Pre-paid (factuur aan het begin van de periode) of post-paid (factuur aan het begin van de volgende periode)
@@ -45,7 +48,7 @@ Type van herhaling
 ----
 Dit onderdeel gaat over de inhoud van het contract; welke producten en/of diensten wil je aanbieden aan de klant?
 
-**Aan te maken soort**. Bij verkoopcontracten zal hier invoice staan, bij leverancierscontracten 'vendorbill'. 
+**Aan te maken soort**. Bij verkoopcontracten zal hier 'invoice staan', bij leverancierscontracten 'vendorbill'. 
 
 Voeg de regels toe waarmee gefactureerd moet worden:
 
@@ -70,6 +73,8 @@ Het contract kan per e-mail worden verzonden met de knop Verzenden per e-mail
 Hieronder zie je een voorbeeld van een ingevoerd voorbeeld abonnement:
 
 .. image:: My-Ponto-Bank-Feed-Media/Verkoopcontract_ingevoerd_voorbeeldcontract.png
+
+
 
 
 
