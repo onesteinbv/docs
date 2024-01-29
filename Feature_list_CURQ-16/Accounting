@@ -1,0 +1,114 @@
+Accounting Features:
+    • Actions:
+        ◦ Import Statement:
+            ▪ Import financial statements for reconciliation.
+        ◦ Reconcile:
+            ▪ Match transactions to reconcile accounts.
+        ◦ Update Lock Dates:
+            ▪ Adjust and update locking dates.
+    • Bank and Cash:
+        ◦ Bank Statements:
+            ▪ Manage and reconcile bank statements.
+        ◦ Cash Registers:
+            ▪ Handle cash register transactions.
+    • Generate Entries:
+        ◦ Create accounting entries automatically.
+    • Journals:
+        ◦ Journal Entries:
+            ▪ Record financial transactions.
+        ◦ Journal Items:
+            ▪ Manage individual items within journal entries.
+        ◦ Spread Costs/Revenues:
+            ▪ Distribute costs or revenues across multiple periods.
+    • Management:
+        ◦ Analytic Items:
+            ▪ Manage items for analytic accounting.
+    • Assets:
+        ◦ Assets:
+            ▪ Track and manage company assets.
+        ◦ Compute Assets:
+            ▪ Calculate asset values.
+    • Configuration:
+        ◦ Accounting:
+            ▪ Configure accounting settings.
+        ◦ Analytic Accounting:
+            ▪ Configure settings for analytic accounting.
+        ◦ Assets:
+            ▪ Configure asset-related settings.
+        ◦ Banks:
+            ▪ Configure bank-related settings.
+        ◦ Contracts:
+            ▪ Configure settings for contracts.
+        ◦ Invoicing:
+            ▪ Configure invoicing-related settings.
+        ◦ Management:
+            ▪ Configure management-related settings.
+        ◦ MIS Reporting:
+            ▪ Configure settings for management information system reporting.
+        ◦ Payments:
+            ▪ Configure payment-related settings.
+        ◦ Settings:
+            ▪ Configure general accounting settings.
+        ◦ Templates:
+            ▪ Manage and create templates for various accounting elements.
+    • Customers:
+        ◦ Banking Mandates:
+            ▪ Manage customer banking mandates.
+        ◦ Credit Notes:
+            ▪ Issue credit notes to customers.
+        ◦ Customer Contracts:
+            ▪ Manage contracts with customers.
+        ◦ Customers:
+            ▪ Manage customer data.
+        ◦ Debit Orders:
+            ▪ Set up and manage debit orders.
+        ◦ Invoices:
+            ▪ Generate and manage customer invoices.
+        ◦ Manually Invoice Sale Contracts:
+            ▪ Manually create invoices for sales contracts.
+        ◦ Overdue Invoice Remind:
+            ▪ Remind customers of overdue invoices.
+        ◦ Payments:
+            ▪ Record customer payments.
+        ◦ Products:
+            ▪ Manage products associated with customers.
+        ◦ Receipts:
+            ▪ Manage receipts from customers.
+    • Dashboard:
+        ◦ Access a dashboard for an overview of accounting activities.
+    • Reporting:
+        ◦ Auditfile Export:
+            ▪ Export data in Auditfile format.
+        ◦ Financial Assets:
+            ▪ View reports related to financial assets.
+        ◦ Management:
+            ▪ Analyze invoices and products.
+        ◦ MIS Reporting:
+            ▪ Generate reports for management information system reporting.
+        ◦ NL BTW Statement:
+            ▪ Generate the Dutch VAT statement.
+        ◦ OCA Accounting Reports:
+            ▪ Access reports provided by the OCA accounting module.
+        ◦ Statement Reports:
+            ▪ Generate various statement reports.
+    • Vendors:
+        ◦ Bills:
+            ▪ Manage bills from vendors.
+        ◦ Employee Expenses:
+            ▪ Track and manage employee expenses.
+        ◦ Manually Invoice Purchase Contracts:
+            ▪ Create invoices for purchase contracts manually.
+        ◦ Payment Orders:
+            ▪ Create and manage payment orders.
+        ◦ Payments:
+            ▪ Record vendor payments.
+        ◦ Products:
+            ▪ Manage products associated with vendors.
+        ◦ Receipts:
+            ▪ Manage receipts from vendors.
+        ◦ Refunds:
+            ▪ Process refunds.
+        ◦ Supplier Contracts:
+            ▪ Manage contracts with vendors.
+        ◦ Vendors:
+            ▪ Manage vendor data.

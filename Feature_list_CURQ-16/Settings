@@ -1,0 +1,247 @@
+Settings Features:
+    • Custom Shortcuts:
+        ◦ Create and manage personalized keyboard shortcuts.
+    • Gamification Tools:
+        ◦ Utilize gamification elements to enhance user engagement.
+    • Badges:
+        ◦ Define and award badges based on user achievements.
+    • Challenges:
+        ◦ Set up challenges for users to complete.
+    • Goal Definitions:
+        ◦ Define specific goals for users.
+    • Goals:
+        ◦ Track user progress towards predefined goals.
+    • Ranks:
+        ◦ Establish ranking systems based on user performance.
+    • Trackings:
+        ◦ Monitor and record user activities.
+    • General Settings:
+        ◦ Configure general application settings.
+    • Technical:
+        ◦ Access technical configurations.
+    • Actions:
+        ◦ Define and manage custom actions.
+    • Configuration Wizards:
+        ◦ Create wizards for streamlined configurations.
+    • Reports:
+        ◦ Generate and view reports on various aspects.
+    • Server Actions:
+        ◦ Implement server-side actions.
+    • User-defined Defaults:
+        ◦ Set default values for user-defined configurations.
+    • Window Actions:
+        ◦ Manage actions associated with windows.
+    • Audit:
+        ◦ Monitor and log activities for auditing purposes.
+    • HTTP Requests:
+        ◦ Track and manage HTTP requests.
+    • Log Lines:
+        ◦ View and analyze log lines.
+    • Logs:
+        ◦ Access and manage logs.
+    • Rules:
+        ◦ Define rules for auditing.
+    • User Sessions:
+        ◦ Monitor and manage user sessions.
+    • Automation:
+        ◦ Implement automation for various tasks.
+    • Automated Actions:
+        ◦ Define actions to be automatically triggered.
+    • Scheduled Actions:
+        ◦ Set up actions to be executed at scheduled times.
+    • Scheduled Actions Triggers:
+        ◦ Configure triggers for scheduled actions.
+    • Calendar:
+        ◦ Configure calendar-related settings.
+    • Calendar Alarm:
+        ◦ Set alarms for calendar events.
+    • Meeting Types:
+        ◦ Define different types of meetings.
+    • Database Structure:
+        ◦ Manage the database structure.
+    • Assets:
+        ◦ Handle assets in the database.
+    • Attachments:
+        ◦ Manage file attachments.
+    • Decimal Accuracy:
+        ◦ Set precision for decimal values.
+    • Fields:
+        ◦ Define and manage database fields.
+    • Fields Selection:
+        ◦ Configure selections for fields.
+    • Logging:
+        ◦ Enable or disable logging.
+    • ManyToMany Relations:
+        ◦ Manage ManyToMany relations.
+    • Model Constraints:
+        ◦ Define constraints for models.
+    • Models:
+        ◦ Access and manage database models.
+    • Profiling:
+        ◦ Profile and optimize database performance.
+    • Date Ranges:
+        ◦ Manage date range-related configurations.
+    • Date Range Types:
+        ◦ Define different types of date ranges.
+    • Date Ranges:
+        ◦ Create and manage specific date ranges.
+    • Generate Date Ranges:
+        ◦ Automatically generate date ranges.
+    • Discuss:
+        ◦ Configure settings related to discussions.
+    • Activities:
+        ◦ Manage discussion activities.
+    • Activity Types:
+        ◦ Define different types of discussion activities.
+    • Email Blacklist:
+        ◦ Manage blacklisted email addresses for discussions.
+    • Followers:
+        ◦ Manage followers in discussions.
+    • Guests:
+        ◦ Configure settings for guest participation.
+    • ICE Servers:
+        ◦ Configure Interactive Connectivity Establishment (ICE) servers.
+    • Link Previews:
+        ◦ Enable or disable link previews.
+    • Message Reactions:
+        ◦ Manage reactions to discussion messages.
+    • Messages:
+        ◦ View and manage discussion messages.
+    • Notifications:
+        ◦ Configure notification settings.
+    • Ratings:
+        ◦ Allow users to rate discussion content.
+    • RTC Sessions:
+        ◦ Manage Real-Time Communication (RTC) sessions.
+    • Scheduled Messages:
+        ◦ Schedule messages for later.
+    • Subtypes:
+        ◦ Define subtypes for discussion items.
+    • Tracking Values:
+        ◦ Track and analyze discussion values.
+    • User Settings:
+        ◦ Configure user-specific discussion settings.
+    • Email:
+        ◦ Configure settings related to email.
+    • Aliases:
+        ◦ Manage email aliases.
+    • Channels:
+        ◦ Set up different email channels.
+    • Partner:
+        ◦ Configure partner-related email settings.
+    • Digest Emails:
+        ◦ Set up digest emails.
+    • Digest Tips:
+        ◦ Configure tips for digest emails.
+    • Email Templates:
+        ◦ Manage templates for emails.
+    • Emails:
+        ◦ Access and manage email communications.
+    • Incoming Mail Servers:
+        ◦ Configure servers for incoming emails.
+    • Mail Gateway Allowed:
+        ◦ Manage allowed mail gateways.
+    • Outgoing Mail Servers:
+        ◦ Configure servers for outgoing emails.
+    • FS Storage:
+        ◦ Manage settings related to file storage.
+    • FS Storage:
+        ◦ Configure and manage file storage.
+    • Map Websites:
+        ◦ Configure settings for mapping websites.
+    • Map Websites:
+        ◦ Define and manage mapped websites.
+    • Mass Mailing:
+        ◦ Configure settings related to mass mailing.
+    • Mailing Traces:
+        ◦ Track mass mailing activities.
+    • Parameters:
+        ◦ Configure general parameters.
+    • App Store:
+        ◦ Manage settings related to the app store.
+    • Company Properties:
+        ◦ Define properties for companies.
+    • Main Apps:
+        ◦ Configure settings for main applications.
+    • Server Environment:
+        ◦ View and manage server environment details.
+    • System Parameters:
+        ◦ Define system-wide parameters.
+    • Theme Store:
+        ◦ Configure settings related to themes.
+    • Third-Party Apps:
+        ◦ Manage settings for third-party applications.
+    • Updates:
+        ◦ Configure update-related settings.
+    • Phone / SMS:
+        ◦ Configure settings related to phone and SMS.
+    • Phone Blacklist:
+        ◦ Manage blacklisted phone numbers.
+    • Privacy:
+        ◦ Configure privacy-related settings.
+    • Privacy Logs:
+        ◦ Access logs related to privacy settings.
+    • Reporting:
+        ◦ Configure settings related to reporting.
+    • Paper Format:
+        ◦ Define paper formats for reports.
+    • Reports:
+        ◦ Generate and view various reports.
+    • Resource:
+        ◦ Configure resource-related settings.
+    • Resource Time Off:
+        ◦ Manage time-off requests for resources.
+    • Resources:
+        ◦ Access and manage resource details.
+    • Working Times:
+        ◦ Define working times for resources.
+    • Security:
+        ◦ Configure security settings.
+    • Access Rights:
+        ◦ Define access rights for users.
+    • Record Rules:
+        ◦ Set rules for record-level security.
+    • Sequences & Identifiers:
+        ◦ Manage sequences and identifiers.
+    • External Identifiers:
+        ◦ Configure external identifiers.
+    • Sequences:
+        ◦ Define and manage sequences.
+    • Tier Validations:
+        ◦ Configure tier validation settings.
+    • Tier Definition:
+        ◦ Define different tiers for validation.
+    • User Interface:
+        ◦ Configure user interface settings.
+    • Customized Views:
+        ◦ Define customized views for users.
+    • Menu Items:
+        ◦ Customize menu items for user navigation.
+    • Tours:
+        ◦ Set up guided tours for users.
+    • User-defined Filters:
+        ◦ Define filters based on user preferences.
+    • Views:
+        ◦ Access and manage different views within the interface.
+    • Translations:
+        ◦ Manage settings related to language translations.
+    • Application Terms:
+        ◦ Define terms used within the application.
+    • Import / Export:
+        ◦ Import and export translation files.
+    • Export Translation:
+        ◦ Export translated content.
+    • Import Translation:
+        ◦ Import translated content.
+    • Languages:
+        ◦ Manage different languages.
+    • Users & Companies:
+        ◦ Configure settings related to users and companies.
+    • Companies:
+        ◦ Manage and configure company details.
+    • Groups:
+        ◦ Define and manage user groups.
+    • OAuth Providers:
+        ◦ Configure OAuth providers for user authentication.
+    • Users:
+        ◦ Manage user accounts.
