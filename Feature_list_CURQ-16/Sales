@@ -1,6 +1,4 @@
 Sales Features:
-    • Configuration:
-        ◦ Set up configurations related to sales.
     • Activity Types:
         ◦ Define different types of sales activities.
     • Products:
@@ -16,7 +14,7 @@ Sales Features:
     • Units of Measure Categories:
         ◦ Categorize units of measure for organized tracking.
     • Mollie:
-        ◦ Manage Mollie-related logs, payments, and subscriptions.
+        ◦ payments, and subscriptions.
     • Orders:
         ◦ Manage customer orders, quotations, and sales teams.
     • Products:
