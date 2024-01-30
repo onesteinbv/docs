@@ -1,39 +1,6 @@
 Employees Features:
-    • Configuration:
-        ◦ Set up and manage employee-related configurations.
-    • Activity Planning:
-        ◦ Plan employee activities, including onboarding and offboarding.
-    • Challenges:
-        ◦ Create and manage employee challenges.
-    • Badges:
-        ◦ Award badges for employee achievements.
-    • Goals History:
-        ◦ Track and review employee goals history.
-    • Contracts:
-        ◦ Manage employee contracts.
-    • Employee:
-        ◦ Configure individual employee details.
-    • Departments:
-        ◦ Organize employees into different departments.
-    • Departure Reasons:
-        ◦ Define reasons for employee departures.
-    • Tags:
-        ◦ Assign tags to employees for categorization.
-    • Work Locations:
-        ◦ Specify various work locations for employees.
-    • Recruitment:
-        ◦ Manage employee recruitment processes.
-    • Employment Types:
-        ◦ Define different types of employment.
-    • Job Positions:
-        ◦ Specify various job positions within the organization.
-    • Settings:
-        ◦ Configure general employee-related settings.
-    • Departments:
-        ◦ Organize employees into different departments.
-    • Directory:
-        ◦ Access a directory of employees.
-    • Human Resources:
-        ◦ Manage human resources-related functions.
-    • Reporting:
-        ◦ Generate reports on employee-related activities.
+    • Employee: manage your employees contacts, departments, work locations, job positions, contracts and HR related 
+    • Activity Planning: Plan employee activities, including onboarding and offboarding.
+    • gamefication: appy gamefication such as chalanges, bages and goals.
+    • Human Resources:Manage human resources-related functions.
+
