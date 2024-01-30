@@ -11,14 +11,17 @@ Belastinginstellingen
 - **BTW-vermindering op betalingskorting:** Wanneer wordt er BTW verminderd als je een betalingskorting aanbiedt? Stel je hebt een factuur van 100,- met 21,- BTW. Als je binnen 7 dagen betaalt, ontvang je 2% korting.
 
 **Altijd:**
+
 * Binnen 7 dagen = 118,58 (98 + (21% van 98))
 * Na 7 dagen = 120,58 (100 + (21% van 98))
 
 **Bij vroege betaling:**
+
 * Binnen 7 dagen = 118,58 (98 + (21% van 98))
 * Na 7 dagen = 121,00 (100 + (21% van 100))
 
 **Nooit:**
+
 * Binnen 7 dagen = 119,00 (100 + (21% van 100))
 * Na 7 dagen = 121,- (100 + (21% van 100))
 

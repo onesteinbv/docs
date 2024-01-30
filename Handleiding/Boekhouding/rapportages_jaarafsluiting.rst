@@ -40,29 +40,33 @@ Het is belangrijk op te merken dat de specifieke stappen kunnen variëren afhank
 Stappen Jaarafsluiting binnen Curq
 ----------------------------------
 
-Binnen Curq zal je de volgende stappen moeten volgen om tot een correcte jaarafsluiting te komen.
+Om een correcte jaarafsluiting te bereiken binnen Curq, dien je de volgende stappen te volgen.
 
-**Afletteren financiële rekeningen:** Letter al je bankrekeningen, creditcards, tussenrekeningen en andere financiële rekening af tot einde boekjaar. Controleer het saldo van het grootboek of deze overeenkomt met het saldo van de bankrekeningen.
+**Afletteren financiële rekeningen:** Voer een aflettering uit aan het einde van het boekjaar voor al je bankrekeningen, creditcards, tussenrekeningen en andere financiële rekeningen. Controleer of het saldo in het grootboek overeenkomt met het saldo op de bankrekeningen.
  
-**Controleer facturen en betalingen:** Controleer alle openstaande posten en betalingen. Letter waar nodig deze met elkaar af. Verwerk alle facturen mocht dat niet zijn gebeurd. Check of alle betalingen zijn uitgevoerd of betaald.
+**Controleer facturen en betalingen:** Controleer alle uitstaande posten en betalingen en letter deze indien nodig met elkaar af. Verwerk eventuele facturen die nog niet zijn verwerkt. Controleer of alle betalingen zijn uitgevoerd of voltooid.
 
-**Voorraad tellen en evalueren:** Controleer of alle leveringen en ontvangsten zijn verwerkt. Tel de voorraad en controleer of de voorraadwaarde op elkaar aansluit.
+**Voorraad tellen en evalueren:** Verifieer of alle inkomende en uitgaande zendingen zijn verwerkt. Tel de voorraad en controleer of de waarde van de voorraad overeenkomt.
 
-**Verwerk afschrijvingen en uitgestelde kosten / omzetten:** Boek de afschrijvingen in en controleer of er nog uitgestelde kosten en omzetten verwerkt dienen te worden.
+**Verwerk afschrijvingen en uitgestelde kosten / omzetten:** Registreer de afschrijvingen en onderzoek of er nog uitgestelde kosten en omzetten moeten worden geboekt.
 
-**Verwerk alle declaraties:** Verwerk of alle declaraties zijn goedgekeurd, geboekt en betaald.
+**Verwerk alle declaraties:** Verifieer alle goedgekeurde declaraties en boek ze, of voer de betaling uit.
 
-Als alles hier boven gereed is dan kunnen we de volgende stappen (eventueel samen met de accountant) uitvoeren.
+Als alles hierboven klaar is, kunnen we de volgende stappen uitvoeren, eventueel in samenwerking met de accountant.
 
-**Doe de BTW-aangifte:** Zorg dat je alle verplichte BTW-aangiften hebt ingediend en dat de BTW-verplichtingen zijn voldaan. Indien nodig voer eventuele BTW-correcties uit voordat de aangifte wordt ingediend.
+**Doe de BTW-aangifte:** Zorg ervoor dat je alle verplichte BTW-aangiften hebt ingediend en dat aan de BTW-verplichtingen is voldaan. Voer indien nodig eventuele BTW-correcties uit voordat je de aangifte indient.
 
-**Sluit de periode (datum) voor BTW:** 
-
-**Stel de Balans en Winst & Verlies:** De Balans en de Winst & Verlies-rapporten spelen een cruciale rol bij het afronden van het boekjaar. Je kunt deze rapporten vinden door naar Facturatie > Mis Rapportage > Mis Rapporten te gaan. Het gebruik van de MIS Rapporten wordt gedetailleerd toegelicht in de handleiding voor MIS Rapportages.
+**Sluit de periode (datum) voor BTW en andere boekingen:** Sluit de BTW-datum af via Facturatie > Boekhouding > Update vergrendelingsdatum. Vul de "Datum belastingvergrendeling" in voor de aangifteperiode om te voorkomen dat er na die datum nog boekingen met facturen worden gemaakt. Op deze manier blijven de cijfers voor de BTW-aangifte ongewijzigd. Daarnaast blokkeer je tevens de mogelijkheid om andere boekingen te maken door een datum in te voeren bij "Blokkeerdatum voor Niet-Financiële Managers gebruiker".
 
 .. image:: Rapportages/rapportages_jaarafsluiting001.png
 
-**Maak correctieboekingen:** De accountant zal de hele boekhouding controleren en eventuele fouten corrigeren via een memoriaalboeking of waar mogelijk de boekingen aanpassen.
+**Stel de Balans en Winst & Verlies:** De Balans en de Winst & Verlies-rapporten zijn essentieel bij het afsluiten van het boekjaar. Je kunt deze rapporten raadplegen door naar Facturatie > Mis Rapportage > Mis Rapporten te gaan. Een gedetailleerde uitleg over het gebruik van de MIS Rapporten is beschikbaar in de handleiding voor MIS Rapportages.
 
+.. image:: Rapportages/rapportages_jaarafsluiting002.png
 
-**Bereken de winst of verlies:**
+**Maak correctieboekingen:** De accountant zal de gehele boekhouding inspecteren en eventuele fouten rectificeren door middel van een memoriaalboeking of, indien haalbaar, door aanpassingen aan de boekingen.
+
+**Bereken de winst of verlies:** Nadat de volledige boekhouding is gecontroleerd, kun je de huidige jaarwinst overboeken naar een eigen vermogensrekening via een memoriaalboeking.
+
+Tot slot sluit je het boekjaar af door een blokkeringsdatum in te stellen voor alle gebruikers (Facturatie > Boekhouding > Update vergrendelingsdatum). 
+Gebruikers kunnen geen boekingen meer invoeren voor de opgegeven datum.
