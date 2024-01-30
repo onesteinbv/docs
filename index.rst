@@ -88,7 +88,7 @@ Handleiding
 
          `Management rapportages <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_management.html>`_
 
-         `Jaarafsluiting <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_jaarafsluting.html>`_
+         `Jaarafsluiting <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_jaarafsluiting.html>`_
 
         `Activa <http://docs.onestein.eu/Handleiding/Boekhouding/activa.html>`_   
 
