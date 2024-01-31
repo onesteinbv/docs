@@ -2,10 +2,6 @@ Timesheets Features:
     • Reporting:
         ◦ Generate reports on timesheet data.
     • Timesheets:
-        ◦ Create, access and manage timesheets to report hours.
-    • My Timesheets to Submit:
-        ◦ View personal timesheets ready for submission.
-    • Timesheets to Submit:
-        ◦ Access and manage timesheets ready for submission.
+        ◦ Create, access and manage timesheets to report hours linked to projects and tasks.
     • Timesheet Sheets to Review:
-        ◦ Review and approve specific timesheet sheets.
+        ◦ Review and approve submitted timesheet sheets.
