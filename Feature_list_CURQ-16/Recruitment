@@ -1,20 +1,8 @@
 Recruitment Features:
     • Applications:
-        ◦ Manage and track job applications, degrees, refuse reasons, and tags.
-    • Activities:
-        ◦ Define different activities related to recruitment.
-    • Activity Types:
-        ◦ Categorize activities with different types.
+        ◦ Create, manage and track job applications, your talent journies and it's diferent stages, activities, degrees, refuse reasons, and tags.
     • Employees:
-        ◦ Configure employee details related to recruitment.
-    • Departments:
-        ◦ Define different departments for recruitment purposes.
-    • Job Positions:
-        ◦ Specify different job positions.
-    • Employment Types:
-        ◦ Define different types of employment.
-    • Job Positions Stages:
-        ◦ Define stages for job positions.
+        ◦ defign the recruiters and there departments for the rectruitment flow.
     • UTMs:
         ◦ Configure and manage UTM parameters for recruitment.
     • Reporting:
