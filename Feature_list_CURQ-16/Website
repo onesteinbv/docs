@@ -1,70 +1,16 @@
 Website Features:
-choose a theme to quicly set up the website
-    • Apps:
-        ◦ Manage and configure website applications.
     • Websites:
-        ◦ create your website using themes and quikly customize it using the premade and costom building blocks, diferent menus, url reddirects and dinamic links.
-    • Blogs:
-        ◦ Create ,configure and manage blog posts.
+        ◦ create your website using themes and quikly customize it using the menu editor and diferent created pages like events, surveys, blogs and recruitment.
+    • pages: 
+        ◦ costomise your websits pages via the premade and costom building blocks, css and html editor,search engine optimisation, url reddirects and dinamic links.
     • eCommerce:
-        ◦ create a webshop and configure and maning your .
-            •manage your products and prices 
-            • Discount & Loyalty:
-                ◦ Manage discounts and loyalty programs.
-            • Gift cards & eWallet:
-                ◦ Handle gift cards and electronic wallets.
-            • Orders:
-                ◦ View and manage eCommerce orders.
-            • Abandoned Carts:
-                ◦ Monitor and recover abandoned shopping carts.
-            • Customers:
-                ◦ Manage eCommerce customer data.
-            • Unpaid Orders:
-                ◦ View and manage unpaid orders.
-            • Payment Tokens:
-                ◦ Manage tokens for payment transactions.
-            • Payment Transactions:
-                ◦ View and manage payment transactions.
-            • Attributes:
-                ◦ Define attributes for eCommerce products.
-            • eCommerce Categories:
-                ◦ Organize products into eCommerce categories.
-            • Pricelists:
-                ◦ Manage pricing lists for products.
-            • Product Tags:
-                ◦ Create and manage tags for eCommerce products.
-            • Products:
-                ◦ Access and manage eCommerce products.
-        • Reporting:
-            ◦ Generate reports for online sales, page views, nomber of visitors and analytics
-        • Site:
-            ◦ Access and configure settings related to the website.
-            • Content:
-                ◦ Manage different types of website content.
-                • Events:
-                    ◦ Manage and display events on the website.
-                • Jobs:
-                    ◦ Post and manage job listings on the website.
-                • Pages:
-                    ◦ Create and manage website pages.
-                • Products:
-                    ◦ Manage eCommerce product listings.
-    • Homepage:
-        ◦ Configure settings for the website's homepage.
-    • Menu Editor:
-        ◦ Edit and manage the website menu.
-    • This page:
-        ◦ Access and configure settings for specific pages.
-        • Edit Menu:
-            ◦ Customize the website menu.
-        • HTML / CSS Editor:
-            ◦ Edit HTML and CSS for specific pages.
-        • Link Tracker:
-            ◦ Track and manage links on the website.
-        • Optimize SEO:
-            ◦ Optimize search engine optimization for specific pages.
-        • Properties:
-            ◦ Configure properties for specific pages.
+        ◦ create a webshop and configure and manage your products, product catagories and attributes, orders, pricelists, discounts and loyalty programs.
+    • payment: 
+        ◦ manige your payment providers, payment transactions, payment Tokens, eWallets, giftcards, unpayed orders and abandond cards.  
+    • Customers:
+        ◦ Manage your customers, there data and provide them portal access.
+    • Reporting:
+        ◦ Generate reports for online sales, page views, number of visitors and analytics.
 
 Link Tracker Features:
     • Link Tracker:
