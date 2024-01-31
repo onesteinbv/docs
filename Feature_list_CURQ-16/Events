@@ -1,15 +1,7 @@
 Events Features:
     • Events: Create and scedule events using diferent costomisible templates. manage them using diferent stages, tags and by sending automated emails.
-    • Track Locations:
-        ◦ Monitor and track event locations.
-    • Track Stages:
-        ◦ Monitor and track different stages of events.
-    • Track Tag Categories:
-        ◦ Categorize events with tags for easy classification.
-    • Track Tags:
-        ◦ Use tags to track and organize events.
-    • Track Visitors:
-        ◦ Monitor and track event attendees.
+    • Event Tracking:
+        ◦ Monitor and track event locations, stages, categories, and visitors.
     • Website Menus:
         ◦ Configure menus related to event websites.
     • Reporting:
