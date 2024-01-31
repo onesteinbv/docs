@@ -5,3 +5,5 @@ Timesheets Features:
         ◦ Create, access and manage timesheets to report hours linked to projects and tasks.
     • Timesheet Sheets to Review:
         ◦ Review and approve submitted timesheet sheets.
+    •billing:
+        ◦ Genaratie invoices from the submitted hours
