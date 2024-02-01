@@ -84,7 +84,9 @@ Handleiding
         
          `Boekhoud rapportages <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_boekhoudkundig.html>`_
 
-         `BTW en ICP aangifte <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_BTW_ICP.html>`_
+         `BTW aangifte <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_BTW.html>`_
+
+         `ICP aangifte <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_ICP.html>`_
 
          `Management rapportages <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_management.html>`_
 
