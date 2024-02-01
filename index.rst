@@ -120,7 +120,7 @@ Handleiding
 
 .. admonition:: Projecten
 
-    `Urenstaten <http://docs.onestein.eu/Handleiding/Projecten/Urenstaten_gebruikers.html>`_
+    `Urenstaten <http://docs.onestein.eu/Handleiding/Projecten/Urenstaten_gebruiker.html>`_
 
 .. admonition:: Support
 
