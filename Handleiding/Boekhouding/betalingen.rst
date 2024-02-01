@@ -19,6 +19,8 @@ Curq controleert hierop maar omdat er ook niet-IBAN nummers toegevoegd kunnen wo
 Als de schuif 'Betalen' aan staat dan kun je de rekening gebruiken bij betalingen.
 
 .. image:: My-Ponto-Bank-Feed-Media/betalingen_bankrekening.png
+       :width: 6.3in
+       :height: 2.93264in
 
 Betaling registreren van een factuur of rekening
 ----
@@ -30,12 +32,16 @@ Wanneer de openstaande rekening vervolgens wordt afgeletterd met een bankafschri
 Hieronder zie je de 4 boekingen die Curq maakt bij het op betaald zetten van de factuur en verwerken van de dagafschriftregel.
 
 .. image:: My-Ponto-Bank-Feed-Media/Betalingen_boekingsregel_betaling.png
+       :width: 6.3in
+       :height: 2.93264in
 
 Het informatiepictogram naast de betalingsregel geeft meer informatie over de betaling weer. Je hebt toegang tot aanvullende informatie, zoals het bijbehorende journaal, door op 'bekijk' te klikken. 
 
 Vanuit dit informatiescherm kun je de aflettering ook ongedaan maken, Dit doe je bijvoorbeeld als je een betaling aan een verkeerde factuur hebt gekoppeld. Na ontkoppelen van de betaling kun je deze eventueel ook verwijderen in het menu Facturatie-> Klanten of leveranciers-> Betalingen.
 
 .. image:: My-Ponto-Bank-Feed-Media/betalingen_informatiescherm.png
+       :width: 6.3in
+       :height: 2.93264in
 
 
 Gedeeltelijke betaling
@@ -51,6 +57,8 @@ Afletter menu
 Je vind dit menu onder Boekhouding -> Afletteren. In dit onderdeel zie je alle openstaande handmatig aangemaakte, niet-afgeletterde betalingen- of ontvangsten. in onderstaand voorbeeld is een handmatige ontvangst geregistreerd en staat er ook een verkoopfactuur open. In dit menu kun je de betaling en de factuur aan elkaar matchen. De verkoopfactuur zal op gedeeltelijk betaald komen te staan na afletteren.
 
 .. image:: My-Ponto-Bank-Feed-Media/betalingen_afletteren.png
+       :width: 6.3in
+       :height: 2.93264in
 
 
 
