@@ -9,6 +9,8 @@ Betalingen aan leveranciers doe je eenvoudig door deze via een SEPA XML bestand 
     Bij het verwerken van de inkoopfactuur hoort het banknummer van de leverancier bekend te zijn en op de klantkaart te zijn ingevuld (anders kan de SEPA betaling niet worden uitgevoerd). Ook moet je de factuurreferentie invullen bij de inkoopfactuur (dit is een verplicht veld bij opmaken van het SEPA bestand).
 
     .. image:: SEPA-betalingen-leverancier-OCA-Media//image1.png
+       :width: 6.3in
+       :height: 2.93264in
  
 2. Toevoegen en verwerken van inkoopfactuur aan een SEPA bestand via Uitgaande betalingsopdracht
 ------------------------------------------------------------------------------------------------
@@ -17,8 +19,10 @@ Betalingen aan leveranciers doe je eenvoudig door deze via een SEPA XML bestand 
     Toevoegen via menu Uitgaande betalingen (via Facturatie -> Leveranciers-Uitgaande betaalopdrachten)
 
     .. image:: SEPA-betalingen-leverancier-OCA-Media//image2.png
+       :width: 6.3in
+       :height: 2.93264in
      
-    Maak een nieuwe opdracht aan en kies het soort datumfilter. Kies vervolgens voor een vervaldatum. Door vervolgens te klikken op de tekst ‘Toevoegen alle Mutaties’ zal Curq de         boekingen tonen die horen bij het gekozen filter.
+    Maak een nieuwe opdracht aan en kies het soort datumfilter. Kies vervolgens voor een vervaldatum. Door vervolgens te klikken op de tekst ‘Toevoegen alle Mutaties’ zal Curq de  boekingen tonen die horen bij het gekozen filter.
 
     Via ‘Aanmaken Transacties’ worden de boekingen in een betaalopdracht gezet
 
@@ -27,6 +31,8 @@ Betalingen aan leveranciers doe je eenvoudig door deze via een SEPA XML bestand 
     As je het bestand hebt ingelezen bij de bank klik dan op de laatste fase, ‘bestand geüpload’. Deze laatste actie zorgt ervoor dat de inkoopfacturen van het bestand in Curq de status ‘Betaald’ krijgen. Tevens wordt het totaalbedrag van de te betalen batch op een tussenrekening gezet. (de grootboekrekening crediteuren onderweg)
 
     .. image:: SEPA-betalingen-leverancier-OCA-Media//image3.png
+       :width: 6.3in
+       :height: 2.93264in
    
 3. Boeken in bank
 -----------------
