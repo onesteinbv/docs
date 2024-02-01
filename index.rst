@@ -118,10 +118,9 @@ Handleiding
 
     `Webdomein instellen <http://docs.onestein.eu/Handleiding/Website/Webdomein_instellen.html>`_
 
-
 .. admonition:: Projecten
 
-    `Urenstaten <<http://docs.onestein.eu/Handleiding/Projecten/Urenstaten_gebruikers.html>
+    `Urenstaten <http://docs.onestein.eu/Handleiding/Projecten/Urenstaten_gebruikers.html>`_
 
 .. admonition:: Support
 
