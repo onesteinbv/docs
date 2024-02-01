@@ -120,9 +120,9 @@ Handleiding
 
 .. admonition:: Support
 
-    `Helpdesk <http://docs.onestein.eu/Handleidingen/Support/Helpdesk.html>`_
+    `Helpdesk <http://docs.onestein.eu/Handleiding/Support/Helpdesk.html>`_
 
-    `Helpdesk advanced <http://docs.onestein.eu/Handleidingen/Support/Helpdesk_advanced.html>`_
+    `Helpdesk advanced <http://docs.onestein.eu/Handleiding/Support/Helpdesk_Advanced.html>`_
 
 .. admonition:: Leden
 
