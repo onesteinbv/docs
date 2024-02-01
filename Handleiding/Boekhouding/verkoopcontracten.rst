@@ -17,6 +17,8 @@ Aanmaken verkoopcontract
 Contracten zijn voor klanten te vinden in Facturatie -> Klanten -> Klant en Facturatie  en voor leveranciers onder Leveranciers -> Leverancierscontracten.
 
 .. image:: My-Ponto-Bank-Feed-Media/Verkoopcontract_invoer.png
+       :width: 6.3in
+       :height: 2.93264in
 
 Algemene gegevens contract
 ----
@@ -35,6 +37,8 @@ facturatie instellingen
 **Herhalend op regelniveau**. Wanneer je dit vinkje aanzet, dan kun je op regelniveau de herhalingsinstellingen aanpassen. Met deze optie wordt het mogelijk om verschillende abonnementen onder 1 contract vast te leggen. Curq zal op basis van de regel een factuur genereren. In het schermvoorbeeld hieronder is een maand en een jaarabonnement op 1 contract gezet.
 
 .. image:: My-Ponto-Bank-Feed-Media/Verkoopcontract_voorbeeld_verschillende_periodes.png
+       :width: 6.3in
+       :height: 2.93264in
 
 **Factureer iedere**. de herhalingsparameters: interval (dagen, weken, maanden, maanden laatste dag of jaren), begindatum, datum van de volgende factuur (automatisch berekend, kan worden gewijzigd) en einddatum (optioneel)
 
@@ -73,6 +77,8 @@ Het contract kan per e-mail worden verzonden met de knop Verzenden per e-mail
 Hieronder zie je een voorbeeld van een ingevoerd voorbeeld abonnement:
 
 .. image:: My-Ponto-Bank-Feed-Media/Verkoopcontract_ingevoerd_voorbeeldcontract.png
+       :width: 6.3in
+       :height: 2.93264in
 
 
 
