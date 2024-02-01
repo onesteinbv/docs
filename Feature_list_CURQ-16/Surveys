@@ -1,11 +1,5 @@
 Surveys Features:
-    • Participations:
-        ◦ Manage and track survey participations.
-    • Questions & Answers:
-        ◦ View and manage detailed answers to survey questions.
-    • Questions:
-        ◦ Define questions for surveys.
-    • Suggested Values:
-        ◦ Provide suggested values for survey responses.
     • Surveys:
-        ◦ Create and manage surveys.
+        ◦ Create and manage feedback forms, certifications and live presentations.
+    • Questions & Answers:
+        ◦ create questions and provide sugested answers to have curq generate serveys.

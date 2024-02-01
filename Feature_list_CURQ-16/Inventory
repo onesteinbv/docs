@@ -1,65 +1,7 @@
 Inventory Features:
-    • Configuration:
-        ◦ Set up inventory-related configurations.
-    • Delivery:
-        ◦ Configure delivery-related settings.
-    • Package Types:
-        ◦ Define various types of packages for products.
-    • Products:
-        ◦ Manage product-related configurations.
-    • Attributes:
-        ◦ Define attributes for products.
-    • Barcode Nomenclatures:
-        ◦ Establish nomenclatures for product barcodes.
-    • Product Categories:
-        ◦ Categorize products for organized inventory management.
-    • Product Packagings:
-        ◦ Specify packaging details for products.
-    • Reordering Rules:
-        ◦ Set rules for automatic product reordering.
-    • Units of Measure:
-        ◦ Define different units of measure for products.
-    • Settings:
-        ◦ Configure general inventory-related settings.
-    • Warehouse Management:
-        ◦ Set up configurations for warehouse management.
-    • Locations:
-        ◦ Define different warehouse locations.
-    • Operations Types:
-        ◦ Categorize various types of warehouse operations.
-    • Putaway Rules:
-        ◦ Establish rules for the placement of products in the warehouse.
-    • Routes:
-        ◦ Define routes for product movement within the warehouse.
-    • Rules:
-        ◦ Set rules for warehouse operations.
-    • Storage Categories:
-        ◦ Categorize storage areas in the warehouse.
-    • Warehouses:
-        ◦ Manage and configure warehouse details.
-    • Operations:
-        ◦ Perform various inventory-related operations.
-    • Inventory Adjustments:
-        ◦ Make adjustments to inventory levels.
-    • Replenishment:
-        ◦ Manage stock replenishment.
-    • Run Scheduler:
-        ◦ Schedule and automate inventory-related tasks.
-    • Scrap:
-        ◦ Handle the disposal of damaged or obsolete items.
-    • Transfers:
-        ◦ Transfer products between different locations.
-    • Overview:
-        ◦ Access an overview of inventory-related activities.
-    • Products:
-        ◦ Manage and view product details.
-    • Lots/Serial Numbers:
-        ◦ Track products with lot or serial numbers.
-    • Packages:
-        ◦ Manage product packages.
-    • Product Variants:
-        ◦ Handle different variants of products.
-    • Products:
-        ◦ View and manage individual products.
-    • Reporting:
-        ◦ Generate reports on locations, moves history, stock, stock moves, and valuation.
+
+    • Delivery:Configure and manage deliveries.
+    • Products:create, customize and manage your products including there attributes, barcode nomenclature, categories, Packaging, Lots/Serial Numbers, variants and units op Measure.
+    • Warehouses:setup and manage one or muiltible Warehouses and there locations, operations, rules and routs.
+    • operations: manage the operations wichin your warehouses such as: the adjustments of the inventory, the schedule, the scrapping op products, transfuring the inventory and the replenishment of the inventory
+    • Reporting: Generate reports on locations, moves history, stock, stock moves, and valuation.

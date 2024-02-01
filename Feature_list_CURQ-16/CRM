@@ -1,23 +1,19 @@
 CRM Features:
-    • Configuration:
-        ◦ Customize CRM settings.
-    • Activity Types:
-        ◦ Define different types of activities.
-    • Opportunities:
-        ◦ Manage and track sales opportunities.
-    • Pipeline:
-        ◦ Set up and view sales pipelines.
-    • Recurring Plans:
-        ◦ Create plans for recurring activities.
-    • Resellers:
-        ◦ Manage reseller partnerships.
-    • Sales Teams:
-        ◦ Organize teams for sales collaboration.
-    • Import & Synchronize:
-        ◦ Import and synchronize CRM data.
-    • Leads:
-        ◦ Manage and track potential customers.
-    • Reporting:
-        ◦ Generate reports on CRM activities, forecast, leads, partnerships, and pipelines.
-    • Sales:
-        ◦ Track customer interactions, activities, quotations, and sales teams.
+CRM opens with an Overview of “My Pipeline”, you find New, Qualified, Proposition and Won Leads or Prospects.
+
+Sales:
+    • My Pipeline, Create and manage your Leads and Prospects
+    • My Activities, Create and manage your activities
+    • My Quotation, Create Quotation for Leads / Prospects > Leads and Prospects become a customer.
+    • Teams: Overview of your teams and invoicing target can be defined per team.
+    • Customers: Create and Manage your Customers.
+      
+Reporting: 
+    • Forecasts, 
+    • Analysis of > Pipeline, Leads, Activities and Partnerships each with its own measures.
+
+Configuration:
+    • Manage CRM Setting
+    • Create and Manage > Sales Teams, Team Members, Activity Types, Recurring Plans.
+    • Pipeline: Create and Configure > Stages, Tags and Lost Reasons.
+    • Resellers: Create and Configure > Partner Levels and Partner Activation.

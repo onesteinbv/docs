@@ -1,25 +1,7 @@
 Purchase Features:
-    • Configuration:
-        ◦ Set up purchase-related configurations.
     • Products:
-        ◦ Manage product-related configurations for purchases.
-    • Product Attributes:
-        ◦ Define attributes for purchase products.
-    • Product Categories:
-        ◦ Categorize products for organized purchasing.
-    • Settings:
-        ◦ Configure general purchase-related settings.
-    • Units of Measures:
-        ◦ Define different units of measure for purchase products.
-    • Units of Measure Categories:
-        ◦ Categorize units of measure for organized tracking.
-    • Vendor Pricelists:
-        ◦ Manage pricelists for different vendors.
-    • Orders:
-        ◦ Manage purchase orders and requests for quotation.
+        ◦ Manage the purchases for producs and there attributes categorys units of measure verdors and there pricelists.
     • Vendors:
-        ◦ Manage and organize vendor details.
-    • Products:
-        ◦ Manage product variants and individual products for purchases.
+        ◦ Manage and organize your vendor details, there product and orders.
     • Reporting:
         ◦ Generate reports related to purchases.

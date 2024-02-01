@@ -1,25 +1,8 @@
 Sales Features:
-    • Configuration:
-        ◦ Set up configurations related to sales.
-    • Activity Types:
-        ◦ Define different types of sales activities.
-    • Products:
-        ◦ Manage product-related configurations for sales.
-    • Product Attributes:
-        ◦ Define attributes for sales products.
-    • Sales Orders:
-        ◦ Manage sales orders, quotation templates, tags, and sales teams.
-    • Settings:
-        ◦ Configure general sales-related settings.
-    • Units of Measure:
-        ◦ Define different units of measure for sales products.
-    • Units of Measure Categories:
-        ◦ Categorize units of measure for organized tracking.
-    • Mollie:
-        ◦ Manage Mollie-related logs, payments, and subscriptions.
-    • Orders:
-        ◦ Manage customer orders, quotations, and sales teams.
-    • Products:
-        ◦ Manage discount & loyalty, gift cards & eWallet, pricelists, product variants, and individual products for sales.
-    • Reporting:
-        ◦ Generate reports related to sales, to invoice, and orders to upsell.
+    • Activity Types: Define different types of sales activities.
+    • Products: Manage discount & loyalty, gift cards & eWallet, pricelists, product variants, and individual products for sales.
+    • Sales Orders: Manage sales orders, quotation templates, tags, and sales teams.
+    • Units of Measure: Define different units of measure for sales products.
+    • Mollie: payments, and subscriptions.
+    • Orders: Manage customer orders, quotations, and sales teams.
+    • Reporting: Generate reports related to sales, to invoice, and orders to upsell.

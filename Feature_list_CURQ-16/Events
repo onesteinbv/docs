@@ -1,31 +1,8 @@
 Events Features:
-    • Configuration:
-        ◦ Set up event-related configurations.
-    • Event Stages:
-        ◦ Define stages in the event lifecycle.
-    • Event Tags Categories:
-        ◦ Categorize events with tags for easy classification.
-    • Event Templates:
-        ◦ Create templates for organizing events.
-    • Lead Generation:
-        ◦ Utilize events for lead generation.
-    • Mail Schedulers:
-        ◦ Schedule and manage event-related emails.
-    • Settings:
-        ◦ Configure general event-related settings.
-    • Track Locations:
-        ◦ Monitor and track event locations.
-    • Track Stages:
-        ◦ Monitor and track different stages of events.
-    • Track Tag Categories:
-        ◦ Categorize events with tags for easy classification.
-    • Track Tags:
-        ◦ Use tags to track and organize events.
-    • Track Visitors:
-        ◦ Monitor and track event attendees.
+    • Events: Create and scedule events using diferent costomisible templates. manage them using diferent stages, tags and by sending automated emails.
+    • Event Tracking:
+        ◦ Monitor and track event locations, stages, categories, and visitors.
     • Website Menus:
         ◦ Configure menus related to event websites.
-    • Events:
-        ◦ Manage and organize events.
     • Reporting:
         ◦ Generate reports on event attendees, revenues, and tracks.
