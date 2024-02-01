@@ -24,28 +24,31 @@ Om een bestand te importeren, gaat u naar het Boekhouddashboard en klikt u in he
        :width: 6.3in
        :height: 2.93264in
 
-After setting the necessary formatting options and mapping the file columns with their related Odoo fields, you can run a Test and Import your bank transactions.
-
- Zie ook
-
 Gegevens exporteren en importeren
 
-Register bank transactions manually
-You can also record your bank transactions manually. To do so, go to Accounting Dashboard, click on the Bank journal, and then on New. Make sure to fill out the Partner and Label fields to ease the reconciliation process.
+Banktransacties handmatig registreren
+----
+Je kunt je banktransacties ook handmatig registreren. Ga hiervoor naar het Boekhouddashboard, klik op de drie puntjes in de tegel van Bankjournaal en vervolgens op Nieuw bij Transacties. Zorg ervoor dat je de velden Partner en Label invult om het reconciliatieproces te vergemakkelijken.
 
 Afschriften
-A bank statement is a document provided by a bank or financial institution that lists the transactions that have occurred in a particular bank account over a specified period of time.
+----
+Een bankafschrift is een document van een bank of financiële instelling met een overzicht van de transacties die hebben plaatsgevonden op een bepaalde bankrekening gedurende een bepaalde periode.
 
-In Odoo Accounting, it is optional to group transactions by their related statement, but depending on your business flow, you may want to record them for control purposes.
+In Odoo Accounting is het optioneel om transacties te groeperen per bijbehorend afschrift.
 
  Belangrijk
 
-If you want to compare the ending balances of your bank statements with the ending balances of your financial records, don’t forget to create an opening transaction to record the bank account balance as of the date you begin synchronizing or importing transactions. This is necessary to ensure the accuracy of your accounting.
+Als je de eindsaldi van je bankafschriften wilt vergelijken met de eindsaldi van je financiële administratie, vergeet dan niet om een openingstransactie te maken om het saldo van de bankrekening vast te leggen vanaf de datum dat je begint met het synchroniseren of importeren van transacties. Hiermee zorg je ervoor dat je in de tegel altijd het juiste saldo ziet staan.
 
-To access a list of statements, go to your Accounting Dashboard, click on the vertical ellipsis (⋮) button next to the bank or cash journal you want to check, then on Statements
+Om een lijst met afschriften te openen, ga je naar het Boekhouddashboard, klik je op de verticale ellips (⋮) naast het bank- of kasjournaal dat je wilt controleren en vervolgens op Afschriften.
 
-Statement creation from the kanban view
-Open the bank reconciliation view by clicking on the name of the bank journal, and identify the transaction corresponding to the last transaction of your bank statement. Click on the STATEMENT button when hovering on the upper separator line.
+Afschriften maken vanuit de kanban-weergave
+
+Open de bankafletter weergave door op de naam van het bankjournaal te klikken en zoek de transactie die overeenkomt met de laatste transactie van je bankafschrift. Klik op de knop Aanmaken als je met de muis over de bovenste scheidingslijn beweegt.
+
+.. image:: My-Ponto-Bank-Feed-Media/banktransacties_importeren.png
+       :width: 6.3in
+       :height: 2.93264in
 
 A "STATEMENT" button is visible when hovering on the line separating two transactions.
 Fill out the statement’s details and save. The newly created statement includes the previous transactions following the last statement.
