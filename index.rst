@@ -118,6 +118,16 @@ Handleiding
 
     `Webdomein instellen <http://docs.onestein.eu/Handleiding/Website/Webdomein_instellen.html>`_
 
+.. admonition:: Projecten
+
+    `Urenstaten <http://docs.onestein.eu/Handleiding/Projecten/Urenstaten_gebruikers.html>`_
+
+.. admonition:: Support
+
+    `Helpdesk <http://docs.onestein.eu/Handleiding/Support/Helpdesk.html>`_
+
+    `Helpdesk advanced <http://docs.onestein.eu/Handleiding/Support/Helpdesk_Advanced.html>`_
+
 .. admonition:: Leden
 
     `Introductie <http://docs.onestein.eu/Handleiding/Leden/Introductie.html>`_
