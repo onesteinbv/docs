@@ -21,6 +21,8 @@ Curq ondersteunt meerdere bestandsformaten om transacties te importeren:
 Om een bestand te importeren, gaat u naar het Boekhouddashboard en klikt u in het Bankjournaal op Transactie importeren.
 
 .. image:: My-Ponto-Bank-Feed-Media/banktransacties_importeren.png
+       :width: 6.3in
+       :height: 2.93264in
 
 After setting the necessary formatting options and mapping the file columns with their related Odoo fields, you can run a Test and Import your bank transactions.
 
