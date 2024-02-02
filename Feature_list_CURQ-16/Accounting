@@ -1,6 +1,6 @@
 Accounting Features:
 Accounting:
-    • RGS chart op acounts: manage your chart of acounts using the RGS methods.
+    • RGS chart op acounts: Manage your chart of acounts using the RGS methods.
     • Actions: Import Bank Statement, Reconcile transactions and Update Lock Dates.
     • Bank and Cash: Manage Bank Statements, Cash Registers for handling transactions.
     • Journals: manage your Journal Entries to record financial transactions, Journal Items to manage individual items within journal entries. Spread Costs/Revenues to distribute costs or revenues across multiple periods.
@@ -15,7 +15,7 @@ Reporting:
    • generate Auditfile Exports, Financial Assets,management information system, NL BTW Statement, OCA Accounting and invoice reports.
 
    Vendors:
-   • Create or upload vendor bills, invoices for purchase contracts manually, payment orders, products, associate with vendors, refunds and contracts
+   • Create or upload vendor bills, invoices for purchase contracts manually, payment orders, products, associate with vendors, refunds and contracts.
 
 Assets:
     • Assets: Create and manage company assets aditionaly Generates an overview of all active assets.
