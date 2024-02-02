@@ -1,7 +1,11 @@
 Project Features:
     • Projects:
-        ◦ Manage and organize project via types, categorys and stages. assign employees to tasks and give them responsebilitys and roles wichin the project.
-    • GTD:
-        ◦ Implement Getting Things Done (GTD) methodology.
+        ◦ create and manage your projects in Curq by asigning project managers, employees, members and conecting your projects with costemers.
+    • Tasks
+        ◦ asign employees and members to diferent tasks conect them to Sales orders
+    • Kanban
+        ◦ orgenise your projects and tasks in diferent stages and defign your proses with the kanban view
+    • set deadling
+        ◦ set deadlines and allocate the amount of hours that can be spend on your projects and tasks
     • Reporting:
         ◦ Generate reports on customer ratings and tasks analysis.
