@@ -3,6 +3,7 @@ Sales Features:
     • Products: Manage discount & loyalty, gift cards & eWallet, pricelists, product variants, and individual products for sales.
     • Sales Orders: Manage sales orders, quotation templates, tags, and sales teams.
     • Units of Measure: Define different units of measure for sales products.
-    • Mollie: payments, and subscriptions.
+    • Mollie: give diferent payment options like creditcard, paypall and iDeal using the mollie integration.
+    • Subscriptions: sell subscription products with payment options per day, month or year with the posebility bill using prorate.
     • Orders: Manage customer orders, quotations, and sales teams.
     • Reporting: Generate reports related to sales, to invoice, and orders to upsell.
