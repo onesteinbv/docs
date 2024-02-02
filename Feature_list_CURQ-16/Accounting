@@ -1,56 +1,24 @@
 Accounting Features:
 Accounting:
+    • RGS chart op acounts: manage your chart of acounts using the RGS methods.
     • Actions: Import Bank Statement, Reconcile transactions and Update Lock Dates.
     • Bank and Cash: Manage Bank Statements, Cash Registers for handling transactions.
-    • Journals: Journal Entries to record financial transactions, Journal Items to manage individual items within journal entries. Spread Costs/Revenues to distribute costs or revenues across multiple periods.
-    • Management: Manage items for analytic accounting.
+    • Journals: manage your Journal Entries to record financial transactions, Journal Items to manage individual items within journal entries. Spread Costs/Revenues to distribute costs or revenues across multiple periods.
+    • Items: Manage items for analytic accounting.
    
 Customers:
-    • Banking Mandates: Manage customer banking mandates.
-    • Credit Notes: Issue credit notes to customers.
-    • Customer Contracts: Manage contracts with customers.
-    • Customers: Manage customer data.
-    • Debit Orders: Set up and manage debit orders.
-    • Invoices: Generate and manage customer invoices.
-    • Manually Invoice Sale Contracts: Manually create invoices for sales contracts.
-    • Overdue Invoice Remind: Remind customers of overdue invoices.
-    • Payments: Record customer payments.
-    • Products: Manage products associated with customers.
+    • Mangage your Customers contacts, data, products, debit orders, invoices and banking mandates. Issue credit notes, create invoices for sales contracts and generate reports on payments.
       
 Dashboard: Access a dashboard for an overview of accounting activities.
 
 Reporting:
-    • Auditfile Export: Export data in Auditfile format.
-    • Financial Assets: View reports related to financial assets.
-    • Management: Analyze invoices, Overview of overdue invoices and create reports of products margins.
-    • MIS Reporting: Generate reports for management information system reporting.
-    • NL BTW Statement: Generate the Dutch VAT statement.
-    • OCA Accounting Reports: Generate overview of the General-, Journal Ledger as well as a Trial Balance, Open invoices and Aged Partner Balances.
+   • generate Auditfile Exports, Financial Assets,management information system, NL BTW Statement, OCA Accounting and invoice reports.
 
    Vendors:
-    • Bills: Create or upload bills.
-    • Employee Expenses: Track and manage employee expenses.
-    • Manually Invoice Purchase Contracts: Create invoices for purchase contracts manually.
-    • Payment Orders: Create and generate a payment order.
-    • Payments: Create and record vendor payments.
-    • Products: Create and manage products, associate with vendors.
-    • Refunds: Create a Vendor refund.
-    • Supplier Contracts: Create and manage contracts agreed with vendors.
-    • Vendors: Create and manage a Vendor.
+   • Create or upload vendor bills, invoices for purchase contracts manually, payment orders, products, associate with vendors, refunds and contracts
 
 Assets:
-    • Assets: Create company assets.
-    • Compute Assets: Generates an overview of all active assets.
+    • Assets: Create and manage company assets aditionaly Generates an overview of all active assets.
 
 Configuration:
-    • Accounting: Configure > Chart of Accounts, Taxes, Journals, Currencies, Fiscal Positions, Journal Groups, Tax Groups, Spread Templates, Account Groups, Currency Rating Providers, Account Tags and Account Groups.
-    • Analytic Accounting: Add and configure > Analytic Distribution Models, Analytic Accounts and Analytic Plans.
-    • Assets: Add and Configure > Asset Profiles and Asset Groups.
-    • Banks: Add a bank accounts or Online Bank Statement Providers, Create reconciliation models.
-    • Contracts: Add and Configure > Contract Templates, Contract Tags as well as Contract Termination Reason.
-    • Invoicing: Configure > Payment terms and Incoterms.
-    • Management: Add and Manage > Product Categories, Payment Modes, Payment Methods and Invoice Reminder Results.
-    • MIS Reporting: Add and Configure > MIS Report Templates and MIS Report Styles.
-    • Payments: Configure > Payment Providers (like Mollie), Payment Icons, Payment Tokens to facilitate transactions securely and efficiently, Overview of Payment transactions.
-    • Settings: Configure general accounting settings.
-    • Templates: Add and Configure > Chart of Accounts Templates, Account Templates Tax Templates and  Fiscal Position Templates
+    configure your acounting items such as RGS chart of acounts taxes,journals currencies and Fiscal Positions. Along with Analytic Accounting, company Assets, bank acounts, Contracts, Payment terms, Incoterms, Payments including Payment Providers (like Mollie) and Templates
