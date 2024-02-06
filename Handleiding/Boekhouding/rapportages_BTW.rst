@@ -11,16 +11,24 @@ Naast het voldoen aan wettelijke verplichtingen draagt de correcte indiening van
 BTW-Aangifte aanmaken
 ---------------------
 
-Een BTW-aangifte kan in Curq aangemaakt worden via Facturatie > Rapportages > BTW Aangifte.
+
+In Curq is het mogelijk om een BTW-aangifte aan te maken via Facturatie > Rapportages > BTW Aangifte.
 
 .. image:: Rapportages/rapportages_BTW001.png
 
-- **Lay-out:** Hier zijn vier opties beschikbaar om het ontwerp van jouw facturen of andere documenten te configureren.
-- **Lettertype:** Kies hier een van de beschikbare lettertypes
-- **Bedrijfslogo:** Upload hier je Bedrijfslogo.
-- **Kleuren:** Curq stelt de kleuren voor op basis van je bedrijfslogo.
-- **Achtergrond lay-out:** Kies een optie of upload je eigen achtergrond.
-- **Bedrijfsslogan:** Vul hier jouw slogan in. Dit is optioneel.
-- **Bedrijfsgegevens:** Vul hier jouw bedrijfsgegevens in.
-- **Voettekst:** Vul hier de voettekst in. Denk aan je telefoonnummer, website, mailadres, KvK, BTW-Nummer of je bankrekeningnummer.
-- **Papierformaat:** Kies het juiste formaat.
+- **BTW Aangifte:** Hier geef je de naam van de BTW-aangifte op. Indien nodig, kun je dit naar eigen wens aanpassen.
+- **Tijdvak:** Kies een van de beschikbare tijdvakken.
+- **Datums:** Voer eventueel een start- en einddatum in.
+- **boekdatum:** De datum wordt automatisch ingevuld zodra je op de knop [versturen] klikt, waardoor de aangifte als verzonden wordt beschouwd. Het indienen van de daadwerkelijke aangifte bij de belastingdienst moet echter nog steeds handmatig worden gedaan.
+- **Wijzigingsdatum:** Dit is de laatste datum waarop aanpassingen in de aangifte zijn gemaakt.
+
+Zodra alle gegevens zijn ingevoerd, klik dan op de bijwerkknop. Op dit moment wordt de BTW-aangifte opgebouwd en worden de BTW-vakken automatisch gevuld met gegevens uit de administratie. Als er al gegevens aanwezig zijn, worden deze bijgewerkt.
+
+BTW-Aangifte Controleren
+------------------------
+
+In de BTW-vakken er onder kan je jouw aangifte controleren. Zo kan je via het vergrootglasje de details opvragen en de achterliggende boekingen opvragen. Zo heb je snel inzicht waar het bedrag uit is opgebouwd.
+
+.. image:: Rapportages/rapportages_BTW002.png
+
+Wanneer de BTW-aangifte klaar is, dan kan je deze op [verstuurd] worden gezet. Op dit moment ga je naar de website van de belastingdienst en vul je daar jouw BTW-aangifte in. Zodra je dat hebt afgerond, dan ga je terug naar de Curq en klik je op [Definitief]. Nu is jou aangifte ook in Curq definitief.
