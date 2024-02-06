@@ -6,9 +6,17 @@ Accounting:
     • Journals: manage your Journal Entries to record financial transactions, Journal Items to manage individual items within journal entries. Spread Costs/Revenues to distribute costs or revenues across multiple periods.
     • Items: Manage items for analytic accounting.
    
-Customers:
-    • Mangage your Customers contacts, data, products, debit orders, invoices and banking mandates. Issue credit notes, create invoices for sales contracts and generate reports on payments.
-      
+Customers: Mangage your Customers contacts, data, products, debit orders, invoices and banking mandates. Issue credit notes, create invoices for sales contracts and generate reports on payments.
+
+transactions: Manage cash, credit and debit transactions in muiltible currencies and there exchange rates.
+RGS chart op acounts: Manage your chart of acounts using the RGS methods.
+bank accounts: manage your bank transactions and reconsiliations using myPronto bank synchronization
+customers and venders: Manage your customer and vender details, invoices, bank details, contracts, orders amd refunds.
+pdf viewer: Import, link and view the details of your accounting documents in the pdf preview.
+Reporting: Generate reporting on your accounting data such as revenue data and profit margens.
+Assets: Create and manage company assets aditionaly Generates an overview of all active assets.
+payment providers: manige your payment options though mollie and other providers.
+
 Dashboard: Access a dashboard for an overview of accounting activities.
 
 Reporting:
