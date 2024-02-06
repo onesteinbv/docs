@@ -27,8 +27,8 @@ Zodra alle gegevens zijn ingevoerd, klik dan op de bijwerkknop. Op dit moment wo
 BTW-Aangifte Controleren
 ------------------------
 
-In de BTW-vakken er onder kan je jouw aangifte controleren. Zo kan je via het vergrootglasje de details opvragen en de achterliggende boekingen opvragen. Zo heb je snel inzicht waar het bedrag uit is opgebouwd.
+Onder de BTW-vakken hieronder kun je je aangifte verifiëren. Door het vergrootglaspictogram te gebruiken, kun je gedetailleerde informatie opvragen en de onderliggende boekingen bekijken. Hierdoor krijg je snel inzicht in de opbouw van het bedrag.
 
 .. image:: Rapportages/rapportages_BTW002.png
 
-Wanneer de BTW-aangifte klaar is, dan kan je deze op [verstuurd] worden gezet. Op dit moment ga je naar de website van de belastingdienst en vul je daar jouw BTW-aangifte in. Zodra je dat hebt afgerond, dan ga je terug naar de Curq en klik je op [Definitief]. Nu is jou aangifte ook in Curq definitief.
+Zodra de BTW-aangifte is voltooid, kun je deze markeren als [verstuurd]. Op dit punt ga je naar de website van de belastingdienst om je BTW-aangifte in te dienen. Na voltooiing keer je terug naar Curq en klik je op [Definitief]. Nu is je aangifte ook in Curq definitief vastgelegd.
