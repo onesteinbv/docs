@@ -22,6 +22,8 @@ Handleiding
 
             `Openingsbalans <http://docs.onestein.eu/Handleiding/Boekhouding/boekhouding_starten_beginbalans.html>`_
 
+            `Datumreeksen <http://docs.onestein.eu/Handleiding/Boekhouding/boekhouding_starten_datumreeksen.html>`_
+
         `Belastingen <http://docs.onestein.eu/Handleiding/Boekhouding/belastingen.html>`_
 
             `Controle BTW nummer VIES <http://docs.onestein.eu/Handleiding/Boekhouding/belastingen_vies.html>`_
