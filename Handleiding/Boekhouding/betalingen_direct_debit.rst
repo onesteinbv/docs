@@ -9,15 +9,30 @@ Je kunt klantmandaten vastleggen in Curq en .xml-bestanden genereren met lopende
 
 Mandaat instellingen
 ------
+.. image:: My-Ponto-Bank-Feed-Media/direct_debit_incassant_id.png
+       :width: 6.3in
+       :height: 2.93264in
 
 Aanmaken mandaat van een klant
 -----
+.. image:: My-Ponto-Bank-Feed-Media/direct_debit_aanmaken_machtiging.png
+       :width: 6.3in
+       :height: 2.93264in
+
+.. image:: My-Ponto-Bank-Feed-Media/direct_debit_bevestigde_machtiging.png
+       :width: 6.3in
+       :height: 2.93264in
 
 Aanmaken verkoopfactuur
 -----
+.. image:: My-Ponto-Bank-Feed-Media/direct_debit_aanmaken_verkoopfactuur.png
+       :width: 6.3in
+       :height: 2.93264in
 
-Aanamkaen incasso batch
+Aanmaken incasso batch
 ----
-
+.. image:: My-Ponto-Bank-Feed-Media/direct_debit_aanmaken_incassobatch.png
+       :width: 6.3in
+       :height: 2.93264in
 Afletteren van incassobatch via bank
 -----
