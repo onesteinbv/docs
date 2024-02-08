@@ -4,6 +4,8 @@ Handleiding
 
 .. admonition:: Algemeen
 
+    `Feature list <http://docs.onestein.eu/Feature_list_CURQ-16/Feature_list.html>`_
+
     `Toevoegen van een contact <http://docs.onestein.eu/Handleiding/Algemeen/Toevoegen_van_een_contact.html>`_
    
     `Support proces <http://docs.onestein.eu/Handleiding/Algemeen/support_proces.html>`_
