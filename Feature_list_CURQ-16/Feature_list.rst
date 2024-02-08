@@ -31,7 +31,7 @@ Your instance comes with SSL certificates included for your subdomain.
 
 **Ability to link customer domain**
 
-Effortlessly link your own domain, to your unique instance.
+| Effortlessly link your own domain, to your unique instance.
 *Manually handled at the moment.*
 
 **No vendor lock**
@@ -153,6 +153,8 @@ Odoo Apps
 
 **Installed apps**
 
+View the list of installed applications.
+
 CRM
 ===
 
@@ -181,9 +183,8 @@ Plan an manage meetings and tasks.
 
 **Nextcloud integration**
 
-Link your nextcloud calendar with Curq to keep track of all your different activities Do note only one calendar can be linked per user.
+| Link your nextcloud calendar with Curq to keep track of all your different activities Do note only one calendar can be linked per user.
 *Optimization for using caldev module in progress.*
-
 
 **Reminders**
 
