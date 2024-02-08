@@ -31,8 +31,8 @@ Your instance comes with SSL certificates included for your subdomain.
 
 **Ability to link customer domain**
 
-|Effortlessly link your own domain, to your unique instance.
-|*Manually handled at the moment.*
+Effortlessly link your own domain, to your unique instance.
+*Manually handled at the moment.*
 
 **No vendor lock**
 
@@ -181,8 +181,8 @@ Plan an manage meetings and tasks.
 
 **Nextcloud integration**
 
-|Link your nextcloud calendar with Curq to keep track of all your different activities Do note only one calendar can be linked per user.
-|*Optimization for using caldev module in progress.*
+Link your nextcloud calendar with Curq to keep track of all your different activities Do note only one calendar can be linked per user.
+*Optimization for using caldev module in progress.*
 
 
 **Reminders**
