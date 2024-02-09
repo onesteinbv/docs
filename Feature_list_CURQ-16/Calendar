@@ -1,3 +1,12 @@
-Calendar Features:
-    Planning: plan an manage meetings and tasks
-    Reminders: Set reminders for events and tasks.
+Planning
+
+Plan an manage meetings and tasks.
+
+Nextcloud integration
+Link your nextcloud calendar with Curq to keep track of all your different activities Do note only one calendar can be linked per user.
+
+Optimization for using caldev module in progress.
+
+Reminders
+
+Set reminders for events and tasks.
