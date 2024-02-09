@@ -1,9 +1,15 @@
-Timesheets Features:
-    • Reporting:
-        ◦ Generate reports on timesheet.
-    • Timesheets:
-        ◦ Create, access and manage timesheets to report hours linked to projects and tasks.
-    • Timesheet Sheets to Review:
-        ◦ Review and approve submitted timesheet sheets.
-    •billing:
-        ◦ Genaratie invoices baced on the submitted hours
+Timesheets
+
+Create, access and manage timesheets to report hours linked to projects and tasks.
+
+Timesheets to Review
+
+Review and approve submitted timesheet sheets.
+
+Billing
+
+Generate invoices based on the submitted hours.
+
+Reporting
+
+Generate reports on timesheet.
