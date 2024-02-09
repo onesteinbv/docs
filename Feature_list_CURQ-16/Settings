@@ -1,8 +1,23 @@
-Settings Features:
-    • Custom Shortcuts: Create and manage personalized keyboard shortcuts.
-    • Gamification: Utilize gamification elements to enhance user engagement such as: badges, chalanges, goals and rankings
-    • manage users: manage and invit users to your company, control there exess rights and add them as emplyees.
-    • Languges: setup your envirment with diferent languges and switch between them when desierd.
-    • multi company: setup muiltible companyees within your organisation.
-    • e-mail: Manage and setup incomming and uotgoing emails using aliases and automated prosesses.
+Gamification
 
+Utilize gamification elements to enhance user engagement such as: badges, challenges, goals and rankings within your environment.
+
+Manage users
+
+Manage and invite users to your company, control there excess rights and add them as employees
+
+Multi factor authentication
+
+Use multi factor authentication to secure your environment and its users access.
+
+Languages
+
+Setup your environment with different languages and have your users switch between them when desired.
+
+Multi company
+
+Setup multiple companies within your organization.
+
+E-mail
+
+Setup and manage incoming and outgoing emails using aliases and automated processes.

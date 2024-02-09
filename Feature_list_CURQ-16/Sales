@@ -1,8 +1,27 @@
-Sales Features:
-    • Activity Types: Define different types of sales activities.
-    • Products: Manage discount & loyalty, gift cards & eWallet, pricelists, product variants, and individual products for sales.
-    • Sales Orders: Manage sales orders, quotation templates, tags, and sales teams.
-    • Units of Measure: Define different units of measure for sales products.
-    • Mollie: payments, and subscriptions.
-    • Orders: Manage customer orders, quotations, and sales teams.
-    • Reporting: Generate reports related to sales, to invoice, and orders to upsell.
+Products
+
+Manage discount & loyalty, gift cards & e Wallet, price-lists, product variants, up/cross selling and individual products for sales.
+
+Sales Orders
+
+Manage sales orders, quotation templates, tags, up-selling, cross-selling and sales teams.
+
+Units of Measure
+
+Define different units of measure for sales products.
+
+Mollie
+
+Give different payment options like credit card, paypall and iDeal using the mollie integration.
+
+Contracts
+
+Sell subscription products and setup contracts with recurring payment options per day, month or year with the possibility bill using prorate.
+
+Orders
+
+Manage customer orders, quotations, and sales teams.
+
+Reporting
+
+Generate reports related to sales, to invoice, and orders to up-sell.
