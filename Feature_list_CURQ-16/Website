@@ -1,17 +1,43 @@
-Website Features:
-    • Websites:
-        ◦ create your website using themes and quikly customize it using the menu editor and diferent created pages like events, surveys, blogs and recruitment.
-    • pages customisation: 
-        ◦ costomise your websits pages via the premade and costom building blocks, css and html editor,search engine optimisation, url reddirects and dinamic links.
-    • Building blocks:
-        ◦ Building blocks include Open street map and nextcloud integration uploading custom fonts and uploading fonts from Fontawesome library, customize your themes and add animations to liven up your website
-    • eCommerce:
-        ◦ create a webshop and configure and manage your products, product catagories and attributes, orders, pricelists, discounts and loyalty programs.
-    • payment: 
-        ◦ manige your payment providers, payment transactions, payment Tokens, eWallets, giftcards, unpayed orders and abandond cards.  
-    • Customers:
-        ◦ Manage your customers, there data and provide them portal access.
-    • Reporting:
-        ◦ Generate reports for online sales, page views, number of visitors and analytics.
-    •Configuration:	
-        ◦ Setup a custom url and the available languages on your websites
+Websites
+
+Create your website using themes and quickly customize it using the menu editor and different created pages like events, surveys, blogs, recruitment and the membership registration form.
+
+Pages customization
+
+Customize your websites pages via the premade and custom building blocks, CSS and HTML editor,search engine optimization, URL redirects and dynamic links.
+
+Drag and drop building
+
+Building block customization include uploading custom fonts and uploading fonts from Fontawesome library, customize your themes and add animations to liven up your website
+
+Maps integration
+
+Utilize open street maps integration within your website.
+
+Matomo web Analytics integration
+
+Use Matomo to collect statistics and data on how people use your website, including information such as page views, visitor numbers, traffic sources, visitor demographics and more.
+
+Store locator
+
+Utilize an interactive open source map to view all your store locations.
+
+eCommerce
+
+Create a web shop and configure and manage your products, product categories and attributes, orders, price-lists, discounts and loyalty programs.
+
+Payment
+
+Manage your payment providers, payment transactions, payment Tokens, eWallets, giftcards, unpaid orders and abandoned cards.
+
+Customers
+
+Manage your customers, there data and provide them portal access.
+
+Reporting
+
+Generate reports for online sales, page views and number of visitors.
+
+Configuration
+
+Setup a custom URL and the available languages on your websites.
