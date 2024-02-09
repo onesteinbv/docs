@@ -4,7 +4,7 @@ Handleiding
 
 .. admonition:: Algemeen
 
-    `Feature list <http://docs.onestein.eu/Feature_list_CURQ-16/Feature_list.html>`_
+    `Functielijst <http://docs.onestein.eu/Feature_list_CURQ-16/Functielijst.html>`_
 
     `Toevoegen van een contact <http://docs.onestein.eu/Handleiding/Algemeen/Toevoegen_van_een_contact.html>`_
    
@@ -141,6 +141,8 @@ Handleiding
     `Registratie pagina <http://docs.onestein.eu/Handleiding/Leden/Registratie_pagina.html>`_
 
 .. admonition:: Manuals ENG
+
+    `Feature list <http://docs.onestein.eu/Feature_list_CURQ-16/Feature_list.html>`_
 
     `Product Varianten <http://docs.onestein.eu/Manual/Product-Variant.html>`_
 
