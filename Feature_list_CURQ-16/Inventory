@@ -1,7 +1,19 @@
-Inventory Features:
+Delivery
 
-    • Delivery:Configure and manage deliveries.
-    • Products:create, customize and manage your products including there attributes, barcode nomenclature, categories, Packaging, Lots/Serial Numbers, variants and units op Measure.
-    • Warehouses:setup and manage one or muiltible Warehouses and there locations, operations, rules and routs.
-    • operations: manage the operations wichin your warehouses such as: the adjustments of the inventory, the schedule, the scrapping op products, transfuring the inventory and the replenishment of the inventory
-    • Reporting: Generate reports on locations, moves history, stock, stock moves, and valuation.
+Configure and manage deliveries.
+
+Stock
+
+Create, customize and manage your products including there attributes, barcodes, categories, Packaging, Lots/Serial Numbers, variants and units op Measure.
+
+Warehouses
+
+Setup and manage one or multiple Warehouses and there locations, operations, rules and routs.
+
+Operations
+
+Manage the operations within your warehouses such as: the adjustments of the inventory, the schedule, the scrapping op products, transferring the inventory and the replenishment of the inventory
+
+Reporting
+
+Generate reports on locations, moves history, stock, stock moves, and valuation.
