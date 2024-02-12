@@ -78,6 +78,8 @@ Handleiding
 
          `Banksynchronisatie MyPonto <http://docs.onestein.eu/Handleiding/Boekhouding/bankrekeningen_myponto.html>`_
 
+         `Banksynchronisatie Mollie <http://docs.onestein.eu/Handleiding/Boekhouding/bankrekeningen_mollie_synchroniseren.html>`_
+
          `Banktransacties importeren <http://docs.onestein.eu/Handleiding/Boekhouding/bankrekeningen_importeren_afschrift.html>`_
 
          `Afletteren bank <http://docs.onestein.eu/Handleiding/Boekhouding/bankrekeningen_afletteren.html>`_
