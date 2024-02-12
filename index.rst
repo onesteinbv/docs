@@ -142,6 +142,10 @@ Handleiding
 
     `Registratie pagina <http://docs.onestein.eu/Handleiding/Leden/Registratie_pagina.html>`_
 
+.. admonition:: HR
+
+    `Werving en selectie <http://docs.onestein.eu/Handleiding/HR/Werving_selectie.html>`_
+
 .. admonition:: Manuals ENG
 
     `Feature list <http://docs.onestein.eu/Feature_list_CURQ-16/Feature_list.html>`_
