@@ -16,3 +16,16 @@ Sjablonen voor spreiden van kosten configureren
 Je kunt een voorgedefinieerd sjabloon voor spreiding aanmaken via het menu Facturatie > Configuratie > Spreidingsjablonen. Dit sjabloon stelt je in staat om de juiste instellingen te definiëren wanneer je een spreiding wilt uitvoeren of een factuurregel wilt koppelen. Op basis van deze instellingen berekent en boekt Curq vervolgens de juiste gegevens in.
 
 .. image:: Leveranciersfactuur/Leveranciersfacturen_kostenspreiding001.png
+
+- **Spreidingsjabloon Naam:** 
+- **Spreiding Type:** 
+- **Aantal Herhalingen:** 
+- **Periode Type:** 
+- **Startdatum:** 
+- **Bereken per dag:** 
+- **Balans grootboekrekening / Grootboekrekening Spreiding:** 
+- **Spreiding Balans Grootboekrekening:** 
+- **Dagboek:** 
+- **Analytisch:** 
+- **Automatisch sjabloon toewijzen bij valideren factuur:** 
+
