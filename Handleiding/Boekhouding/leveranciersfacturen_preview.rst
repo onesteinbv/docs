@@ -1,12 +1,18 @@
 Facturen Preview
 ================
 
-Curq is volledig gebaseerd op datums in de administratie, zonder gebruik te maken van specifieke boekhoudperiodes. In plaats daarvan worden datumreeksen ingezet om zowel de invoer als het genereren van overzichten te vergemakkelijken. Deze benadering biedt flexibiliteit en gestructureerd beheer van financiële informatie.
+CURQ heeft een functionaliteit toegevoegd waarmee facturen kunnen worden voorzien van een PDF-preview. Het hebben van deze preview is uiterst handig bij het coderen van inkoopfacturen, omdat het gebruikers in staat stelt de factuur visueel te inspecteren en snel belangrijke informatie, zoals bedragen, datums en leveranciersgegevens, te achterhalen. Deze visuele controle draagt bij aan een nauwkeuriger coderingsproces en versnelt de workflow door directe toegang tot de visuele weergave, wat cruciaal is voor een efficiënte en foutloze financiële administratie.
 
-Datumreeksen beheren
---------------------
+Beoordelen inkoopfactuur
+------------------------
 
-Curq zal jaarlijks automatisch de datumreeksen met maanden, kwartalen en jaren bijwerken. Gebruikers hebben ook de mogelijkheid om deze reeksen handmatig te beheren. Om toegang te krijgen tot de beheersfunctie, is het noodzakelijk om eerst de ontwikkelaarsmodus in te schakelen. Datumreeksen kunnen worden aangepast via Instellingen > Technisch > Datumreeksen.
+Een inkoopfactuur kan op meerdere manieren worden aangemaakt binnen Curq.
+
+1. Via de knop [UPLOAD] bij de Facturatie Dashboard
+2. Via de knop [UPLOAD] bij Facturatie > Leveranciers > Leveranciersfacturen
+3. Via de knop [NIEUW] bij Facturatie > Leveranciers > Leveranciersfacturen
+
+Alleen bij optie 3 moet de PDF factuur apart worden geupload via de bijlage optie boven de logging.
 
 .. image:: Boekhouding/boekhouding_starten_datumreeksen001.png
 
