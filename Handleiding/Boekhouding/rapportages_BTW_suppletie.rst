@@ -1,5 +1,5 @@
 BTW-Suppletie
-=======================================
+=============
 
 Een BTW-aangifte suppletie is een correctie op een eerder ingediende BTW-aangifte. Als een ondernemer ontdekt dat er fouten of onvolledigheden zijn in een reeds ingediende BTW-aangifte, kan hij of zij een suppletieaangifte indienen om de fouten te corrigeren.
 
