@@ -7,8 +7,16 @@ Handleiding
     `Functielijst <http://docs.onestein.eu/Feature_list_CURQ-16/Functielijst.html>`_
 
     `Toevoegen van een contact <http://docs.onestein.eu/Handleiding/Algemeen/Toevoegen_van_een_contact.html>`_
+
+    `Rapportages <http://docs.onestein.eu/Handleiding/Algemeen/Rapportages.html>`_
+
+.. admonition:: Support
    
     `Support proces <http://docs.onestein.eu/Handleiding/Algemeen/support_proces.html>`_
+
+    `Helpdesk <http://docs.onestein.eu/Handleiding/Support/Helpdesk.html>`_
+
+    `Helpdesk advanced <http://docs.onestein.eu/Handleiding/Support/Helpdesk_Advanced.html>`_
 
 .. admonition:: Boekhouding
 
@@ -127,12 +135,6 @@ Handleiding
 .. admonition:: Projecten
 
     `Urenstaten <http://docs.onestein.eu/Handleiding/Projecten/Urenstaten_gebruiker.html>`_
-
-.. admonition:: Support
-
-    `Helpdesk <http://docs.onestein.eu/Handleiding/Support/Helpdesk.html>`_
-
-    `Helpdesk advanced <http://docs.onestein.eu/Handleiding/Support/Helpdesk_Advanced.html>`_
 
 .. admonition:: Leden
 
