@@ -131,7 +131,9 @@ Handleiding
 
 .. admonition:: Website
 
-    `Webdomein instellen <http://docs.onestein.eu/Handleiding/Website/Webdomein_instellen.html>`_
+    `website <http://docs.onestein.eu:/Handleiding/Website/website_introductie.html>`_
+
+        `Webdomein instellen <http://docs.onestein.eu/Handleiding/Website/Webdomein_instellen.html>`_
 
 .. admonition:: Projecten
 
