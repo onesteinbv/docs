@@ -62,6 +62,7 @@ Handleiding
         
          `Kostenspreiding inkoopfacturen <http://docs.onestein.eu/Handleiding/Boekhouding/leveranciersfacturen_cost_spread.html>`_
 
+         `Inkoopfacturen preview <http://docs.onestein.eu/Handleiding/Boekhouding/leveranciersfacturen_preview.html>`_
 
         `Verkoopcontracten en abonnementen <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopcontracten.html>`_   
 
