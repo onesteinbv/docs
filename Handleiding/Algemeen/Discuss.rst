@@ -1,4 +1,4 @@
-discuss
+Discuss
 =======
 
 De Discuss app is de manier om contact te houden met alle gebruikers en contacten binnen en buiten uw bedrijf. Met directe berichten en groepskanalen wordt het contact gestroomlijnd en versimpeld.
