@@ -34,7 +34,7 @@ In het chatveld kunnen berichten worden verzonden en de geschiedenis van het kan
 
 Wanneer over een kanaal met de muis wordt gehangen, wordt een tandwiel getoond, hier kunnen de opties voor het kanaal worden aangepast.
 
-.. image:: duscuss/duscuss004.png
+.. image:: duscuss/duscuss005.png
 
 Binnen de opties kunnen specifieke groepen gemachtigd worden om deel te nemen aan het kanaal, groepen automatisch aan het kanaal toegevoegd worden en een afdeling de groep automatisch laten volgen. Tevens kan de naam aangepast worden en een korte omschrijving worden gegeven van het kanaal. Onder de tab leden kunnen alle leden worden bekeken, nieuwe worden toegevoegd en bestaande worden verwijderd.
 
@@ -45,7 +45,7 @@ Binnen de verschillende items in alle apps zoals projecttaken, producten en fact
 
 Aan de rechterkant van het scherm staat de chatterfunctie. Het grootste gedeelte van het veld is waar de geschiedenis te zien is, hier staan de veranderingen, berichten, notities en activiteiten.
 
-.. image:: duscuss/duscuss005.png
+.. image:: duscuss/duscuss004.png
 
 Bij het verzenden van een bericht krijgen alle volgers van het item een melding of e-mail afhankelijk van de instellingen, dit geldt voor interne gebruikers en externe partijen zoals klanten. Wanneer een notitie wordt gemaakt met lognotitie, is het bericht voor intern gebruik. Bij activiteiten kan een actie worden gepland zoals het maken van een telefoongesprek, videocall of het versturen van een e-mail. Wanneer er een bericht moet worden verstuurd naar een specifieke gebruiker, kan dit gedaan worden met een apenstaartje (@) en de naam. Het bericht is nog steeds voor iedereen zichtbaar. Er kan ook een bestand aan de log worden toegevoegd, zoals een tekstbestand, spreadsheet of een foto.
 
