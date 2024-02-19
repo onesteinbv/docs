@@ -14,6 +14,7 @@ Om een gesprek te starten, selecteer naast "Directe berichten" het + symbool. Wa
 
 Voor externe communicatie worden e-mailberichten verstuurd. 
 In de Discuss app wordt het gesprek weergegeven via een chat, onderaan de pagina kan de tekst worden ingevuld en daarboven kan de geschiedenis van het gesprek worden weergegeven. Rechtsboven in de hoek zijn vier knoppen aanwezig:
+
 1. Hier kan een telefoongesprek worden gestart.
 2. Met deze functie kan een videocall worden opgezet.
 3. Door deze optie te gebruiken kunnen een of meerdere personen worden toegevoegd aan het gesprek.
