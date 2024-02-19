@@ -10,6 +10,8 @@ Handleiding
 
     `Rapportages <http://docs.onestein.eu/Handleiding/Algemeen/Rapportages.html>`_
 
+    `Chat <http://docs.onestein.eu/Handleiding/Algemeen/Discuss.html>`_
+
 .. admonition:: Support
    
     `Support proces <http://docs.onestein.eu/Handleiding/Algemeen/support_proces.html>`_
@@ -135,6 +137,10 @@ Handleiding
 
         `Webdomein instellen <http://docs.onestein.eu/Handleiding/Website/Webdomein_instellen.html>`_
 
+        `Website pagina editor <http://docs.onestein.eu/Handleiding/Website/website_pagina_editor.html>`_
+
+        `Website configuraties <http://docs.onestein.eu/Handleiding/Website/Website_Configuratie.html>`_
+
 .. admonition:: Projecten
 
     `Urenstaten <http://docs.onestein.eu/Handleiding/Projecten/Urenstaten_gebruiker.html>`_
@@ -143,9 +149,11 @@ Handleiding
 
     `Introductie <http://docs.onestein.eu/Handleiding/Leden/Introductie.html>`_
 
-    `Producten voor leden <http://docs.onestein.eu/Handleiding/Leden/Producten_voor_leden.html>`_
+        `Producten voor leden <http://docs.onestein.eu/Handleiding/Leden/Producten_voor_leden.html>`_
 
-    `Registratie pagina <http://docs.onestein.eu/Handleiding/Leden/Registratie_pagina.html>`_
+        `Secties <http://docs.onestein.eu/Handleiding/Leden/Leden_secties.html>`_
+
+        `Registratie pagina <http://docs.onestein.eu/Handleiding/Leden/Registratie_pagina.html>`_
 
 .. admonition:: HR
 
