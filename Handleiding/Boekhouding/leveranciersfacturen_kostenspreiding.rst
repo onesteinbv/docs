@@ -59,19 +59,25 @@ Een spreidingstabel is de concrete verdeling van kosten. Deze tabellen worden au
 De uitleg van de meeste velden is al eerder gegeven bij de spreidingsjabloon hierboven.
 
 - **Spreiding Tabel Naam:** Geef de spreidingstabel een passende naam.
-- **Spreidingsjabloon:** Selecteer hier een spreidingsjabloon.
-- **Factuur:** De gekoppelde factuur aan deze spreidingstabel.
-- **Factuur regel:** De gekoppelde factuurregel aan deze spreidingstabel.
-- **Totaal Bedrag:** Het totaal te spreiden bedrag.
-- **Automatisch boeken regels:** De regels worden automatisch geboekt, anders blijven de boekingen op concept staan.
-- **Startdatum:** De startdatum van de spreiding. Vul de eerste dag van de maand in, als je wilt dat de eerste spreiding volledig in de eerste periode wilt laten vallen.
+- **Spreidingsjabloon:** Selecteer hier een geschikt spreidingsjabloon.
+- **Factuur:** Dit is de gekoppelde factuur voor deze spreidingstabel.
+- **Factuur regel:** De factuurregel die aan deze spreidingstabel is gekoppeld.
+- **Totaal Bedrag:** Het totale bedrag dat gespreid moet worden.
+- **Automatisch boeken regels:** Als deze optie is ingeschakeld, worden de regels automatisch geboekt. Anders blijven de boekingen in conceptstatus.
+- **Startdatum:** Vul de eerste dag van de maand in als je wilt dat de eerste spreiding volledig in die periode valt.
 
-Zodra alle gegevens er goed in staan dan kan de spreiding verder worden berekend en geboekt.
+Zodra alle gegevens correct zijn ingevuld, kan de spreiding verder worden berekend en geboekt.
 
-**[HERBEREKEN ONGEBOEKTE REGELS]** De spreidingstabel wordt opnieuw berekend voor enkel de ongeboekte regels. Dit kan ter sprake zijn als je iets in de spreiding aanpast terwijl er al reeds boekingen op zijn gemaakt.
+**[HERBEREKEN ONGEBOEKTE REGELS]** Hiermee wordt de spreidingstabel opnieuw berekend voor alleen de ongeboekte regels. Dit kan handig zijn als je wijzigingen hebt aangebracht in de spreiding terwijl er al boekingen zijn gemaakt.
 
-**[HERBEREKEN VOLLEDIGE SPREIDING]** De spreidingstabel wordt volledig berekend. Let op, ook geboekte regels worden verwijderd en opnieuw berekend. Pas dit alleen toe als het noodzakelijk is.
+**[HERBEREKEN VOLLEDIGE SPREIDING]** Deze optie berekent de spreidingstabel volledig opnieuw. Let op: zelfs geboekte regels worden verwijderd en opnieuw berekend. Gebruik dit alleen als het noodzakelijk is.
 
-**[SPREIDING ONGEDAAN MAKEN]** De spreidingsregels worden ongedaan gemaakt en de tabel is weer gereed om opnieuw te beginnen of om de volledige spreiding te verwijderen.
+**[SPREIDING ONGEDAAN MAKEN]** Hiermee worden alle spreidingsregels ongedaan gemaakt, zodat je opnieuw kunt beginnen of de volledige spreiding kunt verwijderen..
 
-**[ONTKOPPEL FACTUUR REGEL]** Hiermee ontkoppel je de factuur regel. Dit kan van pas komen als per ongeluk een verkeerde spreidingstabel is gekopppeld.
+**[ONTKOPPEL FACTUUR REGEL]** Gebruik deze optie om de factuurregel te ontkoppelen. Handig als per ongeluk de verkeerde spreidingstabel is gekoppeld aan een factuur.
+
+Zodra de spreiding is berekend, worden de regels automatisch opgevuld in het tabblad [Spreiding Regels]. Dit is waar je alle details van de gespreide bedragen kunt vinden.
+
+.. image:: Leveranciersfactuur/Leveranciersfacturen_kostenspreiding006.png
+
+Aan de rechterzijde van de spreidingsregel kun je de spreiding vastleggen door gebruik te maken van de knop [Maak mutatie]. Vervolgens kun je de financiële boeking bekijken en heb je de mogelijkheid om deze boeking te verwijderen. Als je alle spreidingen tegelijkertijd wilt boeken, kun je dit doen via [CREATE ALL MOVES]. Deze boekingen kunnen eveneens automatisch worden verwerkt via de automatische boekingsoptie.
