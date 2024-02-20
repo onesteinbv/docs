@@ -62,7 +62,7 @@ Handleiding
 
          `Activa en inkoopfacturen <http://docs.onestein.eu/Handleiding/Boekhouding/leveranciersfacturen_activa.html>`_
         
-         `Kostenspreiding inkoopfacturen <http://docs.onestein.eu/Handleiding/Boekhouding/leveranciersfacturen_cost_spread.html>`_
+         `Kostenspreiding inkoopfacturen <http://docs.onestein.eu/Handleiding/Boekhouding/leveranciersfacturen_kostenspreiding.html>`_
 
          `Inkoopfacturen preview <http://docs.onestein.eu/Handleiding/Boekhouding/leveranciersfacturen_preview.html>`_
 
