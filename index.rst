@@ -82,7 +82,7 @@ Handleiding
 
          `Interne transfers <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_interne_transfers.html>`_
 
-         `Online Betalingen <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_online_betalingen.html>`_
+         `Online Betalingen <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_online_betalingen_Mollie.html>`_
 
          `Direct Debit <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_direct_debit.html>`_           
            
