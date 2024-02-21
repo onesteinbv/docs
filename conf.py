@@ -37,3 +37,4 @@ html_show_sourcelink = False
 body_min_width = 0
 body_max_width = 'none'
 stickysidebar = True
+font-size = '14px'
