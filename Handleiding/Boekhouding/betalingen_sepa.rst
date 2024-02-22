@@ -16,13 +16,13 @@ Betalingen aan leveranciers doe je eenvoudig door deze via een SEPA XML bestand 
 ------------------------------------------------------------------------------------------------
     Na bevestigen van de inkoopfactuur kun je vervolgens de factuur toevoegen aan een SEPA bestand. Je doet dit bij menu ‘Uitgaande betalingsopdracht’. De status van de inkoopfacturen die je in de batch zet worden automatisch bijgewerkt als je alle stappen hebt doorlopen. 
 
-    Toevoegen via menu Uitgaande betalingen (via Facturatie -> Leveranciers-Uitgaande betaalopdrachten)
+    Toevoegen via menu 'Uitgaande betalingen' (via Facturatie -> Leveranciers-Uitgaande betaalopdrachten)
 
     .. image:: SEPA-betalingen-leverancier-OCA-Media//image2.png
        :width: 6.3in
        :height: 2.93264in
      
-    Maak een nieuwe opdracht aan en kies het soort datumfilter. Kies vervolgens voor een vervaldatum. Door vervolgens te klikken op de tekst ‘Toevoegen alle Mutaties’ zal Curq de  boekingen tonen die horen bij het gekozen filter.
+    Maak een nieuwe opdracht aan en kies het soort datumfilter. Kies vervolgens voor een vervaldatum. Door vervolgens te klikken op de tekst ‘Toevoegen alle Mutaties’ zal Curq de boekingen tonen die horen bij het gekozen filter.
 
     Via ‘Aanmaken Transacties’ worden de boekingen in een betaalopdracht gezet
 
@@ -36,7 +36,7 @@ Betalingen aan leveranciers doe je eenvoudig door deze via een SEPA XML bestand 
    
 3. Boeken in bank
 -----------------
-    Wanneer het bestand is verwerkt door de bank, de leveranciers zijn betaald, dan zie je deze betaling op een afschriftregel in uw bank. Deze afschriften kunnen overigens automatisch gesynchroniseerd worden met Curq, gebruik hiervoor de Ponto koppeling die standaard beschikbaar is in Curq (kosten bedragen wel 4 euro per maand per bankrekening, zie voor installatie en gebruik de MyPonto handleiding).
+    Wanneer het bestand is verwerkt door de bank, de leveranciers zijn betaald, dan zie je deze betaling op een afschriftregel van je bank. Deze afschriften kunnen overigens automatisch gesynchroniseerd worden met Curq, gebruik hiervoor de Ponto koppeling die standaard beschikbaar is in Curq (kosten bedragen wel 4 euro per maand per bankrekening, zie voor installatie en gebruik de MyPonto handleiding).
 
     Je lettert de transactieregel af door de eerder gemaakte boeking van de batch te kiezen. De tussenrekening crediteurenrekening wordt hiermee verlaagd met het bedrag en het bankrekeningsaldo wordt bijgewerkt.
 
