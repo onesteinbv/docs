@@ -18,6 +18,7 @@ Curq is hosted as Saas (Software as a Service).
 Quickly spin up and manage environments.
 
 **Document management and knowledge**
+*planned*
 
 Ability to upload knowledge documents, set access groups, zipped downloads, documents tags, easy search etc…
 
@@ -49,13 +50,15 @@ Latest module upgrades from Odoo/OCA will always be available
 **GDPR compliance**
 
 **ISO certification**
+*planned*
 
-ISO 27001 certification for IT security management. We are audited annually for ISO 27001, ISO 27017 and ISO 27018 to ensure ongoing compliance. 
+ISO 27001 certification for IT security management. We work via the IOS method and are planning audited annually for ISO 27001. 
 
 Support
 =======
 
 **Technical support**
+*planned*
 
 Receive x hours support included in your Curq subscription through email at support@curq.nl, telephone 088 627 0400 and the customer portal.
 
@@ -64,14 +67,17 @@ Receive x hours support included in your Curq subscription through email at supp
 Receive immediate answers to your questions via our chatbot powered by AI.
 
 **Training**
+*planned*
 
 Take part in one of our different training on Curq.
 
 **VOIP integration**
+*planned*
 
 Call your customer directly from Curq.
 
 **Software upgrade**
+*planned*
 
 Every two years the instances will be upgraded to the latest versions of Odoo/OCA.
 
@@ -111,10 +117,12 @@ Generate reporting on your accounting data such as revenue data and profits.
 Create and manage company assets additionally Generates an overview of all active assets.
 
 **Carbon footprint reporting**
+*planned*
 
 A module to calculate your carbon footprint, in real-time, with Odoo financial reports.
 
 **Digital currency support**
+*planned*
 
 Integrate digital currency providers with your accounting
 
@@ -130,6 +138,7 @@ Discuss
 Engage in discussions and group chats internally and with customers, vendors and any other external party.
 
 **Video conferences**
+*planned*
 
 Engage in video conference through integration with third party sources like Jitsi.
 
@@ -453,6 +462,7 @@ Building block customization include uploading custom fonts and uploading fonts 
 Utilize open street maps integration within your website.
 
 **Matomo web Analytics integration**
+*planned*
 
 Use Matomo to collect statistics and data on how people use your website, including information such as page views, visitor numbers, traffic sources, visitor demographics and more.
 
