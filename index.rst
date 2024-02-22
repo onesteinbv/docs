@@ -99,6 +99,8 @@ Handleiding
 
          `Aflettermodellen <http://docs.onestein.eu/Handleiding/Boekhouding/bankrekeningen_aflettermodellen.html>`_
  
+        `Activa Beheer <http://docs.onestein.eu/Handleiding/Boekhouding/activa_beheer.html>`_ 
+
         `Rapportages in Curq <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages.html>`_
         
          `Boekhoud rapportages <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_boekhoudkundig.html>`_
@@ -112,8 +114,6 @@ Handleiding
          `Management rapportages <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_management.html>`_
 
          `Jaarafsluiting <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_jaarafsluiting.html>`_
-
-        `Activa <http://docs.onestein.eu/Handleiding/Boekhouding/activa.html>`_   
 
     `Betalingscondities <http://docs.onestein.eu/Handleiding/Boekhouding/Betalingscondities.html>`_
 
