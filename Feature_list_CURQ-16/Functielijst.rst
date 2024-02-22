@@ -90,7 +90,7 @@ Boekhouding
 
 **Transacties**
 
-Ondersteunt vreemde valuta met automatische bijwerking van koersen
+Ondersteunt vreemde valuta met automatische bijwerking van koersen.
 
 **RGS grootboekrekening**
 
@@ -99,7 +99,7 @@ Ondersteunt vreemde valuta met automatische bijwerking van koersen
 
 **Bankrekeningen**
 
-Automatische synchronisatie van bankafschriften via MyPonto
+Automatische synchronisatie van bankafschriften via MyPonto.
 
 **Klanten en leveranciers**
 
@@ -111,7 +111,7 @@ Importeer, koppel en bekijk de details van uw boekhoudkundige documenten in de P
 
 **Rapportage**
 
-Standaard boekhoudrapporten zoals Balans, V&W, BTW en ICP
+Standaard boekhoudrapporten zoals Balans, V&W, BTW en ICP.
 
 **Vaste activa**
 
@@ -120,12 +120,12 @@ Bevat afschrijvingsmodule met voorbeeld afschrijvingsmodellen. Te koppelen aan i
 **Rapportage van de CO2-voetafdruk**
 *geplanned*
 
-Een module om uw CO2-voetafdruk in realtime te berekenen, met Odoo-financiële rapporten.
+Een module om uw CO2-voetafdruk in realtime te berekenen, met Curq -financiële rapporten.
 
 **Ondersteuning voor digitale valuta**
 *geplanned*
 
-Directe connectie met Europese bank voor periodiek updaten van valutakoersen
+Directe connectie met Europese bank voor periodiek updaten van valutakoersen.
 
 **Beheer betalingsproviders**
 
