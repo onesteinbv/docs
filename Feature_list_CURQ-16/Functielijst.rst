@@ -7,7 +7,7 @@ Algemeen
 
 **Complete ERP-oplossing**
 
-Curq is een allesomvattend open source ERP-pakket gebaseerd op Odoo/OCA, inclusief boekhouding, CRM, verkoop, HR, e-mailmarketing, projectbeheer, lidmaatschap, werving en een websitebouwer.
+Curq is een allesomvattend open source ERP-pakket gebaseerd op Odoo/OCA, inclusief RGS boekhouding, CRM, verkoop, inkoop, voorraad, HR, e-mailmarketing, projectbeheer, lidmaatschap, werving en een websitebouwer met webshop.
 
 **Cloudgebaseerde SaaS-modeloplossing**
 
