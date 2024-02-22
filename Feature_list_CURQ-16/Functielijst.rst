@@ -13,9 +13,9 @@ Curq is een allesomvattend open source ERP-pakket gebaseerd op Odoo/OCA, inclusi
 
 Curq wordt gehost als Saas (Software as a Service).
 
-**Start uw eigen on premis omgeving op**
+**Start uw eigen VPS omgeving op**
 
-Snel opstarten en beheren van omgevingen.
+Indien gewenst starten en beheren wij aparte VPS omgevingen voor u. Deze omgevingen bevat de standard Curq functionaliteit.
 
 **Documentbeheer en kennis**
 *geplanned*
@@ -24,7 +24,7 @@ Mogelijkheid om kennisdocumenten te uploaden, toegangsgroepen in te stellen, gez
 
 **Curq-demo**
 
-Ervaar de kracht van Curq met behulp van onze gratis demonstratieomgeving.
+Ervaar de kracht van Curq met behulp van onze gratis demonstratieomgeving. Zie https://demo.curq.nl/. Inloggen kan met admin/admin.
 
 **SSL-certificaat inbegrepen**
 
