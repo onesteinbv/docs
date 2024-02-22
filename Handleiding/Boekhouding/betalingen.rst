@@ -1,6 +1,6 @@
 Betalingen
 ----
-In Odoo kunnen betalingen automatisch worden gekoppeld aan een factuur of rekening. Daarnaast kunnen het ook los staande records zijn voor gebruik op een later tijdstip. De betaling wordt in dat geval via de debiteuren- of crediteurenrekening aan de klant/leverancier gekoppeld. 
+In Curq kunnen betalingen automatisch worden gekoppeld aan een factuur of rekening. Daarnaast kunnen het ook los staande records zijn voor gebruik op een later tijdstip. De betaling wordt in dat geval via de debiteuren- of crediteurenrekening aan de klant/leverancier gekoppeld. 
 
 Als een betaling is gekoppeld aan een factuur of nota, dan wordt het verschuldigde bedrag van de factuur verlaagd/verrekend. Je kunt meerdere betalingen aan dezelfde factuur koppelen.
 
