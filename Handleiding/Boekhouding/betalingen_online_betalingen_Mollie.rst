@@ -1,6 +1,6 @@
 Online betalen facturen
 ----
-Om het voor je klanten nog gemakkelijker te maken om de facturen die je verstuurt te betalen, kun je de functie Factuur online betalen activeren, die een knop 'Nu betalen' toevoegt aan hun klantenportaal. Hiermee kunnen je klanten hun facturen online bekijken en direct betalen met hun favoriete betaalmethode, waardoor het betalingsproces veel eenvoudiger wordt.
+Om het voor je klanten nog gemakkelijker te maken om openstaande facturen te betalen, kun je de functie 'Factuur online betalen' activeren. Deze functie voegt een knop 'Nu betalen' toe aan het klantenportaal. Klanten kunnen hun facturen online bekijken en direct betalen met hun favoriete betaalmethode, waardoor het betalingsproces veel eenvoudiger wordt.
 
 Om Facturen Online Betalen te activeren, ga je naar Boekhouding ‣ Configuratie ‣ Instellingen ‣ Klantbetalingen, schakel Factuur Online Betalen in en klik op Opslaan.
 
