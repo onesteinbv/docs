@@ -1,6 +1,6 @@
-============
-Functielijst
-============
+=======================
+functionaliteiten lijst
+=======================
 
 Algemeen
 =======
@@ -13,11 +13,12 @@ Curq is een allesomvattend open source ERP-pakket gebaseerd op Odoo/OCA, inclusi
 
 Curq wordt gehost als Saas (Software as a Service).
 
-**Start uw eigen omgeving op**
+**Start uw eigen on premis omgeving op**
 
 Snel opstarten en beheren van omgevingen.
 
 **Documentbeheer en kennis**
+*geplanned*
 
 Mogelijkheid om kennisdocumenten te uploaden, toegangsgroepen in te stellen, gezipde downloads, document labels, eenvoudig zoeken, enz...
 
@@ -49,13 +50,15 @@ De nieuwste module-upgrades van Odoo/OCA zullen altijd beschikbaar zijn
 **GDPR-naleving**
 
 **ISO-certificering**
+*geplanned*
 
-ISO 27001-certificering voor IT-beveiligingsbeheer. We worden jaarlijks geauditeerd voor ISO 27001, ISO 27017 en ISO 27018 om doorlopende naleving te waarborgen.
+ISO 27001-certificering voor IT-beveiligingsbeheer. We weken al volgens de ISO methodiek en plannen jaarlijks te worden auditeerd voor ISO 27001.
 
 Ondersteuning
 =======
 
 **Technische ondersteuning**
+*geplanned*
 
 Ontvang x uur ondersteuning inbegrepen bij uw Curq-abonnement via e-mail op support@curq.nl, telefoon nummer 088 627 0400 en het klantenportaal.
 
@@ -64,14 +67,17 @@ Ontvang x uur ondersteuning inbegrepen bij uw Curq-abonnement via e-mail op supp
 Ontvang onmiddellijke antwoorden op uw vragen via onze chatbot aangedreven door AI.
 
 **Training**
+*geplanned*
 
 Neem deel aan een van onze verschillende trainingen over Curq.
 
 **VOIP-integratie**
+*geplanned*
 
 Bel uw klant rechtstreeks vanuit Curq.
 
 **Software-upgrade**
+*geplanned*
 
 Elke twee jaar worden de exemplaren geüpgraded naar de nieuwste versies van Odoo/OCA.
 
@@ -84,15 +90,16 @@ Boekhouding
 
 **Transacties**
 
-Beheer contante, credit- en debettransacties in meerdere valuta's en hun wisselkoersen.
+Ondersteunt vreemde valuta met automatische bijwerking van koersen
 
 **RGS grootboekrekening**
 
-Beheer uw grootboekrekeningen met behulp van de RGS-methoden.
+| Grootboekschema gebaseerd op RGS standaard 
+(https://www.referentiegrootboekschema.nl/)
 
 **Bankrekeningen**
 
-Beheer uw banktransacties en afstemmingen met behulp van mijn Pronto bank synchronisatie.
+Automatische synchronisatie van bankafschriften via MyPonto
 
 **Klanten en leveranciers**
 
@@ -104,41 +111,44 @@ Importeer, koppel en bekijk de details van uw boekhoudkundige documenten in de P
 
 **Rapportage**
 
-Genereer rapportage over uw boekhoudgegevens, zoals inkomstengegevens en winsten.
+Standaard boekhoudrapporten zoals Balans, V&W, BTW en ICP
 
 **Vaste activa**
 
-Maak en beheer bedrijfsmiddelen aan en genereer daarnaast een overzicht van alle actieve bedrijfsmiddelen.
+Bevat afschrijvingsmodule met voorbeeld afschrijvingsmodellen. Te koppelen aan inkoopfacturen. Afschrijvingen worden automatisch gegenereerd.
 
 **Rapportage van de CO2-voetafdruk**
+*geplanned*
 
 Een module om uw CO2-voetafdruk in realtime te berekenen, met Odoo-financiële rapporten.
 
 **Ondersteuning voor digitale valuta**
+*geplanned*
 
-Integreer digitale valutaproviders met uw boekhouding.
+Directe connectie met Europese bank voor periodiek updaten van valutakoersen
 
 **Beheer betalingsproviders**
 
 Beheer uw betalingsmogelijkheden via Mollie en andere providers.
 
 Discussie
-=============
+=========
 
 **Discussies**
 
 Neem deel aan interne discussies en groepschats met klanten, leveranciers en andere externe partijen.
 
 **Videoconferenties**
+*geplanned*
 
 Neem deel aan videoconferenties via integratie met externe bronnen zoals Jitsi.
 
 **Volgen**
 
-Volg activiteiten bijna alle transacties in Curq.
+Wordt volger van onderdelen als klant-, order- of factuurgegevens en krijg automatisch updates van wijzigingen.
 
 Dashboards
-=============
+==========
 
 **Dashboards**
 
@@ -148,31 +158,31 @@ Pas uw persoonlijke dashboard aan via de rapportagemogelijkheden in de meeste Cu
 
 Exporteer uw diagrammen en spreadsheets gemaakt via de rapportagemogelijkheid in verschillende formaten.
 
-Odoo Apps
-===============
+OCA Apps
+========
 
 **Geïnstalleerde apps**
 
 Bekijk de lijst met geïnstalleerde applicaties.
 
 CRM
-=============
+===
 
 **Pipeline**
 
-Beheer uw leads, kansen en prospects met behulp van uw pijplijn en verkoopsteams om ze om te zetten in klanten met offertes, met behulp van activiteiten zoals telefoongesprekken en e-mails.
+Beheer uw leads, kansen en prospects met behulp van uw pijplijn en verkoopteams om deze om te zetten naar klanten met offertes. Maak hierbij gebruik van standaard in te richten workflows rondom e-mailing, belacties  en afspraken. 
 
 **Klanten**
 
-Maak en beheer uw klanten.
+Uitgebreid klantenbeheer.
 
 **Voorspellingen**
 
-Analyse van uw pijplijn, leads, activiteiten en partnerschappen, elk met zijn eigen maatregelen.
+Analyse van uw pijplijn, leads en activiteiten.
 
 **Configuratie**
 
-Maak en beheer verkoopsteams, teamleden, activiteitstypen, terugkerende plannen, pijplijnfasen, labels, verloren redenen, partnerniveaus en partneractivering.
+Maak en beheer verkoopteams, teamleden, activiteit typen, terugkerende plannen, pijplijnfasen, labels, redenen van verlies van de kans, partnerniveaus en partneractivering.
 
 Agenda
 ===========
@@ -202,11 +212,11 @@ E-mailmarketing
 
 **Campagnes**
 
-Plan en voer e-mailmarketingcampagnes uit, ontwerp hun levenscyclusfasen.
+Plan en voer e-mailmarketingcampagnes uit met een zelf in te richten stappenplan. 
 
 **Mailinglijsten**
 
-Maak en beheer e-maillijsten en de contacten, inclusief verboden adressen.
+Maak en beheer e-maillijsten via de Curq klantendatabase of vanuit een import van nieuwe e-mail adressen.
 
 Medewerkers
 =============
@@ -250,16 +260,16 @@ Publiceer evenementpagina's op uw website.
 
 Genereer rapporten over evenementdeelnemers en inkomsten.
 
-Kosten
-========
+Declaraties
+===========
 
-**Kosten**
+**Declaraties**
 
-Registreer en beheer uw kosten, upload bonnetjes, geef goedkeuringen en categoriseer ze in verschillende categorieën.
+Registreer en beheer uw declaraties, upload bonnetjes, geef goedkeuringen en categoriseer ze in verschillende categorieën.
 
 **Rapportage**
 
-Genereer rapporten over de kosten van het bedrijf.
+Genereer declaratie overzichten.
 
 Voorraad
 =========
@@ -270,7 +280,8 @@ Configureer en beheer leveringen.
 
 **Voorraad**
 
-Maak, pas aan en beheer uw producten, inclusief attributen, barcodes, categorieën, verpakking, partijen/serienummers, varianten en meeteenheden.
+Maak, pas aan en beheer uw producten, inclusief attributen, barcodes, categorieën, verpakkingen, partijen/serienummers, varianten en maateenheden.
+Stel standaard doorlooptijden voor inkoop, verkoop en productie in bij het product. Stel de standaard leverancier in bij een product.
 
 **Magazijnen**
 
@@ -289,7 +300,7 @@ Leden
 
 **Lidmaatschapsproducten**
 
-Beheer producten en abonnementen om lidmaatschappen te fasaliteren en te categoriseren.
+Beheer producten en abonnementen om lidmaatschappen te faciliteren en te categoriseren.
 
 **Leden**
 
@@ -297,11 +308,11 @@ Toegang krijgen tot en beheren van leden en toegang tot het portal verlenen om s
 
 **Secties**
 
-Categoriseer leden in verschillende secties om de voortgang te volgen en bij te dragen aan de projecten, en adverteer de secties ook op uw website.
+Voeg leden toe aan verschillende secties om de voortgang te kunnen volgen en bijdragen te leveren aan projecten. Toon deze secties ook op uw website.
 
 **Commissies**
 
-Voeg leden toe aan commissies om beslissingen te nemen en de toekomst van de verschillende projecten die verband houden met de secties waar de commissies verantwoordelijk voor zijn, te beheren.
+Voeg leden toe aan commissies die verantwoordelijk zijn voor de projecten binnen de verschillende secties.
 
 **Lidmaatschapsregistratie**
 
@@ -309,7 +320,7 @@ Laat potentiële leden zich aanmelden voor lidmaatschap via het aanpasbare regis
 
 **Donaties**
 
-Creëer de mogelijkheid voor donaties via de website om de doelen te ondersteunen die u feliciteert.
+Creëer de mogelijkheid voor donaties via de website voor doelen die u ondersteunt.
 
 **Rapportage**
 
@@ -351,7 +362,7 @@ Maak, raadpleeg en beheer urenstaten om uren te rapporteren die zijn gekoppeld a
 
 **Te controleren urenstaten**
 
-Controleer en keur ingediende urenstaten goed.
+Mogelijkheid om ingediende urenstaten te controleren daarna te goedkeuren.
 
 **Facturatie**
 
@@ -381,7 +392,7 @@ Werving
 
 **Sollicitaties**
 
-Maak, beheer en volg sollicitaties, uw talentreizen en de verschillende stadia ervan, activiteiten, graden, weigeringsredenen en lebels.
+Maak, beheer en volg sollicitaties. Gebruik bij dit proces fases, activiteiten en labels.
 
 **Werknemers**
 
@@ -400,19 +411,19 @@ Beheer korting & loyaliteit, cadeaubonnen & eWallet, prijslijsten, productvarian
 
 **Verkooporders**
 
-Beheer verkooporders, offertesjablonen, lebels, up-selling, cross-selling en verkoopsteams.
+Beheer verkooporders, offertesjablonen, labels, up-selling, cross-selling en verkoopteams.
 
-**Eenheden van maat**
+**Maateenheden**
 
-Definieer verschillende eenheden van maat voor verkoopproducten.
+Definieer verschillende maateenheden voor producten.
 
-**Mollie**
+**Online betalingen**
 
 Bied verschillende betaalopties zoals creditcard, PayPal en iDeal met behulp van de Mollie-integratie.
 
-**Contracten**
+**Contracten/abonnementen**
 
-Verkoop abonnementsproducten en stel contracten in met terugkerende betalingsopties per dag, maand of jaar met de mogelijkheid om te factureren met prorata.
+Verkoop abonnementsproducten via contracten met terugkerende betalingsopties per dag, maand of jaar. Verschillende abonnementsvormen zijn mogelijk, bijvoorbeeld aflopend of doorlopend.
 
 **Orders**
 
@@ -427,11 +438,11 @@ Enquêtes
 
 **Enquêtes**
 
-Maak en beheer feedbackformulieren, certificeringen en live presentaties.
+Maak en beheer feedbackformulieren, certificeringen. Gebruik de module bij live presentaties.
 
 **Vragen & Antwoorden**
 
-Stel vragen en geef suggesties voor antwoorden zodat Curq enquêtes kan genereren.
+Stel vragen en geef suggesties voor antwoorden zodat Curq hiermee enquêtes kan genereren.
 
 Website
 =======
@@ -453,6 +464,7 @@ Aanpassingen van bouwstenen omvatten het uploaden van aangepaste lettertypen en 
 Maak gebruik van de integratie van open street maps binnen uw website.
 
 **Matomo webanalyse-integratie**
+*geplanned*
 
 Gebruik Matomo om statistieken en gegevens te verzamelen over hoe mensen uw website gebruiken, inclusief informatie zoals paginaweergaven, bezoekersaantallen, verkeersbronnen, demografische gegevens van bezoekers en meer.
 
@@ -493,7 +505,7 @@ Gegarandeerde back-ups voor uw bedrijfsgegevens.
 
 **Gegevensbeveiliging**
 
-24 uur per dag monitoring en regelmatige updates om beveiligingslekken en datalekken te voorkomen.
+24 uur per dag monitoring en regelmatige updates om beveiligingsrisico’s en datalekken te voorkomen.
 
 **Cloudserver**
 
