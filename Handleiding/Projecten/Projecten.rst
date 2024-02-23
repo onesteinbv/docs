@@ -13,10 +13,14 @@ Op de projectenpagina kunnen de gewenste stadia worden aangemaakt. Dit kan handm
 
 .. image::
 
-Wanneer de stadia zijn aangemaakt, kunnen er taken worden aangemaakt door op de +Nieuw knop te drukken, hier kan een naam aan de taak worden gegeven. Wanneer de taak is aangemaakt, kan deze worden aangepast. In het taakmenu kan het project waaraan de taak is gekoppeld worden aangepast, kunnen werknemers aan de taak worden toegewezen, kan worden aangegeven door wie de taak is aangemaakt en ...
+Wanneer de stadia zijn aangemaakt, kunnen er taken worden aangemaakt door op de +Nieuw knop te drukken, hier kan een naam aan de taak worden gegeven. Wanneer de taak is aangemaakt kan deze worden aangepast met bijvoorbeeld de verandwoordwelijke te selecteren, een deadline te geven en uren in te vullen. voor meer informatie ga naar onze taken documentatie.
 
 .. image::
 
-Onder aan de taak kan een beschrijving worden gegeven. In het geval dat de optie voor urenstaten onder het project is aangevinkt, is het veld om uren voor de taak op te geven aanwezig. Voor meer informatie ga naar onze `urenstaten <doc.onestein.eu/Handleiding/Projecten/Urenstaten_gebruiker.html>`_ documentatie.
+Om de instellingen van het project aan te passen ga naar de projecten pagina en selecteer de instellingen onder de drie verticale punten:
 
-Aan de rechterkant van het scherm is het discussieveld te vinden, hier zijn alle aanpassingen te zien die aan de taak zijn gemaakt. Voor meer informatie over het discussieveld ga naar onze documentatie: `discuss <>`_.
+.. image::
+
+Binnen de instellingen van het project kunnen verschillenende aanpassingen worden gedaan zoals de naam van het project veranderen, de naam van de taken aan te passen, de klant voor wie het project wordt uitgevoord op te geven, labels op te geven voor categoriseatie, een project manager op te geven een begin en eind datum te plannen en het maximum aantal te besteden uren op te geven.
+
+in de tabbladen oder de algemene informatie 
