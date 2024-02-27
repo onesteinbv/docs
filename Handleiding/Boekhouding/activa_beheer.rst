@@ -161,3 +161,21 @@ Curq boekt afschrijvingen automatisch. Indien je deze boekingen handmatig wilt u
 .. image:: Activa/activa_beheer010.png
 
 Alle afschrijvingen tot de opgegeven datum worden financieel geboekt.
+
+Activa Rapport / Activastaat
+----------------------------
+
+Een activastaat is een overzichtelijk document dat de actuele status van de activa van een organisatie weergeeft. Het bevat gedetailleerde informatie over de verschillende bezittingen, zoals vastgoed, voertuigen, machines en andere waardevolle items. Een activastaat biedt inzicht in de huidige waarde, afschrijvingen en eventuele waardeveranderingen van deze activa.
+
+Het Activa Rapport / Activastaat kan gegenereerd worden vanuit Facturatie > Rapportages > Finaciële activa report.
+
+.. image:: Activa/activa_beheer011.png
+
+- **Activa rekeninggroep:** Specifieke activagroep die in het rapport wordt behandeld.
+- **Startdatum:** Startdatum van het rapport.
+- **Eindatum:** Einddatum van het rapport.
+- **Inclusief concept activa:** Geeft aan of conceptuele activa worden weergegeven in het rapport.
+
+Het rapport wordt opgeslagen als een Excel-bestand en omvat meerdere tabbladen.
+
+.. image:: Activa/activa_beheer012.png
