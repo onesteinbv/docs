@@ -42,9 +42,10 @@ Een activaprofiel kan worden aangemaakt via Facturatie > Configuratie > Activa p
 - **Min-waarde rekening:** Gebruik deze grootboekrekening om minwaarden te boeken bij verkoop.
 - **Resterend rekening bedrag:** Dit is de grootboekrekening voor de restwaarde van het actief.
 - **Terugdraaien van journaalposten toestaan:** Maak het mogelijk om boekingen tegen te boeken in plaats van ze te verwijderen.
-- **Tijdmethode:** Kies of de afschrijving gebaseerd is op een aantal jaren of een aantal afschrijvingen.
+- **Tijdmethode:** Kies of de afschrijving gebaseerd is op een aantal jaren tot einddatum of een aantal afschrijvingen.
 - **Aantal Jaren:** Geef het aantal jaren op.
 - **Periodelengte:** Bepaal of de periode per maand, per kwartaal of per jaar is.
+- **Bereken op dagen:** Het bedrag van de afschrijving wordt bepaald door het aantal werkelijke dagen in een periode, in plaats van een standaard periode. Bijvoorbeeld, een maand met 30 dagen resulteert in een lager afschrijvingsbedrag dan een maand met 31 dagen.
 - **Gebruik schrikkeljaren:** Bij de berekening van afschrijving wordt rekening gehouden met schrikkeljaren, en dit wordt niet gelijkmatig verdeeld over alle jaren.
 - **Berekeningsmethode:** Je kunt een van de volgende methoden kiezen om de afschrijvingsregels te berekenen:
   
@@ -56,4 +57,56 @@ Een activaprofiel kan worden aangemaakt via Facturatie > Configuratie > Activa p
   
 - **Prorata Temporis:** Bij deze methode wordt de eerste afschrijving berekend op basis van de dag waarop de afschrijving plaatsvindt. Anders wordt een volledige periode gebruikt.
 - **Sla concept status over:** Een activum wordt direct geactiveerd als het vanuit een factuur is aangemaakt.
+- **Analytisch:** De analytische gegeven die wordt toegepast op dit profiel.
 
+Activa aanmaken
+---------------
+
+Een activum aanmaken kan via Facturatie > Activa > Activa.
+
+.. image:: Activa/activa_beheer003.png
+
+- **Naam:** Geef het actief een geschikte naam.
+- **Referentie:** Voeg indien mogelijk een referentie toe aan het actief, zoals een code.
+- **Afschrijvingen Basisbedrag:** Het bedrag waarop Curq de afschrijvingen baseert.
+- **Afschrijvingswaarde:** Het tot nu toe afgeschreven bedrag.
+- **Restwaarde:** De huidige restwaarde van het actief.
+
+Tabblad Algemeen
+
+- **Aanschafwaarde:** De waarde van de aanschaf.
+- **Activa start datum:** De datum waarop de afschrijvingen in Curq beginnen. Indien het actief eerder is afgeschreven, moet je handmatig de afschrijvingen voor die periodes zelf aanmaken.
+- **Restwaarde:** De verwachte restwaarde van het actief. De berekening van de afschrijvingen houdt hier rekening mee. Bijvoorbeeld: Aanschafwaarde - Restwaarde = Te Afschrijven Waarde.
+- **Activa verwijderingsdatum:** De datum waarop het actief wordt verwijderd, zoals bij verkoop.
+- **Activa profielen:** Gekoppelde activaprofiel.
+- **Activa Groepen:** Gekoppelde activagroep.
+- **Relatie:** De relatie van het actief, zoals de leverancier van waar het actief is gekocht. Als je direct een actief aanmaakt vanuit een leveranciersfactuur, wordt de relatie automatisch overgenomen vanuit de factuur.
+- **Analytisch:** De analytische gegeven die wordt toegepast op dit actief.
+- **Tijdmethode:** Kies of de afschrijving gebaseerd is op een aantal jaren tot einddatum of een aantal afschrijvingen.
+- **Aantal Jaren:** Geef het aantal jaren op.
+- **Periodelengte:** Bepaal of de periode per maand, per kwartaal of per jaar is.
+- **Einddatum:** Beschikbaar als tijdmethode gebaseerd is op einddatum. Tot deze datum wordt het actief afgeschreven.
+- **Bereken op dagen:** Het bedrag van de afschrijving wordt bepaald door het aantal werkelijke dagen in een periode, in plaats van een standaard periode. Bijvoorbeeld, een maand met 30 dagen resulteert in een lager afschrijvingsbedrag dan een maand met 31 dagen.
+- **Gebruik schrikkeljaren:** Bij de berekening van afschrijving wordt rekening gehouden met schrikkeljaren, en dit wordt niet gelijkmatig verdeeld over alle jaren.
+- **Berekeningsmethode:** Je kunt een van de volgende methoden kiezen om de afschrijvingsregels te berekenen:
+  
+  * Lineair: Bereken op basis van de formule: Afschrijvingsbasis / Aantal afschrijvingen. Hierbij is de afschrijvingsbasis gelijk aan de aanschafwaarde minus de restwaarde.
+  * Lineair-Limiet: Lineair afschrijven tot aan de restwaarde. De afschrijvingsbasis is gelijk aan de aanschafwaarde.
+  * Degressief: Bereken op basis van de formule: Restwaarde * Degressieve Factor.
+  * Degressief-Lineair (alleen van toepassing bij Tijdsmethode = Jaar): De degressieve afschrijving wordt lineair wanneer de jaarlijkse lineaire afschrijving groter is dan de jaarlijkse degressieve afschrijving.
+  * Degressief-Limiet: Degressief afschrijven tot aan de restwaarde. De afschrijvingsbasis is gelijk aan de waarde van het actief.
+  
+- **Prorata Temporis:** Bij deze methode wordt de eerste afschrijving berekend op basis van de dag waarop de afschrijving plaatsvindt. Anders wordt een volledige periode gebruikt.
+- **Verzamelen gemiste afschrijvingen:** Wanneer een actief wordt gecreëerd in een reeds afgesloten periode, worden de nog uit te voeren afschrijvingen samengevoegd en uitgevoerd in de huidige open periode.
+
+Tabblad Afschrijvingskaart
+
+Zodra alle gegevens zijn ingevoerd kan afschrijvingen berekend worden via de knop [BEREKEN].
+
+.. image:: Activa/activa_beheer004.png
+
+Na de berekening toont Curq alle individuele afschrijvingen. Hier kun je verifiëren of de afschrijvingen correct worden uitgevoerd. De eerste regel geeft het oorspronkelijke afschrijvingsbedrag weer, gevolgd door opvolgende regels die de afzonderlijke afschrijvingen vertegenwoordigen.
+
+Het is tevens mogelijk om correcties direct op de regels uit te voeren door erop te klikken of ze te verwijderen. In de meeste gevallen is correctie echter niet noodzakelijk.
+
+Een actief kan 
