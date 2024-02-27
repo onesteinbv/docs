@@ -13,7 +13,7 @@ In dit model verkoopt een bedrijf producten of diensten aan andere bedrijven. Ee
 
 In essentie draait het bij B2C om de verkoop aan individuele consumenten, terwijl B2B verwijst naar transacties tussen twee bedrijven. Beide modellen hebben hun eigen specifieke kenmerken, en dit heeft invloed op hoe je belastingen inricht in Curq.
 
-Curq ondersteunt beide manieren om de BTW toe te passen. Het is het eenvoudigst als je slechts één van de twee modellen gebruikt. Als je echter in een gemengde vorm werkt, zul je specifieke instellingen moeten configureren. We zullen hier alle vormen bespreken.
+Curq ondersteunt beide manieren om de BTW toe te passen. Het is het eenvoudigst als je slechts één van de twee modellen gebruikt. AEchter, als je in een gemengde vorm werkt, dien je specifieke instellingen te configureren. In dit geval zullen we ons beperken tot de modellen B2C en B2B, aangezien een gemengde vorm complex is en het beheer ervan foutgevoelig kan zijn.
 
 B2C
 ---
@@ -32,10 +32,19 @@ Ook op je facturen en verkooporders zal je nu op de regels het bedrag inclusief 
 
 .. image:: Boekhouding/belastingen_b2c_b2b003.png
 
-
 B2B
 ---
+Voor B2B worden de prijzen meestal exclusief BTW weergegeven. Stel, je verkoopt jouw product voor €100,- en er wordt 21% BTW over gerekend, dan ziet jouw klant €100,- + €21,-. Jouw klant betaalt uiteindelijk €121,- en door de splitsing weet jouw klant wel bedrag hij kan opgeven aan de belastingdienst.
 
-B2C en B2B
-----------
+Met de volgende instellingen kun je jouw omgeving configureren voor B2B. Ga naar Instellingen > Facturatie > BTW. Zorg ervoor dat je bij de algemene BTW-instelling een BTW-code met exclusief BTW kiest voor **Verkoop BTW**.
 
+.. image:: Boekhouding/belastingen_b2c_b2b004.png
+
+De tweede instelling kun je configureren via Instellingen > Facturatie > Klantfacturen. Zorg ervoor dat deze op **exclusief BTW** staat.
+
+.. image:: Boekhouding/belastingen_b2c_b2b005.png
+
+Zodra je een product aanmaakt, vul je daar de verkoopprijs in, exclusief het BTW-bedrag, bijvoorbeeld €100,-. Je ziet meteen ook het bedrag inclusief BTW, bijvoorbeeld €121,-. Op basis van jouw instellingen stelt Curq nu automatisch de BTW-code met exclusief BTW in voor elk product.
+Ook op je facturen en verkooporders zal je nu op de regels het bedrag exclusief het BTW zien.
+
+.. image:: Boekhouding/belastingen_b2c_b2b006.png
