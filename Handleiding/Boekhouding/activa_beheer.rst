@@ -128,6 +128,7 @@ De individuele boekingsregels zijn te vinden onder het tabblad [Historie].
 
 Activa verkopen / verwijderen
 -----------------------------
+Bij het verkopen van een activum in de boekhouding zijn verschillende stappen van belang. Allereerst moet de actuele waarde van het activum worden vastgesteld, inclusief de originele aanschafwaarde verminderd met de totale afschrijvingen. Vervolgens moet het verschil tussen de verkoopprijs en de geboekte boekwaarde worden bepaald, wat resulteert in een boekwinst of -verlies. Deze financiële aspecten moeten nauwkeurig worden verwerkt in de boekhouding, waarbij afschrijvingen moeten worden aangepast, de verkoopopbrengst op de juiste rekeningen moet worden geboekt en het verkochte activum uit de balans moet worden verwijderd.
 
 Het actief kan worden verkocht of verwijderd via de knop [VERWIJDER].
 
@@ -150,4 +151,13 @@ Het volgende scherm verschijnt.
 - **Plus-waarde rekening:** De rekening voor winst bij verkoop.
 - **Min-waarde rekening:** De rekening voor verlies bij verkoop.
 
-Nadat het actief is verkocht / verwijderd krijgt het de status ¨VERWIJDERD¨ en wordt ook de Activa verwijderingsdatum ingevuld. Je ziet ook de verschillende boeking bij de tabbladen [Afschrijvingskaart] en [Historie].
+Na verkoop of verwijdering krijgt het actief de status "VERWIJDERD", en de Activa verwijderingsdatum wordt ingevuld. Tevens zijn de diverse boekingen te zien op de tabbladen [Afschrijvingskaart] en [Historie].
+
+Afschrijvingen boeken
+---------------------
+
+Curq boekt afschrijvingen automatisch. Indien je deze boekingen handmatig wilt uitvoeren, is dat mogelijk via het menu Facturatie > Activa > Bereken activa.
+
+.. image:: Activa/activa_beheer010.png
+
+Alle afschrijvingen tot de opgegeven datum worden financieel geboekt.
