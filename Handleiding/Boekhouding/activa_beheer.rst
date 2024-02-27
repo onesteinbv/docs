@@ -109,4 +109,45 @@ Na de berekening toont Curq alle individuele afschrijvingen. Hier kun je verifi�
 
 Het is tevens mogelijk om correcties direct op de regels uit te voeren door erop te klikken of ze te verwijderen. In de meeste gevallen is correctie echter niet noodzakelijk.
 
-Een actief kan 
+Activa activeren
+----------------
+
+Zodra alles gereed is, kan het Actief worden bevestigd via de knop [BEVESTIG ACTIVA], waarna de afschrijvingen zullen plaatsvinden.
+
+.. image:: Activa/activa_beheer005.png
+
+Zodra de eerste afschrijving is geboekt, wordt dit weergegeven op het tabblad [Afschrijvingskaart].
+
+.. image:: Activa/activa_beheer006.png
+
+Hier kun je de details van de afschrijving bekijken of direct de financiële journaalpost raadplegen. In geval van een onverhoopte fout, heb je de mogelijkheid om de journaalpost op dit tabblad te verwijderen of terug te draaien.
+
+.. image:: Activa/activa_beheer007.png
+
+De individuele boekingsregels zijn te vinden onder het tabblad [Historie].
+
+Activa verkopen / verwijderen
+-----------------------------
+
+Het actief kan worden verkocht of verwijderd via de knop [VERWIJDER].
+
+.. image:: Activa/activa_beheer008.png
+
+Het volgende scherm verschijnt.
+
+.. image:: Activa/activa_beheer009.png
+
+- **Activa verwijderingsdatum:** Datum van verwijdering van het actief.
+- **Forceer boekhouddatum:** Als de boeking op een andere datum moet worden geboekt dan de verwijderingsdatum.
+- **Verkoopwaarde:** De waarde bij verkoop.
+- **Activa verkoop rekening:** De grootboekrekening waarop de verkoopwaarde wordt geboekt. Deze optie verschijnt alleen als er een bedrag bij de verkoopwaarde is ingevoerd.
+- **Verwijdering Toegangsbeleid** Je kunt een van de volgende opties selecteren:
+ 
+  * Restwaarde: De restwaarde van het actief wordt geboekt, zonder rekening te houden met de verkoopwaarde.
+  * Winst/verlies op verkoop: De winst/verlies bij verkoop wordt berekend op basis van de afgeschreven bedragen en de verkoopwaarde. 
+
+- **Resterend rekening bedrag:** De rekening voor de restwaarde.
+- **Plus-waarde rekening:** De rekening voor winst bij verkoop.
+- **Min-waarde rekening:** De rekening voor verlies bij verkoop.
+
+Nadat het actief is verkocht / verwijderd krijgt het de status ¨VERWIJDERD¨ en wordt ook de Activa verwijderingsdatum ingevuld. Je ziet ook de verschillende boeking bij de tabbladen [Afschrijvingskaart] en [Historie].
