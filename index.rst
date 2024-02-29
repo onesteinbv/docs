@@ -43,6 +43,8 @@ Handleiding
             `BTW Codes en Fiscale Posities <http://docs.onestein.eu/Handleiding/Boekhouding/belastingen_fiscale_posities.html>`_
 
             `Belastingen B2B en B2C <http://docs.onestein.eu/Handleiding/Boekhouding/belastingen_B2B_B2C.html>`_
+
+            `Afstandsverkopen binnen de EU <http://docs.onestein.eu/Handleiding/Boekhouding/belastingen_afstandsverkopen_EU.html>`_
             
         `Verkoopfacturen <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen.html>`_    
 

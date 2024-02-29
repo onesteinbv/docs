@@ -13,7 +13,7 @@ In dit model verkoopt een bedrijf producten of diensten aan andere bedrijven. Ee
 
 In essentie draait het bij B2C om de verkoop aan individuele consumenten, terwijl B2B verwijst naar transacties tussen twee bedrijven. Beide modellen hebben hun eigen specifieke kenmerken, en dit heeft invloed op hoe je belastingen inricht in Curq.
 
-Curq ondersteunt beide manieren om de BTW toe te passen. Het is het eenvoudigst als je slechts één van de twee modellen gebruikt. AEchter, als je in een gemengde vorm werkt, dien je specifieke instellingen te configureren. In dit geval zullen we ons beperken tot de modellen B2C en B2B, aangezien een gemengde vorm complex is en het beheer ervan foutgevoelig kan zijn.
+Curq ondersteunt beide manieren om de BTW toe te passen. Het is het eenvoudigst als je slechts één van de twee modellen gebruikt. Echter, als je in een gemengde vorm werkt, dien je specifieke instellingen te configureren. In dit geval zullen we ons beperken tot de modellen B2C en B2B, aangezien een gemengde vorm complex is en het beheer ervan foutgevoelig kan zijn.
 
 B2C
 ---
