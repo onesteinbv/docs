@@ -24,6 +24,7 @@ Binnen de instellingen van het project kunnen verschillende aanpassingen worden 
 .. image:: Projecten/Projecten005.png
 
 In de tabbladen onder de omschrijving kan een beschrijving van het project worden gegeven. In de instellingen kan de kostenplaats van het project worden opgegeven en voor welke gebruikers het project zichtbaar is:
+
 1. Dit kan voor uitgenodigde interne gebruikers zijn, wanneer het project alleen voor specifieke gebruikers is zoals het management of een specifiek development team.
 2. Voor alle interne gebruikers, wanneer het hele bedrijf het project moet kunnen zien en eraan moet kunnen werken.
 3. Uitgenodigde portaalgebruikers en alle interne gebruikers, wanneer externe groepen het project moeten kunnen bekijken en eraan moeten kunnen werken.
