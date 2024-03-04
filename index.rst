@@ -12,6 +12,8 @@ Handleiding
 
     `Chat <http://docs.onestein.eu/Handleiding/Algemeen/Discuss.html>`_
 
+    `Agenda <http://docs.onestein.eu/Handleiding/Algemeen/Agenda.html>`_
+
     `zoeken & filtreren <http://docs.onestein.eu/Handleiding/Algemeen/Zoeken&filtreren.html>`_
 
 .. admonition:: Support
