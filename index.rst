@@ -12,6 +12,8 @@ Handleiding
 
     `Chat <http://docs.onestein.eu/Handleiding/Algemeen/Discuss.html>`_
 
+    `zoeken & filtreren <http://docs.onestein.eu/Handleiding/Algemeen/Zoeken&filtreren.html>`_
+
 .. admonition:: Support
    
     `Support proces <http://docs.onestein.eu/Handleiding/Algemeen/support_proces.html>`_
