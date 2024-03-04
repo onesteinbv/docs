@@ -151,6 +151,8 @@ Handleiding
 
 .. admonition:: Projecten
 
+    `Projecten <http://docs.onestein.eu/Handleiding/Projecten/Projecten.html>`_
+
     `Urenstaten <http://docs.onestein.eu/Handleiding/Projecten/Urenstaten_gebruiker.html>`_
 
 .. admonition:: Leden
