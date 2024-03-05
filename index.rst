@@ -68,11 +68,11 @@ Handleiding
 
         `Inkoopfacturen <http://docs.onestein.eu/Handleiding/Boekhouding/leveranciersfacturen.html>`_
 
-         `Activa en inkoopfacturen <http://docs.onestein.eu/Handleiding/Boekhouding/leveranciersfacturen_activa.html>`_
-        
+         `Inkoopfacturen preview <http://docs.onestein.eu/Handleiding/Boekhouding/leveranciersfacturen_preview.html>`_
+
          `Kostenspreiding inkoopfacturen <http://docs.onestein.eu/Handleiding/Boekhouding/leveranciersfacturen_kostenspreiding.html>`_
 
-         `Inkoopfacturen preview <http://docs.onestein.eu/Handleiding/Boekhouding/leveranciersfacturen_preview.html>`_
+         `Activa en inkoopfacturen <http://docs.onestein.eu/Handleiding/Boekhouding/leveranciersfacturen_activa.html>`_
 
         `Verkoopcontracten en abonnementen <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopcontracten.html>`_   
 
