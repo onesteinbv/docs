@@ -149,6 +149,8 @@ Handleiding
 
         `Website configuraties <http://docs.onestein.eu/Handleiding/Website/Website_Configuratie.html>`_
 
+    `E-commerce <http://docs.onestein.eu/Handleiding/Website/E-commerce.html>`_
+
 .. admonition:: Projecten
 
     `Projecten <http://docs.onestein.eu/Handleiding/Projecten/Projecten.html>`_
