@@ -26,7 +26,7 @@ Factuurregels
 - **Rekening:** Het is verplicht om de juiste grootboekrekening op te geven. De omzet wordt geboekt op deze grootboekrekening. Curq kan deze automatisch invullen op basis van de producten.
 - **Aantal:** Het aantal verkocht.
 - **Prijs:** De prijs per eenheid.
-- **BTW:* Curq stelt automatisch de meest logische BTW code voor. Wijk hier alleen af als er een andere BTW van toepassing is.
+- **BTW:** Curq stelt automatisch de meest logische BTW code voor. Wijk hier alleen af als er een andere BTW van toepassing is.
 - **Subtotaal:** Aantal x Prijs.
 - **Algemene voorwaarden:** Links onder de factuurregels zie je de algemene voorwaarden staan. Deze tekst verschijnt op je facturen. TIP: Heb je deze op je website staan, dan kan je daar naar verwijzen.
 - **Totalen:** Rechts onder de factuurregels zie je de totalen van de factuur inclusief welke BTW wordt toegepast.
