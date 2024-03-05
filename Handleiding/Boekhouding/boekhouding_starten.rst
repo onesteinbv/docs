@@ -44,7 +44,7 @@ Belastingen configureren
 Grootboek Rekeningschema
 ------------------------
 
-* Curq laadt het benodigde Nederlandse Rekeningschema in voor jouw bedrijf. Dit omvat onder andere grootboekrekeningen, debiteuren- en crediteurenrekeningen, en andere financiële categorieën. Het is ook mogelijk om een grootboekschema conform RGS (Referentie Grootboekschema) toe te voegen. RGS is het grootboekrekeningschema dat is gebaseerd op een gestandaardiseerde codering van financiële gegevens.
+* Curq laadt het RGS Nederlandse Rekeningschema (Referentie Grootboekschema) in voor jouw bedrijf. Dit omvat onder andere grootboekrekeningen, debiteuren- en crediteurenrekeningen, en andere financiële categorieën. RGS is het grootboekrekeningschema dat is gebaseerd op een gestandaardiseerde codering van financiële gegevens.
 
 .. image:: Boekhouding/boekhouding_starten006.png
 

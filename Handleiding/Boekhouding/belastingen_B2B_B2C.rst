@@ -27,7 +27,7 @@ De tweede instelling kun je configureren via Instellingen > Facturatie > Klantfa
 
 .. image:: Boekhouding/belastingen_b2c_b2b002.png
 
-Zodra je een product aanmaakt, vul je daar de verkoopprijs in, inclusief het BTW-bedrag, bijvoorbeeld 121,-. Je ziet meteen ook het bedrag exclusief BTW, bijvoorbeeld 100,-. Op basis van jouw instellingen stelt Curq nu automatisch de BTW-code met inclusief BTW in voor elk product.
+Zodra je een product aanmaakt, vul je daar de verkoopprijs in, inclusief het BTW-bedrag, bijvoorbeeld €121,-. Je ziet meteen ook het bedrag exclusief BTW, bijvoorbeeld €100,-. Op basis van jouw instellingen stelt Curq nu automatisch de BTW-code met inclusief BTW in voor elk product.
 Ook op je facturen en verkooporders zal je nu op de regels het bedrag inclusief het BTW zien.
 
 .. image:: Boekhouding/belastingen_b2c_b2b003.png

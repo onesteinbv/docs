@@ -25,8 +25,12 @@ Belastinginstellingen
 * Binnen 7 dagen = 119,00 (100 + (21% van 100))
 * Na 7 dagen = 121,- (100 + (21% van 100))
 
-Weet je niet zeker welke methode je moet gebruiken, overleg dan met je accountant. Op de website van de Belastingdienst vind je ook meer informatie over hoe je moet omgaan met BTW en betalingskortingen.
-`Belastingdienst - Kortingen bij tijdige betaling <https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/administratie_bijhouden/facturen_maken/factuureisen/aangepaste_regels_facturen/u_geeft_korting_voor_tijdige_betalingen>`_
+Weet je niet zeker welke methode je moet gebruiken, overleg dan met je accountant. 
+
+.. Note::
+    Op de website van de Belastingdienst vind je ook meer informatie over hoe je moet omgaan met BTW en betalingskortingen. `Belastingdienst - Kortingen bij tijdige betaling <https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/administratie_bijhouden/facturen_maken/factuureisen/aangepaste_regels_facturen/u_geeft_korting_voor_tijdige_betalingen>`_
+
+
 
 - **NL Factuurstelsel:** Gebruik deze optie als je verplicht bent om via het factuurstelsel BTW te laten berekenen. Dit zal in de meeste gevallen zijn als je verplicht bent om een factuur te versturen. Val je onder het kasstelsel, dan zet je deze uit. Mocht je het niet weten, vraag het dan na bij je accountant of kijk op de website van de Belastingdienst. `Belastingdienst - Hoe berekent u het btw-bedrag? <https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/btw_aangifte_doen_en_betalen/bereken_het_bedrag/hoe_berekent_u_het_btw_bedrag/>`_
 

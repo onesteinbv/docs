@@ -60,11 +60,11 @@ Het scherm is opgebouwd uit 3 gedeeltes.
 - **Algemene voorwaarden:** Links onder de factuurregels zie je de algemene voorwaarden staan. Deze tekst verschijnt op je facturen. TIP: Als je deze op je website hebt staan, kun je daarnaar verwijzen.
 - **Totalen:** Rechts onder de factuurregels zie je de totalen van de factuur, inclusief toegepaste BTW.
 
-Boekingsregels
+Tabblad [Boekingsregels]
 
    Hier wordt de journaalpost van de factuur getoond. Dit is belangrijke informatie voor de boekhouder.
 
-Overige Info
+Tabblad [Overige Info]
 
 .. image:: Verkoopfacturen/verkoopfacturen004.png
 
@@ -77,7 +77,7 @@ Overige Info
 - **Automatische boeken:** Alleen op een conceptfactuur kan dit worden ingesteld. Je kunt een factuur al vooruit plannen om deze later te laten boeken, of je kunt terugkerende facturen automatisch laten boeken tot een bepaalde tijd door Curq. Dit is handig als je elke maand dezelfde factuur wilt laten aanmaken.
 - **Te controleren:** De factuur krijgt de status "te controleren". Je kunt bijvoorbeeld jouw boekhouder hiermee attenderen dat deze factuur nog een keer extra moet worden gecontroleerd.
 
-1. Logging van de factuur.
+3. Logging van de factuur.
 
    Alle belangrijke wijzigingen met betrekking tot de factuur worden hier bijgehouden. Je ziet hier ook de e-mails die zijn verzonden. Als je ook gebruikmaakt van de volledige integratie met mailfunctionaliteit, verschijnt hier ook het antwoord van de klant als hij reageert op de mail.
 
