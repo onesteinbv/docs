@@ -66,7 +66,7 @@ Handleiding
 
             `Verkoopfacturen Omzet Spreiding <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_omzetspreiding.html>`_
 
-        `Inkoopfacturen <http://docs.onestein.eu/Handleiding/Boekhouding/leverancierfacturen.html>`_
+        `Inkoopfacturen <http://docs.onestein.eu/Handleiding/Boekhouding/leveranciersfacturen.html>`_
 
          `Activa en inkoopfacturen <http://docs.onestein.eu/Handleiding/Boekhouding/leveranciersfacturen_activa.html>`_
         
