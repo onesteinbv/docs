@@ -1,6 +1,6 @@
-==========================
+================================================
 Odoo 15 Membership Module
-==========================
+================================================
 ----------------------------------------------------------
 How to configure and register using the Membership Module
 ----------------------------------------------------------
@@ -68,7 +68,7 @@ Date: 2023-03-24
 `5.3 Convert member into Employee 39 <#convert-member-into-employee>`__
 
 Introduction
-============
+================================================
 
 The membership module is created to enable individuals to register on
 platforms, join communities and/or organizations. The membership module
@@ -88,7 +88,7 @@ assigned tasks, and do general expense reimbursement for their project
 work.
 
 1. Configuration
-=================
+================================================
 
 1.1 Create Job Position
 -----------------------
@@ -458,7 +458,7 @@ configure a subscription product.
    :height: 3.15069in
 
 2. Registering as a New Member
-==============================
+================================================
 
 Use the URL: https://{**domain**}/membership-registration.
 
@@ -550,7 +550,7 @@ verification email is needed.
    :height: 3.05in
 
 **3. Intake process**
-=====================
+================================================
 
 Roles supported: Administrator/ Employees officer
 
@@ -613,7 +613,7 @@ Roles supported: Administrator/ Employees officer
    :height: 1.15625in
 
 4. User Settings
-================
+================================================
 
 Roles supported: Administrator/Settings
 
@@ -653,7 +653,7 @@ Roles supported: Administrator/Settings
    :height: 3.64097in
 
 5. Creating members/employees from contact
-==========================================
+================================================
 
 5.1 Create a contact
 ---------------------

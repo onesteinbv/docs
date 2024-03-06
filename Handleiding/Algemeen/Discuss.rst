@@ -40,7 +40,7 @@ Wanneer over een kanaal met de muis wordt gehangen, wordt een tandwiel getoond, 
 Binnen de opties kunnen specifieke groepen gemachtigd worden om deel te nemen aan het kanaal, groepen automatisch aan het kanaal toegevoegd worden en een afdeling de groep automatisch laten volgen. Tevens kan de naam aangepast worden en een korte omschrijving worden gegeven van het kanaal. Onder de tab leden kunnen alle leden worden bekeken, nieuwe worden toegevoegd en bestaande worden verwijderd.
 
 Chatter
-=======
+--------
 
 Binnen de verschillende items in alle apps zoals projecttaken, producten en facturen wordt ook gebruik gemaakt van de Discuss app om de geschiedenis van de items te kunnen volgen.
 

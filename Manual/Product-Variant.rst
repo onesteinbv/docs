@@ -1,6 +1,6 @@
-==========================
+================================================
 Product Variants Manual
-==========================
+================================================
 ----------------------------------------------------------
 How to configure Product Variants
 ----------------------------------------------------------
@@ -30,7 +30,7 @@ Table of Contents
 15 <#a-discounts-on-product-variants>`__
 
 1) How to upgrade Quantity
-==========================
+================================================
 
 Use the URL https://nwb-onestein.smoose.org/web/login
 
@@ -80,7 +80,7 @@ Select ´Update Quantity´. Enter the new quantity and click Apply.
 |image1|\ The user can now see the new changes.
 
 **2) How to add a Product Variant** 
-====================================
+================================================
 
 Activate variant option by navigating to Settings at the bottom of the
 left panel. Inside the Inventory Section, click the ´Variants´ checkbox.
@@ -143,7 +143,7 @@ visible on the website page.
    :height: 3.0125in
 
 3) How to create and maintain a Pricelist for a Product Variant 
-================================================================
+================================================
 
 Navigate to Product on the menu bar. The drop-down box should now have
 ´Product Variants´ as an option.
@@ -207,7 +207,7 @@ prices for the different variants.
 ========
 
 4) How to add Discounts on Products 
-====================================
+================================================
 
 Navigate to Settings, the Website Section and click the checkbox for
 ´Advanced Price Rules´ and ´Discounts´. Click Save.

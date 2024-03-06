@@ -1,6 +1,6 @@
-=======================
+================================================
 functionaliteiten lijst
-=======================
+================================================
 
 Algemeen
 =======
@@ -86,7 +86,7 @@ Elke twee jaar worden de exemplaren geüpgraded naar de nieuwste versies van Odo
 Raadpleeg onze verschillende instructiedocumenten over de verschillende functies binnen Curq op docs.onestein.eu.
 
 Boekhouding
-===============
+================================================
 
 **Transacties**
 
@@ -185,7 +185,7 @@ Analyse van uw pijplijn, leads en activiteiten.
 Maak en beheer verkoopteams, teamleden, activiteit typen, terugkerende plannen, pijplijnfasen, labels, redenen van verlies van de kans, partnerniveaus en partneractivering.
 
 Agenda
-===========
+================================================
 
 **Plannen**
 
@@ -201,14 +201,14 @@ Plan en beheer vergaderingen en taken.
 Stel herinneringen in voor evenementen en taken.
 
 Contacten
-===========
+================================================
 
 **Contacten**
 
 Voeg verschillende contacten toe en beheer ze, zowel zakelijk als privé, voeg hun contactgegevens, bankgegevens en voorkeuren toe.
 
 E-mailmarketing
-=================
+================================================
 
 **Campagnes**
 
@@ -219,7 +219,7 @@ Plan en voer e-mailmarketingcampagnes uit met een zelf in te richten stappenplan
 Maak en beheer e-maillijsten via de Curq klantendatabase of vanuit een import van nieuwe e-mail adressen.
 
 Medewerkers
-=============
+================================================
 
 **Werknemer**
 
@@ -234,7 +234,7 @@ Plan activiteiten voor medewerkers, inclusief onboarding en offboarding.
 Pas gamification toe zoals uitdagingen, badges en doelen.
 
 Evenementen
-==============
+================================================
 
 **Evenementen**
 
@@ -261,7 +261,7 @@ Publiceer evenementpagina's op uw website.
 Genereer rapporten over evenementdeelnemers en inkomsten.
 
 Declaraties
-===========
+================================================
 
 **Declaraties**
 
@@ -388,7 +388,7 @@ Beheer en organiseer uw leveranciersgegevens, hun producten en bestellingen.
 Genereer rapporten met betrekking tot inkoop.
 
 Werving
-===========
+================================================
 
 **Sollicitaties**
 
@@ -493,7 +493,7 @@ Genereer rapporten voor online verkopen, paginaweergaven en aantal bezoekers.
 Stel een aangepaste URL in en de beschikbare talen op uw websites.
 
 Infrastructuur
-==============
+================================================
 
 **Volledig open source**
 

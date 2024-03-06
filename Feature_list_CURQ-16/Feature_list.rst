@@ -1,6 +1,6 @@
-============
+================================================
 Feature list
-============
+================================================
 
 General
 =======
@@ -207,7 +207,7 @@ Contacts
 Add and manage your different contacts both business and private, add there contact information, bank details and preferences. 
 
 Email Marketing
-===============
+================================================
 
 **Campaigns**
 
@@ -386,7 +386,7 @@ Manage and organize your vendor details, there product and orders.
 Generate reports related to purchases.
 
 Recruitment
-===========
+================================================
 
 **Applications**
 
@@ -491,7 +491,7 @@ Generate reports for online sales, page views and number of visitors.
 Setup a custom URL and the available languages on your websites.
 
 Infrastructure
-==============
+================================================
 
 **Completely open source**
 

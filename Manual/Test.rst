@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to Onestein's documentation!
-====================================
+================================================
 
 ..toc tree::
    :maxdepth: 2
@@ -12,7 +12,7 @@ Welcome to Onestein's documentation!
    :this: that
 
 Indices and tables
-=================
+================================================
 
 * :ref:`genindex`
 * :ref:`modindex`
