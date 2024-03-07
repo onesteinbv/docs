@@ -22,6 +22,8 @@ te downloaden in je bankapplicatie (Curq ondersteunt de formaten
 camt.053.001.02, Camt.054.001.02). Deze download kun je vervolgens
 uploaden in het overeenkomstige bankdagboek in Curq.
 
+Het importeren van een .csv of .xls bestand is ook nog een alternatief voor de eerder genoemde opties. 
+
 Alle transactieregels zijn ook te benaderen via de drie
 puntjes rechts in de tegel:
 
@@ -88,15 +90,15 @@ restbedrag af te schrijven op een andere grootboekrekening. Je kan hier of een a
 
 .. |image2| image:: Afletteren/media/image11.png
 
-Scenario 2: klant bijna gehele factuur, een bedrag van een paar cent blijft open staan.
-Indien dit vaker voor komt dan kuj je ervoor kiezen het standaard aflettermodel 'perfecte matching'iets aan te vullen. Wanneer je de tolerantie iets aanpast en vervolgens ook een grootboekrekening toevoegt aan het model, dan zal Curq automatisch het restverschil wegboeken.
+Scenario 2: klant betaalt bijna de gehele factuur, maar een bedrag van een paar cent blijft open staan.
+Indien dit vaker voor komt dan kun je ervoor kiezen het standaard aflettermodel 'perfecte matching' iets aan te vullen. Wanneer je de tolerantie iets aanpast en vervolgens ook een grootboekrekening toevoegt aan het model, dan zal Curq automatisch het restverschil wegboeken.
 
 .. image:: Afletteren/media/Betalingsverschillen_afboeken.png
        :width: 6.3in
        :height: 2.93264in
 
 Scenario 3: klant betaalt meerdere facturen in 1 bedrag.
-in dit geval kun je de klant opzoeken en meerdere facturen achter elkaar aanklikken. Het kan zijn dat de klant ook een factuur betaalt die op een andere naam staat. Je kan een andere klant opzoeken de openstaande post(en) toevoegen. In onderstaand schermvoorbeeld is eerst de factuur 1 voor klant 1 toegevoegd. Vervolgens is bij 'filter' gezocht op klant 2 en is een deel van factuur 2 aan de transactieregel toegevoegd.
+in dit geval kun je de klant opzoeken en meerdere facturen achter elkaar aanklikken. Het kan zijn dat de klant ook een factuur betaalt die op een andere naam staat. Je kan een andere klant opzoeken en de openstaande post(en) toevoegen. In onderstaand schermvoorbeeld is eerst de factuur 1 voor klant 1 toegevoegd. Vervolgens is bij 'filter' gezocht op klant 2 en is een deel van factuur 2 aan de transactieregel toegevoegd.
 
 .. image:: Afletteren/media/meerdere_facturen.png
        :width: 6.3in
@@ -104,8 +106,7 @@ in dit geval kun je de klant opzoeken en meerdere facturen achter elkaar aanklik
 
 Afletteren betaalregel zonder factuur
 ----
-Het kan voorkomen dat er een afschriftregel is met een betaling zonder
-onderliggende factuur. In dit scenario kun je op het tabblad handmatige werking zelf een grootboekrekening opzoeken.
+Het kan voorkomen dat er een afschriftregel is met een betaling zonder onderliggende factuur. In dit scenario kun je op het tabblad handmatige werking zelf een grootboekrekening opzoeken.
 
 .. image:: Afletteren/media/handmatig_afletteren.png
    :width: 6.69306in
@@ -113,10 +114,8 @@ onderliggende factuur. In dit scenario kun je op het tabblad handmatige werking 
 
 Afletteren betaalregel zonder factuur met BTW 
 ----
-Het kan voorkomen dat er een afschriftregel is met een betaling zonder
-onderliggende factuur, maar wel met BTW. Na kiezen van de juiste kostenrekening is het vervolgens mogelijk om in het BTW de juiste BTW
-code te selecteren. Curq rekent dan automatisch de juiste bedragen uit. De extra regel die wordt aangemaakt voor verwerken van de BTW is terug
-te vinden op de BTW aangifte in de juiste rubriek.
+Het kan voorkomen dat er een afschriftregel is met een betaling zonder onderliggende factuur, maar wel met BTW. Na kiezen van de juiste kostenrekening is het vervolgens mogelijk om in het BTW veld de juiste BTW
+code te selecteren. Curq rekent dan automatisch de juiste bedragen uit. De extra regel die wordt aangemaakt voor verwerken van de BTW is terug te vinden op de BTW aangifte in de juiste rubriek.
 
 .. image:: Afletteren/media/btw_handmatige_betaling.png
    :width: 6.69306in
@@ -125,7 +124,7 @@ te vinden op de BTW aangifte in de juiste rubriek.
 Afletteren verstuurde SEPA betaalbatch
 ----
 Wanneer je gebruikt maakt van de SEPA functionaliteit (waarmee je direct een set van inkoopfacturen aan de bank kan aanbieden), dan kun je de afschriftregel van deze betaling kiezen om alle inkoopfacturen van de batch in 1 keer af te handelen.
-Na selecteren van de transactieregel zoek je de juiste betaalbatch op 
+Na selecteren van de transactieregel zoek je de juiste betaalbatch op en lettert hierop af.
 
 .. image:: Afletteren/media/SEPA_bankstatementline.png
    :width: 6.69306in
