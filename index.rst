@@ -52,74 +52,73 @@ Handleiding
             
         `Verkoopfacturen <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen.html>`_    
 
-            `Verkoopfacturen Afleveradres en Factuuradres <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_afleveradres_factuuradres.html>`_
-
             `Verkoopfacturen Algemene Voorwaarden <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_algemene_voorwaarden.html>`_
 
-            `Verkoopfacturen Snelle betalingskorting en BTW <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_betalingskorting.html>`_
+            `Verkoopfacturen Afleveradres en Factuuradres <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_afleveradres_factuuradres.html>`_
 
             `Verkoopfacturen Creditnota <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_creditnota.html>`_
 
-            `Verkoopfacturen Incoterms <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_incoterms.html>`_
+            `Verkoopfacturen Omzet Spreiding <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_omzetspreiding.html>`_
 
             `Herinneringsproces facturen <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_herinneringen.html>`_
 
-            `Verkoopfacturen Omzet Spreiding <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_omzetspreiding.html>`_
+            `Verkoopfacturen Snelle betalingskorting en BTW <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_betalingskorting.html>`_
+
+            `Verkoopfacturen Incoterms <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopfacturen_incoterms.html>`_
 
         `Inkoopfacturen <http://docs.onestein.eu/Handleiding/Boekhouding/leveranciersfacturen.html>`_
 
-         `Inkoopfacturen preview <http://docs.onestein.eu/Handleiding/Boekhouding/leveranciersfacturen_preview.html>`_
+            `Inkoopfacturen preview <http://docs.onestein.eu/Handleiding/Boekhouding/leveranciersfacturen_preview.html>`_
 
-         `Kostenspreiding inkoopfacturen <http://docs.onestein.eu/Handleiding/Boekhouding/leveranciersfacturen_kostenspreiding.html>`_
+            `Kostenspreiding inkoopfacturen <http://docs.onestein.eu/Handleiding/Boekhouding/leveranciersfacturen_kostenspreiding.html>`_
 
-         `Activa en inkoopfacturen <http://docs.onestein.eu/Handleiding/Boekhouding/leveranciersfacturen_activa.html>`_
+            `Activa en inkoopfacturen <http://docs.onestein.eu/Handleiding/Boekhouding/leveranciersfacturen_activa.html>`_
 
         `Verkoopcontracten en abonnementen <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopcontracten.html>`_   
 
-         `Verkoopcontractsjablonen <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopcontracten_sjablonen.html>`_ 
+            `Verkoopcontractsjablonen <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopcontracten_sjablonen.html>`_ 
 
-         `Verkoopcontract vernieuwen <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopcontracten_vernieuwen.html>`_ 
+            `Verkoopcontract vernieuwen <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopcontracten_vernieuwen.html>`_ 
 
-         `Verkoopcontract beeindigen <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopcontracten_beeindigen.html>`_  
+            `Verkoopcontract beeindigen <http://docs.onestein.eu/Handleiding/Boekhouding/verkoopcontracten_beeindigen.html>`_  
 
         `Betalingen <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen.html>`_
 
-         `SEPA betaling <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_sepa.html>`_
+            `SEPA betaling <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_sepa.html>`_
 
-         `Interne transfers <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_interne_transfers.html>`_
+            `Interne transfers <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_interne_transfers.html>`_
 
-         `Online Betalingen Mollie <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_online_betalingen_Mollie.html>`_
+            `Online Betalingen Mollie <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_online_betalingen_Mollie.html>`_
 
-         `Direct Debit <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_direct_debit.html>`_           
+            `Direct Debit <http://docs.onestein.eu/Handleiding/Boekhouding/betalingen_direct_debit.html>`_           
            
-
         `Bankrekeningen <http://docs.onestein.eu/Handleiding/Boekhouding/bankrekeningen.html>`_
 
-         `Banksynchronisatie MyPonto <http://docs.onestein.eu/Handleiding/Boekhouding/bankrekeningen_myponto.html>`_
+            `Banksynchronisatie MyPonto <http://docs.onestein.eu/Handleiding/Boekhouding/bankrekeningen_myponto.html>`_
 
-         `Banksynchronisatie Mollie <http://docs.onestein.eu/Handleiding/Boekhouding/bankrekeningen_mollie_synchroniseren.html>`_
+            `Banksynchronisatie Mollie <http://docs.onestein.eu/Handleiding/Boekhouding/bankrekeningen_mollie_synchroniseren.html>`_
 
-         `Banktransacties importeren <http://docs.onestein.eu/Handleiding/Boekhouding/bankrekeningen_importeren_afschrift.html>`_
+            `Banktransacties importeren <http://docs.onestein.eu/Handleiding/Boekhouding/bankrekeningen_importeren_afschrift.html>`_
 
-         `Afletteren bank <http://docs.onestein.eu/Handleiding/Boekhouding/bankrekeningen_afletteren.html>`_
+            `Afletteren bank <http://docs.onestein.eu/Handleiding/Boekhouding/bankrekeningen_afletteren.html>`_
 
-         `Aflettermodellen <http://docs.onestein.eu/Handleiding/Boekhouding/bankrekeningen_aflettermodellen.html>`_
+            `Aflettermodellen <http://docs.onestein.eu/Handleiding/Boekhouding/bankrekeningen_aflettermodellen.html>`_
  
         `Activa Beheer <http://docs.onestein.eu/Handleiding/Boekhouding/activa_beheer.html>`_ 
 
         `Rapportages in Curq <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages.html>`_
         
-         `Boekhoud rapportages <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_boekhoudkundig.html>`_
+            `Boekhoud rapportages <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_boekhoudkundig.html>`_
 
-         `BTW aangifte <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_BTW.html>`_
+            `BTW aangifte <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_BTW.html>`_
 
-         `BTW Suppletie <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_BTW_suppletie.html>`_
+            `BTW Suppletie <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_BTW_suppletie.html>`_
 
-         `ICP aangifte <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_ICP.html>`_
+            `ICP aangifte <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_ICP.html>`_
 
-         `Management rapportages <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_management.html>`_
+            `Management rapportages <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_management.html>`_
 
-         `Jaarafsluiting <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_jaarafsluiting.html>`_
+            `Jaarafsluiting <http://docs.onestein.eu/Handleiding/Boekhouding/rapportages_jaarafsluiting.html>`_
 
     `Betalingscondities <http://docs.onestein.eu/Handleiding/Boekhouding/Betalingscondities.html>`_
 
