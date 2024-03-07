@@ -5,7 +5,7 @@ Binnen Curq kun je eenvoudig een activum aanmaken vanuit een leveranciersfactuur
 
 .. image:: Leveranciersfactuur/Leveranciersfacturen_activa001.png
 
-Genereer een verse factuur via het menu Facturatie > Leveranciers > Leveranciersfacturen. Nadat je de leveranciersgegevens hebt ingevuld, voer je op de factuurregels de grootboekrekening voor activa in. Als de instellingen correct zijn, zal de kolom voor het Activa Profiel automatisch worden ingevuld.
+Genereer een nieuwe factuur via het menu Facturatie > Leveranciers > Leveranciersfacturen. Nadat je de leveranciersgegevens hebt ingevuld, voer je op de factuurregels de grootboekrekening voor activa in. Als de instellingen correct zijn, zal de kolom voor het Activa Profiel automatisch worden ingevuld.
 
 .. image:: Leveranciersfactuur/Leveranciersfacturen_activa002.png
 
