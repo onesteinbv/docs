@@ -15,7 +15,7 @@ Wanneer je extra banknummers wil toevoegen, doe dit dan via menufunctie 'Factura
        :width: 6.3in
        :height: 2.93264in
 
-Wanneer je een bankrekening hebt met een andere valuta dan EUR (de basisvaluta in Cirq), dan kun je een bankjournaal koppelen aan de andere valuta. Activeer eerst de valuta via onderstaand menu.
+Wanneer je een bankrekening hebt met een andere valuta dan EUR (de basisvaluta in Curq), dan kun je een bankjournaal koppelen aan de andere valuta. Activeer eerst de valuta via onderstaand menu.
 
 .. image:: My-Ponto-Bank-Feed-Media/valuta.png
 
@@ -64,6 +64,8 @@ Configuratie in Curq
 8. Vul in het veld Secret id het geheim van MyPonto in
 
 9. Je bent nu klaar om gegevens van je bank op te halen
+
+10. De banktransacties worden op de achtergrond vervolgens iedere dag automatisch opgehaald
 
 .. image:: My-Ponto-Bank-Feed-Media/image4.png
        :width: 6.3in
