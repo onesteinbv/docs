@@ -1,14 +1,15 @@
 Afletteren (reconciliatie) in Curq
 ===========
-| Bank reconciliatie is het proces van het matchen van je
-  banktransacties met je bedrijfsadministratie, zoals klantenfacturen,
-  leveranciersfacturen en betalingen.
-| Dit is niet alleen verplicht voor de meeste bedrijven, maar het biedt
-  ook verschillende voordelen, zoals minder risico op fouten in
-  financiële rapporten, detectie van frauduleuze activiteiten en
-  verbeterd cashflowbeheer.
-| Dankzij de reconciliatiemodellen kan Curq de overeenkomende boekingen
-  automatisch vinden en afletteren.
+Bank reconciliatie is het proces van het matchen van je
+banktransacties met je bedrijfsadministratie, zoals klantenfacturen,
+leveranciersfacturen en betalingen.
+
+Dit is niet alleen verplicht voor de meeste bedrijven, maar het biedt
+ook verschillende voordelen, zoals minder risico op fouten infinanciële rapporten, detectie van frauduleuze activiteiten en
+verbetert cashflowbeheer.
+
+Dankzij de reconciliatiemodellen kan Curq de overeenkomende boekingen
+automatisch vinden en afletteren.
 
 Algemeen
 ----
