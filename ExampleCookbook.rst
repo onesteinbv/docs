@@ -1,6 +1,6 @@
-============================
+================================================
 Example Cookbook
-============================
+================================================
 
 This document contains the actions which is required manually for pre and post migration specially for US DB.
 
@@ -10,7 +10,7 @@ This document contains the actions which is required manually for pre and post m
    :local:
 
 Server setup
-============
+================================================
 
 As the server is sometimes a clone from an old instance, bring it up to date first.
 
@@ -47,7 +47,7 @@ Restore it on server x.x.x.x:8069.
 Upload the V8 backup on x.x.x.x server for V8 UAT.
 
 Configuration
-=============
+================================================
 Use migration scripts available at:
 * https://gitlab.xx.lan/xx-odoo/openupgrade
 
@@ -590,7 +590,7 @@ accounting entries on legacy accounts.
 
 
 Post migration (connecting tools and software) (No need to perfom at UAT- only when do production)
-==============================================
+================================================
 
 After migration of odoo, some other software tools which connect to odoo have to be reconfigured.
 

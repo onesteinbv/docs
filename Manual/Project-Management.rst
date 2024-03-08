@@ -1,6 +1,6 @@
-===========================
+================================================
 Odoo 15 Project Management
-===========================
+================================================
 ----------------------------------------------------------
 Project Management Configuration
 ----------------------------------------------------------
@@ -41,7 +41,7 @@ Table of Contents
 `3.3 Fill Time-sheets 23 <#fill-time-sheets>`__
 
 Introduction
-============
+================================================
 
 The membership module is created to enable individuals to register on
 platforms, join communities and/or organizations. The membership module
@@ -55,7 +55,7 @@ published on the website with a project image, description, list of
 members and member image/information.
 
 **1 Assign Member to Project** 
-===============================
+================================================
 
 1.1 Create Project 
 -------------------
@@ -161,7 +161,7 @@ the project Green Energy.
    :height: 1.83125in
 
 2 Publish Project / Categories / Members
-========================================
+================================================
 
 Roles supported: Administrator/ Project Administrator
 
@@ -266,7 +266,7 @@ For members who do not want to be published at the time of registration:
    :height: 2.56875in
 
 3 Create/Assign Tasks to Members 
-=================================
+================================================
 
 3.1 User Settings
 -----------------
