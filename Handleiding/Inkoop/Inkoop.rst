@@ -6,4 +6,4 @@ Odoo 16 biedt geavanceerde mogelijkheden voor het configureren en beheren van pr
 
 Wanneer je op 'Producten' klikt in de vervolgkeuzelijst van het menu 'Producten', opent zich een venster met de volledige lijst van reeds aangemaakte producten. Standaard wordt deze weergegeven in de Kanban-weergave, maar je hebt de mogelijkheid om deze naar wens te wijzigen naar de Lijst-weergave. In de Kanban-weergave tonen voorbeeldkaarten details zoals naam, interne productreferentie, prijs en product afbeelding. Met behulp van de knoppen 'Filters' en 'Groeperen op' kun je specifieke producten vinden op basis van toegepaste variabelen.
 
-.. image:: media/inkoop001.png
+.. image:: Media/inkoop001.png
