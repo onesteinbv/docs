@@ -7,11 +7,11 @@ Aanpassen huisstijl
 -------------------
 Als je je huisstijl niet hebt opgegeven tijdens de aanmaak van je omgeving, kun je dit alsnog doen via Instellingen > Algemene instellingen, onder het kopje Bedrijven.
 
-.. image:: Verkoopfacturen/verkoopfacturen001.png
+.. image:: Media/verkoopfacturen001.png
 
 Kies "Configureer documentlay-out". In het volgende scherm heb je de mogelijkheid om jouw huisstijl toe te voegen.
 
-.. image:: Verkoopfacturen/verkoopfacturen002.png
+.. image:: Media/verkoopfacturen002.png
 
 - **Lay-out:** Hier zijn vier opties beschikbaar om het ontwerp van jouw facturen of andere documenten te configureren.
 - **Lettertype:** Kies hier een van de beschikbare lettertypes
@@ -34,7 +34,7 @@ Voor het aanmaken van een factuur klik je linksboven op [Nieuw]. Mochten de fact
 
 Het volgende scherm verschijnt wanneer je een nieuwe factuur aanmaakt.
 
-.. image:: Verkoopfacturen/verkoopfacturen003.png
+.. image:: Media/verkoopfacturen003.png
 
 Het scherm is opgebouwd uit 3 gedeeltes.
 
@@ -66,7 +66,7 @@ Tabblad [Boekingsregels]
 
 Tabblad [Overige Info]
 
-.. image:: Verkoopfacturen/verkoopfacturen004.png
+.. image:: Media/verkoopfacturen004.png
 
 - **Referentie klant:** Hier kun je extra informatie vastleggen die voor de klant van belang kan zijn, bijvoorbeeld hun inkoopnummer of een afdelingsnaam binnen het bedrijf. Zodra je hier iets invult, wordt dit ook afgedrukt op de factuur.
 - **Verkoper:** De verkoper die gebruikt kan worden in rapportages.
@@ -85,21 +85,21 @@ Tabblad [Overige Info]
 - **Log notitie:** Dit is een interne notitie die alleen intern zichtbaar is. Voor de klant is deze niet zichtbaar.
 - **Activiteiten:** Je kunt een bepaalde activiteit inplannen voor iemand. Dit kan een to-do zijn, maar ook een afspraak.
 
-.. image:: Verkoopfacturen/verkoopfacturen005.png
+.. image:: Media/verkoopfacturen005.png
 
 - **Volgers:** Contacten en medewerkers kunnen volgers zijn van het document. Afhankelijk van hun aanmelding worden deze volgers op de hoogte gehouden van wijzigingen op dit document.
 
 Zodra de factuur gereed is, kan de factuur worden bevestigd via de knop [BEVESTIGEN]. De factuur wordt op dit moment dan financieel geboekt.
 
-.. image:: Verkoopfacturen/verkoopfacturen006.png
+.. image:: Media/verkoopfacturen006.png
 
 De factuur staat nu open in de boekhouding en de status verandert naar "geboekt". Er verschijnen nu andere knoppen. Wil je nog eerst de factuur controleren, dan kun je via de knop midden in het scherm eerst een afdruk downloaden. Bij het afdrukken kies dan voor "Facturen". Als je de factuur wilt verbeteren, dan kun je de factuur terugzetten via de knop [TERUGZETTEN NAAR CONCEPT].
 
-.. image:: Verkoopfacturen/verkoopfacturen007.png
+.. image:: Media/verkoopfacturen007.png
 
 Met de knop [VERZEND & AFDRUKKEN] kun je meteen de factuur via de mail versturen. Als er een e-mailadres ontbreekt, zal Curq om deze informatie vragen. Het volgende verzendscherm verschijnt.
 
-.. image:: Verkoopfacturen/verkoopfacturen008.png
+.. image:: Media/verkoopfacturen008.png
 
 In dit scherm heb je de optie om een factuur af te drukken en te mailen. Zorg dat de juiste optie is geselecteerd. Hier kun je ook de mail aanpassen en een persoonlijk tintje meegeven. Curq zal de factuur als PDF-bestand meesturen naar de klant.
 
@@ -109,4 +109,4 @@ Heb je een persoonlijke mail aangemaakt en wil je die de volgende keer weer gebr
 
 Zodra de factuur is verzonden binnen Curq, is dit meteen zichtbaar in het loggingsdeel. Je ziet jouw mail terug en aan de hand van de enveloppe kun je de status van jouw mail terugvinden. Je kunt eventueel corrigerende acties ondernemen door te klikken op de enveloppe.
 
-.. image:: Verkoopfacturen/verkoopfacturen009.png
+.. image:: Media/verkoopfacturen009.png
