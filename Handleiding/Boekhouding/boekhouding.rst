@@ -33,3 +33,8 @@ Curq hanteert het concept van dubbel boekhouden. Bij dubbel boekhouden worden al
 
     **Credit: rechterzijde**
     De rechterkant van de balans staat bekend als de creditzijde. Hier vind je het eigen vermogen van een onderneming en alle passiva (schulden). Dit omvat langlopende leningen zoals een hypotheek, maar ook crediteuren. Crediteuren zijn bedrijven of personen aan wie jij nog geld verschuldigd bent, wat valt onder kortlopende leningen.
+
+.. toctree::
+    :maxdepth: 2
+
+   Beginnen_met_boekhouden/boekhouding_starten
