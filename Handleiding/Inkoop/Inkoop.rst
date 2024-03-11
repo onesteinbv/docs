@@ -46,16 +46,16 @@ Leveranciersbeheer
 
 Een bedrijfsorganisatie wordt geconfronteerd met diverse inkoopbehoeften, zowel op grote schaal als in de detailhandel. Voor verschillende aangeschafte producten is het noodzakelijk om de gegevens van meerdere leveranciers op te slaan en te beheren. Met Odoo16 is het mogelijk om alle leveranciers die relevant zijn voor een specifiek product te configureren, waardoor klanten gemakkelijker bij hun voorkeursleverancier kunnen kopen. Dankzij de flexibele en geavanceerde gebruikersinterface van Odoo is het beheren van de leverancierslijst en het opstellen van leverancier kenmerken efficiënter geworden. Bovendien kun je de gegevens van de leverancier koppelen aan het bijbehorende product, waardoor het volgen van nieuwe inkooporders eenvoudiger wordt.
 
-Om de leveranciersgegevens te beheren, navigeer je naar het menu 'Leveranciers' in de vervolgkeuzelijst van het tabblad 'Orders'. Hier wordt een gedetailleerde Kanban-weergave van alle toegevoegde leveranciers weergegeven.
+Om de leveranciersgegevens te beheren, navigeer je naar het menu *Leveranciers* in de vervolgkeuzelijst van het tabblad **Orders**. Hier wordt een gedetailleerde Kanban-weergave van alle toegevoegde leveranciers weergegeven.
 
 .. image:: Media/inkoop007.png
 
 In de Kanban-weergave kun je de basisinformatie over een leverancier bekijken. Deze informatie omvat de naam van de leverancier, eventuele tags die zijn toegevoegd en het e-mailadres. Bovendien worden pictogrammen weergegeven waarmee je vergaderingen, kansen en aankopen kunt beheren die aan de betreffende leverancier zijn toegewezen.
 
-De lijstweergave kan worden uitgebreid door de benodigde opties in te schakelen via de geavanceerde werkbalk. De lijst bevat onder andere informatie zoals provincie, BTW nummer, activiteiten, tags en de huidige lidmaatschap status.
+De lijstweergave kan worden uitgebreid door de benodigde opties in te schakelen via de geavanceerde werkbalk. De lijst bevat onder andere informatie zoals **provincie, BTW nummer, activiteiten, tags en de huidige lidmaatschap status**.
 
 .. image:: Media/inkoop008.png
 
-Door op de knop 'Nieuw'' te klikken, ga je naar een nieuw contactkaart waar je de gegevens van de leverancier kunt configureren. Het proces voor het configureren van leveranciers is identiek aan dat voor het configureren van klanten, zoals besproken in een andere handleiding (Toevoegen van een contact). Je kunt dus dezelfde stappen volgen. Vul de tabbladen 'Contacten & Adressen', 'Verkoop & inkopen' en 'Facturatie' in. Na het configureren van de leveranciers kun je de verkoopprijslijst beheren in de Odoo Inkoopmodule.
+Door op de knop *Nieuw* te klikken, ga je naar een nieuw contactkaart waar je de gegevens van de leverancier kunt configureren. Het proces voor het configureren van leveranciers is identiek aan dat voor het configureren van klanten, zoals besproken in een andere handleiding (Toevoegen van een contact). Je kunt dus dezelfde stappen volgen. Vul de tabbladen **Contacten & Adressen, Verkoop & inkopen en Facturatie in. Na het configureren van de leveranciers kun je de verkoopprijslijst beheren in de Odoo Inkoopmodule.
 
 .. image:: Media/inkoop009.png
