@@ -13,11 +13,11 @@ Creditnota vanuit een verkoopfactuur
 ------------------------------------
 Om een correctie aan te brengen op een bestaande factuur binnen Curq, is het eenvoudig een creditnota te genereren vanuit de desbetreffende verkoopfactuur. Je kunt de bestaande verkoopfactuur openen via Facturatie > Klanten > Facturen. Bovenaan de factuur kun je met de knop [MAAK CREDITFACTUUR] snel de creditnota aanmaken.
 
-.. image:: Verkoopfacturen/verkoopfacturen_creditnota001.png
+.. image:: Media/verkoopfacturen_creditnota001.png
 
 Na het activeren van de knop, verschijnt er een pop-upvenster met aanvullende opties.
 
-.. image:: Verkoopfacturen/verkoopfacturen_creditnota002.png
+.. image:: Media/verkoopfacturen_creditnota002.png
 
 - **Creditmethode:** Er zijn drie beschikbare keuzemogelijkheden.
 
