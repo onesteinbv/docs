@@ -9,39 +9,44 @@ Om met de module te kunnen werken dien je de volgende zaken in te richten:
 
 - Bij menu werknemers maak je een werknemer aan en koppel je je gebruikersaccount aan de werknemer. 
 
-- Om de geregistreerde kilometers te kunnen declareren in de onkostencategorie moet het selectievakje 'Kan gebruikt worden in de wagenpark module' aangevinkt staan. Bij de categorie is het ook mogelijk om een analytische rekening toe te voegen aan de categorie.
+- Om de geregistreerde kilometers te kunnen declareren in de onkostencategorie moet het selectievakje 'Kan gebruikt worden in de wagenpark module' aangevinkt staan. Bij de categorie is het ook mogelijk om specifieke grootboek -of analytische rekening toe te voegen aan de categorie. Bij de categorie kun je ook de kilometervergoeding ingeven en kiezen voor de eenheid km (kilometer) of mi (miles)
 
 - Bij menu Wagenpark dien je een auto aan te maken, merk en kenteken zijn verplichte velden.
 
-- Op de geregistreerde auto kan de standaard onkostencategorie worden toegevoegd 
+- Op de geregistreerde auto kan de standaard onkostencategorie worden toegevoegd, dit vereenvoudigt de invoer.
  
 
 Invulscherm kilometerregistratie
 ----
 
-We hebben nieuwe velden toegevoegd aan het menu 'Kilometerregistratie': 
+We hebben nieuwe velden toegevoegd aan het menu 'Kilometerregistratie'.
 
-- Contact
+- Contact. Bij welke klant ben je geweest?
 
-- Van
+- Van. Wat was je vertrekpunt?
 
-- Naar
+- Naar. Wat was je bestemming?
 
-- Enkele reis 
+- Enkele reis. Afstand van de enkele reis
 
-- Is een retourrit
+- Is een retourrit? 
 
-- Totale km-rit - Als 'is een retourrit' is niet aangekruist toon dan de waarde van 'enkele reis' anders verdubbel de enkele reis
+- Totale km-rit. Als 'is een retourrit' niet is aangekruist dan zie je de waarde van 'enkele reis' anders verdubbelt de enkele reis waarde
 
-- Totaal km's, berekend veld  
+- Totaal km's. Berekend veld van aantal kilometers 
 
-- Gerelateerd veld: Onkostencategorie 
+- Onkostencategorie. De waarde wordt overgenomen van de auto, kan overschreven worden mocht je meerdere categorieeen gebruiken
 
-- Niet verplicht veld kilometerstand start. Integer, geen logica, gebruiker vult startnummer in 
+- Niet verplicht veld kilometerstand start
 
-- Niet verplicht veld kilometerstand einde, geen logica, gebruiker vult eindnummer in. 
+- Niet verplicht veld kilometerstand einde
 
-- Statusveld: To Expense, Expensed, and not to expense (voor privéritten) Opmerking: 
+Kilometers doorbelasten
+----
+
+Vanuit de lijstweergave kun je regels doorbelasten die de status 'Te declareren' hebben. Je selecteert de regels, deze declareer je vervolgens via de actieknop. Curq zal de regels per onkostendeclaratie categorie doorbelasten naar de declaratiemodule. De status van de  kilometer regels verandert vervolgens naar 'Gedeclareerd'.
+
+
 
 
 
