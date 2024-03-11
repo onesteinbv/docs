@@ -25,11 +25,19 @@ Vul de velden in die relevant zijn voor het product, zoals Maateenheid, Inkoop m
 
 Als het product varianten heeft, kun je deze toevoegen op het tabblad 'Kenmerken & Varianten'. De configuratie van producten in de Verkoopmodule is eerder al uitgebreid beschreven. Je kunt dezelfde methode volgen om een nieuw product in de module Inkoop te configureren. Op het tabblad Inkoop kun je de leveranciers van het product één voor één specificeren met de knop 'Regel toevoegen'. Je kunt op dit tabblad meerdere leveranciers toewijzen aan een product.
 
-.. image:: Media/inkoop003.png
+.. image:: Media/inkoop3.png
 
 Voer in de respectieve velden de prijs in om dit product te kopen, evenals de valuta en de levertijd. Je kunt de standaard belastingen die worden toegepast bij de aankoop van dit product specificeren in het veld 'Inkoop BTW'. De controlemethode voor dit specifieke product kan worden ingesteld op 'Bestelde hoeveelheid' of op 'Ontvangen hoeveelheden''.
 
 Indien je een standaard controlemethode wilt instellen voor alle producten binnen de Inkoopmodule, navigeer dan naar het menu 'Instellingen'. Hier vind je de optie 'Factuurcontrole', waarmee je de factuurcontrole voor alle producten kunt instellen.
 
 .. image:: Media/inkoop004.png
+
+.. image:: Media/inkoop005.png
+
+Indien je notities wilt toevoegen aan inkooporders, biedt het veld 'Omschrijving Inkoop' daarvoor de mogelijkheid. Tevens kun je op het tabblad 'Inkoop' een waarschuwing instellen. Hiermee kun je waarschuwingsberichten genereren bij de aankoop van dit product.
+
+.. image:: Media/inkoop006.png
+
+Meer info over het inrichten van producten en varianten vind je terug in de handleiding 'Voorraad - Productconfiguratie'
 
