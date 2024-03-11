@@ -15,15 +15,15 @@ Activeren BTW voor EU intracommunautaire verkoop op afstand
 
 Curq vergemakkelijkt afstandsverkopen binnen de EU door vooraf BTW-codes per land te definiëren. Deze functionaliteit is beschikbaar via Facturatie > Configuratie > Instellingen. Schakel de optie "EU intracommunautaire verkoop op afstand" in om hiervan gebruik te maken.
 
-.. image:: Boekhouding/belastingen_afstandsverkopen_EU001.png
+.. image:: Media/belastingen_afstandsverkopen_EU001.png
 
 Curq genereert momenteel BTW-codes en fiscale posities per land. Je kunt deze gegevens terugvinden onder Facturatie > Configuratie > BTW of Fiscale Posities.
 
-.. image:: Boekhouding/belastingen_afstandsverkopen_EU002.png
+.. image:: Media/belastingen_afstandsverkopen_EU002.png
 
 De BTW-codes zijn te onderscheiden aan de hand van het percentage en de landcode, en ze kunnen direct worden toegepast. Het is echter verstandig om de BTW-codes te verifiëren en ervoor te zorgen dat de instellingen in lijn zijn met jouw boekhouding. Dit kun je bespreken met je accountant of boekhouder.
 
-.. image:: Boekhouding/belastingen_afstandsverkopen_EU003.png
+.. image:: Media/belastingen_afstandsverkopen_EU003.png
 
 Fiscale posities kunnen worden geïdentificeerd aan de hand van "OSS B2C" in de naam. Elke fiscale positie is verbonden met een specifiek land, waardoor Curq automatisch de correcte BTW kan bepalen op basis hiervan.
 
@@ -32,4 +32,4 @@ Rapportages
 
 Voor afstandsverkopen biedt Curq geen specifieke rapportage aan. De relevante gegevens worden vastgelegd op de boekingsregels, inclusief een BTW-code en de bijbehorende BTW-rubriek. Met deze informatie kan een overzicht worden gegenereerd voor de belastingdienst.
 
-.. image:: Boekhouding/belastingen_afstandsverkopen_EU004.png
+.. image:: Media/belastingen_afstandsverkopen_EU004.png
