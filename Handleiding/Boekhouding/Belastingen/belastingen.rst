@@ -5,7 +5,7 @@ Als ondernemer wil je dat de belastingen zo goed mogelijk worden bepaald. Curq k
 
 Belastinginstellingen
 
-.. image:: Boekhouding/belastingen001.png
+.. image:: Media/belastingen001.png
 
 - **Algemene BTW:** Bepaal welke BTW-code standaard wordt gebruikt bij jouw facturen en orders, zowel voor Verkoop als Inkoop.
 - **BTW-vermindering op betalingskorting:** Wanneer wordt er BTW verminderd als je een betalingskorting aanbiedt? Stel je hebt een factuur van 100,- met 21,- BTW. Als je binnen 7 dagen betaalt, ontvang je 2% korting.
@@ -38,3 +38,11 @@ Weet je niet zeker welke methode je moet gebruiken, overleg dan met je accountan
 - **Afrondmethode:** In de meeste gevallen rond je je BTW af per regel.
 - **EU intracommunautaire verkoop op afstand:** Is alleen van toepassing als je veel handelt met het buitenland. Met deze optie activeer je ook de One-Stop Shop (OSS) en per land binnen de EU de BTW Codes en Fiscale Posities. Overleg met je accountant om na te gaan of je in aanmerking komt voor OSS.
 - **Controleer BTW nummers:** Activeer de controle van de BTW via de dienst VIES.
+
+.. toctree::
+    :maxdepth: 2
+
+    belastingen_vies
+    belastingen_fiscale_posities
+    belastingen_B2B_B2C
+    belastingen_afstandsverkopen_EU
