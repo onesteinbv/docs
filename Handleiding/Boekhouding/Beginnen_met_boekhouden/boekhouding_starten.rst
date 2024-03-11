@@ -49,3 +49,12 @@ Grootboek Rekeningschema
 .. image:: Media/boekhouding_starten006.png
 
 Houd er rekening mee dat het instellen van boekhouding in Curq enigszins kan variëren, afhankelijk van jouw specifieke behoeften.
+
+.. toctree::
+    :maxdepth: 2
+
+  boekhouding_rgs
+  boekhouding_cheatsheet
+  boekhouding_starten_dagboeken
+  boekhouding_starten_beginbalans
+  boekhouding_starten_datumreeksen
