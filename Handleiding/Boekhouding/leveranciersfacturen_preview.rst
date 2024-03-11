@@ -38,4 +38,4 @@ Je kunt het overzicht van boekingsregels vinden onder Facturatie > Boekhouding >
 
 .. image:: Leveranciersfactuur/Leveranciersfacturen_preview003.png
 
-In de kolom “Preview” kun je op de gekoppelde PDF klikken. Zodra je dit doet, verschijnt de PDF-factuur aan de rechterkant
+In de kolom “Preview” kun je op de gekoppelde PDF klikken. Zodra je dit doet, verschijnt de PDF-factuur aan de rechterkant.
