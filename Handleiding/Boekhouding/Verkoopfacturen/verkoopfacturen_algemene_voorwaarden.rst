@@ -12,23 +12,23 @@ Instellingen
 
 Je vindt de configuratieopties voor algemene voorwaarden onder Instellingen > Facturatie > Sectie Klantfacturen - Standaard algemene voorwaarden.
 
-.. image:: Verkoopfacturen/verkoopfacturen_algemene_voorwaarden001.png
+.. image:: Media/verkoopfacturen_algemene_voorwaarden001.png
 
 - **Als tekst toevoegen:** Bij deze optie kun je direct je algemene voorwaarden als tekst invoegen, die vervolgens zichtbaar zal zijn op je offertes, verkooporders en facturen. Indien je internationaal zaken doet, is het mogelijk om de tekst in verschillende talen weer te geven door te klikken op de overeenkomstige landcode. Echter, als je algemene voorwaarden uitgebreid zijn, is het verstandig de tekst hier beknopt te houden en te verwijzen naar een aparte webpagina voor een volledige weergave, of deze als bijlage mee te sturen.
 
-.. image:: Verkoopfacturen/verkoopfacturen_algemene_voorwaarden002.png
+.. image:: Media/verkoopfacturen_algemene_voorwaarden002.png
 
 - **Voeg een link naar een webpagina toe:** Deze functionaliteit is toegankelijk wanneer je de website-module van Curq gebruikt. Binnen de website-editor is er een mogelijkheid om de pagina van de algemene voorwaarden te bewerken. De URL van deze pagina wordt automatisch gegenereerd en verschijnt onderaan op jouw documenten.
 
-.. image:: Verkoopfacturen/verkoopfacturen_algemene_voorwaarden003.png
+.. image:: Media/verkoopfacturen_algemene_voorwaarden003.png
 
 Verkoopfacturen
 ---------------
 
 Bij het creëren van een verkoopfactuur wordt de standaardtekst van de algemene voorwaarden automatisch weergegeven onderaan de factuur. Uiteraard heb je de vrijheid om deze tekst aan te passen als je specifieke voorwaarden wilt toepassen op een bepaalde factuur.
 
-.. image:: Verkoopfacturen/verkoopfacturen_algemene_voorwaarden004.png
+.. image:: Media/verkoopfacturen_algemene_voorwaarden004.png
 
 De algemene voorwaarden worden weergegeven op de PDF-afdruk, onder het totaalbedrag.
 
-.. image:: Verkoopfacturen/verkoopfacturen_algemene_voorwaarden005.png
+.. image:: Media/verkoopfacturen_algemene_voorwaarden005.png
