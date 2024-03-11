@@ -80,8 +80,10 @@ Hieronder zie je een voorbeeld van een ingevoerd voorbeeld abonnement:
        :width: 6.3in
        :height: 2.93264in
 
+.. toctree::
+    :maxdepth: 2
 
-
-
-
-
+       verkoopcontracten_sjablonen
+       verkoopcontracten_beeindigen
+       verkoopcontracten_factureren 
+       verkoopcontracten_vernieuwen
