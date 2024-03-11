@@ -8,7 +8,7 @@ Datumreeksen beheren
 
 Curq zal jaarlijks automatisch de datumreeksen met maanden, kwartalen en jaren bijwerken. Gebruikers hebben ook de mogelijkheid om deze reeksen handmatig te beheren. Om toegang te krijgen tot de beheersfunctie, is het noodzakelijk om eerst de ontwikkelaarsmodus in te schakelen. Datumreeksen kunnen worden aangepast via Instellingen > Technisch > Datumreeksen.
 
-.. image:: Boekhouding/boekhouding_starten_datumreeksen001.png
+.. image:: Media/boekhouding_starten_datumreeksen001.png
 
 In dit venster kun je direct de gegevens aanpassen of klikken op [NIEUW] om een nieuwe reeks te creëren.
 
@@ -29,7 +29,7 @@ Datumreekssoorten beheren
 
 Via Instellingen > Technisch > Datumreekssoorten kun je verschillende soorten configureren die van toepassing zijn op jouw datumreeksen of die gebruikt kunnen worden bij het genereren ervan.
 
-.. image:: Boekhouding/boekhouding_starten_datumreeksen002.png
+.. image:: Media/boekhouding_starten_datumreeksen002.png
 
 - **Naam:** Geef hier de naam op voor de datumreekssoort.
 - **Overlappen toestaan:** Datumreeksen met deze soort mogen elkaar overlappen qua datum.
@@ -39,7 +39,7 @@ Via Instellingen > Technisch > Datumreekssoorten kun je verschillende soorten co
 
 Op tabblad [Generatie] kun je de configuratie wijzigen voor het automatisch genereren van datumreeksen.
 
-.. image:: Boekhouding/boekhouding_starten_datumreeksen003.png
+.. image:: Media/boekhouding_starten_datumreeksen003.png
 
 - **Duur:** Standaard tijdsduur voor dit type.
 - **Voorvoegsel voor reeksnaam:** Deze tekst wordt toegevoegd aan de namen van de datumreeksen als een voorvoegsel. Elke datumreeks begint dan met deze specifieke tekst.
@@ -51,7 +51,7 @@ Genereer Datumreeksen
 
 Als je een groot aantal reeksen tegelijk wilt genereren, kun je gebruikmaken van de optie om een datumreeks te laten genereren. Ga hiervoor naar Instellingen > Technisch > Genereer Datumreeksen.
 
-.. image:: Boekhouding/boekhouding_starten_datumreeksen004.png
+.. image:: Media/boekhouding_starten_datumreeksen004.png
 
 Zodra je een bepaald type hebt geselecteerd, worden de instellingen overgenomen van de betreffende datumreekssoort. De uitleg van de meeste velden staat hierboven.
 
