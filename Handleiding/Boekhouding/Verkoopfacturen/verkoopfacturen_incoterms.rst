@@ -26,7 +26,7 @@ Beschikbare Incoterms (2020)
 ----------------------------
 e 11 actuele Incoterms van 2020 zijn beschikbaar in Curq. Indien het nodig is om een Incoterm aan te passen of toe te voegen, kan dit worden gedaan via Facturatie > Configuratie > Leveringscondities.
 
-.. image:: Verkoopfacturen/verkoopfacturen_incoterms003.png
+.. image:: Media/verkoopfacturen_incoterms003.png
 
 **EXW - Ex Works (Af fabriek):** De verkoper levert de goederen aan de koper op het eigen bedrijf of een andere benoemde plaats (fabriek, magazijn, enz.), en is niet verantwoordelijk voor transport, verzekering of douaneafhandeling.
 
