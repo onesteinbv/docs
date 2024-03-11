@@ -1,15 +1,23 @@
 Kilometerregistratie
 ----
 
-Deze module is een uitbreiding op de Fleet module en geeft de gebruiker de mogelijkheid om zakelijke ritten te registreren en te declareren. De module is gebaseerd op de Nederlandse belastingregels, maar kan ook worden gebruikt voor kilometerregistratie in het algemeen. In Nederland is het soms nodig om ook de privékilometers te registreren, vandaar dat we het (niet verplichte) veld 'Is privérit' hebben toegevoegd. Deze module verbindt de wagenparkmodule met de onkostenmodule.
+Deze module is een uitbreiding op de Wagenpark module en geeft de gebruiker de mogelijkheid om zakelijke ritten te registreren en te declareren. De module is gebaseerd op de Nederlandse belastingregels, maar kan ook worden gebruikt voor kilometerregistratie in het algemeen. In Nederland is het soms nodig om ook de privékilometers te registreren, vandaar dat we het (niet verplichte) veld 'Is privérit' hebben toegevoegd. Deze module verbindt de wagenparkmodule met de onkostenmodule.
 
 Voorbereidingen
 ----
 Om met de module te kunnen werken dien je de volgende zaken in te richten:
 
-- Bij menu wernemers moet worden aangemaakt en gekoppeld aan gebruiker om te kunnen declareren - Op de geregistreerde auto kan de standaard onkostencategorie worden toegevoegd - Vanuit de listview regels met status 'to exp
+- Bij menu werknemers maak je een werknemer aan en koppel je je gebruikersaccount aan de werknemer. 
 
-Om de geregistreerde kilometers te kunnen declareren in de onkostencategorie moet het selectievakje 'can de used in Fleet module' op True staan. Op dit record is het ook mogelijk om een analytische rekening toe te voegen aan de categorie. 
+- Om de geregistreerde kilometers te kunnen declareren in de onkostencategorie moet het selectievakje 'Kan gebruikt worden in de wagenpark module' aangevinkt staan. Bij de categorie is het ook mogelijk om een analytische rekening toe te voegen aan de categorie.
+
+- Bij menu Wagenpark dien je een auto aan te maken, merk en kenteken zijn verplichte velden.
+
+- Op de geregistreerde auto kan de standaard onkostencategorie worden toegevoegd 
+ 
+
+Invulscherm kilometerregistratie
+----
 
 We hebben nieuwe velden toegevoegd aan het menu 'Kilometerregistratie': 
 
