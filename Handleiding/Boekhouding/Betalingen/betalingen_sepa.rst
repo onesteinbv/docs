@@ -8,7 +8,7 @@ Betalingen aan leveranciers doe je eenvoudig door deze via een SEPA XML bestand 
 
     Bij het verwerken van de inkoopfactuur hoort het banknummer van de leverancier bekend te zijn en op de klantkaart te zijn ingevuld (anders kan de SEPA betaling niet worden uitgevoerd). Ook moet je de factuurreferentie invullen bij de inkoopfactuur (dit is een verplicht veld bij opmaken van het SEPA bestand).
 
-    .. image:: SEPA-betalingen-leverancier-OCA-Media//image1.png
+    .. image:: Media//image1.png
        :width: 6.3in
        :height: 2.93264in
  
@@ -18,7 +18,7 @@ Betalingen aan leveranciers doe je eenvoudig door deze via een SEPA XML bestand 
 
     Toevoegen via menu 'Uitgaande betalingen' (via Facturatie -> Leveranciers-Uitgaande betaalopdrachten)
 
-    .. image:: SEPA-betalingen-leverancier-OCA-Media//image2.png
+    .. image:: Media//image2.png
        :width: 6.3in
        :height: 2.93264in
      
@@ -30,7 +30,7 @@ Betalingen aan leveranciers doe je eenvoudig door deze via een SEPA XML bestand 
 
     As je het bestand hebt ingelezen bij de bank klik dan op de laatste fase, ‘bestand geüpload’. Deze laatste actie zorgt ervoor dat de inkoopfacturen van het bestand in Curq de status ‘Betaald’ krijgen. Tevens wordt het totaalbedrag van de te betalen batch op een tussenrekening gezet. (de grootboekrekening crediteuren onderweg)
 
-    .. image:: SEPA-betalingen-leverancier-OCA-Media//image3.png
+    .. image:: Media//image3.png
        :width: 6.3in
        :height: 2.93264in
    
@@ -40,4 +40,4 @@ Betalingen aan leveranciers doe je eenvoudig door deze via een SEPA XML bestand 
 
     Je lettert de transactieregel af door de eerder gemaakte boeking van de batch te kiezen. De tussenrekening crediteurenrekening wordt hiermee verlaagd met het bedrag en het bankrekeningsaldo wordt bijgewerkt.
 
-    .. image:: SEPA-betalingen-leverancier-OCA-Media//image4.png
+    .. image:: Media//image4.png
