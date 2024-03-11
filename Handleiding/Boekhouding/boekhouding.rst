@@ -38,3 +38,4 @@ Curq hanteert het concept van dubbel boekhouden. Bij dubbel boekhouden worden al
     :maxdepth: 2
 
    Beginnen_met_boekhouden/boekhouding_starten
+   Belastingen/belastingen
