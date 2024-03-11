@@ -18,7 +18,7 @@ Sjablonen voor spreiden van omzet configureren
 -----------------------------------------------
 Je kunt een voorgedefinieerd sjabloon voor spreiding aanmaken via het menu Facturatie > Configuratie > Spreidingsjablonen. Dit sjabloon stelt je in staat om de juiste instellingen te definiëren wanneer je een spreiding wilt uitvoeren of een factuurregel wilt koppelen. Op basis van deze instellingen berekent en boekt Curq vervolgens de juiste gegevens in.
 
-.. image:: Verkoopfacturen/verkoopfacturen_omzetspreiding001.png
+.. image:: Media/verkoopfacturen_omzetspreiding001.png
 
 - **Spreidingsjabloon Naam:** Geef het sjabloon een passende naam.
 - **Spreiding Type:** Geef aan of de spreiding betrekking heeft op verkoop- of inkoopfacturen, en of het omzet- of kostengerelateerd is.
@@ -33,17 +33,17 @@ Je kunt een voorgedefinieerd sjabloon voor spreiding aanmaken via het menu Factu
 - **Analytisch:** Voeg eventueel analytische gegevens toe aan het spreidingsjabloon.
 - **Automatisch sjabloon toewijzen bij valideren factuur:** Schakel deze optie in om het sjabloon automatisch toe te passen bij het valideren van een factuur. Hierbij kun je verdere instellingen maken, zoals automatische toepassing op basis van product of rekening. Geef ook een naam op voor de regel die wordt toegepast.
 
-.. image:: Verkoopfacturen/verkoopfacturen_omzetspreiding002.png
+.. image:: Media/verkoopfacturen_omzetspreiding002.png
 
 Verkoopfactuur omzet spreiden
 -----------------------------
 We hebben de mogelijkheid om de omzet van een verkoopfactuur direct over meerdere maanden te spreiden. Deze spreiding wordt gekoppeld aan de factuurregel. Let op: spreiding is alleen mogelijk als de factuur zich nog in conceptstatus bevindt. Klik op het icoontje met de ronde pijl om deze regel te spreiden.
 
-.. image:: Verkoopfacturen/verkoopfacturen_omzetspreiding003.png
+.. image:: Media/verkoopfacturen_omzetspreiding003.png
 
 In het nieuwe scherm krijg je een aantal opties te zien:
 
-.. image:: Verkoopfacturen/verkoopfacturen_omzetspreiding004.png
+.. image:: Media/verkoopfacturen_omzetspreiding004.png
 
 - **Spreiding Actie Type:** Welke spreiding wil je uitvoeren.
   
@@ -57,7 +57,7 @@ Spreidingstabel
 ---------------
 Een spreidingstabel is de concrete verdeling van de omzet. Deze tabellen worden automatisch gegenereerd vanuit de factuur of kunnen handmatig worden aangemaakt. Je kunt alle spreidingstabellen terugvinden onder Facturatie > Boekhouding > Spreiding Kosten/Omzet.
 
-.. image:: Verkoopfacturen/verkoopfacturen_omzetspreiding005.png
+.. image:: Media/verkoopfacturen_omzetspreiding005.png
 
 De uitleg van de meeste velden is al eerder gegeven bij de spreidingsjabloon hierboven.
 
@@ -81,6 +81,6 @@ Zodra alle gegevens correct zijn ingevuld, kan de spreiding verder worden bereke
 
 Zodra de spreiding is berekend, worden de regels automatisch opgevuld in het tabblad [Spreiding Regels]. Dit is waar je alle details van de gespreide bedragen kunt vinden.
 
-.. image:: Verkoopfacturen/verkoopfacturen_omzetspreiding006.png
+.. image:: Media/verkoopfacturen_omzetspreiding006.png
 
 Aan de rechterzijde van de spreidingsregel kun je de spreiding vastleggen door gebruik te maken van de knop [Maak mutatie]. Vervolgens kun je de financiële boeking bekijken en heb je de mogelijkheid om deze boeking te verwijderen. Als je alle spreidingen tegelijkertijd wilt boeken, kun je dit doen via [CREATE ALL MOVES]. Deze boekingen kunnen eveneens automatisch worden verwerkt via de automatische boekingsoptie.
