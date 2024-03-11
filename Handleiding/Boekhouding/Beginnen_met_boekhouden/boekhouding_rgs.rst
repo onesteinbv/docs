@@ -19,7 +19,7 @@ Bovenstaande aanpassingen zorgen ervoor dat je direct kunt starten in Curq en in
 Velden van grootboekrekening
 ----
 
-.. image:: SEPA-betalingen-leverancier-OCA-Media/Rekening.png
+.. image:: Media/Rekening.png
    :width: 6.3in
    :height: 2.90069in
 
