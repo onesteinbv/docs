@@ -17,20 +17,20 @@ De klant kan €98,- betalen tot 7 januari. Daarna zou hij €100,- moeten betal
 
 Hieronder zie je rekeningen waarop de verschillen worden geboekt. Daaronder zie je hoe het beschreven voorbeeld er in Curq uitziet.
 
-.. image:: My-Ponto-Bank-Feed-Media/instellingen_betalingskorting.png
+.. image:: Media/instellingen_betalingskorting.png
 
 
 Hieronder zie je een voorbeeld hoe een snelle betalingsconditie er uit kan zien. 
 
-.. image:: My-Ponto-Bank-Feed-Media/voorbeeldbetalingskorting.png
+.. image:: Media/voorbeeldbetalingskorting.png
 
 Pas een korting in contanten toe op een klantfactuur door de betalingsvoorwaarden te selecteren die je hebt gemaakt. Odoo berekent automatisch de juiste bedragen, belastingbedragen, vervaldatums en boekhoudgegevens.
 
 Op het tabblad Boekingsregels kun je de details van de korting weergeven door op de knop "Wisselen" te klikken en de kolommen Kortingsdatum en Kortingsbedrag toe te voegen.
 
-.. image:: My-Ponto-Bank-Feed-Media/Betalingsconditie_op_factuur.png
+.. image:: Media/Betalingsconditie_op_factuur.png
 
-.. image:: My-Ponto-Bank-Feed-Media/voorbeeld_verkoopfactuur.png
+.. image:: Media/voorbeeld_verkoopfactuur.png
 
 Het kortingsbedrag en de vervaldatum worden ook weergegeven op de gegenereerde factuur die naar de klant wordt gestuurd. 
 
@@ -44,7 +44,7 @@ De belastingdienst heeft een aantal richtlijnen opgesteld rondom het omgaan met 
 
 In Curq staat standaard aangegeven dat er geen rekening moet worden gehouden met aanpassen van BTW in het geval van snelle betalingskortingen. Je kan deze instelling aanpassen als dit voor jouw bedrijf wel van toepassing, dit doe je bij Instellingen -> facturatie:
 
-.. image:: My-Ponto-Bank-Feed-Media/verkoopfacturen_betalingskorting_btw.png
+.. image:: Media/verkoopfacturen_betalingskorting_btw.png
 
 **Nooit**
 
