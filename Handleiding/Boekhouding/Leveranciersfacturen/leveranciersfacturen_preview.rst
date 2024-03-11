@@ -14,11 +14,11 @@ Een inkoopfactuur kan op verschillende manieren worden aangemaakt binnen Curq:
 
 Bij optie 3 moet de PDF-factuur apart worden geüpload via de bijlage-optie boven de logging.
 
-.. image:: Leveranciersfactuur/Leveranciersfacturen_preview001.png
+.. image:: Media/Leveranciersfacturen_preview001.png
 
 Na het uploaden wordt de PDF aan de rechterkant getoond. Het tonen hiervan is afhankelijk van jouw schermgrootte. Als het scherm te klein is, wordt de PDF-preview niet weergegeven.
 
-.. image:: Leveranciersfactuur/Leveranciersfacturen_preview002.png
+.. image:: Media/Leveranciersfacturen_preview002.png
 
 We zullen de volgende veelgebruikte knoppen bespreken:
 
@@ -36,6 +36,6 @@ De boekhouder of accountant controleert vaak de boekhouding aan de hand van de b
 
 Je kunt het overzicht van boekingsregels vinden onder Facturatie > Boekhouding > Boekingsregels
 
-.. image:: Leveranciersfactuur/Leveranciersfacturen_preview003.png
+.. image:: Media/Leveranciersfacturen_preview003.png
 
 In de kolom “Preview” kun je op de gekoppelde PDF klikken. Zodra je dit doet, verschijnt de PDF-factuur aan de rechterkan
