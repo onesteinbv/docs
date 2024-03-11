@@ -4,7 +4,7 @@ Herinneringen in Curq
 Via menu Klanten -> Betalingsherinneringen kun je vervallen
 klantfacturen opvolgen.
 
-.. image:: My-Ponto-Bank-Feed-Media/betalingsherinneringen_1.png
+.. image:: Media/betalingsherinneringen_1.png
    :width: 6.3in
    :height: 2.90069in
 
@@ -22,7 +22,7 @@ tussen de volgende herinnering zit.
 
 Na selectie start het proces door op ‘Start’ te klikken
 
-.. image:: My-Ponto-Bank-Feed-Media/betalingsherinneringen_2.png
+.. image:: Media/betalingsherinneringen_2.png
    :width: 6.3in
    :height: 2.90069in
 
@@ -30,11 +30,11 @@ Het resultaat wordt per klant weergegeven. Je kunt
 facturen handmatig van de lijst te verwijderen. Indien gewenst kan de email
 tekst per klant worden aangepast.
 
-.. image:: My-Ponto-Bank-Feed-Media/betalingsherinneringen_3.png
+.. image:: Media/betalingsherinneringen_3.png
    :width: 6.3in
    :height: 2.90069in
 
-.. image:: My-Ponto-Bank-Feed-Media/betalingsherinneringen_4.png
+.. image:: Media/betalingsherinneringen_4.png
    :width: 6.3in
    :height: 2.90069in
 
@@ -45,6 +45,6 @@ Bij de factuur zelf zie je dat deze vervallen is en op het tabblad
 ‘Betalingsherinnering’ zie je de status. Hier kun je ook
 aanvullende informatie kwijt, bijvoorbeeld als je de klant gaat nabellen.
 
-.. image:: My-Ponto-Bank-Feed-Media/betalingsherinneringen_5.png
+.. image:: Media/betalingsherinneringen_5.png
    :width: 6.3in
    :height: 2.90069in
