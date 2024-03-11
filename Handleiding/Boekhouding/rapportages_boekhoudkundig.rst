@@ -10,7 +10,7 @@ Dit overzicht geeft een overzicht van alle boekingen per grootboek. Er is een aa
 
 **Datumreeks**. Hier geef je het gewenste boekjaar in.
 
-** Gegroepeerd op**. Je kan kiezen om het rapport per klant/leverancier te tonen, per belastinggroep, of zonder selectie. Wanneer je eeen totaal overzicht wil hebben van het openstaande saldo dan is het advies om te kiezen niet te groeperen.
+**Gegroepeerd op**. Je kan kiezen om het rapport per klant/leverancier te tonen, per belastinggroep, of zonder selectie. Wanneer je eeen totaal overzicht wil hebben van het openstaande saldo dan is het advies om te kiezen niet te groeperen.
 
 **Datum vanaf - tot**. Gebruik de datumselectie als je een afwijkende periode wil controleren.
 
