@@ -9,12 +9,29 @@ Om met de module te kunnen werken dien je de volgende zaken in te richten:
 
 - Bij menu werknemers maak je een werknemer aan en koppel je je gebruikersaccount aan de werknemer. 
 
-- Om de geregistreerde kilometers te kunnen declareren in de onkostencategorie moet het selectievakje 'Kan gebruikt worden in de wagenpark module' aangevinkt staan. Bij de categorie is het ook mogelijk om specifieke grootboek -of analytische rekening toe te voegen aan de categorie. Bij de categorie kun je ook de kilometervergoeding ingeven en kiezen voor de eenheid km (kilometer) of mi (miles)
+- Om de geregistreerde kilometers te kunnen declareren in de onkostencategorie moet het selectievakje 'Kan gebruikt worden in de wagenpark module' aangevinkt staan. Bij de categorie is het ook mogelijk om specifieke grootboek -of analytische rekening toe te voegen aan de categorie. Bij de categorie kun je ook de kilometervergoeding ingeven en kiezen voor de eenheid km (kilometer) of mi (miles).
 
 - Bij menu Wagenpark dien je een auto aan te maken, merk en kenteken zijn verplichte velden.
 
 - Op de geregistreerde auto kan de standaard onkostencategorie worden toegevoegd, dit vereenvoudigt de invoer.
- 
+
+Werknemer
+
+.. image:: My-Ponto-Bank-Feed-Media/km_invulscherm_medewerker.png
+       :width: 6.3in
+       :height: 2.93264in
+
+Declaratiecategorie
+
+.. image:: My-Ponto-Bank-Feed-Media/km_invulscherm_declaratie.png
+       :width: 6.3in
+       :height: 2.93264in
+
+Aanmaken voertuig
+
+.. image:: My-Ponto-Bank-Feed-Media/km_invulscherm_auto.png
+       :width: 6.3in
+       :height: 2.93264in
 
 Invulscherm kilometerregistratie
 ----
@@ -41,10 +58,20 @@ We hebben nieuwe velden toegevoegd aan het menu 'Kilometerregistratie'.
 
 - Niet verplicht veld kilometerstand einde
 
+Invoerscherm kilometer registratie
+
+.. image:: My-Ponto-Bank-Feed-Media/km_invulscherm_kilometers.png
+       :width: 6.3in
+       :height: 2.93264in
+
 Kilometers doorbelasten
 ----
 
-Vanuit de lijstweergave kun je regels doorbelasten die de status 'Te declareren' hebben. Je selecteert de regels, deze declareer je vervolgens via de actieknop. Curq zal de regels per onkostendeclaratie categorie doorbelasten naar de declaratiemodule. De status van de  kilometer regels verandert vervolgens naar 'Gedeclareerd'.
+Vanuit de lijstweergave kun je de regels doorbelasten die de status 'Te declareren' hebben. Je selecteert deze regels, en declareert ze vervolgens via de actieknop. Curq zal de regels per onkosten declaratiecategorie doorbelasten naar de declaratiemodule. De status van de kilometer regels verandert vervolgens naar 'Gedeclareerd'.
+
+.. image:: My-Ponto-Bank-Feed-Media/km_kilometer_declaratie.png
+       :width: 6.3in
+       :height: 2.93264in
 
 
 
