@@ -1,10 +1,10 @@
 Werving en selectie
-===================
+====================================================================
 
 Binnen Curq kan het wervings- en selectieproces worden vereenvoudigd en gestroomlijnd met de werving en selectie app. Leg de verschillende stappen binnen het wervingsproces vast en begeleid uw toekomstige werknemers door het selectieproces.
 
 Vacature plaatsen
--------------------
+---------------------------------------------------------------------------------------------------
 
 Wanneer de werving en selectie app wordt geopend, komt u op de vacaturepagina. Hier kunnen alle openstaande vacatures worden gezien en via de 'Nieuw' knop kunnen er meer worden aangemaakt. Wanneer een nieuwe vacature wordt aangemaakt, moet eerst een naam worden opgegeven. Wanneer dit is gedaan, verschijnt deze op de applicatiepagina en via de drie puntjes rechtsboven in de vacaturevelden kan de vacature worden geconfigureerd.
 
@@ -26,7 +26,7 @@ Binnen de configuratie van de vacature is bovenaan de naam te zien en deze kan h
 Rechtsboven aan de pagina staan drie links, met *Job applications* is te zien hoeveel mensen op de vacature hebben gereageerd en wordt u naar de pagina van de vacature gestuurd. Onder *trackers* kunnen alle locaties van de vacature gezien worden, dit is binnen en buiten Curq, zoals LinkedIn. Met *go to website* wordt u naar de webpagina van de vacature gestuurd.
 
 Wervingsproces
----------------
+---------------------------------------------------------------------------------------------------
 
 De kandidaten kunnen op verschillende manieren binnenkomen: via de website, enkele externe bronnen of ze kunnen handmatig worden aangemaakt. Wanneer de kandidaat in de vacaturepagina staat, kan deze van stap naar stap versleept worden in de kanbanvelden. Wanneer een kandidaat wordt geselecteerd, krijgt u het venster met alle beschikbare informatie over de kandidaat.
 
@@ -41,7 +41,7 @@ Onder aan het scherm kan overige informatie worden opgegeven zoals de motivaties
 Linksboven in de hoek kan de kandidaat afgewezen worden met een reden, deze reden kan ook vanuit de kandidaat zelf komen.
 
 Configuratie
-------------
+---------------------------------------------------------------------------------------------------
 
 In configuratie kunnen verschillende velden binnen de werving en selectie app worden aangepast.
 In settings kan aangegeven worden of de vacatures online kunnen worden gezet, of er een enquête naar de kandidaat wordt gestuurd tijdens het wervingsproces en of het CV zichtbaar is op het kandidatenveld.

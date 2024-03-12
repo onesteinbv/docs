@@ -1,10 +1,10 @@
-=====================================================
+====================================================================
 Handleiding Inkoop  |  Prijslijsten en inkoopoffertes
-=====================================================
+====================================================================
 
 
 Prijslijsten
--------------
+---------------------------------------------------------------------------------------------------
 Prijslijsten spelen een cruciale rol in zowel de verkoop- als inkoopactiviteiten van een bedrijf. Met de leveranciers prijslijst functie, beschikbaar in de Odoo Inkoopmodule, kun je specifieke inkoopprijzen configureren voor bepaalde leveranciers gedurende een bepaalde periode. Deze prijslijsten kunnen worden toegepast tijdens het inkopen van de gespecificeerde producten van die leverancier. Om deze instellingen te beheren, navigeer je naar het menu *Configuratie - Leveranciers Prijslijsten*. 
 
 .. image:: Media/inkoop010.png
@@ -19,7 +19,7 @@ Er wordt een nieuw formulier geopend waarin je een nieuwe inkoopprijs kunt creë
 
 
 Inkoopoffertes
---------------
+---------------------------------------------------------------------------------------------------
 
 Voor elke substantiële zakelijke aankoop die jouw bedrijf doet, stelt de betreffende leverancier op verzoek een offerte op voor de te verwerven items. Het antwoord op jouw Offerteaanvraag (RFQ) kan worden omgezet in een inkooporder. Met behulp van deze offertes kun je de prijs en kwaliteit van het product vergelijken met die van andere leveranciers, waardoor je in staat bent de juiste leverancier te selecteren.
 

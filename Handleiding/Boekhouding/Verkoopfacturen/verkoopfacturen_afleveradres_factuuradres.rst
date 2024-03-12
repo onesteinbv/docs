@@ -1,5 +1,5 @@
 Verkoopfacturen Afleveradres en Factuuradres
-============================================
+====================================================================
 
 Met Curq kun je ook jouw klanten bedienen als ze over meerdere adressen of e-mailadressen beschikken. Vaak hebben bedrijven een afwijkend afleveradres voor het magazijn in vergelijking met hun bezoekadres. Facturen en orders worden verstuurd naar andere e-mailadressen dan bijvoorbeeld het algemene of persoonlijke e-mailadres.
 
@@ -11,12 +11,12 @@ De verschillende afleveradressen en factuuradressen zijn zichtbaar bij het conta
 Een afleveradres herken je aan het symbool van de **vrachtwagen**, terwijl het factuuradres wordt aangeduid met het symbool van het **geldbiljet**. Raadpleeg de handleiding voor contacten voor instructies over het aanmaken en bewerken van deze contacten.
 
 Verkooporder
---------------
+---------------------------------------------------------------------------------------------------
 
 Indien je gebruikmaakt van de integratie met de verkooporder, kun je meer informatie hierover vinden in de desbetreffende handleiding.
 
 Verkoopfactuur
---------------
+---------------------------------------------------------------------------------------------------
 
 .. image:: Media/verkoopfacturen_afleveradres_factuuradres002.png
 

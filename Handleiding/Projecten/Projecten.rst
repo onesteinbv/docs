@@ -1,5 +1,5 @@
 Projecten
-=========
+====================================================================
 
 In de projectenapplicatie kunnen alle projecten van uw bedrijf worden beheerd, met statussen voor de projecten en de taken die onder het project vallen.
 

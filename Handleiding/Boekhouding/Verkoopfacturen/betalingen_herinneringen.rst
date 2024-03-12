@@ -1,5 +1,5 @@
 Herinneringen in Curq
-=====================
+====================================================================
 
 Via menu Klanten -> Betalingsherinneringen kun je vervallen
 klantfacturen opvolgen.

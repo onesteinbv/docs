@@ -1,9 +1,9 @@
-================================================
+====================================================================
 Feature list
-================================================
+====================================================================
 
 General
-=======
+====================================================================
 
 **Complete ERP solution**
 
@@ -33,6 +33,7 @@ Your instance comes with SSL certificates included for your subdomain.
 **Ability to link customer domain**
 
 | Effortlessly link your own domain, to your unique instance.
+
 *Manually handled at the moment.*
 
 **No vendor lock**
@@ -55,7 +56,7 @@ Latest module upgrades from Odoo/OCA will always be available
 ISO 27001 certification for IT security management. We work via the IOS method and are planning audited annually for ISO 27001. 
 
 Support
-=======
+====================================================================
 
 **Technical support**
 *planned*
@@ -86,7 +87,7 @@ Every two years the instances will be upgraded to the latest versions of Odoo/OC
 Look up our different instructional documents on the different features within Curq at docs.onestein.eu.
 
 Accounting
-==========
+====================================================================
 
 **Transactions**
 
@@ -131,7 +132,7 @@ Integrate digital currency providers with your accounting
 Manage your payment options though Mollie and other providers.
 
 Discuss
-=======
+====================================================================
 
 **Discussions** 
 
@@ -147,7 +148,7 @@ Engage in video conference through integration with third party sources like Jit
 Track and follow activity throughout all most transactions in Curq.
 
 Dashboards
-==========
+====================================================================
 
 **Dashboards**
 
@@ -158,14 +159,14 @@ Customize your personal dashboard through the reporting options in most Curq app
 Export your diagrams and spreadsheets made though the reporting option in various formats 
 
 Odoo Apps
-=========
+====================================================================
 
 **Installed apps**
 
 View the list of installed applications.
 
 CRM
-===
+====================================================================
 
 **Pipeline**
 
@@ -184,7 +185,7 @@ Analysis of Pipeline, Leads, Activities and Partnerships each with its own measu
 Create and Manage Sales Teams, Team Members, Activity Types, Recurring Plans, Pipeline Stages, Tags, Lost Reasons, Partner Levels and Partner Activation.
 
 Calendar
-========
+====================================================================
 
 **Planning**
 
@@ -193,6 +194,7 @@ Plan an manage meetings and tasks.
 **Nextcloud integration**
 
 | Link your nextcloud calendar with Curq to keep track of all your different activities Do note only one calendar can be linked per user.
+
 *Optimization for using caldev module in progress.*
 
 **Reminders**
@@ -200,14 +202,14 @@ Plan an manage meetings and tasks.
 Set reminders for events and tasks.
 
 Contacts
-========
+====================================================================
 
 **Contacts**
 
 Add and manage your different contacts both business and private, add there contact information, bank details and preferences. 
 
 Email Marketing
-================================================
+====================================================================
 
 **Campaigns**
 
@@ -218,7 +220,7 @@ Plan and execute email marketing campaigns, design there lifecycle stages.
 Create and manage email distribution lists and the contacts including prohibited addresses.
 
 Employees
-=========
+====================================================================
 
 **Employee**
 
@@ -233,7 +235,7 @@ Plan employee activities, including on-boarding and off-boarding
 Apply gamification such as challenges, badges and goals.
 
 Events
-======
+====================================================================
 
 **Events**
 
@@ -260,7 +262,7 @@ Publish event pages on your website.
 Generate reports on event attendees and revenues.
 
 Expenses
-========
+====================================================================
 
 **Expenses**
 
@@ -271,7 +273,7 @@ Record and manage your expenses, upload receipts give approvals and categories t
 Generate reports on expenses the companies expenses.
 
 Inventory
-=========
+====================================================================
 
 **Delivery**
 
@@ -294,7 +296,7 @@ Manage the operations within your warehouses such as: the adjustments of the inv
 Generate reports on locations, moves history, stock, stock moves, and valuation.
 
 Members
-=======
+====================================================================
 
 **Membership Products**
 
@@ -329,7 +331,7 @@ Generate reports on the activities of your members, the different membership pro
 Integrates and reports git repository activities. This feature can be activated for organisations that work with software developers
 
 Project
-=======
+====================================================================
 
 **Projects**
 
@@ -352,7 +354,7 @@ Organize your projects and tasks in different stages and define your process wit
 View the timeline set for your projects in a calendar view with allocated hours and deadlines.
 
 Timesheets
-==========
+====================================================================
 
 **Timesheets**
 
@@ -371,7 +373,7 @@ Generate invoices based on the submitted hours.
 Generate reports on timesheet.
 
 Purchase
-========
+====================================================================
 
 **Products**
 
@@ -386,7 +388,7 @@ Manage and organize your vendor details, there product and orders.
 Generate reports related to purchases.
 
 Recruitment
-================================================
+====================================================================
 
 **Applications**
 
@@ -401,7 +403,7 @@ Define the recruiters and there departments for the recruitment flow.
 Track where your applicants find your applications such as the website or Linkedin
 
 Sales
-=====
+====================================================================
 
 **Products**
 
@@ -432,7 +434,7 @@ Manage customer orders, quotations, and sales teams.
 Generate reports related to sales, to invoice, and orders to up-sell.
 
 Surveys
-=======
+====================================================================
 
 **Surveys**
 
@@ -443,7 +445,7 @@ Create and manage feedback forms, certifications and live presentations.
 Create questions and provide suggested answers to have Curq generate surveys.
 
 Website
-=======
+====================================================================
 
 **Websites**
 
@@ -491,7 +493,7 @@ Generate reports for online sales, page views and number of visitors.
 Setup a custom URL and the available languages on your websites.
 
 Infrastructure
-================================================
+====================================================================
 
 **Completely open source**
 
@@ -518,7 +520,7 @@ Gives administrators and resellers access to multiple instances using a single s
 Automatically spin an instance for testing new features directly from the public git repository 
 
 Settings
-========
+====================================================================
 
 **Gamification**
 

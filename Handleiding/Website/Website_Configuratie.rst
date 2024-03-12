@@ -1,10 +1,10 @@
 Websiteconfiguratie
-====================
+====================================================================
 
 Voor het gebruiken van de website kunnen er veel veranderingen worden gedaan aan de configuraties om de website optimaal in te zetten.
 
 Instellingen
-------------
+---------------------------------------------------------------------------------------------------
 
 Om de instellingen aan te passen, ga naar Configuratie > Instellingen. Hier ziet u het scherm waar de belangrijkste instellingen kunnen worden aangepast. Bovenaan het scherm ziet u instellingen van de website met de website naam. Hierachter staat "+ nieuwe website", waarmee meerdere websites kunnen worden aangemaakt. Met het dropdownmenu waar de naam wordt getoond, kunnen de verschillende websites worden gekozen.
 
@@ -33,12 +33,12 @@ Met de social media opties kan gekozen worden welke social media knoppen toegest
 .. image:: Website_Configuratie/Website_Configuratie003.png
 
 Configuratie
-------------
+---------------------------------------------------------------------------------------------------
 
 Buiten de instellingen zijn er nog enkele andere opties aanwezig in de configuratietab. Met de 'Apps' optie wordt u naar de Odoo AppShop gestuurd. Met 'Dynamische links' kunnen links worden gemaakt naar pagina's binnen en buiten de website. De optie 'Betaalproviders' stuurt u naar de pagina waar u de betaalproviders kunt in- en uitschakelen. Met 'Blogs' kunnen verschillende blogpagina's worden opgezet. De 'Labels' kunnen worden gebruikt om de blogposts te categoriseren. Door 'Labelcategorieën' kunnen de soorten labels worden gedefinieerd.
 
 Developer Mode
---------------
+---------------------------------------------------------------------------------------------------
 
 Wanneer Developer Mode aangezet wordt, zijn meer opties aanwezig onder de configuratietab. Dit zijn websites, doorverwijzingen en menu's. In 'Websites' kunnen alle actieve websites bekeken, verwijderd en gewijzigd worden. Onder 'Doorverwijzingen' kunnen pagina's worden doorverwezen naar andere pagina's. In 'Menu's' kunnen alle menu's per website bekeken en aangepast worden door onderliggende menu's toe te voegen, de URL's aan te passen, de gekoppelde pagina aan te passen, te selecteren of het menu-item een megamenu is, de bovenliggende pagina's aan te passen, te selecteren of het menu-item een nieuw venster moet openen, op welke positie het menu-item in de menubalk staat, in welke website het menu-item staat, en wat de onderliggende menu's zijn.
 

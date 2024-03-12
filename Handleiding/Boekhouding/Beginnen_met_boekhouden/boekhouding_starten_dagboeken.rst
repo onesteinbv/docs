@@ -1,5 +1,5 @@
 Dagboeken
-=========
+====================================================================
 
 Dagboeken vormen essentiële onderdelen van een gedegen boekhoudsysteem, waarbij elk dagboek een specifieke subadministratie vertegenwoordigt. Het bankboek behandelt zorgvuldig alle banktransacties, het verkoopboek geeft overzichtelijke informatie over verkoopfacturen, het inkoopboek registreert gedetailleerd inkoopfacturen, en het memoriaalboek vangt alle overige transacties op die niet elders passen.
 
@@ -8,7 +8,7 @@ De beheerfunctie voor dagboeken is te vinden onder Facturatie > Configuratie > D
 .. image:: Media/boekhouding_starten_dagboeken001.png
 
 Bank
-----
+---------------------------------------------------------------------------------------------------
 
 Het bankboek fungeert als een gedetailleerd financieel dagboek waarin alle banktransacties worden vastgelegd, waaronder stortingen, opnames en afschrijvingen. Het zorgvuldig bijhouden van deze transacties via het bankboek biedt niet alleen de mogelijkheid om financiële bewegingen nauwkeurig te monitoren, maar speelt tevens een cruciale rol bij het vaststellen van budgetten en het analyseren van uitgavenpatronen.
 
@@ -54,7 +54,7 @@ Op het tabblad "Geavanceerde instellingen" kun je de volgende instellingen confi
 - **Blokkeerdatum voor standaard gebruiker:** Alleen de facturatiebeheerder kan nog wijzigingen aanbrengen in dit dagboek. Dit is handig als de boekhouder wel wijzigingen mag aanbrengen, maar een standaard gebruiker niet.
 
 Verkoop
--------
+---------------------------------------------------------------------------------------------------
 
 In het verkoopboek wordt gedetailleerde informatie bijgehouden over alle verkopen. Het omvat niet alleen de datum van de verkoop, maar ook de naam van de klant, de aard van de verkochte goederen of diensten, en het ontvangen bedrag. Dit specifieke dagboek is met name van belang voor bedrijven die frequent goederen of diensten verkopen. Het verkoopboek vormt niet alleen een beheersinstrument voor de cashflow, maar levert ook waardevolle gegevens voor het opstellen van toekomstige verkoopprognoses en het formuleren van doeltreffende bedrijfsstrategieën.
 
@@ -84,7 +84,7 @@ Op het tabblad "Geavanceerde instellingen" kun je de volgende instellingen confi
 - **Plan activiteit:** Hiermee kun je een activiteit laten inplannen op de vervaldag van de factuur. Dit kan helpen om het betalingsproces te verbeteren en je facturen beter op te volgen.
 
 Inkoop
-------
+---------------------------------------------------------------------------------------------------
 
 Het inkoopboek richt zich op alle aankopen van goederen en diensten door het bedrijf. Het zorgvuldig noteren van gegevens zoals de aankoopdatum, leveranciersnaam, aard van de gekochte goederen en diensten, en het betaalde bedrag biedt waardevol inzicht in de uitgaven van het bedrijf. Het inkoopboek komt vooral van pas voor bedrijven die nauwgezet hun uitgaven willen volgen en financiële gegevens op georganiseerde wijze willen beheren. Dit resulteert niet alleen in een beter begrip van de cashflow, maar versterkt ook de controle over de budgetten.
 
@@ -109,7 +109,7 @@ De configuratie van het verkoopboek ziet er als volgt uit.
 
 
 Diversen / Memoriaal
---------------------
+---------------------------------------------------------------------------------------------------
 
 Een bijzonder dagboek is het dagboek memoriaal, dat fungeert als een veelzijdig administratief instrument. Dit dagboek komt van pas voor boekingen die geen specifieke thuisbasis hebben in andere dagboeken. Voorbeelden hiervan zijn correcties, het verrekenen van openstaande en oninbare facturen, salarisboekingen en standaardboekingen.
 

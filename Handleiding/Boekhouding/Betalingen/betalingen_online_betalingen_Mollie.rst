@@ -1,5 +1,5 @@
 Online betalen facturen
-----
+---------------------------------------------------------------------------------------------------
 Om het voor je klanten nog gemakkelijker te maken om openstaande facturen te betalen, kun je de functie 'Factuur online betalen' activeren. Deze functie voegt een knop 'Nu betalen' toe aan het klantenportaal. Klanten kunnen hun facturen online bekijken en direct betalen met hun favoriete betaalmethode, waardoor het betalingsproces veel eenvoudiger wordt.
 
 Om Facturen Online Betalen te activeren, ga je naar Boekhouding ‣ Configuratie ‣ Instellingen ‣ Klantbetalingen, schakel Factuur Online Betalen in en klik op Opslaan.
@@ -9,7 +9,7 @@ Om Facturen Online Betalen te activeren, ga je naar Boekhouding ‣ Configuratie
        :height: 2.93264in
 
 Betaalproviders
-----
+---------------------------------------------------------------------------------------------------
 Curq ondersteunt een aantal betalingsproviders, met de Mollie koppeling kun je de klant de factuur laten betalen met iDeal.
 
 .. image:: Media/online_betalen_betaalproviders.png
@@ -17,7 +17,7 @@ Curq ondersteunt een aantal betalingsproviders, met de Mollie koppeling kun je d
        :height: 2.93264in
 
 Inrichting Mollie koppeling
-----
+---------------------------------------------------------------------------------------------------
 Activeer eerst Mollie als betalingsprovider via Boekhouding ‣ Configuratie ‣ Betalingsproviders
 
 .. image:: Media/online_betalen_betaalproviders.png

@@ -1,5 +1,5 @@
 Activa beheer
-=============
+====================================================================
 
 Het managen van activa in financiële boekhouding is als het zorgvuldig bijhouden en beheren van alles wat een bedrijf in bezit heeft, variërend van fysieke apparatuur tot financiële investeringen en innovatieve concepten. Het begint met het nauwkeurig documenteren van al deze bezittingen en het toekennen van de juiste waarde aan elk item. Om rekening te houden met het feit dat dingen in de loop van de tijd minder waard kunnen worden door bijvoorbeeld slijtage, past activabeheer regelmatig afschrijving toe. Hierdoor wordt de boekwaarde van de activa in de boeken aangepast. Activabeheer houdt ook rekening met potentiële uitdagingen, zoals veroudering van activa en grote economische verschuivingen, en zorgt ervoor dat het bedrijf voldoet aan de geldende regels en voorschriften voor rapportage.
 
@@ -13,7 +13,7 @@ Afschrijving per jaar=
 Dus, de machine zou jaarlijks worden afgeschreven met €1.600. Na het eerste jaar zou de boekwaarde van de machine dan €10.000 - €1.600 = €8.400 zijn, en dit proces zou doorgaan totdat de boekwaarde gelijk is aan de restwaarde na 5 jaar. Afschrijvingen worden vaak toegepast om de kosten van de activa over hun bruikbare levensduur te spreiden in de boekhouding.
 
 Activa Groepen
---------------
+---------------------------------------------------------------------------------------------------
 
 Om een duidelijk overzicht te behouden van de activa, is het verstandig om ze te categoriseren in groepen. Deze groepen zullen later de basis vormen voor de indeling in het activarapport. De groepen kan je aanmaken via Facturatie > Configuratie > Activa Groepen.
 
@@ -24,7 +24,7 @@ Om een duidelijk overzicht te behouden van de activa, is het verstandig om ze te
 - **Bovenliggende activagroep:** Koppel een bovenliggende groep als deze groep daaronder valt.
 
 Activa profielen
-----------------
+---------------------------------------------------------------------------------------------------
 
 Een activaprofiel wordt ingezet om de afschrijvingsmethode van een actief te bepalen. De afschrijvingen worden op basis van dit profiel berekend en financieel verwerkt. Bovendien kan een activaprofiel worden gekoppeld aan een grootboekrekening, zodat bij het boeken van een factuur direct een actief wordt aangemaakt.
 Een activaprofiel kan worden aangemaakt via Facturatie > Configuratie > Activa profielen.
@@ -60,7 +60,7 @@ Een activaprofiel kan worden aangemaakt via Facturatie > Configuratie > Activa p
 - **Analytisch:** De analytische gegeven die wordt toegepast op dit profiel.
 
 Activa aanmaken
----------------
+---------------------------------------------------------------------------------------------------
 
 Een activum aanmaken kan via Facturatie > Activa > Activa.
 
@@ -110,7 +110,7 @@ Na de berekening toont Curq alle individuele afschrijvingen. Hier kun je verifi�
 Het is tevens mogelijk om correcties direct op de regels uit te voeren door erop te klikken of ze te verwijderen. In de meeste gevallen is correctie echter niet noodzakelijk.
 
 Activa activeren
-----------------
+---------------------------------------------------------------------------------------------------
 
 Zodra alles gereed is, kan het Actief worden bevestigd via de knop [BEVESTIG ACTIVA], waarna de afschrijvingen zullen plaatsvinden.
 
@@ -127,7 +127,7 @@ Hier kun je de details van de afschrijving bekijken of direct de financiële jou
 De individuele boekingsregels zijn te vinden onder het tabblad [Historie].
 
 Activa verkopen / verwijderen
------------------------------
+---------------------------------------------------------------------------------------------------
 Bij het verkopen van een activum in de boekhouding zijn verschillende stappen van belang. Allereerst moet de actuele waarde van het activum worden vastgesteld, inclusief de originele aanschafwaarde verminderd met de totale afschrijvingen. Vervolgens moet het verschil tussen de verkoopprijs en de geboekte boekwaarde worden bepaald, wat resulteert in een boekwinst of -verlies. Deze financiële aspecten moeten nauwkeurig worden verwerkt in de boekhouding, waarbij afschrijvingen moeten worden aangepast, de verkoopopbrengst op de juiste rekeningen moet worden geboekt en het verkochte activum uit de balans moet worden verwijderd.
 
 Het actief kan worden verkocht of verwijderd via de knop [VERWIJDER].
@@ -154,7 +154,7 @@ Het volgende scherm verschijnt.
 Na verkoop of verwijdering krijgt het actief de status "VERWIJDERD", en de Activa verwijderingsdatum wordt ingevuld. Tevens zijn de diverse boekingen te zien op de tabbladen [Afschrijvingskaart] en [Historie].
 
 Afschrijvingen boeken
----------------------
+---------------------------------------------------------------------------------------------------
 
 Curq boekt afschrijvingen automatisch. Indien je deze boekingen handmatig wilt uitvoeren, is dat mogelijk via het menu Facturatie > Activa > Bereken activa.
 
@@ -163,7 +163,7 @@ Curq boekt afschrijvingen automatisch. Indien je deze boekingen handmatig wilt u
 Alle afschrijvingen tot de opgegeven datum worden financieel geboekt.
 
 Activa Rapport / Activastaat
-----------------------------
+---------------------------------------------------------------------------------------------------
 
 Een activastaat is een overzichtelijk document dat de actuele status van de activa van een organisatie weergeeft. Het bevat gedetailleerde informatie over de verschillende bezittingen, zoals vastgoed, voertuigen, machines en andere waardevolle items. Een activastaat biedt inzicht in de huidige waarde, afschrijvingen en eventuele waardeveranderingen van deze activa.
 

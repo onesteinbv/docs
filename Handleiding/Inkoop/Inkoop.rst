@@ -1,12 +1,12 @@
-=====================================================
+====================================================================
 Handleiding Inkoop  |  Product- en leveranciersbeheer
-=====================================================
+====================================================================
 
 Binnen de Inkoopmodule van Odoo 16 heb je volledige controle over alle aspecten met betrekking tot de inkoop van jouw producten. De inkoopmodule vereenvoudigt het beheer van inkooporders, productconfiguraties, leveranciersbeheer en prijs instellingen voor producten/diensten. Bovendien biedt deze module toezicht op inkooporder aanvragen en offertes. De naadloze integratie van de inkoopmodule met andere Odoo 16-modules zoals boekhouding, voorraadbeheer, verkoop en facturatie zorgt voor een probleemloos inkoopproces.
 
 
 Productbeheer
--------------
+---------------------------------------------------------------------------------------------------
 Odoo 16 biedt geavanceerde mogelijkheden voor het configureren en beheren van producten binnen de Inkoopmodule. Via het menu *Producten* in deze module kun je de productenlijst, variant details en kosten beheren. Onder het tabblad **Producten** heb je de keuze tussen *Producten* en *Productvarianten*, waar je de details van deze producten/diensten en hun varianten kunt bekijken en aanpassen.
 
 Wanneer je op *Producten* klikt in de vervolgkeuzelijst van het menu **Producten**, opent zich een venster met de volledige lijst van reeds aangemaakte producten. Standaard wordt deze weergegeven in de Kanban-weergave, maar je hebt de mogelijkheid om deze naar wens te wijzigen naar de Lijst-weergave. In de Kanban-weergave tonen voorbeeldkaarten details zoals naam, interne productreferentie, prijs en product afbeelding. Met behulp van de knoppen *Filters* en *Groeperen op* kun je specifieke producten vinden op basis van toegepaste variabelen.
@@ -42,7 +42,7 @@ Indien je notities wilt toevoegen aan inkooporders, biedt het veld *Omschrijving
 Meer info over het inrichten van producten en varianten vind je terug in de handleiding 'Voorraad - Productconfiguratie'
 
 Leveranciersbeheer
-------------------
+---------------------------------------------------------------------------------------------------
 
 Een bedrijfsorganisatie wordt geconfronteerd met diverse inkoopbehoeften, zowel op grote schaal als in de detailhandel. Voor verschillende aangeschafte producten is het noodzakelijk om de gegevens van meerdere leveranciers op te slaan en te beheren. Met Odoo16 is het mogelijk om alle leveranciers die relevant zijn voor een specifiek product te configureren, waardoor klanten gemakkelijker bij hun voorkeursleverancier kunnen kopen. Dankzij de flexibele en geavanceerde gebruikersinterface van Odoo is het beheren van de leverancierslijst en het opstellen van leverancier kenmerken efficiënter geworden. Bovendien kun je de gegevens van de leverancier koppelen aan het bijbehorende product, waardoor het volgen van nieuwe inkooporders eenvoudiger wordt.
 

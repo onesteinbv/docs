@@ -1,5 +1,5 @@
 ICP Aangifte
-============
+====================================================================
 
 Een Intracommunautaire Prestaties (ICP) opgaaf is een formulier dat ondernemers moeten invullen als ze spullen of diensten uitwisselen met bedrijven in de Europese Unie (EU). Het doel is om de belastingdienst te laten weten wat er gebeurt bij handel tussen bedrijven in verschillende EU-landen, vooral als het gaat om het leveren van spullen of diensten.
 
@@ -11,7 +11,7 @@ Het indienen van zo'n ICP-opgaaf is niet alleen iets wat moet, het helpt onderne
     Meer informatie over Opgaaf ICP vind je hier op de website van de belastingdienst `Opgaaf ICP <https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/zakendoen_met_het_buitenland/goederen_en_diensten_naar_andere_eu_landen/opgaaf_icp/>`_
 
 ICP aangifte aanmaken
----------------------
+---------------------------------------------------------------------------------------------------
 
 Na het indienen van een BTW-aangifte in Curq (is verstuurd), kun je de relevante informatie voor de ICP-opgaaf bekijken op het tabblad ICP Aangifte.
 

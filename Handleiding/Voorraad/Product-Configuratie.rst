@@ -1,6 +1,6 @@
-=====================================
+====================================================================
 Curq - Product configuratie
-=====================================
+====================================================================
 
 
 Een doordachte productconfiguratie is van cruciaal belang voor een
@@ -11,7 +11,7 @@ te identificeren en aan te passen. In deze handleiding nemen we de
 mogelijke opties met je door.
 
 Toegang tot producten
-=====================
+====================================================================
 
 Er zijn twee beste opties om toegang te krijgen tot je producten:
 
@@ -50,7 +50,7 @@ Rechtsboven (foto onder)vind je de zoekbalk:
       zien.
 
 Productblad
-===========
+====================================================================
 
 We gaan een nieuw product aanmaken en klikken op **NIEUW +**
 
@@ -58,7 +58,7 @@ Het productblad wordt geopend en heb een smartphone als voorbeeld
 genomen.
 
 Tab Algemene informatie
------------------------
+---------------------------------------------------------------------------------------------------
 
 | **Productsoort:**
 | Er zijn 3 verschillende opties >
@@ -151,7 +151,7 @@ kunt voorzien. Bij het zoeken naar producten kun je indien nodig
 filteren op basis van deze kenmerken.
 
 Tab Kenmerken en varianten
---------------------------
+---------------------------------------------------------------------------------------------------
 
 .. image:: Product-Configuratie-Media/image6.png
    :width: 6.26806in
@@ -177,7 +177,7 @@ heeft op de database prestaties.
    :height: 2.77222in
 
 Tab Verkoop
------------
+---------------------------------------------------------------------------------------------------
 
 .. image:: Product-Configuratie-Media/image8.png
    :width: 6.26806in
@@ -206,7 +206,7 @@ Tab Verkoop
   op een offerte/order en facturen.
 
 Tab Inkoop
-----------
+---------------------------------------------------------------------------------------------------
 
 .. image:: Product-Configuratie-Media/image9.png
    :width: 6.26806in
@@ -230,7 +230,7 @@ inkoopgerelateerde aspecten en het vastleggen van belangrijke informatie
 voor het inkoopproces.
 
 Tab Voorraad
-------------
+---------------------------------------------------------------------------------------------------
 
 .. image:: Product-Configuratie-Media/image11.png
    :width: 6.26806in
@@ -260,7 +260,7 @@ Tab Voorraad
   operaties.
 
 Tab Boekhouding
----------------
+---------------------------------------------------------------------------------------------------
 
 .. image:: Product-Configuratie-Media/image12.png
    :width: 6.26806in
@@ -270,7 +270,7 @@ Deze setting wordt vaak leeg gelaten. Advies is om de omzet- en
 kostenrekening in te stellen op de productcategorie.
 
 Slimme Knoppen
-==============
+====================================================================
 
 Met de slimme knoppen aan de bovenkant van het productblad heb je direct
 inzicht in overige productinformatie:

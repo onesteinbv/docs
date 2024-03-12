@@ -1,5 +1,5 @@
 Afletteren (reconciliatie) in Curq
-===========
+====================================================================
 Bank reconciliatie is het proces van het matchen van je
 banktransacties met je bedrijfsadministratie, zoals klantenfacturen,
 leveranciersfacturen en betalingen.
@@ -12,7 +12,7 @@ Dankzij de reconciliatiemodellen kan Curq de overeenkomende boekingen
 automatisch vinden en afletteren.
 
 Algemeen
-----
+---------------------------------------------------------------------------------------------------
 Via het boekhoud dashboard zie je via de banktegel(s) of er af te
 letteren regels zijn. Wij adviseren om gebruik te maken van de MyPonto
 koppeling waarmee je transactieregels automatisch vanuit je
@@ -36,6 +36,7 @@ puntjes rechts in de tegel:
   vooraf heeft geselecteerd voor afstemming. Je kunt het standaard filter uit de zoekbalk verwijderen om ook eerder afgeletterde
   transacties weer te geven.
 |
+
 .. image:: Media/image3.png
        :width: 6.3in
        :height: 2.93264in
@@ -61,9 +62,9 @@ puntjes rechts in de tegel:
        :height: 2.93264in
 
 Afletter scenario's
-===========
+====================================================================
 Afletteren van een volledig betaalde factuur
-----
+---------------------------------------------------------------------------------------------------
 Wanneer bij de gekozen transactieregel de klant of leverancier staat ingevuld, het bedrag overeenkomt met een openstaande post en het overeenkomstige factuurnummer vermeld staat in de label omschrijving, dan zal Curq de regel automatisch afletteren. Je kunt er voor kiezen ook deze laatste stap te automatiseren. Curq zal dan de gevonden regel direct bevestigen. Stel dit in bij de afletterregels.
 
 .. image:: Media/image4.png
@@ -71,7 +72,7 @@ Wanneer bij de gekozen transactieregel de klant of leverancier staat ingevuld, h
        :height: 2.93264in
 
 Afletteren niet volledig betaalde factuur
-----
+---------------------------------------------------------------------------------------------------
 Het kan zijn dat de betaalregel niet volledig overeenkomt met een af te letteren factuur (klant betaalt voor een aantal facturen tegelijk of betaalt een deelbedrag). 
 
 Scenario 1: klant betaalt minder dan het factuurbedrag. 
@@ -106,7 +107,7 @@ in dit geval kun je de klant opzoeken en meerdere facturen achter elkaar aanklik
        :height: 2.93264in
 
 Afletteren betaalregel zonder factuur
-----
+---------------------------------------------------------------------------------------------------
 Het kan voorkomen dat er een afschriftregel is met een betaling zonder onderliggende factuur. In dit scenario kun je op het tabblad handmatige werking zelf een grootboekrekening opzoeken.
 
 .. image:: Media/handmatig_afletteren.png
@@ -114,7 +115,7 @@ Het kan voorkomen dat er een afschriftregel is met een betaling zonder onderligg
    :height: 3.08125in
 
 Afletteren betaalregel zonder factuur met BTW 
-----
+---------------------------------------------------------------------------------------------------
 Het kan voorkomen dat er een afschriftregel is met een betaling zonder onderliggende factuur, maar wel met BTW. Na kiezen van de juiste kostenrekening is het vervolgens mogelijk om in het BTW veld de juiste BTW
 code te selecteren. Curq rekent dan automatisch de juiste bedragen uit. De extra regel die wordt aangemaakt voor verwerken van de BTW is terug te vinden op de BTW aangifte in de juiste rubriek.
 
@@ -123,7 +124,7 @@ code te selecteren. Curq rekent dan automatisch de juiste bedragen uit. De extra
    :height: 3.08125in
 
 Afletteren verstuurde SEPA betaalbatch
-----
+---------------------------------------------------------------------------------------------------
 Wanneer je gebruikt maakt van de SEPA functionaliteit (waarmee je direct een set van inkoopfacturen aan de bank kan aanbieden), dan kun je de afschriftregel van deze betaling kiezen om alle inkoopfacturen van de batch in 1 keer af te handelen.
 Na selecteren van de transactieregel zoek je de juiste betaalbatch op en lettert hierop af.
 
@@ -132,7 +133,7 @@ Na selecteren van de transactieregel zoek je de juiste betaalbatch op en lettert
    :height: 3.08125in
 
 Terugdraaien aflettering
-----
+---------------------------------------------------------------------------------------------------
 Heb je een fout gemaakt, dan is het mogelijk om na bevestigen een
 afgeletterde regel terug te draaien. Klik hiervoor op de knop 'afletteren ongedaan maken'.
 
@@ -141,10 +142,10 @@ afgeletterde regel terug te draaien. Klik hiervoor op de knop 'afletteren ongeda
    :height: 3.08125in
 
 Overige functionaliteit
-===========
+====================================================================
 
 Chatter
-----
+---------------------------------------------------------------------------------------------------
 De chatter fuctionaliteit is beschikbaar bij het afletteren van een regel. Hierdoor kun je direct een collega of een klant een bericht sturen bij een vraag over de betaalregel. Ook kun je in de chatter documenten koppelen.
 
 .. image:: Media/Chatter_afletteren.png
@@ -152,7 +153,7 @@ De chatter fuctionaliteit is beschikbaar bij het afletteren van een regel. Hierd
    :height: 3.08125in
 
 Extra controle
-----
+---------------------------------------------------------------------------------------------------
 Wanneer je een extra controle wil uitvoeren op de af te letteren regel,
 dan kun je dat bij de regel aangeven met de knop ‘te controleren'. De na te kijken regel kan
 vervolgens op diverse plekken in de boekhouding nagekeken worden (zoals hieronder bij de boekingsregel).

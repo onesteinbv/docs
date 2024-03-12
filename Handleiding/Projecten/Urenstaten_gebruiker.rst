@@ -1,10 +1,10 @@
 Urenstaten
-==========
+====================================================================
 
 De Urenstaat module biedt een gestroomlijnde oplossing voor het invoeren en volgen van de gewerkte uren door werknemers. De ingevoerde uren kunnen nauwkeurig worden gekoppeld aan specifieke taken en projecten, waardoor een transparante en efficiënte registratie ontstaat. Bovendien kunnen de ingevoerde uren direct worden gebruikt voor het genereren van facturen.
 
 Mijn Urenstaten
----------------
+---------------------------------------------------------------------------------------------------
 
 Binnen het "Mijn Urenstaten" formulier hebben gebruikers de mogelijkheid om de gemaakte uren nauwkeurig in te voeren. De procedure begint met het selecteren van de "+Nieuw" knop. In dit formulier wordt de periode waarin de uren zijn gemaakt gespecificeerd, met een aanbeveling om dit wekelijks in te vullen. In het geval van werken binnen een multi-company omgeving, wordt geadviseerd het relevante bedrijf te selecteren. Het gedeelte onder "Details" biedt de mogelijkheid om uren per taak in te vullen. Gebruikers kunnen "Add a Line" selecteren en alle benodigde informatie invullen.
 
@@ -34,7 +34,7 @@ Om een gedetailleerd overzicht van alle ingevoerde uren te verkrijgen, navigeert
 Deze diverse weergavemogelijkheden bieden een snelle en duidelijke analyse van de ingevoerde gegevens en zorgen ervoor dat alles compleet en correct is ingevuld. Bovendien kan via de zoekbalk en de groepeer- en filteropties specifieker naar informatie worden gezocht.
 
 Beoordeling
------------
+---------------------------------------------------------------------------------------------------
 
 Na het invoeren van de uren is een essentiële stap de goedkeuring. Onder het tabblad "Beoordeling" kan worden gecontroleerd of de ingevoerde uren zijn goedgekeurd door de manager. Indien dit niet het geval is, biedt het scherm van de specifieke urenstaat inzicht in waarom de uren niet zijn goedgekeurd, waarna aanpassingen kunnen worden doorgevoerd.
 

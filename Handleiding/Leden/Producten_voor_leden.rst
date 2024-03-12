@@ -1,5 +1,5 @@
 Producten voor leden 
-====================
+====================================================================
 
 Navigeer naar Leden > Configuratie > Producten voor leden.
 
@@ -35,19 +35,19 @@ Klik op Nieuw en vul de details in:
 * **Is een abonnementsproduct:** Maak het product een abonnement met een maandelijkse betaling via Mollie.
 
 Een gratis lid Product 
-----------------------
+---------------------------------------------------------------------------------------------------
 Voor een gratis product moet de lidmaatschapskosten op 0,- worden gezet.
  
 .. image:: Producten_voor_leden/Producten_voor_leden002.png
 
 Betaald lid Product: eenmalige betaling
----------------------------------------
+---------------------------------------------------------------------------------------------------
 Voor de eenmalige betaling vul de lidmaatschapskosten naar wens in.
  
 .. image:: Producten_voor_leden/Producten_voor_leden003.png
 
 Abonnementsproduct
-------------------
+---------------------------------------------------------------------------------------------------
 Naast een gratis en betaald lidmaatschap kan ook een abonnement worden aangemaakt voor meerdere betalingen over een periode. Vink eerst 'Is een abonnementsproduct' aan, dan ziet u drie nieuwe velden: 
 
 

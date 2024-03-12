@@ -1,5 +1,5 @@
 Leden registratie pagina
-========================
+====================================================================
 
 Voor het aanmaken van een ledenregistratiepagina ga naar Instellingen > Website, of in de module Website onder Configuratie-instellingen, hiermee belandt u op dezelfde pagina.
 Scrol naar beneden en vind de leden sectie. Hier ziet u de optie om lidmaatschapsregistratie toe te staan. Wanneer deze optie is aangevinkt, ziet u verschillende nieuwe opties verschijnen.

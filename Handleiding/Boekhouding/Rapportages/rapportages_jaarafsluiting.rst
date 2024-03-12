@@ -1,10 +1,10 @@
 Jaarafsluiting
-==============
+====================================================================
 
 De jaarafsluiting vormt een cruciaal onderdeel van de boekhouding, waarbij alle financiële activiteiten aan het einde van het boekjaar worden afgerond. Tijdens dit proces worden financiële overzichten voltooid, rekeningen nauwkeurig gecontroleerd en benodigde documentatie voor de Belastingdienst voorbereid. Taken omvatten onder andere het afstemmen van financiële records, beoordelen van afschrijvingen en waardeverminderingen, en het updaten van voorzieningen. Het opstellen van gedetailleerde financiële overzichten, zoals de balans en resultatenrekening, biedt een alomvattend beeld van de financiële gezondheid. De jaarafsluiting dient niet alleen als formele afsluiting, maar ook als strategisch moment om de financiële prestaties te evalueren en voor te bereiden op een succesvol nieuw boekjaar.
 
 Datum gebonden boekhouding
---------------------------
+---------------------------------------------------------------------------------------------------
 
 De boekhouding van Curq is gebaseerd op datums en indirect op tijdsperiodes, zoals maanden, kwartalen en jaren. Elke boeking is voorzien van een specifieke datum, die vervolgens wordt toegewezen aan een van deze vooraf gedefinieerde perioden. Deze tijdsperiodes worden veelvuldig gebruikt in de rapportages binnen Curq.
 
@@ -13,7 +13,7 @@ De periodes in Curq zijn standaard ingesteld en volgen de reguliere kalendermaan
 De configuratie van periodes wordt uitgelegd in de handleiding voor Datumreeksen.
 
 Jaarafsluiting Accountant
--------------------------
+---------------------------------------------------------------------------------------------------
 
 Een correcte jaarafsluiting in de boekhouding vereist verschillende stappen om ervoor te zorgen dat financiële gegevens nauwkeurig en volledig worden afgesloten aan het einde van het boekjaar. Hier zijn enkele algemene stappen die vaak worden genomen:
 
@@ -38,7 +38,7 @@ Een correcte jaarafsluiting in de boekhouding vereist verschillende stappen om e
 Het is belangrijk op te merken dat de specifieke stappen kunnen variëren afhankelijk van de bedrijfsomstandigheden, boekhoudmethoden en wettelijke vereisten. Het raadplegen van een boekhoudprofessional of accountant kan nuttig zijn om ervoor te zorgen dat de jaarafsluiting correct wordt uitgevoerd.
 
 Stappen Jaarafsluiting binnen Curq
-----------------------------------
+---------------------------------------------------------------------------------------------------
 
 Om een correcte jaarafsluiting te bereiken binnen Curq, dien je de volgende stappen te volgen.
 

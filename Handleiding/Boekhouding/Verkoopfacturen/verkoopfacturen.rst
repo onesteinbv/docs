@@ -1,10 +1,10 @@
 Verkoopfacturen
-===============
+====================================================================
 
 Het opstellen van facturen is een essentieel onderdeel van een goede boekhouding. Een fraaie en professionele factuur fungeert als een soort visitekaartje. Door aan klanten te laten zien dat je zorgvuldig en professioneel bent, verklein je de kans op betalingsproblemen. Met Curq kun je eenvoudig een factuur opstellen en verzenden naar je klanten. Via Curq kun je moeiteloos jouw huisstijl toevoegen door kleuren en jouw logo te integreren. Vervolgens verstuur je deze facturen gemakkelijk met slechts een paar klikken.
 
 Aanpassen huisstijl
--------------------
+---------------------------------------------------------------------------------------------------
 Als je je huisstijl niet hebt opgegeven tijdens de aanmaak van je omgeving, kun je dit alsnog doen via Instellingen > Algemene instellingen, onder het kopje Bedrijven.
 
 .. image:: Media/verkoopfacturen001.png
@@ -26,7 +26,7 @@ Kies "Configureer documentlay-out". In het volgende scherm heb je de mogelijkhei
 Aan de rechterkant zie je meteen hoe jouw documenten in Curq eruit zullen zien. Onder dit voorbeeld kun je ook nog een PDF downloaden om te zien hoe jouw klanten jouw factuur ontvangen. Nu kunnen we verdergaan met het opstellen van jouw verkoopfactuur.
 
 Aanmaken verkoopfactuur
------------------------
+---------------------------------------------------------------------------------------------------
 
 Heb je een uitgebreidere versie van Curq, dan kunnen verkoopfacturen ook worden aangemaakt vanuit bijvoorbeeld een verkooporder of een website-order. Hier volgt de handmatige procedure voor het aanmaken van een verkoopfactuur: ga naar Facturatie > Klanten > Facturen. In dit scherm zie je al jouw verkoopfacturen in een mooi overzicht. Je kunt meteen zien of een factuur openstaat of al reeds betaald is.
 
@@ -114,10 +114,10 @@ Zodra de factuur is verzonden binnen Curq, is dit meteen zichtbaar in het loggin
 .. toctree::
     :maxdepth: 2
 
-   verkoopfacturen_algemene_voorwaarden
-   verkoopfacturen_afleveradres_factuuradres
-   verkoopfacturen_creditnota
-   verkoopfacturen_omzetspreiding
-   betalingen_herinneringen
-   verkoopfacturen_betalingskorting
-   verkoopfacturen_incoterms
+    verkoopfacturen_algemene_voorwaarden
+    verkoopfacturen_afleveradres_factuuradres
+    verkoopfacturen_creditnota
+    verkoopfacturen_omzetspreiding
+    betalingen_herinneringen
+    verkoopfacturen_betalingskorting
+    verkoopfacturen_incoterms

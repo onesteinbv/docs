@@ -1,5 +1,5 @@
 Wat is RGS
-----
+---------------------------------------------------------------------------------------------------
 
 Het Referentie Grootboekschema (RGS) is een omvangrijk uniform (grootboek)rekeningschema met als belangrijkste functie het vereenvoudigen van rapportages vanuit de boekhouding. In de praktijk wordt dit bereikt door enerzijds bestaande (grootboek)rekeningschema’s te koppelen aan het ReferentieGrootboekSchema, en anderzijds door rapportages te genereren op basis van het RGS.
 
@@ -8,7 +8,7 @@ Het voordeel van RGS is dat het direct is gekoppeld aan de bron (het grootboek) 
 RGS wordt tevens gebruikt als brug om te koppelen aan de rapportageschema’s van bijvoorbeeld SBR en de Productie jaarstatistiek CBS.
 
 RGS in Curq
-----
+---------------------------------------------------------------------------------------------------
 
 Wij hebben ervoor gekozen om RGS standaard in te voeren als basis grootboekschema in Curq. Het RGS bevat in totaal 1400 rekeningen per bedrijf, die allemaal zijn ingelezen in Curq. We hebben 600 rekeningen actief gemaakt en 800 op inactief gezet. Als je het aantal actieve grootboeknummers wilt verminderen, kun je dit zelf doen door rekeningen te archiveren (we adviseren om de rekeningen niet te verwijderen maar op inactief te zetten).
 
@@ -17,7 +17,7 @@ Het RGS is volledig geïntegreerd in de boekhouding binnen Curq, inclusief algem
 Bovenstaande aanpassingen zorgen ervoor dat je direct kunt starten in Curq en in de basis alleen je eigen bankrekeningen hoeft in te voeren om te beginnen met de boekhouding.
 
 Velden van grootboekrekening
-----
+---------------------------------------------------------------------------------------------------
 
 .. image:: Media/Rekening.png
    :width: 6.3in

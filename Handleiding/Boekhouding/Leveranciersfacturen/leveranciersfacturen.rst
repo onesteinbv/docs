@@ -1,5 +1,5 @@
 Leveranciersfactuur
-===================
+====================================================================
 
 Open de Facturatie/Boekhouding module in Odoo.
 
@@ -18,7 +18,7 @@ Vul de vervaldatum in, wat de uiterste datum is waarop de factuur betaald moet z
 Het dagboek is standaard "Leveranciers Facturen"; laat dit zo staan, tenzij er meerdere dagboeken zijn aangemaakt voor leveranciersfacturen en valuta.
 
 Factuurregels
--------------
+---------------------------------------------------------------------------------------------------
 
 - **Factuurregels:** bevatten de details van de factuur. Hier staat wat er is gekocht tegen welke bedrag en met welke BTW.
 - **Product:** Vul hier een product in als je gebruik maakt van producten binnen Curq. Een product kan ook een dienst zijn, dan heeft het product het type dienst. Het is niet verplicht om gebruik te maken van producten.
@@ -34,14 +34,14 @@ Factuurregels
 .. image:: Media/Leveranciersfacturen003.png
 
 Boekingsregels
---------------
+---------------------------------------------------------------------------------------------------
 
 Hier wordt de journaalpost getoond van de factuur. Dit is voor de boekhouder van belangrijke informatie.
 
 .. image:: Media/Leveranciersfacturen004.png
 
 Overige informatie
-------------------
+---------------------------------------------------------------------------------------------------
 
 Hier worden leveringscondities, fiscale positie, automatisch boeken en controle van de factuur aangegeven.
 
@@ -55,7 +55,7 @@ Hier worden leveringscondities, fiscale positie, automatisch boeken en controle 
 Wanneer een factuur geüpload wordt verschijnt dezen aan de rechter kant van het scherm en kan de informatie direct overgenomen worden.
 
 Logging van de factuur
-----------------------
+---------------------------------------------------------------------------------------------------
 
 Alle belangrijke wijzigingen met betrekking tot de factuur worden hier bijgehouden. Je ziet hier ook de mailtjes die verzonden zijn. Als je ook nog gebruik maakt van de volledige integratie met mailfunctionaliteit, dan verschijnt hier ook het antwoord van de klant als hij reageert op de mail.
 
@@ -78,6 +78,6 @@ Hierna kan de betaling geregistreerd worden, een creditfactuur voor de huidige f
 .. toctree::
     :maxdepth: 2
 
-  leveranciersfacturen_preview
-  leveranciersfacturen_kostenspreiding
-  leveranciersfacturen_activa
+    leveranciersfacturen_preview
+    leveranciersfacturen_kostenspreiding
+    leveranciersfacturen_activa

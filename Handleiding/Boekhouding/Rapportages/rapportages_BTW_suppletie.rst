@@ -1,5 +1,5 @@
 BTW-Suppletie
-=============
+====================================================================
 
 Een BTW-aangifte suppletie is een correctie op een eerder ingediende BTW-aangifte. Als een ondernemer ontdekt dat er fouten of onvolledigheden zijn in een reeds ingediende BTW-aangifte, kan hij of zij een suppletieaangifte indienen om de fouten te corrigeren.
 
@@ -11,7 +11,7 @@ Het indienen van een BTW-aangifte suppletie is belangrijk om de fiscale situatie
     Meer informatie over Btw-aangifte corrigeren vind je hier op de website van de belastingdienst `Btw-aangifte corrigeren <https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/btw_aangifte_doen_en_betalen/aangifte_corrigeren/>`_
 
 Oude facturen meenemen in eerstvolgende aangifte
-------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 Een suppletieaangifte moet worden ingediend via de belastingdienst. Binnen Curq hebben we echter de mogelijkheid om oude facturen toe te voegen aan de huidige aangifte.
 

@@ -1,5 +1,5 @@
 Incoterms
-=========
+====================================================================
 
 Incoterms, afgeleid van de term "International Commercial Terms", vormen een cruciaal instrument in de wereld van internationale handel. Ze zijn ontworpen om duidelijkheid te bieden en de wederzijdse verplichtingen tussen kopers en verkopers te reguleren tijdens de verschillende fasen van een internationale transactie.
 
@@ -13,7 +13,7 @@ Het is belangrijk om de specifieke Incoterm overeen te komen bij internationale 
 
 
 Instellingen en gebruik op factuur
-----------------------------------
+---------------------------------------------------------------------------------------------------
 Binnen Instellingen > Facturatie > Sectie Klantfacturen, heb je de mogelijkheid om de standaard Incoterm aan te geven. Deze geselecteerde Incoterm wordt automatisch ingevuld bij het opstellen van je facturen.
 
 .. image:: Verkoopfacturen/verkoopfacturen_incoterms001.png
@@ -23,7 +23,7 @@ Bij het opstellen van een factuur kun je de Incoterms vinden onder het tabblad [
 .. image:: Verkoopfacturen/verkoopfacturen_incoterms002.png
 
 Beschikbare Incoterms (2020)
-----------------------------
+---------------------------------------------------------------------------------------------------
 De 11 actuele Incoterms van 2020 zijn beschikbaar in Curq. Indien het nodig is om een Incoterm aan te passen of toe te voegen, kan dit worden gedaan via Facturatie > Configuratie > Leveringscondities.
 
 .. image:: Verkoopfacturen/verkoopfacturen_incoterms003.png

@@ -1,5 +1,5 @@
 BTW en Fiscale Posities
-=======================
+====================================================================
 
 Het bepalen van de juiste BTW-belastingen kan een uitdaging zijn voor jouw boekhouding. Binnen Curq maken we gebruik van BTW-codes en de Fiscale Posities om je hiermee te helpen.
 
@@ -8,7 +8,7 @@ De BTW-codes zijn al voorgedefinieerd door Curq. Met de Fiscale Posities bepaalt
 Binnen Curq zijn de standaard Fiscale Posities al ingericht. Afhankelijk van jouw bedrijfsvoering kun je in overleg met de Accountant dit verder aanpassen specifiek voor jouw bedrijf.
 
 BTW Codes
----------
+---------------------------------------------------------------------------------------------------
 
 De BTW-codes vind je terug onder Facturatie > Configuratie > BTW. Je kunt ze hier aanpassen door op de BTW-code te klikken.
 
@@ -45,7 +45,7 @@ Bij Geavanceerde opties kun je de BTW-code nog verder instellen.
 In Curq zijn de BTW-codes al voor je ingericht. Het kan zijn dat sommige BTW-codes niet van toepassing zijn. Deactiveer deze door de optie Actief uit te zetten.
 
 Fiscale Posities
-----------------
+---------------------------------------------------------------------------------------------------
 
 De Fiscale Posities vind je terug onder Facturatie > Configuratie > Fiscale Posities. De BTW-regio's zijn reeds ingedeeld in Curq. Bijvoorbeeld, voor zakenrelaties in de EU worden andere BTW-tarieven gehanteerd. Curq zorgt op deze manier ervoor dat de correcte BTW op de orders en facturen staat.
 
@@ -56,7 +56,7 @@ Op het tabblad [Vervangingstabel BTW] worden de BTW-codes vertaald naar de juist
 Op het tabblad [Vervangingstabel Grootboekrekeningen] worden de grootboekrekeningen vertaald naar de juiste. Daar wordt hetzelfde principe toegepast.
 
 Automatische toepassing
------------------------
+---------------------------------------------------------------------------------------------------
 
 Voor de automatische toepassing van een Fiscale Positie zijn de instellingen rechtsboven van belang. Deze zullen we hier even toelichten.
 
@@ -72,7 +72,7 @@ Als er meerdere Fiscale Posities automatisch worden toegepast dan is de volgorde
 .. image:: Media/belastingen_fiscale_posities006.png
 
 Handmatige toepassing
----------------------
+---------------------------------------------------------------------------------------------------
 
 In sommige gevallen wil je afwijken van de automatisch voorgestelde Fiscale Positie. Dit kan voorkomen als de relatie waar je zaken mee doet in een apart BTW-regime valt. Je kunt de Fiscale Positie vastleggen bij een relatie of in een order / factuur. We adviseren om zoveel mogelijk dit in te stellen op de relatie. Zodra deze relatie wordt gebruikt bij een order / factuur, wordt de Fiscale Positie hiervan afgeleid. Je kunt dit instellen bij het contact.
 

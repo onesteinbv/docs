@@ -1,5 +1,5 @@
 Valuta
-======
+====================================================================
 
 In de facturatie/boekhouding module ga naar Configuratie > Instellingen. Hier ziet u de valutasectie. Onder 'Hoofdvaluta' kan de standaardvaluta die uw bedrijf gebruikt worden geselecteerd. Deze wordt standaard ingesteld op basis van uw locatie. Aan de rechterzijde van het scherm staat de optie 'Automatische wisselkoersen'; wanneer deze optie is aangevinkt, wordt eens per dag de standaard wisselkoers overgenomen naar de geactiveerde valuta die u heeft geselecteerd.
 

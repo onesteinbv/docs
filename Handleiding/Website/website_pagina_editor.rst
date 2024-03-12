@@ -1,5 +1,5 @@
 Websitepagina-editor
-=====================
+====================================================================
 
 Met de websitebuilder kun je snel en eenvoudig verschillende pagina's aanmaken. Ga naar de pagina die aangepast moet worden en selecteer "Bewerken" rechtsboven in de hoek. Nu kun je de pagina aanpassen. In het veld dat aan de rechterzijde van het scherm is verschenen, zijn alle bouwblokken te zien. Door de blokken naar de pagina te slepen, kun je de pagina inrichten zoals jij dat wilt.
 

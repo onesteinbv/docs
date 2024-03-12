@@ -1,5 +1,5 @@
 Contracten
-----
+====================================================================
 Met de contractenmodule kun je diensten en of producten als abonnement verkopen aan klanten. Je klant kan dit abonnement zelf inzien via de klanten portal. Na aanmaken van een contract zal Curq op basis van de ingegeven startdatum automatisch de periodieke factuur genereren.
 
 Je kunt een contract los invoeren, maar dit kan ook door eerst een sjabloon aan te maken. Heb je een vaak terugkerend abonnement dan is het aan te raden om met sjablonen te werken.
@@ -13,7 +13,7 @@ De werkwijze van invoeren van een contract bestaat uit de volgende stappen:
 #. Na ingeven van alle gegevens kun je via de knop 'verzenden via mail' de klant het contract mailen.
 
 Aanmaken verkoopcontract
-----
+---------------------------------------------------------------------------------------------------
 Contracten zijn voor klanten te vinden in Facturatie -> Klanten -> Klant en Facturatie  en voor leveranciers onder Leveranciers -> Leverancierscontracten.
 
 .. image:: Media/Verkoopcontract_invoer.png
@@ -21,7 +21,7 @@ Contracten zijn voor klanten te vinden in Facturatie -> Klanten -> Klant en Fact
        :height: 2.93264in
 
 Algemene gegevens contract
-----
+---------------------------------------------------------------------------------------------------
 Vul bij het maken van een contract de velden in voor het selecteren van de factureringsparameters:
 
 **Contractnaam**
@@ -33,7 +33,7 @@ Vul bij het maken van een contract de velden in voor het selecteren van de factu
 Verantwoordelijke
 
 facturatie instellingen
------
+---------------------------------------------------------------------------------------------------
 **Herhalend op regelniveau**. Wanneer je dit vinkje aanzet, dan kun je op regelniveau de herhalingsinstellingen aanpassen. Met deze optie wordt het mogelijk om verschillende abonnementen onder 1 contract vast te leggen. Curq zal op basis van de regel een factuur genereren. In het schermvoorbeeld hieronder is een maand en een jaarabonnement op 1 contract gezet.
 
 .. image:: Media/Verkoopcontract_voorbeeld_verschillende_periodes.png
@@ -49,7 +49,7 @@ facturatie instellingen
 **Einddatum factuur**. Optioneel veld om te vullen
 
 Type van herhaling
-----
+---------------------------------------------------------------------------------------------------
 Dit onderdeel gaat over de inhoud van het contract; welke producten en/of diensten wil je aanbieden aan de klant?
 
 **Aan te maken soort**. Bij verkoopcontracten zal hier 'invoice staan', bij leverancierscontracten 'vendorbill'. 
@@ -57,7 +57,7 @@ Dit onderdeel gaat over de inhoud van het contract; welke producten en/of dienst
 Voeg de regels toe waarmee gefactureerd moet worden:
 
 Abonnementsproduct
------
+---------------------------------------------------------------------------------------------------
 Het product met een beschrijving, een hoeveelheid en een prijs
 
 **auto-price**.  Om automatisch een prijs uit de prijslijst te laten halen
@@ -80,10 +80,11 @@ Hieronder zie je een voorbeeld van een ingevoerd voorbeeld abonnement:
        :width: 6.3in
        :height: 2.93264in
 
+
 .. toctree::
     :maxdepth: 2
 
-       verkoopcontracten_sjablonen
-       verkoopcontracten_beeindigen
-       verkoopcontracten_factureren 
-       verkoopcontracten_vernieuwen
+    verkoopcontracten_sjablonen
+    verkoopcontracten_beeindigen
+    verkoopcontracten_factureren
+    verkoopcontracten_vernieuwen

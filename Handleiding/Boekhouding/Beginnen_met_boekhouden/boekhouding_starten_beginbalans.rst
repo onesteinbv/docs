@@ -1,5 +1,5 @@
 Openingsbalans
-==============
+====================================================================
 
 Als je begint met het opzetten van een boekhouding, is het gebruikelijk om te starten met een openingsbalans. Dit vormt financieel gezien het vertrekpunt van de boekhouding en wordt vaak in samenwerking met een boekhouder opgesteld.
 

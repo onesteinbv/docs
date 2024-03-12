@@ -1,8 +1,8 @@
 leden, secties en comités
-==========================
+====================================================================
 
 Secties
--------
+---------------------------------------------------------------------------------------------------
 
 Binnen de ledenmodule kunnen de leden in secties worden georganiseerd. Deze groepen kunnen worden gebruikt om de samenwerking tussen de leden te verbeteren door samenwerking en het delen van informatie via e-mailcampagnes. Verder kunnen deze secties worden gekoppeld aan een comité om beslissingen te nemen over de toekomst en de richting van de sectie.
 Om deze secties aan te maken, navigeer naar Leden > Configuratie > Secties en selecteer +Nieuw.
@@ -32,7 +32,7 @@ Om de sectieswebpagina te publiceren, klik op "Ga naar website".
 En klik op "Gepubliceerd".
 
 Comités
---------
+---------------------------------------------------------------------------------------------------
 
 .. image:: Leden_secties/Leden_secties004.png
 

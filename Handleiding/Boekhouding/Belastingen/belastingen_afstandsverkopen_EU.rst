@@ -1,5 +1,5 @@
 Afstandsverkopen binnen de EU
-=============================
+====================================================================
 
 Afstandsverkopen binnen de EU omvatten de handel in goederen en diensten van bedrijven naar consumenten (B2C), waarbij de verkoper geregistreerd is voor BTW-doeleinden in een EU-lidstaat en de koper zich bevindt in een andere EU-lidstaat. Deze transacties, veelal via online platforms, postorders, telefoon of andere communicatiemiddelen, vormen een vorm van grensoverschrijdende handel binnen de Europese Unie.
 
@@ -11,7 +11,7 @@ Klanten die geen btw-aangifte doen, zoals particulieren, ondernemers met alleen 
     Meer informatie vind je hier op de website van de belastingdienst `Afstandsverkopen, zoals e-commerce, binnen de EU <https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/zakendoen_met_het_buitenland/afstandsverkopen-zoals-e-commerce-en-diensten-voor-particulieren-in-andere-eu-landen/afstandsverkopen-zoals-e-commerce-binnen-de-eu/>`_
 
 Activeren BTW voor EU intracommunautaire verkoop op afstand
------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 Curq vergemakkelijkt afstandsverkopen binnen de EU door vooraf BTW-codes per land te definiëren. Deze functionaliteit is beschikbaar via Facturatie > Configuratie > Instellingen. Schakel de optie "EU intracommunautaire verkoop op afstand" in om hiervan gebruik te maken.
 
@@ -28,7 +28,7 @@ De BTW-codes zijn te onderscheiden aan de hand van het percentage en de landcode
 Fiscale posities kunnen worden geïdentificeerd aan de hand van "OSS B2C" in de naam. Elke fiscale positie is verbonden met een specifiek land, waardoor Curq automatisch de correcte BTW kan bepalen op basis hiervan.
 
 Rapportages
------------
+---------------------------------------------------------------------------------------------------
 
 Voor afstandsverkopen biedt Curq geen specifieke rapportage aan. De relevante gegevens worden vastgelegd op de boekingsregels, inclusief een BTW-code en de bijbehorende BTW-rubriek. Met deze informatie kan een overzicht worden gegenereerd voor de belastingdienst.
 

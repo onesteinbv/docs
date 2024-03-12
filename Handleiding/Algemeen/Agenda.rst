@@ -1,5 +1,5 @@
 Agenda
-======
+====================================================================
 
 De calender module zit door veel van de modules in curq gewoven. De module registreert en beheert alle afspraken, urenstaten en andere gerelateerde informatie.
 

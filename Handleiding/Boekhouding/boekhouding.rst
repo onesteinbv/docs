@@ -1,5 +1,5 @@
 Boekhouding
-===========
+====================================================================
 
 Een solide boekhouding is van essentieel belang voor elk bedrijf, ongeacht de omvang.
 
@@ -8,7 +8,7 @@ In de meeste landen ben je wettelijk verplicht om een nauwkeurige boekhouding bi
 Boekhoudgegevens verschaffen waardevolle informatie voor strategische besluitvorming. Het stelt je in staat om de financiële gezondheid van je bedrijf te beoordelen, budgetten op te stellen en te bepalen waar je middelen het beste kunt inzetten.
 
 Curq
-----
+---------------------------------------------------------------------------------------------------
 
 Curq biedt verschillende voordelen voor je boekhouding, waardoor het een krachtig en veelzijdig hulpmiddel is.
 
@@ -21,7 +21,7 @@ Door processen te automatiseren en efficiënter te werken, kun je kosten bespare
 Al met al kan Curq een waardevolle hulpbron zijn voor je boekhouding, ongeacht de omvang van je bedrijf, en kan het bijdragen aan een efficiënte, nauwkeurige en geïntegreerde financiële administratie. Het is echter belangrijk om ervoor te zorgen dat je de boekhoudmodule van Curq goed configureert en onderhoudt om er maximaal van te profiteren.
 
 Dubbel boekhouden
------------------
+---------------------------------------------------------------------------------------------------
 
 Curq hanteert het concept van dubbel boekhouden. Bij dubbel boekhouden worden alle transacties op minstens twee verschillende manieren geadministreerd. Elke transactie wordt geboekt op zowel de debet- als creditkant, op een of meer grootboekrekeningen. Het gevolg hiervan is dat het eindresultaat aan zowel de debet- als creditkant gelijk moet zijn, zodat beide zijden in balans zijn.
 
@@ -37,16 +37,16 @@ Curq hanteert het concept van dubbel boekhouden. Bij dubbel boekhouden worden al
 .. toctree::
     :maxdepth: 2
 
-   Beginnen_met_boekhouden/boekhouding_starten
-   Belastingen/belastingen
-   Verkoopfacturen/verkoopfacturen
-   Leveranciersfacturen/leveranciersfacturen
-   Abonnementen/verkoopcontracten
-   Betalingen/betalingen
-   Bankrekeningen/bankrekeningen
-   activa_beheer
-   Rapportages/rapportages
-   Betalingscondities
-   Prijslijsten
-   Valuta
-   kilometerregistratie
+    Beginnen_met_boekhouden/boekhouding_starten
+    Belastingen/belastingen
+    Verkoopfacturen/verkoopfacturen
+    Leveranciersfacturen/leveranciersfacturen
+    Abonnementen/verkoopcontracten
+    Betalingen/betalingen
+    Bankrekeningen/bankrekeningen
+    activa_beheer
+    Rapportages/rapportages
+    Betalingscondities
+    Prijslijsten
+    Valuta
+    kilometerregistratie

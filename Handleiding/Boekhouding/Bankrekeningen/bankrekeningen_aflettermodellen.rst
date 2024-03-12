@@ -1,6 +1,6 @@
 
 Aflettermodellen
-----
+---------------------------------------------------------------------------------------------------
 Met aflettermodellen kun je het proces van afletteren verder automatiseren. Curq heeft zelf een aantal standaard aflettermodellen
 ingericht, je vind deze onder menu 'afletterregels'.
 
@@ -28,7 +28,7 @@ Je kunt met 3 doeleinden een afletter regel aanmaken:
        :height: 2.93264in
 
 Uitleg velden aflettermodel
-----
+---------------------------------------------------------------------------------------------------
 
 **Dagboek beschikbaarheid** 
 

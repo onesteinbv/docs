@@ -1,5 +1,5 @@
 Bank
-----
+====================================================================
 
 Het bankboek fungeert als een gedetailleerd financieel dagboek waarin alle banktransacties worden vastgelegd, waaronder stortingen, opnames en afschrijvingen. Het zorgvuldig bijhouden van deze transacties via het bankboek biedt niet alleen de mogelijkheid om financiële bewegingen nauwkeurig te monitoren, maar speelt tevens een cruciale rol bij het vaststellen van budgetten en het analyseren van uitgavenpatronen.
 
@@ -60,8 +60,8 @@ Op het tabblad "Geavanceerde instellingen" kun je de volgende instellingen confi
 .. toctree::
     :maxdepth: 2
 
-       bankrekeningen_afletteren
-       bankrekeningen_aflettermodellen
-       bankrekeningen_importeren_afschrift
-       bankrekeningen_mollie_synchroniseren
-       bankrekeningen_myponto
+    bankrekeningen_afletteren
+    bankrekeningen_aflettermodellen
+    bankrekeningen_importeren_afschrift
+    bankrekeningen_mollie_synchroniseren
+    bankrekeningen_myponto

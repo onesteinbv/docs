@@ -1,9 +1,9 @@
-================================================
+====================================================================
 Odoo 15 Membership Module
-================================================
-----------------------------------------------------------
+====================================================================
+---------------------------------------------------------------------------------------------------
 How to configure and register using the Membership Module
-----------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 
 Author: Richard Varghese, Angelene Naidoo
@@ -68,7 +68,7 @@ Date: 2023-03-24
 `5.3 Convert member into Employee 39 <#convert-member-into-employee>`__
 
 Introduction
-================================================
+====================================================================
 
 The membership module is created to enable individuals to register on
 platforms, join communities and/or organizations. The membership module
@@ -88,10 +88,10 @@ assigned tasks, and do general expense reimbursement for their project
 work.
 
 1. Configuration
-================================================
+====================================================================
 
 1.1 Create Job Position
------------------------
+---------------------------------------------------------------------------------------------------
 
 Roles supported: Administrator/ Employees officer group rights
 
@@ -125,7 +125,7 @@ Roles supported: Administrator/ Employees officer group rights
    :height: 3.69375in
 
 **1.2 Set up Job Stages**
--------------------------
+---------------------------------------------------------------------------------------------------
 
 1.2.1 Administrator Access (Debug mode)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -161,7 +161,7 @@ mode) is needed.
    :height: 2.90556in
 
 **1.3 Membership Section and Mailing List**
--------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 Connect to the membership section (Area of interest) to a mailing list.
 
@@ -188,7 +188,7 @@ Roles supported: Administrator/Email marketing
 -  Check ´Is Public´
 
 |image1|
---------
+---------------------------------------------------------------------------------------------------
 
 For more information on creating mailing lists refer to the
 documentation on Email Marketing.
@@ -378,7 +378,7 @@ Roles supported: Administrator/Settings
 -  |image3|\ Check Enabled on shop
 
 1.4 Membership Products
-------------------------
+---------------------------------------------------------------------------------------------------
 
 Roles supported: Administrator/Membership Manager
 
@@ -458,14 +458,14 @@ configure a subscription product.
    :height: 3.15069in
 
 2. Registering as a New Member
-================================================
+====================================================================
 
 Use the URL: https://{**domain**}/membership-registration.
 
 .. _section-4:
 
 |image4|
---------
+---------------------------------------------------------------------------------------------------
 
 .. _section-5:
 
@@ -505,7 +505,7 @@ If the email ID is already registered it will prompt with an alert.
    :height: 1.98264in
 
 **2.1 Free Membership**
------------------------
+---------------------------------------------------------------------------------------------------
 
 The new Free Member will receive an Email.
 
@@ -539,7 +539,7 @@ The user is then granted access to the portal.
    :height: 2.36528in
 
 **2.2 Premium Membership**
---------------------------
+---------------------------------------------------------------------------------------------------
 
 When user presses Send on registration page they are taken to a payment
 page. As Premium Members enter verified payment information, no
@@ -550,7 +550,7 @@ verification email is needed.
    :height: 3.05in
 
 **3. Intake process**
-================================================
+====================================================================
 
 Roles supported: Administrator/ Employees officer
 
@@ -613,7 +613,7 @@ Roles supported: Administrator/ Employees officer
    :height: 1.15625in
 
 4. User Settings
-================================================
+====================================================================
 
 Roles supported: Administrator/Settings
 
@@ -653,10 +653,10 @@ Roles supported: Administrator/Settings
    :height: 3.64097in
 
 5. Creating members/employees from contact
-================================================
+====================================================================
 
 5.1 Create a contact
----------------------
+---------------------------------------------------------------------------------------------------
 
 -  Go to Contacts ,Click on Create
 
@@ -669,7 +669,7 @@ Roles supported: Administrator/Settings
 -  Save the record.
 
 5.2 Convert contact into member
--------------------------------
+---------------------------------------------------------------------------------------------------
 
 We can convert a newly created contact or an existing contact (Which is
 not a member) into a member by opening the relevant contact, going into
@@ -708,7 +708,7 @@ membership tab and click on “Buy Membership” as shown in the screenshot
    :height: 4.97569in
 
 **5.3 Convert member into Employee**
-------------------------------------
+---------------------------------------------------------------------------------------------------
 
 Go into Action → Click on Grant Portal Access. This would make members
 portal users of the system.

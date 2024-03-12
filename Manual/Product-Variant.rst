@@ -1,9 +1,9 @@
-================================================
+====================================================================
 Product Variants Manual
-================================================
-----------------------------------------------------------
+====================================================================
+---------------------------------------------------------------------------------------------------
 How to configure Product Variants
-----------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 
 Author: Angelene Naidoo
@@ -30,7 +30,7 @@ Table of Contents
 15 <#a-discounts-on-product-variants>`__
 
 1) How to upgrade Quantity
-================================================
+====================================================================
 
 Use the URL https://nwb-onestein.smoose.org/web/login
 
@@ -80,7 +80,7 @@ Select ´Update Quantity´. Enter the new quantity and click Apply.
 |image1|\ The user can now see the new changes.
 
 **2) How to add a Product Variant** 
-================================================
+====================================================================
 
 Activate variant option by navigating to Settings at the bottom of the
 left panel. Inside the Inventory Section, click the ´Variants´ checkbox.
@@ -101,7 +101,7 @@ The process is first the user needs to define the variant, and then add
 the variant.
 
 2a) Define a Product Variant
-----------------------------
+---------------------------------------------------------------------------------------------------
 
 Navigate to ´Configuration´ on the menu bar at the top of the page, and
 select ´Attributes´ from the drop-down bar.
@@ -119,7 +119,7 @@ Variant Value (Example: White). Click Save.
    :height: 3.14375in
 
 2b) Add a Product Variant 
---------------------------
+---------------------------------------------------------------------------------------------------
 
 Navigate back to the Product page and select the product. Click Edit. Go
 to ´Attributes & Variants´ and ´Add a Line´.
@@ -143,7 +143,7 @@ visible on the website page.
    :height: 3.0125in
 
 3) How to create and maintain a Pricelist for a Product Variant 
-================================================
+====================================================================
 
 Navigate to Product on the menu bar. The drop-down box should now have
 ´Product Variants´ as an option.
@@ -204,10 +204,10 @@ prices for the different variants.
 .. _section-1:
 
 |image2|
-========
+====================================================================
 
 4) How to add Discounts on Products 
-================================================
+====================================================================
 
 Navigate to Settings, the Website Section and click the checkbox for
 ´Advanced Price Rules´ and ´Discounts´. Click Save.
@@ -242,7 +242,7 @@ Click ´Go to Website´ to confirm the discount price is displayed.
    :height: 3.37431in
 
 4a) Discounts on Product Variants 
-----------------------------------
+---------------------------------------------------------------------------------------------------
 
 Navigate to Settings, the Website Section and click the checkbox for
 ´Advanced Price Rules´ and ´Discounts´. Click Save.

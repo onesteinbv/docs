@@ -2,7 +2,7 @@ In dit onderdeel geven we een korte uitleg waar de balans en de verlies en winst
 
 
 Introductie Balans
-----
+---------------------------------------------------------------------------------------------------
 De **Balans** is een momentopname van de financiën van het bedrijf op een specifieke datum (in tegenstelling tot de Winst- en Verliesrekening, die een analyse is over een periode).
 
 •    **Activa** vertegenwoordigen het vermogen van het bedrijf en de goederen die het bezit. Vaste activa omvatten gebouwen
@@ -22,7 +22,7 @@ Er wordt onderscheid gemaakt tussen activa en kosten:
 •	Een kostenpost zijn de operationele kosten die een bedrijf draagt om inkomsten te genereren. Het betreft zowel kosten die gemaakt zijn t.b.v de inkoopwaarde van de omzet als ook kosten als bijvoorbeeld R&D, personeels -en transportkosten.
 
 Introductie Verlies en Winst
-----
+---------------------------------------------------------------------------------------------------
 Wat is een winst en verliesrekening?
 De winst en verliesrekening laat het resultaat van een bedrijf zien voor een bepaalde periode. Hieruit kan je opmaken of er winst of verlies is gemaakt, zoals de naam ook aangeeft. In dit overzicht neem je de opbrengsten minus de kosten, waarna er vervolgens per saldo een winst of verliessaldo resulteert. De winst- en verliesrekening behoort bij de jaarcijfers van een bedrijf. De balans vormt hier ook een onderdeel van.
 
@@ -60,7 +60,7 @@ Kort samengevat wordt het resultaat bepaalt met de volgende formule:
 **Bedrijfsresultaat na belasting** = Netto omzetresultaat - overige lasten en opbrengsten - belastingen
 
 Grootboek
-----
+---------------------------------------------------------------------------------------------------
 Het grootboek bevat alle grootboek rekeningen van het bedrijf: zowel balansrekeningen als resultatenrekeningen. Elke transactie wordt geregistreerd door meerdere rekeningen te debiteren en crediteren in een journaalpost. Binnen Curq maken we gebruik van een gestandaardiseerd grootboekschema (RGS). 
 
 Elke rekening die in het grootboek staat, behoort tot een specifieke categorie. In Odoo heeft elke rekening een unieke code en behoort tot een van deze categorieën:
@@ -72,5 +72,6 @@ Elke rekening die in het grootboek staat, behoort tot een specifieke categorie. 
 •    **Kortlopende verplichtingen** zijn financiële verplichtingen van een bedrijf die binnen één jaar moeten worden voldaan. Een voorbeeld van een kortlopende verplichting is het geld dat aan leveranciers verschuldigd is in de vorm van crediteuren.
 •	**Bank- en kasrekeningen**. Een bankrekening is een financiële rekening die wordt bijgehouden door een bank of andere financiële instelling waarin de financiële transacties tussen de bank en een klant worden geregistreerd. Een kasrekening, of kasboek, kan verwijzen naar een grootboek waarin alle kastransacties worden geregistreerd. De kasrekening omvat zowel de kasontvangst- als de kasbetalingjournaals.
 •	**Kosten en inkomsten**. Kostenposten zijn de operationele kosten die een bedrijf draagt om inkomsten te genereren. Het is eenvoudig gedefinieerd als de kosten die moeten worden gemaakt om iets te verkrijgen. Gangbare kosten zijn leveranciersbetalingen, salarissen van werknemers, huur van fabrieken en afschrijving van apparatuur.
+
 De term "inkomen" verwijst over het algemeen naar het bedrag aan geld, eigendommen en andere overdrachten van waarde die gedurende een bepaalde periode worden ontvangen in ruil voor diensten of producten.
 

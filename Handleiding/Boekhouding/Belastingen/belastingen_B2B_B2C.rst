@@ -1,5 +1,5 @@
 Belastingen B2C en B2B
-======================
+====================================================================
 
 Als bedrijf opereer je vaak binnen twee verschillende modellen: B2C of B2B.
 
@@ -16,7 +16,7 @@ In essentie draait het bij B2C om de verkoop aan individuele consumenten, terwij
 Curq ondersteunt beide manieren om de BTW toe te passen. Het is het eenvoudigst als je slechts één van de twee modellen gebruikt. Echter, als je in een gemengde vorm werkt, dien je specifieke instellingen te configureren. In dit geval zullen we ons beperken tot de modellen B2C en B2B, aangezien een gemengde vorm complex is en het beheer ervan foutgevoelig kan zijn.
 
 B2C
----
+---------------------------------------------------------------------------------------------------
 Voor B2C worden de prijzen meestal inclusief BTW weergegeven. Stel, je verkoopt jouw product voor €100,- en er wordt 21% BTW over gerekend, dan ziet de consument €121,-. Dit is het uiteindelijke bedrag dat de consument moet afrekenen.
 
 Met de volgende instellingen kun je jouw omgeving configureren voor B2C. Ga naar Instellingen > Facturatie > BTW. Zorg ervoor dat je bij de algemene BTW-instelling een BTW-code met inclusief BTW kiest voor **Verkoop BTW**.
@@ -33,7 +33,7 @@ Ook op je facturen en verkooporders zal je nu op de regels het bedrag inclusief 
 .. image:: Media/belastingen_b2c_b2b003.png
 
 B2B
----
+---------------------------------------------------------------------------------------------------
 Voor B2B worden de prijzen meestal exclusief BTW weergegeven. Stel, je verkoopt jouw product voor €100,- en er wordt 21% BTW over gerekend, dan ziet jouw klant €100,- + €21,-. Jouw klant betaalt uiteindelijk €121,- en door de splitsing weet jouw klant wel bedrag hij kan opgeven aan de belastingdienst.
 
 Met de volgende instellingen kun je jouw omgeving configureren voor B2B. Ga naar Instellingen > Facturatie > BTW. Zorg ervoor dat je bij de algemene BTW-instelling een BTW-code met exclusief BTW kiest voor **Verkoop BTW**.

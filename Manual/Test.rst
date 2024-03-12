@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to Onestein's documentation!
-================================================
+====================================================================
 
 ..toc tree::
    :maxdepth: 2
@@ -12,13 +12,13 @@ Welcome to Onestein's documentation!
    :this: that
 
 Indices and tables
-================================================
+====================================================================
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
 
-======
+====================================================================
 
 * This is a bulleted list.
 * It has two items, the second
@@ -30,12 +30,12 @@ Indices and tables
 #. This is a numbered list.
 #. It has two items too.
 
-========
+====================================================================
 
 1234567890
-==========
+====================================================================
 abcdefg
--------
+---------------------------------------------------------------------------------------------------
 
 term (up to a line of text)
    Definition of the term, which must be indented

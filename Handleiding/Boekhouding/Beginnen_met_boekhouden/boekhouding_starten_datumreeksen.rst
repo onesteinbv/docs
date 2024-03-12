@@ -1,10 +1,10 @@
 Datumreeksen
-============
+====================================================================
 
 Curq is volledig gebaseerd op datums in de administratie, zonder gebruik te maken van specifieke boekhoudperiodes. In plaats daarvan worden datumreeksen ingezet om zowel de invoer als het genereren van overzichten te vergemakkelijken. Deze benadering biedt flexibiliteit en gestructureerd beheer van financiële informatie.
 
 Datumreeksen beheren
---------------------
+---------------------------------------------------------------------------------------------------
 
 Curq zal jaarlijks automatisch de datumreeksen met maanden, kwartalen en jaren bijwerken. Gebruikers hebben ook de mogelijkheid om deze reeksen handmatig te beheren. Om toegang te krijgen tot de beheersfunctie, is het noodzakelijk om eerst de ontwikkelaarsmodus in te schakelen. Datumreeksen kunnen worden aangepast via Instellingen > Technisch > Datumreeksen.
 
@@ -25,7 +25,7 @@ In dit venster kun je direct de gegevens aanpassen of klikken op [NIEUW] om een 
     De onderstaande secties zijn uitsluitend bedoeld voor situaties waarin afwijkende configuraties vereist zijn. De meeste bedrijven zullen hier geen behoefte aan hebben.
 
 Datumreekssoorten beheren
--------------------------
+---------------------------------------------------------------------------------------------------
 
 Via Instellingen > Technisch > Datumreekssoorten kun je verschillende soorten configureren die van toepassing zijn op jouw datumreeksen of die gebruikt kunnen worden bij het genereren ervan.
 
@@ -47,7 +47,7 @@ Op tabblad [Generatie] kun je de configuratie wijzigen voor het automatisch gene
 - **Aanmaken:** Hier kun je aangeven hoe ver van tevoren een reeks moet worden aangemaakt.
 
 Genereer Datumreeksen
----------------------
+---------------------------------------------------------------------------------------------------
 
 Als je een groot aantal reeksen tegelijk wilt genereren, kun je gebruikmaken van de optie om een datumreeks te laten genereren. Ga hiervoor naar Instellingen > Technisch > Genereer Datumreeksen.
 

@@ -1,12 +1,12 @@
 Webdomein instellen
-==================
+====================================================================
 
 In Curq biedt de 'Website' module een krachtige functionaliteit waarmee je de mogelijkheid hebt om meerdere websites te beheren binnen één Curq-instantie. Deze functionaliteit is buitengewoon handig voor bedrijven en organisaties die diverse online aanwezigheden willen onderhouden zonder de complexiteit van afzonderlijke installaties te beheren.
 
 Een belangrijk concept binnen de context van Curq is het gebruik van 'domeinen' bij het beheren van één of meerdere websites. Het kan zijn dat er al een bestaande website bestaat of dat je begint met de website in Curq. Voor beide geldt dat uiteindelijk het domein van de website ingesteld moet worden. We nemen de belangrijkste stappen met je door. 
 
 Set-up Curq
------------
+---------------------------------------------------------------------------------------------------
 
 Via Website - Configuratie - Instellingen, kom je bij de settings om je website(s) te beheren.
 
@@ -21,7 +21,7 @@ Via Website - Configuratie - Instellingen, kom je bij de settings om je website(
 .. image:: Webdomein_instellen/Webdomein_instellen002.png
 
 Redirect oude URL
------------------
+---------------------------------------------------------------------------------------------------
 
 Deze stap geldt enkel als je een bestaande website wilt omzetten naar Curq. Om te zorgen dat oude 'links' van de website blijven werken is het verstandig om deze te koppelen aan de nieuwe URL's in Curq. Een voorbeeld:  stel je hebt een webpagina over verkoop & CRM op je huidige website > https://onestein.nl/oplossingen/verkoop-en-crm.  In Curq zou de opzet van het menu anders kunnen zijn waarbij de juiste pagina https://onestein.nl/solutions/crm-en-sales is.  Wat je wilt voorkomen is dat een klant die de oude website pagina heeft opgeslagen of eventueel voorkomt in een blog, etc, wordt doorgeleid naar een 404 pagina. De oplossing is om deze redirects alvast klaar te zetten zodat na de omzetting van de DNS server, de redirects geactiveerd kunnen worden.
 
@@ -44,7 +44,7 @@ Bij actie heb je een 4-tal mogelijkheden:
 In de praktijk wordt de 308-redirect vaak gebruikt in situaties waarbij het belangrijk is dat de oorspronkelijke HTTP-methode behouden blijft. Dit is vooral van belang bij het omleiden van formulieren of bij andere interactieve verzoeken waarbij de HTTP-methode van belang is.
 
 Set-up DNS Server
------------------
+---------------------------------------------------------------------------------------------------
 
 Als je inlogt bij je eigen domeinprovider, dan heb je een optie om je DNS gegevens in te stellen of te wijzigen.  Onderstaand heb ik een voorbeeld genomen van 'mijndomein'. 
 
@@ -54,7 +54,7 @@ In bovenstaand voorbeeld dien je het IP adres van Curq in te stellen > **217.20.
 Klik vervolgens op 'Opslaan' om de wijziging te bewaren. De omzetting kan normaliter maximaal 1 uur duren voordat het is omgezet.
 
 De laatste stappen
-------------------
+---------------------------------------------------------------------------------------------------
 
 1. Vul nu het domein in zoals beschreven in **Set-up Curq.**
 2. Exporteer alle redirect regels om deze in 1 x op 'Actief' te zetten. Als het goed is staan er geen regels bij redirects. Deze staan op 'Gearchiveerd'

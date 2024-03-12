@@ -1,5 +1,5 @@
 Verkoopfacturen - Creditnota
-============================
+====================================================================
 
 Het opstellen van een creditnota speelt een cruciale rol in het financiële beheer van een bedrijf. Dit document draagt bij aan de financiële organisatie en heeft diverse nuttige toepassingen die bijdragen aan het beheer van de financiën. Laten we enkele van deze essentiële aspecten nader bekijken:
 
@@ -10,7 +10,7 @@ Af en toe maken we vergissingen bij het opstellen van bonnetjes. Het kan zijn da
 Af en toe wensen mensen een aankoop terug te sturen of hun bestelling te annuleren. In dergelijke gevallen is het belangrijk om ervoor te zorgen dat de financiële transactie ook wordt aangepast. Een creditnota fungeert als een soort bonnetje dat aangeeft dat ze een terugbetaling ontvangen of dat de betaling wordt gewijzigd.
 
 Creditnota vanuit een verkoopfactuur
-------------------------------------
+---------------------------------------------------------------------------------------------------
 Om een correctie aan te brengen op een bestaande factuur binnen Curq, is het eenvoudig een creditnota te genereren vanuit de desbetreffende verkoopfactuur. Je kunt de bestaande verkoopfactuur openen via Facturatie > Klanten > Facturen. Bovenaan de factuur kun je met de knop [MAAK CREDITFACTUUR] snel de creditnota aanmaken.
 
 .. image:: Media/verkoopfacturen_creditnota001.png
@@ -32,7 +32,7 @@ Na het activeren van de knop, verschijnt er een pop-upvenster met aanvullende op
 Afhankelijk van de geselecteerde opties zal Curq je automatisch doorverwijzen naar de creditnota of nieuwe factuur. Je hebt dan de mogelijkheid om de creditnota/verkoopfactuur te bevestigen en naar je klant te verzenden.
 
 Aparte Creditnota
------------------
+---------------------------------------------------------------------------------------------------
 
 Je hebt nog steeds de optie om een afzonderlijke creditnota te genereren. Dit kan bijvoorbeeld van toepassing zijn op meerdere facturen of op specifieke afspraken tussen jou en de klant. Een aparte creditnota maak je aan via Facturatie > Klanten > Creditfacturen.
 

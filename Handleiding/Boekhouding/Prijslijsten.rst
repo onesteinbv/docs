@@ -1,5 +1,5 @@
 Prijslijsten
-============
+====================================================================
 
 Prijslijsten zijn noodzakelijk wanneer groepen klanten aangepaste prijzen moeten krijgen. Denk hierbij aan kortingen zoals loyaliteitskorting of Black Friday-kortingen. 
 
@@ -18,7 +18,7 @@ Om naar de pagina met prijslijsten te gaan, selecteer je in de instellingen de -
 .. image:: Prijslijsten/Prijslijsten004.png
   
 Meerdere prijzen per product
-----------------------------
+---------------------------------------------------------------------------------------------------
 De optie Meerdere prijzen per product is ideaal wanneer er eenvoudig en snel tijdelijke wijzigingen moeten worden aangebracht aan een aantal specifieke producten. 
 Op de nieuwe prijslijstpagina zijn verschillende opties aanwezig. Geef de prijslijst een naam; dit is verplicht om de prijslijst op te slaan. Selecteer hierna de valuta waarin de prijslijst wordt weergegeven; dit is voorgeselecteerd als de standaard valuta. 
 Onder het kopje Prijsregels kunnen de artikelen worden geselecteerd waarvoor een andere prijs moet worden ingesteld.
@@ -30,24 +30,27 @@ Onder Configuratie zijn enkele opties aanwezig. Onder Beschikbaarheid staat de o
 Onder het kopje 'Website' staan drie opties:
 
 * **Website:**
+
 voor welke website de prijslijst geldt.
 
 * **Kiesbaar:**
+
 of de klant de prijslijst in de webshop kan selecteren.
 
 * **E-commerce promotiecode:**
+
 de code die een klant kan invullen op de webshop om toegang te krijgen tot de prijslijst.
 
 .. image:: Prijslijsten/Prijslijsten006.png
 
 Geavanceerde prijsstelling
---------------------------
+---------------------------------------------------------------------------------------------------
 De geavanceerde prijsstellingsoptie is bedoeld voor complexere prijslijsten, zoals kortingen voor alle producten of wanneer de nieuwe prijs moet worden gedefinieerd via een formule. 
 
 In deze optie ziet de pagina er hetzelfde uit als in de Meerdere prijzen per product-optie. Het verschil wordt merkbaar wanneer Regel toevoegen wordt geselecteerd; er verschijnt nu een pop-up menu met verschillende opties.
 
 Prijsberekening
----------------
+---------------------------------------------------------------------------------------------------
 
 De bewerkingsoptie bepaalt wat de regel aan de prijs aanpast. Er zijn drie opties: vaste prijs, korting en formule. Onder Vaste prijs wordt de prijs aangepast naar de opgegeven prijs, hetzelfde als bij de Meerdere prijzen per product-optie.
 
@@ -67,7 +70,7 @@ Het laatste vlak, marges, kan een minimum- en maximumwinstmarge worden ingesteld
 .. image:: Prijslijsten/Prijslijsten009.png
 
 Voorwaarden
------------
+---------------------------------------------------------------------------------------------------
 
 Onder voorwaarden staan drie velden. 
 

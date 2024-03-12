@@ -1,5 +1,5 @@
 Spreiden van omzet
-===================
+====================================================================
 
 Uitgestelde opbrengsten, ook wel bekend als "deferred revenue" in het Engels, verwijzen naar ontvangen betalingen voor goederen of diensten die nog niet zijn geleverd of voltooid. In boekhoudkundige termen worden uitgestelde opbrengsten behandeld als verplichtingen totdat de bijbehorende goederen of diensten zijn geleverd.
 
@@ -15,7 +15,7 @@ Voorbeeld: Laten we aannemen dat je een jaarabonnement van €1200 vooruit factu
     Dit proces wordt in de financiële wereld op verschillende manieren aangeduid. Naast transitorisch boeken wordt het ook wel permanence boekhouden of uitgestelde opbrengsten genoemd. 
 
 Sjablonen voor spreiden van omzet configureren
------------------------------------------------
+---------------------------------------------------------------------------------------------------
 Je kunt een voorgedefinieerd sjabloon voor spreiding aanmaken via het menu Facturatie > Configuratie > Spreidingsjablonen. Dit sjabloon stelt je in staat om de juiste instellingen te definiëren wanneer je een spreiding wilt uitvoeren of een factuurregel wilt koppelen. Op basis van deze instellingen berekent en boekt Curq vervolgens de juiste gegevens in.
 
 .. image:: Media/verkoopfacturen_omzetspreiding001.png
@@ -36,7 +36,7 @@ Je kunt een voorgedefinieerd sjabloon voor spreiding aanmaken via het menu Factu
 .. image:: Media/verkoopfacturen_omzetspreiding002.png
 
 Verkoopfactuur omzet spreiden
------------------------------
+---------------------------------------------------------------------------------------------------
 We hebben de mogelijkheid om de omzet van een verkoopfactuur direct over meerdere maanden te spreiden. Deze spreiding wordt gekoppeld aan de factuurregel. Let op: spreiding is alleen mogelijk als de factuur zich nog in conceptstatus bevindt. Klik op het icoontje met de ronde pijl om deze regel te spreiden.
 
 .. image:: Media/verkoopfacturen_omzetspreiding003.png
@@ -54,7 +54,7 @@ In het nieuwe scherm krijg je een aantal opties te zien:
 Afhankelijk van je keuze bij **Spreiding Actie Type** worden verschillende opties weergegeven. Alleen bij de optie “Nieuwe Spreidingstabel” moet je je eigen omzet grootboekrekening, balansrekening en dagboek invoeren. Zodra je een optie hebt gekozen en bevestigd, word je doorgeleid naar het scherm van een Spreidingstabel.
 
 Spreidingstabel
----------------
+---------------------------------------------------------------------------------------------------
 Een spreidingstabel is de concrete verdeling van de omzet. Deze tabellen worden automatisch gegenereerd vanuit de factuur of kunnen handmatig worden aangemaakt. Je kunt alle spreidingstabellen terugvinden onder Facturatie > Boekhouding > Spreiding Kosten/Omzet.
 
 .. image:: Media/verkoopfacturen_omzetspreiding005.png

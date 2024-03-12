@@ -1,5 +1,5 @@
 Website
-=======
+====================================================================
 
 Binnen de Curq-omgeving is het moeiteloos om een volledige en professionele website te creëren met behulp van thema's en de intuïtieve bouwer die pagina's opbouwt met bouwblokken. Met de website-applicatie kun je niet alleen je eigen webshop opzetten, maar ook blogs starten en bijhouden, vacatures plaatsen, evenementen adverteren, en nog veel meer.
 

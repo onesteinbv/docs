@@ -1,5 +1,5 @@
 Betalingscondities
-==================
+====================================================================
 
 Betalingscondities zijn opties voor wanneer een betaling moet worden afgerond. Dit kan per direct zijn, na een maand, aan het einde van de volgende maand of vele andere mogelijkheden. Om naar de betalingsconditiepagina te gaan, navigeer naar de facturatie/boekhoudingsmodule. Selecteer hier onder configuratie 'betalingscondities'.
 

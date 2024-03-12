@@ -1,5 +1,5 @@
 Algemene Voorwaarden
-====================
+====================================================================
 
 Het is belangrijk om de regels en voorwaarden duidelijk op te stellen, zodat belangrijke zaken in een contract worden vastgelegd. Denk hierbij aan hoe om te gaan met retourzendingen en terugbetalingen, garanties en service na verkoop. Door deze voorwaarden helder te formuleren, weten zowel jij als de klant wat te verwachten staat, en dit helpt geschillen te voorkomen.
 
@@ -8,7 +8,7 @@ Een handige manier om deze voorwaarden te delen is door standaardteksten of link
 Daarnaast helpt het vermelden van deze voorwaarden in alle relevante documenten om een gestroomlijnd en consistent beleid binnen je bedrijf te creëren. Het geeft niet alleen duidelijkheid aan klanten, maar fungeert ook als leidraad voor je team bij het afhandelen van verschillende zakelijke transacties. Regelmatige herziening van de voorwaarden is slim om ervoor te zorgen dat ze up-to-date zijn en voldoen aan eventuele wettelijke vereisten of veranderingen in bedrijfspraktijken. Zo blijf je juridisch compliant en kunnen klanten met vertrouwen blijven zaken doen met jouw bedrijf.
 
 Instellingen
-------------
+---------------------------------------------------------------------------------------------------
 
 Je vindt de configuratieopties voor algemene voorwaarden onder Instellingen > Facturatie > Sectie Klantfacturen - Standaard algemene voorwaarden.
 
@@ -23,7 +23,7 @@ Je vindt de configuratieopties voor algemene voorwaarden onder Instellingen > Fa
 .. image:: Media/verkoopfacturen_algemene_voorwaarden003.png
 
 Verkoopfacturen
----------------
+---------------------------------------------------------------------------------------------------
 
 Bij het creëren van een verkoopfactuur wordt de standaardtekst van de algemene voorwaarden automatisch weergegeven onderaan de factuur. Uiteraard heb je de vrijheid om deze tekst aan te passen als je specifieke voorwaarden wilt toepassen op een bepaalde factuur.
 

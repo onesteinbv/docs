@@ -1,9 +1,9 @@
-================================================
+====================================================================
 Odoo 15 Project Management
-================================================
-----------------------------------------------------------
+====================================================================
+---------------------------------------------------------------------------------------------------
 Project Management Configuration
-----------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 
 Author: Richard Varghese, Angelene Naidoo
@@ -41,7 +41,7 @@ Table of Contents
 `3.3 Fill Time-sheets 23 <#fill-time-sheets>`__
 
 Introduction
-================================================
+====================================================================
 
 The membership module is created to enable individuals to register on
 platforms, join communities and/or organizations. The membership module
@@ -55,10 +55,10 @@ published on the website with a project image, description, list of
 members and member image/information.
 
 **1 Assign Member to Project** 
-================================================
+====================================================================
 
 1.1 Create Project 
--------------------
+---------------------------------------------------------------------------------------------------
 
 Roles supported: Administrator/ Project administrator
 
@@ -71,7 +71,7 @@ Roles supported: Administrator/ Project administrator
    :height: 2.3125in
 
 1.2 Create Project Roles
-------------------------
+---------------------------------------------------------------------------------------------------
 
 Roles supported: Administration/settings
 
@@ -106,7 +106,7 @@ Roles supported: Administration/settings
    :height: 1.84931in
 
 1.3 Connect Project role to Project & member
---------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 Roles supported: Administrator/ Project Administrator
 
@@ -132,7 +132,7 @@ member select Assignments.
    :height: 3.86319in
 
 1.4 Create Project Categories
------------------------------
+---------------------------------------------------------------------------------------------------
 
 Roles supported: Administrator/ Project Administrator
 
@@ -161,7 +161,7 @@ the project Green Energy.
    :height: 1.83125in
 
 2 Publish Project / Categories / Members
-================================================
+====================================================================
 
 Roles supported: Administrator/ Project Administrator
 
@@ -207,7 +207,7 @@ Roles supported: Administrator/ Project Administrator
    :height: 3.26042in
 
 2.1 Publish **Categories**
---------------------------
+---------------------------------------------------------------------------------------------------
 
 -  Navigate to Project >> Configuration >> Project Categories
 
@@ -224,7 +224,7 @@ Roles supported: Administrator/ Project Administrator
    :height: 3.61458in
 
 2.\ **2** Publish member 
--------------------------
+---------------------------------------------------------------------------------------------------
 
 Roles supported: Administrator/Settings
 
@@ -266,10 +266,10 @@ For members who do not want to be published at the time of registration:
    :height: 2.56875in
 
 3 Create/Assign Tasks to Members 
-================================================
+====================================================================
 
 3.1 User Settings
------------------
+---------------------------------------------------------------------------------------------------
 
 Roles supported: Administrator/Settings
 
@@ -307,7 +307,7 @@ Roles supported: Administrator/Settings
    :height: 3.64097in
 
 **3.2 Create and Assign Task**
-------------------------------
+---------------------------------------------------------------------------------------------------
 
 Roles supported: Administrator/ Project Manager can create tasks for all
 member. Members (internal user) can only create their own tasks.
@@ -353,7 +353,7 @@ are invited to, their tasks and time-sheets.
    :height: 4.175in
 
 3.3 Fill Time-sheets 
----------------------
+---------------------------------------------------------------------------------------------------
 
 Roles supported: Member (can only edit their time-sheets)/ Project
 Administrator

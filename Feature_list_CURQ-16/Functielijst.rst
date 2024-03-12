@@ -1,9 +1,9 @@
-================================================
+====================================================================
 functionaliteiten lijst
-================================================
+====================================================================
 
 Algemeen
-=======
+====================================================================
 
 **Complete ERP-oplossing**
 
@@ -33,6 +33,7 @@ Uw omgeving wordt geleverd met SSL-certificaten inbegrepen voor uw subdomein.
 **Mogelijkheid om klantendomein te koppelen**
 
 | Koppel moeiteloos uw eigen domein aan uw unieke omgeving.
+
 *Op dit moment handmatig behandeld.*
 
 **Geen leveranciersvergrendeling**
@@ -55,7 +56,7 @@ De nieuwste module-upgrades van Odoo/OCA zullen altijd beschikbaar zijn
 ISO 27001-certificering voor IT-beveiligingsbeheer. We weken al volgens de ISO methodiek en plannen jaarlijks te worden auditeerd voor ISO 27001.
 
 Ondersteuning
-=======
+====================================================================
 
 **Technische ondersteuning**
 *geplanned*
@@ -86,7 +87,7 @@ Elke twee jaar worden de exemplaren geüpgraded naar de nieuwste versies van Odo
 Raadpleeg onze verschillende instructiedocumenten over de verschillende functies binnen Curq op docs.onestein.eu.
 
 Boekhouding
-================================================
+====================================================================
 
 **Transacties**
 
@@ -95,6 +96,7 @@ Ondersteunt vreemde valuta met automatische bijwerking van koersen.
 **RGS grootboekrekening**
 
 | Grootboekschema gebaseerd op RGS standaard 
+
 (https://www.referentiegrootboekschema.nl/)
 
 **Bankrekeningen**
@@ -132,7 +134,7 @@ Directe connectie met Europese bank voor periodiek updaten van valutakoersen.
 Beheer uw betalingsmogelijkheden via Mollie en andere providers.
 
 Discussie
-=========
+====================================================================
 
 **Discussies**
 
@@ -148,7 +150,7 @@ Neem deel aan videoconferenties via integratie met externe bronnen zoals Jitsi.
 Wordt volger van onderdelen als klant-, order- of factuurgegevens en krijg automatisch updates van wijzigingen.
 
 Dashboards
-==========
+====================================================================
 
 **Dashboards**
 
@@ -159,14 +161,14 @@ Pas uw persoonlijke dashboard aan via de rapportagemogelijkheden in de meeste Cu
 Exporteer uw diagrammen en spreadsheets gemaakt via de rapportagemogelijkheid in verschillende formaten.
 
 OCA Apps
-========
+====================================================================
 
 **Geïnstalleerde apps**
 
 Bekijk de lijst met geïnstalleerde applicaties.
 
 CRM
-===
+====================================================================
 
 **Pipeline**
 
@@ -185,7 +187,7 @@ Analyse van uw pijplijn, leads en activiteiten.
 Maak en beheer verkoopteams, teamleden, activiteit typen, terugkerende plannen, pijplijnfasen, labels, redenen van verlies van de kans, partnerniveaus en partneractivering.
 
 Agenda
-================================================
+====================================================================
 
 **Plannen**
 
@@ -194,6 +196,7 @@ Plan en beheer vergaderingen en taken.
 **Nextcloud-integratie**
 
 | Koppel uw Nextcloud-agenda met Curq om al uw verschillende activiteiten bij te houden. Let op: slechts één agenda kan per gebruiker worden gekoppeld.
+
 *Optimalisatie voor het gebruik van de caldev-module is in behandeling.*
 
 **Herinneringen**
@@ -201,14 +204,14 @@ Plan en beheer vergaderingen en taken.
 Stel herinneringen in voor evenementen en taken.
 
 Contacten
-================================================
+====================================================================
 
 **Contacten**
 
 Voeg verschillende contacten toe en beheer ze, zowel zakelijk als privé, voeg hun contactgegevens, bankgegevens en voorkeuren toe.
 
 E-mailmarketing
-================================================
+====================================================================
 
 **Campagnes**
 
@@ -219,7 +222,7 @@ Plan en voer e-mailmarketingcampagnes uit met een zelf in te richten stappenplan
 Maak en beheer e-maillijsten via de Curq klantendatabase of vanuit een import van nieuwe e-mail adressen.
 
 Medewerkers
-================================================
+====================================================================
 
 **Werknemer**
 
@@ -234,7 +237,7 @@ Plan activiteiten voor medewerkers, inclusief onboarding en offboarding.
 Pas gamification toe zoals uitdagingen, badges en doelen.
 
 Evenementen
-================================================
+====================================================================
 
 **Evenementen**
 
@@ -261,7 +264,7 @@ Publiceer evenementpagina's op uw website.
 Genereer rapporten over evenementdeelnemers en inkomsten.
 
 Declaraties
-================================================
+====================================================================
 
 **Declaraties**
 
@@ -272,7 +275,7 @@ Registreer en beheer uw declaraties, upload bonnetjes, geef goedkeuringen en cat
 Genereer declaratie overzichten.
 
 Voorraad
-=========
+====================================================================
 
 **Levering**
 
@@ -296,7 +299,7 @@ Beheer de operaties binnen uw magazijnen, zoals: aanpassingen van de voorraad, d
 Genereer rapporten over locaties, geschiedenis van verplaatsingen, voorraad, voorraadverplaatsingen en waardering.
 
 Leden
-=========
+====================================================================
 
 **Lidmaatschapsproducten**
 
@@ -331,7 +334,7 @@ Genereer rapporten over de activiteiten van uw leden, de verschillende lidmaatsc
 Integreert en rapporteert activiteiten in git repositories. Deze functie kan worden geactiveerd voor organisaties die met softwareontwikkelaars werken.
 
 Project
-=======
+====================================================================
 
 **Projecten**
 
@@ -354,7 +357,7 @@ Organiseer uw projecten en taken in verschillende fasen en definieer uw proces m
 Bekijk de tijdlijn die is ingesteld voor uw projecten in een kalenderweergave met toegewezen uren en deadlines.
 
 Urenstaten
-==========
+====================================================================
 
 **Urenregistratie**
 
@@ -373,7 +376,7 @@ Genereer facturen op basis van de ingediende uren.
 Genereer rapporten over urenregistratie.
 
 Inkoop
-========
+====================================================================
 
 **Producten**
 
@@ -388,7 +391,7 @@ Beheer en organiseer uw leveranciersgegevens, hun producten en bestellingen.
 Genereer rapporten met betrekking tot inkoop.
 
 Werving
-================================================
+====================================================================
 
 **Sollicitaties**
 
@@ -403,7 +406,7 @@ Definieer de recruiters en hun afdelingen voor het wervingsproces.
 Houd bij waar uw sollicitanten uw sollicitaties vinden, zoals de website of LinkedIn.
 
 Verkoop
-=====
+====================================================================
 
 **Producten**
 
@@ -434,7 +437,7 @@ Beheer klantorders, offertes en verkoopteams.
 Genereer rapporten met betrekking tot verkoop, facturatie en orders voor up-selling.
 
 Enquêtes
-========
+====================================================================
 
 **Enquêtes**
 
@@ -445,7 +448,7 @@ Maak en beheer feedbackformulieren, certificeringen. Gebruik de module bij live 
 Stel vragen en geef suggesties voor antwoorden zodat Curq hiermee enquêtes kan genereren.
 
 Website
-=======
+====================================================================
 
 **Websites**
 
@@ -493,7 +496,7 @@ Genereer rapporten voor online verkopen, paginaweergaven en aantal bezoekers.
 Stel een aangepaste URL in en de beschikbare talen op uw websites.
 
 Infrastructuur
-================================================
+====================================================================
 
 **Volledig open source**
 
@@ -520,7 +523,7 @@ Geeft beheerders en wederverkopers toegang tot meerdere exemplaren met een enkel
 Start automatisch een exemplaar om nieuwe functies te testen rechtstreeks vanuit het openbare git-repository.
 
 Instellingen
-========
+====================================================================
 
 **Gamification**
 

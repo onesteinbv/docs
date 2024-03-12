@@ -1,10 +1,10 @@
 Kilometerregistratie
-----
+====================================================================
 
 Deze module is een uitbreiding op de Wagenpark module en geeft de gebruiker de mogelijkheid om zakelijke ritten te registreren en te declareren. De module is gebaseerd op de Nederlandse belastingregels, maar kan ook worden gebruikt voor kilometerregistratie in het algemeen. In Nederland is het soms nodig om ook de privékilometers te registreren, vandaar dat we het (niet verplichte) veld 'Is privérit' hebben toegevoegd. Deze module verbindt de wagenparkmodule met de onkostenmodule.
 
 Voorbereidingen
-----
+---------------------------------------------------------------------------------------------------
 Om met de module te kunnen werken dien je de volgende zaken in te richten:
 
 - Bij menu werknemers maak je een werknemer aan en koppel je je gebruikersaccount aan de werknemer. 
@@ -34,7 +34,7 @@ Aanmaken voertuig
        :height: 2.93264in
 
 Invulscherm kilometerregistratie
-----
+---------------------------------------------------------------------------------------------------
 
 We hebben nieuwe velden toegevoegd aan het menu 'Kilometerregistratie'.
 
@@ -65,7 +65,7 @@ Invoerscherm kilometer registratie
        :height: 2.93264in
 
 Kilometers doorbelasten
-----
+---------------------------------------------------------------------------------------------------
 
 Vanuit de lijstweergave kun je de regels doorbelasten die de status 'Te declareren' hebben. Je selecteert deze regels, en declareert ze vervolgens via de actieknop. Curq zal de regels per onkosten declaratiecategorie doorbelasten naar de declaratiemodule. De status van de kilometer regels verandert vervolgens naar 'Gedeclareerd'.
 
