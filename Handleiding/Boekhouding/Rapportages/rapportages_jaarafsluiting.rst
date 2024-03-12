@@ -58,11 +58,11 @@ Als alles hierboven klaar is, kunnen we de volgende stappen uitvoeren, eventueel
 
 **Sluit de periode (datum) voor BTW en andere boekingen:** Sluit de BTW-datum af via Facturatie > Boekhouding > Update vergrendelingsdatum. Vul de "Datum belastingvergrendeling" in voor de aangifteperiode om te voorkomen dat er na die datum nog boekingen met facturen worden gemaakt. Op deze manier blijven de cijfers voor de BTW-aangifte ongewijzigd. Daarnaast blokkeer je tevens de mogelijkheid om andere boekingen te maken door een datum in te voeren bij "Blokkeerdatum voor Niet-Financiële Managers gebruiker".
 
-.. image:: Rapportages/rapportages_jaarafsluiting001.png
+.. image:: Media/rapportages_jaarafsluiting001.png
 
 **Stel de Balans en Winst & Verlies:** De Balans en de Winst & Verlies-rapporten zijn essentieel bij het afsluiten van het boekjaar. Je kunt deze rapporten raadplegen door naar Facturatie > Mis Rapportage > Mis Rapporten te gaan. Een gedetailleerde uitleg over het gebruik van de MIS Rapporten is beschikbaar in de handleiding voor MIS Rapportages.
 
-.. image:: Rapportages/rapportages_jaarafsluiting002.png
+.. image:: Media/rapportages_jaarafsluiting002.png
 
 **Maak correctieboekingen:** De accountant zal de gehele boekhouding inspecteren en eventuele fouten rectificeren door middel van een memoriaalboeking of, indien haalbaar, door aanpassingen aan de boekingen.
 
