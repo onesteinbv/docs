@@ -20,7 +20,7 @@ Curq ondersteunt meerdere bestandsformaten om transacties te importeren:
 
 Om een bestand te importeren, ga je naar het Boekhouddashboard en klik in het Bankjournaal op de knop 'Import (OCA)'.
 
-.. image:: My-Ponto-Bank-Feed-Media/banktransacties_importeren.png
+.. image:: Media/banktransacties_importeren.png
        :width: 6.3in
        :height: 2.93264in
 
@@ -45,7 +45,7 @@ Afschriften maken vanuit de afletter weergave
 
 Open de bankafletter weergave door op de naam van het bankjournaal te klikken en zoek de transactie die overeenkomt met de laatste transactie van je bankafschrift. Klik op de knop 'Aanmaken' om een nieuwe transactieregel handmatig aan te maken.
 
-.. image:: My-Ponto-Bank-Feed-Media/banktransacties_handmatig_aanmaken.png
+.. image:: Media/banktransacties_handmatig_aanmaken.png
        :width: 6.3in
        :height: 2.93264in
 
