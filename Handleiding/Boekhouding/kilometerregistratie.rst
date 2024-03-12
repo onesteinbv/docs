@@ -17,19 +17,19 @@ Om met de module te kunnen werken dien je de volgende zaken in te richten:
 
 Werknemer
 
-.. image:: My-Ponto-Bank-Feed-Media/km_invulscherm_medewerker.png
+.. image:: Kilometerregistratie/km_invulscherm_medewerker.png
        :width: 6.3in
        :height: 2.93264in
 
 Declaratiecategorie
 
-.. image:: My-Ponto-Bank-Feed-Media/km_invulscherm_declaratie.png
+.. image:: Kilometerregistratie/km_invulscherm_declaratie.png
        :width: 6.3in
        :height: 2.93264in
 
 Aanmaken voertuig
 
-.. image:: My-Ponto-Bank-Feed-Media/km_invulscherm_auto.png
+.. image:: Kilometerregistratie/km_invulscherm_auto.png
        :width: 6.3in
        :height: 2.93264in
 
@@ -60,7 +60,7 @@ We hebben nieuwe velden toegevoegd aan het menu 'Kilometerregistratie'.
 
 Invoerscherm kilometer registratie
 
-.. image:: My-Ponto-Bank-Feed-Media/km_invulscherm_kilometers.png
+.. image:: Kilometerregistratie/km_invulscherm_kilometers.png
        :width: 6.3in
        :height: 2.93264in
 
@@ -69,7 +69,7 @@ Kilometers doorbelasten
 
 Vanuit de lijstweergave kun je de regels doorbelasten die de status 'Te declareren' hebben. Je selecteert deze regels, en declareert ze vervolgens via de actieknop. Curq zal de regels per onkosten declaratiecategorie doorbelasten naar de declaratiemodule. De status van de kilometer regels verandert vervolgens naar 'Gedeclareerd'.
 
-.. image:: My-Ponto-Bank-Feed-Media/km_kilometer_declaratie.png
+.. image:: Kilometerregistratie/km_kilometer_declaratie.png
        :width: 6.3in
        :height: 2.93264in
 
