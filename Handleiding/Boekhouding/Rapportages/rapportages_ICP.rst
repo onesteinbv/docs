@@ -15,7 +15,7 @@ ICP aangifte aanmaken
 
 Na het indienen van een BTW-aangifte in Curq (is verstuurd), kun je de relevante informatie voor de ICP-opgaaf bekijken op het tabblad ICP Aangifte.
 
-.. image:: Rapportages/rapportages_ICP001.png
+.. image:: Media/rapportages_ICP001.png
 
 Klik op [Bijwerken] om de meest recente gegevens op te halen. Deze gegevens kun je vervolgens overnemen bij het invullen van de ICP-opgaaf bij de belastingdienst. Bevestig de aangifte zodra deze is ingediend bij de belastingdienst.
 
