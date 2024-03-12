@@ -50,7 +50,7 @@ Hier worden leveringscondities, fiscale positie, automatisch boeken en controle 
 - **Automatische boeken:** Alleen op een concept factuur kan dit worden ingesteld. Je kan een factuur al vooruit plannen om die later te laten boeken. Of je kan terugkerende facturen automatisch laten boeken tot een bepaalde tijd door Curq. Dit is handig als je elke maand dezelfde factuur wilt laten aanmaken.
 - **Te controleren:** De factuur krijgt de status te controleren. Je kan bijv. jouw boekhouder hiermee attenderen dat deze factuur nog een keer extra moet worden gecontroleerd.
 
-.. image::Media/Leveranciersfacturen005.png
+.. image:: Media/Leveranciersfacturen005.png
 
 Wanneer een factuur geüpload wordt verschijnt dezen aan de rechter kant van het scherm en kan de informatie direct overgenomen worden.
 
