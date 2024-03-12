@@ -27,11 +27,11 @@ Laten we een situatie als voorbeeld nemen:
  
 Vul de aangifte in voor de periode februari 2024.
 
-.. image:: Rapportages/rapportages_BTW_suppletie001.png
+.. image:: Media/rapportages_BTW_suppletie001.png
 
 Klik op [Bijwerken] om de gegevens van je aangifte op te halen. Op het tabblad "Historische niet aangegeven mutaties" kun je de oude facturen bekijken.
 
-.. image:: Rapportages/rapportages_BTW_suppletie002.png
+.. image:: Media/rapportages_BTW_suppletie002.png
 
 Met de **Vanaf Datum** kun je instellen vanaf wanneer Curq de facturen moet ophalen. Vervolgens kun je via de grote knop in het midden alle facturen meteen meenemen in de huidige aangifte. Als je slechts bepaalde facturen wilt toevoegen, kun je per regel op [Mutatie toevoegen] klikken. Mocht je een fout hebben gemaakt, dan kun je de factuur ook weer meteen verwijderen uit de aangifte.
 
