@@ -38,20 +38,20 @@ Als alternatief kun je de smart button gebruiken **Ontvangst**, om de details va
 Leveranciersfacturen
 ====================
 
-Binnen Odoo kun je leveranciersfacturen genereren op basis van de bestelde hoeveelheden en de geleverde hoeveelheden, conform het bedrijfsbeleid. Je kunt naar het menu "Instellingen" van de inkoopmodule gaan om de beleidsregels voor factuurcontrole in te stellen.
+Binnen Odoo kun je leveranciersfacturen genereren op basis van de bestelde hoeveelheden en de geleverde hoeveelheden, conform het bedrijfsbeleid. Je kunt naar het menu **Instellingen** van de inkoopmodule gaan om de beleidsregels voor factuurcontrole in te stellen.
 
 .. image:: Media/inkoop027.png
 
-Onder het tabblad 'Facturatie' heb je de optie 'Factuurcontrole'. Hiermee kun je instellen hoe facturen voor aankopen moeten worden gegenereerd. De optie die je hier instelt, zal dienen als het standaard facturering beleid voor alle producten. Later kun je het facturering beleid van een specifiek product wijzigen vanuit de formulierweergave.
+Onder het tabblad **Facturatie** heb je de optie *Factuurcontrole*. Hiermee kun je instellen hoe facturen voor aankopen moeten worden gegenereerd. De optie die je hier instelt, zal dienen als het standaard facturering beleid voor alle producten. Later kun je het facturering beleid van een specifiek product wijzigen vanuit de product settings. 
 
-Je hebt de keuze om facturen te genereren voor en na levering. Als je facturen wilt genereren voor alle bestelde hoeveelheden, kun je 'Bestelde hoeveelheden' selecteren als factuurcontrole. Hierdoor worden facturen gegenereerd voor alle hoeveelheden die in de inkooporder zijn vermeld. Als je echter 'Ontvangen hoeveelheden' selecteert, zal Odoo alleen factureren voor de hoeveelheden die daadwerkelijk zijn geleverd.
+Je hebt de keuze om facturen te genereren vóór en ná levering. Als je facturen wilt genereren voor alle bestelde hoeveelheden, kun je *Bestelde hoeveelheden* selecteren als factuurcontrole. Hierdoor worden facturen gegenereerd voor alle hoeveelheden die in de inkooporder zijn vermeld. Als je echter *Ontvangen hoeveelheden* selecteert, zal Odoo alleen factureren voor de hoeveelheden die daadwerkelijk zijn geleverd.
 
-Het is ook mogelijk om het controlebeleid in te stellen vanuit de productconfiguratie van elk product. Onder het tabblad 'Inkoop' vind je de relevante optie, zoals hieronder afgebeeld.
+Het is ook mogelijk om het controlebeleid in te stellen vanuit de productconfiguratie van elk product. Onder het tabblad **Inkoop** vind je de relevante optie, zoals hieronder afgebeeld.
 
 .. image:: Media/inkoop028.png
 
 Laten we nu bekijken hoe je een factuur voor een inkooporder genereert.
-Zodra je de inkooporder hebt bevestigd, krijg je de optie "Maak Factuur".
+Zodra je de inkooporder hebt bevestigd, krijg je de optie *Maak Factuur*.
 
 .. image:: Media/inkoop029.png
 
@@ -59,9 +59,9 @@ Wanneer je op deze knop klikt, opent zich een nieuw venster waar je de conceptve
 
 .. image:: Media/inkoop030.png
 
-De conceptfactuur bevat de gegevens van de leverancier, factuurreferentie, factuurdatum, betalingsreferentie, ontvangende bank, vervaldatum en valuta. 
+De conceptfactuur bevat de gegevens van de **leverancier, factuurreferentie, factuurdatum, betalingsreferentie, ontvangende bank, vervaldatum en valuta**. 
 
-Stel de factuurdatum in om een factuur te bevestigen. Aanvullende details zijn beschikbaar op de tabbladen Factuurregels en Overige info. Klik nu op de knop "Bevestigen". Je leveranciersfactuur is nu gereed voor betaling.
+Stel de factuurdatum in om een factuur te bevestigen. Aanvullende details zijn beschikbaar op de tabbladen **Factuurregels** en **Overige info**. Klik nu op de knop *Bevestigen*. Je leveranciersfactuur is nu gereed voor betaling.
 
 
 
