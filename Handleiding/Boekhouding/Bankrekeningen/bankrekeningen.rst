@@ -56,3 +56,12 @@ Op het tabblad "Geavanceerde instellingen" kun je de volgende instellingen confi
 - **Saldolijn toevoegen:** Voegt een extra regel toe aan het bankafschrift voor het saldo.
 - **Blokkeer datum:** Vergrendelt het dagboek volledig, zodat niemand wijzigingen kan aanbrengen na de opgegeven datum.
 - **Blokkeerdatum voor standaard gebruiker:** Alleen de facturatiebeheerder kan nog wijzigingen aanbrengen in dit dagboek. Dit is handig als de boekhouder wel wijzigingen mag aanbrengen, maar een standaard gebruiker niet.
+
+.. toctree::
+    :maxdepth: 2
+
+       bankrekeningen_afletteren
+       bankrekeningen_aflettermodellen
+       bankrekeningen_importeren_afschrift
+       bankrekeningen_mollie_synchroniseren
+       bankrekeningen_myponto
