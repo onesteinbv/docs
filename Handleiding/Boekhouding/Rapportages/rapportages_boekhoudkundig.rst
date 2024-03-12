@@ -24,13 +24,13 @@ Het is ook mogelijk het rapport via aanvullende filter regels samen te stellen. 
 
 
 
-.. image:: My-Ponto-Bank-Feed-Media/boekhoudrapportages_grootboek.png
+.. image:: Media/boekhoudrapportages_grootboek.png
        :width: 6.3in
        :height: 2.93264in
 
 Na maken van de selectie kun je vervolgens de detailinformatie van de regels inzien door op de velden te klikken die blauw gekleurd zijn. 
 
-.. image:: My-Ponto-Bank-Feed-Media/boekhoudrapportages_grootboek_resultaat.png
+.. image:: Media/boekhoudrapportages_grootboek_resultaat.png
        :width: 6.3in
        :height: 2.93264in
 
