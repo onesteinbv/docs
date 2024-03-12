@@ -132,31 +132,33 @@ Nadat deze functie is geactiveerd, vindt u een extra submenu 'Partij/serienummer
 
 Bij het openen ziet u de vooraf geconfigureerde lijst met partij- en serienummers. In de lijstweergave worden details weergegeven zoals het partij/serienummer, het interne referentienummer, het product en de aanmaakdatum. 
 
-.. image:: Product-Configuratie-Media/image29.png
-
 Om de traceerbaarheid van een product te bepalen, navigeert u naar het tabblad 'Voorraad' in de weergave van het product formulier.
 
-.. image:: Product-Configuratie-Media/image30.png
+.. image:: Product-Configuratie-Media/image29.png
+
 
 U kunt de traceerbaarheid instellen op basis van unieke serienummers of partijen. Als u geen traceerbaarheid voor het product wilt instellen, kunt u de optie 'Geen tracering' selecteren.
 
 Wanneer u een nieuw product ontvangt in de voorraad, kunt u een nieuw lot/serienummer toewijzen aan dat product. Dit kan worden gedaan voor een bevestigde inkooporder.
 
-.. image:: Product-Configuratie-Media/image31.png
+.. image:: Product-Configuratie-Media/image30.png
 
 Om een nieuw lot/serienummer aan een product toe te kennen, kunt u klikken op de knop 'Detail' op de inkooporder.
 
-.. image:: Product-Configuratie-Media/image32.png
+.. image:: Product-Configuratie-Media/image31.png
 
 In de pop-upvenster kan het lot/serienummer voor dit product worden toegevoegd. Er is een mogelijkheid om serienummers automatisch toe te wijzen, of deze handmatig in te stellen (regel toevoegen).
 
-.. image:: Product-Configuratie-Media/image33.png
+.. image:: Product-Configuratie-Media/image32.png
+
 
 Op het productblad is er een smartbutton 'Partijen/serienummers' beschikbaar waarbij u de voorraad op serienummer kan bekijken.
 
+.. image:: Product-Configuratie-Media/image33.png
+
 .. image:: Product-Configuratie-Media/image34.png
 
-.. image:: Product-Configuratie-Media/image35.png
+
 
 
 
