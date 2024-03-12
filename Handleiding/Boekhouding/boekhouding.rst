@@ -49,3 +49,4 @@ Curq hanteert het concept van dubbel boekhouden. Bij dubbel boekhouden worden al
    Betalingscondities
    Prijslijsten
    Valuta
+   kilometerregistratie
