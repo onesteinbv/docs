@@ -28,7 +28,7 @@ Het importeren van een .csv of .xls bestand is ook nog een alternatief voor de e
 Alle transactieregels zijn ook te benaderen via de drie
 puntjes rechts in de tegel:
 
-.. image:: Afletteren/media/image2.png
+.. image:: Media/image2.png
        :width: 6.3in
        :height: 2.93264in
 
@@ -36,7 +36,7 @@ puntjes rechts in de tegel:
   vooraf heeft geselecteerd voor afstemming. Je kunt het standaard filter uit de zoekbalk verwijderen om ook eerder afgeletterde
   transacties weer te geven.
 |
-.. image:: Afletteren/media/image3.png
+.. image:: Media/image3.png
        :width: 6.3in
        :height: 2.93264in
 
@@ -46,7 +46,7 @@ puntjes rechts in de tegel:
    Zorg er op dat moment altijd voor dat je eerst de verkeerd afgeletterde regels verwijderd. Je doet dit door die 
    regels in de prullenbak te gooien.
 
-.. image:: Afletteren/media/regels_verwijderen.png
+.. image:: Media/regels_verwijderen.png
        :width: 6.3in
        :height: 2.93264in
 
@@ -56,7 +56,7 @@ puntjes rechts in de tegel:
    BTW code kan toevoegen. Bij enkele scenario's is het belangrijk dat je duidelijk ziet dat de regel staat 
    aangeklikt. Wij geven dit per afletter scenario aan.
 
-.. image:: Afletteren/media/focus.png
+.. image:: Media/focus.png
        :width: 6.3in
        :height: 2.93264in
 
@@ -66,7 +66,7 @@ Afletteren van een volledig betaalde factuur
 ----
 Wanneer bij de gekozen transactieregel de klant of leverancier staat ingevuld, het bedrag overeenkomt met een openstaande post en het overeenkomstige factuurnummer vermeld staat in de label omschrijving, dan zal Curq de regel automatisch afletteren. Je kunt er voor kiezen ook deze laatste stap te automatiseren. Curq zal dan de gevonden regel direct bevestigen. Stel dit in bij de afletterregels.
 
-.. image:: Afletteren/media/image4.png
+.. image:: Media/image4.png
        :width: 6.3in
        :height: 2.93264in
 
@@ -81,27 +81,27 @@ Vervolgens kun je het restbedrag ook direct afboeken, je doet dit door de regel 
 schermvoorbeeld. Hiermee wordt de optie zichtbaar om de factuur op volledig betaald te zetten. Je kunt er vervolgens voor kiezen om het
 restbedrag af te schrijven op een andere grootboekrekening. Je kan hier of een aflettermodel voor gebruiken of de rekening handmatig op te zoeken.
 
-.. image:: Afletteren/media/rest_afboeken_1.png
+.. image:: Media/rest_afboeken_1.png
    :width: 6.69306in
    :height: 3.08125in
 
-.. image:: Afletteren/media/rest_afboeken_2.png
+.. image:: Media/rest_afboeken_2.png
    :width: 6.69306in
    :height: 3.08125in
 
-.. |image2| image:: Afletteren/media/image11.png
+.. |image2| image:: Media/image11.png
 
 Scenario 2: klant betaalt bijna de gehele factuur, maar een bedrag van een paar cent blijft open staan.
 Indien dit vaker voor komt dan kun je ervoor kiezen het standaard aflettermodel 'perfecte matching' iets aan te vullen. Wanneer je de tolerantie iets aanpast en vervolgens ook een grootboekrekening toevoegt aan het model, dan zal Curq automatisch het restverschil wegboeken.
 
-.. image:: Afletteren/media/Betalingsverschillen_afboeken.png
+.. image:: Media/Betalingsverschillen_afboeken.png
        :width: 6.3in
        :height: 2.93264in
 
 Scenario 3: klant betaalt meerdere facturen in 1 bedrag.
 in dit geval kun je de klant opzoeken en meerdere facturen achter elkaar aanklikken. Het kan zijn dat de klant ook een factuur betaalt die op een andere naam staat. Je kan een andere klant opzoeken en de openstaande post(en) toevoegen. In onderstaand schermvoorbeeld is eerst de factuur 1 voor klant 1 toegevoegd. Vervolgens is bij 'filter' gezocht op klant 2 en is een deel van factuur 2 aan de transactieregel toegevoegd.
 
-.. image:: Afletteren/media/meerdere_facturen.png
+.. image:: Media/meerdere_facturen.png
        :width: 6.3in
        :height: 2.93264in
 
@@ -109,7 +109,7 @@ Afletteren betaalregel zonder factuur
 ----
 Het kan voorkomen dat er een afschriftregel is met een betaling zonder onderliggende factuur. In dit scenario kun je op het tabblad handmatige werking zelf een grootboekrekening opzoeken.
 
-.. image:: Afletteren/media/handmatig_afletteren.png
+.. image:: Media/handmatig_afletteren.png
    :width: 6.69306in
    :height: 3.08125in
 
@@ -118,7 +118,7 @@ Afletteren betaalregel zonder factuur met BTW
 Het kan voorkomen dat er een afschriftregel is met een betaling zonder onderliggende factuur, maar wel met BTW. Na kiezen van de juiste kostenrekening is het vervolgens mogelijk om in het BTW veld de juiste BTW
 code te selecteren. Curq rekent dan automatisch de juiste bedragen uit. De extra regel die wordt aangemaakt voor verwerken van de BTW is terug te vinden op de BTW aangifte in de juiste rubriek.
 
-.. image:: Afletteren/media/btw_handmatige_betaling.png
+.. image:: Media/btw_handmatige_betaling.png
    :width: 6.69306in
    :height: 3.08125in
 
@@ -127,7 +127,7 @@ Afletteren verstuurde SEPA betaalbatch
 Wanneer je gebruikt maakt van de SEPA functionaliteit (waarmee je direct een set van inkoopfacturen aan de bank kan aanbieden), dan kun je de afschriftregel van deze betaling kiezen om alle inkoopfacturen van de batch in 1 keer af te handelen.
 Na selecteren van de transactieregel zoek je de juiste betaalbatch op en lettert hierop af.
 
-.. image:: Afletteren/media/SEPA_bankstatementline.png
+.. image:: Media/SEPA_bankstatementline.png
    :width: 6.69306in
    :height: 3.08125in
 
@@ -136,7 +136,7 @@ Terugdraaien aflettering
 Heb je een fout gemaakt, dan is het mogelijk om na bevestigen een
 afgeletterde regel terug te draaien. Klik hiervoor op de knop 'afletteren ongedaan maken'.
 
-.. image:: Afletteren/media/image8.png
+.. image:: Media/image8.png
    :width: 6.69306in
    :height: 3.08125in
 
@@ -147,7 +147,7 @@ Chatter
 ----
 De chatter fuctionaliteit is beschikbaar bij het afletteren van een regel. Hierdoor kun je direct een collega of een klant een bericht sturen bij een vraag over de betaalregel. Ook kun je in de chatter documenten koppelen.
 
-.. image:: Afletteren/media/Chatter_afletteren.png
+.. image:: Media/Chatter_afletteren.png
    :width: 6.69306in
    :height: 3.08125in
 
@@ -157,17 +157,17 @@ Wanneer je een extra controle wil uitvoeren op de af te letteren regel,
 dan kun je dat bij de regel aangeven met de knop ‘te controleren'. De na te kijken regel kan
 vervolgens op diverse plekken in de boekhouding nagekeken worden (zoals hieronder bij de boekingsregel).
 
-.. image:: Afletteren/media/image7.png
+.. image:: Media/image7.png
    :width: 6.69306in
    :height: 3.08125in
 
 Na controle van de regel klik je op ‘stel in als gecontroleerd’ om aan te geven dat de regel gecontroleerd is.
 
-.. image:: Afletteren/media/image10.png
+.. image:: Media/image10.png
    :width: 6.69306in
    :height: 3.08125in
 
-.. image:: Afletteren/media/image9.png
+.. image:: Media/image9.png
    :width: 6.69306in
    :height: 3.08125in
 
