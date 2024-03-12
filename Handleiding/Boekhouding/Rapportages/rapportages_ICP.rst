@@ -1,9 +1,9 @@
 ICP Aangifte
 ====================================================================
 
-Een Intracommunautaire Prestaties (ICP) opgaaf is een formulier dat ondernemers moeten invullen als ze spullen of diensten uitwisselen met bedrijven in de Europese Unie (EU). Het doel is om de belastingdienst te laten weten wat er gebeurt bij handel tussen bedrijven in verschillende EU-landen, vooral als het gaat om het leveren van spullen of diensten.
+Een Intracommunautaire Prestaties (ICP) opgaaf is een formulier dat ondernemers moeten invullen als ze goederen of diensten uitwisselen met bedrijven in de Europese Unie (EU). Het doel is om de belastingdienst te laten weten wat er gebeurt bij handel tussen bedrijven in verschillende EU-landen, vooral als het gaat om het leveren van goederen of diensten.
 
-Op dat formulier schrijf je dingen zoals welke spullen je hebt geleverd (ntracommunautaire leveringen ICL) of welke diensten je hebt verricht (ntracommunautaire diensten ICD). Dat helpt de belastingdienst om te weten waar ze de btw moeten innen. Het is belangrijk omdat het ervoor zorgt dat de regels voor btw op de juiste manier worden toegepast. Dus eigenlijk geeft de ICP-opgaaf een overzicht aan belastingautoriteiten van handel over grenzen heen en helpt ondernemers om hun transacties correct te melden.
+Op dat formulier schrijf je dingen zoals welke goederen je hebt geleverd (Intracommunautaire leveringen ICL) of welke diensten je hebt verricht (Intracommunautaire diensten ICD). Dat helpt de belastingdienst om te weten waar ze de btw moeten innen. Het is belangrijk omdat het ervoor zorgt dat de regels voor btw op de juiste manier worden toegepast. Dus eigenlijk geeft de ICP-opgaaf een overzicht aan belastingautoriteiten van handel over grenzen heen en helpt ondernemers om hun transacties correct te melden.
 
 Het indienen van zo'n ICP-opgaaf is niet alleen iets wat moet, het helpt ondernemers ook om geen problemen te krijgen met boetes en om de btw-regels goed te volgen. Door dit formulier regelmatig en correct in te vullen, zorgen ondernemers ervoor dat de btw-behandeling van hun transacties binnen de EU op orde is en dat ze zich aan de regels houden.
 
@@ -13,7 +13,7 @@ Het indienen van zo'n ICP-opgaaf is niet alleen iets wat moet, het helpt onderne
 ICP aangifte aanmaken
 ---------------------------------------------------------------------------------------------------
 
-Na het indienen van een BTW-aangifte in Curq (is verstuurd), kun je de relevante informatie voor de ICP-opgaaf bekijken op het tabblad ICP Aangifte.
+Nadat je een BTW-aangifte hebt ingediend in Curq (verzonden), kun je de benodigde informatie voor de ICP-opgaaf bekijken op het tabblad ICP-aangifte.
 
 .. image:: Media/rapportages_ICP001.png
 

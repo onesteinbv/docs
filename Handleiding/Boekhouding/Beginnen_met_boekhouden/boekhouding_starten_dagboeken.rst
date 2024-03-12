@@ -12,6 +12,9 @@ Bank
 
 Het bankboek fungeert als een gedetailleerd financieel dagboek waarin alle banktransacties worden vastgelegd, waaronder stortingen, opnames en afschrijvingen. Het zorgvuldig bijhouden van deze transacties via het bankboek biedt niet alleen de mogelijkheid om financiële bewegingen nauwkeurig te monitoren, maar speelt tevens een cruciale rol bij het vaststellen van budgetten en het analyseren van uitgavenpatronen.
 
+.. Note::
+    Een bankrekening moet worden toegevoegd via Facturatie > Configuratie > Voeg een bankrekening toe.
+
 De configuratie van het bankboek ziet er als volgt uit.
 
 .. image:: Media/boekhouding_starten_dagboeken002.png
@@ -31,7 +34,7 @@ De configuratie van het bankboek ziet er als volgt uit.
 - **Rekeningnummer:** Jouw bankrekeningnummer. Maak dit hier aan of koppel jouw rekening.
 - **Bank feeds:** Dit bepaalt de manier waarop bankafschriften worden ingelezen. 
   
- * Importeer(camt.053.001.02, camt.054.001.02): Handmatig importeren van een CAMT-bestand. Je kunt dit bestand bij de meeste banken downloaden.
+ * Importeer(TXT/CSV/XSLX, camt.053.001.02, camt.054.001.02): Handmatig importeren van een TXT, CSV, XLSX, CAMT-bestand. Je kunt dit bestand bij de meeste banken downloaden.
  * Nog niet gedefinieerd: Handmatig of nog onbekend.
  * Mollie Synchronization: Via Mollie payment provider. Meer informatie over Mollie vind je in de Mollie handleiding.
  * Online (OCA): Synchronisatie via een online dienst. In Nederland wordt Ponto gebruikt.
@@ -48,7 +51,6 @@ Op het tabblad "Geavanceerde instellingen" kun je de volgende instellingen confi
 
 .. image:: Media/boekhouding_starten_dagboeken005.png
 
-- **Toegestane rekeningen:** Bepaalt welke grootboekrekeningen mogen worden gebruikt in dit dagboek.
 - **Saldolijn toevoegen:** Voegt een extra regel toe aan het bankafschrift voor het saldo.
 - **Blokkeer datum:** Vergrendelt het dagboek volledig, zodat niemand wijzigingen kan aanbrengen na de opgegeven datum.
 - **Blokkeerdatum voor standaard gebruiker:** Alleen de facturatiebeheerder kan nog wijzigingen aanbrengen in dit dagboek. Dit is handig als de boekhouder wel wijzigingen mag aanbrengen, maar een standaard gebruiker niet.
@@ -72,7 +74,6 @@ Op het tabblad "Geavanceerde instellingen" kun je de volgende instellingen confi
 
 .. image:: Media/boekhouding_starten_dagboeken007.png
 
-- **Toegestane rekeningen:** Bepaalt welke grootboekrekeningen mogen worden gebruikt in dit dagboek.
 - **Saldolijn toevoegen:** Deze is niet van toepassing.
 - **Blokkeer datum:** Vergrendelt het dagboek volledig, zodat niemand wijzigingen kan aanbrengen na de opgegeven datum.
 - **Blokkeerdatum voor standaard gebruiker:** Alleen de facturatiebeheerder kan nog wijzigingen aanbrengen in dit dagboek. Dit is handig als de boekhouder wel wijzigingen mag aanbrengen, maar een standaard gebruiker niet.
@@ -100,7 +101,6 @@ De configuratie van het verkoopboek ziet er als volgt uit.
 
 .. image:: Media/boekhouding_starten_dagboeken009.png
 
-- **Toegestane rekeningen:** Bepaalt welke grootboekrekeningen mogen worden gebruikt in dit dagboek.
 - **Saldolijn toevoegen:** Deze is niet van toepassing.
 - **Blokkeer datum:** Vergrendelt het dagboek volledig, zodat niemand wijzigingen kan aanbrengen na de opgegeven datum.
 - **Blokkeerdatum voor standaard gebruiker:** Alleen de facturatiebeheerder kan nog wijzigingen aanbrengen in dit dagboek. Dit is handig als de boekhouder wel wijzigingen mag aanbrengen, maar een standaard gebruiker niet.
@@ -122,7 +122,6 @@ De configuratie van het verkoopboek ziet er als volgt uit.
   
 .. image:: Media/boekhouding_starten_dagboeken011.png
 
-- **Toegestane rekeningen:** Bepaalt welke grootboekrekeningen mogen worden gebruikt in dit dagboek.
 - **Saldolijn toevoegen:** Deze is niet van toepassing.
 - **Blokkeer datum:** Vergrendelt het dagboek volledig, zodat niemand wijzigingen kan aanbrengen na de opgegeven datum.
 - **Blokkeerdatum voor standaard gebruiker:** Alleen de facturatiebeheerder kan nog wijzigingen aanbrengen in dit dagboek. Dit is handig als de boekhouder wel wijzigingen mag aanbrengen, maar een standaard gebruiker niet.

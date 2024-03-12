@@ -32,12 +32,13 @@ Bankkoppeling
 
 * Vul daar het juiste rekeningnummer in. Kies dan voor 'Aanmaken en Bewerken'. In het nieuwe scherm vul je de resterende bankgegevens in.
 
-'Curq slaat automatisch de gegevens op bij elke wijziging. Je hoeft binnen Curq niet apart een gegeven op te slaan.'
+.. Note::
+    Curq slaat automatisch de gegevens op bij elke wijziging. Je hoeft binnen Curq niet apart een gegeven op te slaan.
 
 Belastingen configureren
 ---------------------------------------------------------------------------------------------------
 
-* Configureer de belastingen op basis van jouw locatie en bedrijfsactiviteiten. In Curq zijn de standaard BTW-codes al ingericht voor NL (hoog en laag), voor binnen de EU en voor buiten de EU. Je vindt de BTW-codes terug via Facturatie > Configuratie > BTW. Mocht je hier vragen over hebben, neem dan contact op met onze Curq Support Team.
+* Configureer de belastingen op basis van jouw locatie en bedrijfsactiviteiten. In Curq zijn de standaard BTW-codes al ingericht voor NL (hoog en laag), voor binnen de EU en voor buiten de EU. Je vindt de BTW-codes terug via Facturatie > Configuratie > BTW. Mocht je hier vragen over hebben, neem dan contact op met ons Curq Support Team.
 
 .. image:: Media/boekhouding_starten005.png
 
