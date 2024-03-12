@@ -14,60 +14,60 @@ Door het configureren van productcategorieën kunt u producten onderbrengen en g
 
 .. image:: Product-Configuratie-Media/image14.png
 
-In dit overzicht vindt u een aantal productcategorieën die standaard zijn geconfigureerd in de voorraadmodule. Met de knop 'Nieuw' kunt u gemakkelijk een nieuwe categorie aanmaken.
+In dit overzicht vindt u een aantal productcategorieën die standaard zijn geconfigureerd in de voorraadmodule. Met de knop *Nieuw* kunt u gemakkelijk een nieuwe categorie aanmaken.
 
 .. image:: Product-Configuratie-Media/image15.png
 
 .. image:: Product-Configuratie-Media/image16.png
 
-Stel een naam in voor de nieuwe categorie in de daarvoor bestemde ruimte. Indien deze categorie onder een hoofdcategorie valt, kunt u deze in het betreffende veld specificeren. De 'Forceer verwijderingsstrategie' definieert de strategie om een product van de bronlocatie te verwijderen. 
+Stel een naam in voor de nieuwe categorie in de daarvoor bestemde ruimte. Indien deze categorie onder een hoofdcategorie valt, kunt u deze in het betreffende veld specificeren. De *Forceer verwijderingsstrategie* definieert de strategie om een product van de bronlocatie te verwijderen. 
 
-FIFO (First in First Out):  producten die als eerste op voorraad zijn gezet worden als eerste uitgeleverd.
+**FIFO (First in First Out)**:  producten die als eerste op voorraad zijn gezet worden als eerste uitgeleverd.
 
-LIFO (Last in First Out):  producten die als laatste op voorraad zijn gezet worden als eerste uitgeleverd.
+**LIFO (Last in First Out)**:  producten die als laatste op voorraad zijn gezet worden als eerste uitgeleverd.
 
-Closest location: producten die het dichtst bij de doellocatie bevinden worden als eerste verplaatst.
+**Closest location**: producten die het dichtst bij de doellocatie bevinden worden als eerste verplaatst.
 
 
-De rekeningen die worden gebruikt bij het valideren van een klantfactuur en leveranciersfactuur kunnen respectievelijk worden gespecificeerd in de 'Omzetrekening' en 'Kostenrekening'. Op het tabblad 'Voorraadwaardering' kunt u de kosten berekeningsmethode definiëren die wordt gebruikt om de kosten van het product onder deze categorie te berekenen.
+De rekeningen die worden gebruikt bij het valideren van een klantfactuur en leveranciersfactuur kunnen respectievelijk worden gespecificeerd in de *Omzetrekening* en *Kostenrekening*. Op het tabblad *Voorraadwaardering* kunt u de kosten berekeningsmethode definiëren die wordt gebruikt om de kosten van het product onder deze categorie te berekenen.
 
-Standaardprijs: De kosten van de producten worden berekend op basis van de standaardprijs die is vastgesteld voor elk individueel product.
+**Standaardprijs**: De kosten van de producten worden berekend op basis van de standaardprijs die is vastgesteld voor elk individueel product.
 
-Gemiddelde kosten (AVCO): De kosten van de producten worden berekend op basis van het gewogen gemiddelde van de kosten.
+**Gemiddelde kosten (AVCO)**: De kosten van de producten worden berekend op basis van het gewogen gemiddelde van de kosten.
 
-First in First out (FIFO): De kostprijs van de producten wordt berekend op basis van het principe dat de producten die als eerste binnenkomen, ook als eerste het bedrijf verlaten.
+**First in First out (FIFO)**: De kostprijs van de producten wordt berekend op basis van het principe dat de producten die als eerste binnenkomen, ook als eerste het bedrijf verlaten.
 
-De voorraadwaardering kan worden ingesteld als Handmatig en Geautomatiseerd. Wanneer u de optie 'handmatig' selecteert, dienen de boekingen voor het waarderen van de inventaris handmatig te worden ingevoerd. Echter, bij de 'automatische' voorraadwaardering wordt automatisch een boekhoudkundige boeking aangemaakt voor de waardering van de inventaris zodra een product de inventaris binnenkomt of verlaat. Wanneer u kiest voor 'automatische' voorraadwaardering, worden er extra velden beschikbaar gesteld om de grootboekrekeningen en dagboek te definiëren. 
+De voorraadwaardering kan worden ingesteld als **Handmatig** en **Geautomatiseerd**. Wanneer u de optie *handmatig* selecteert, dienen de boekingen voor het waarderen van de inventaris handmatig te worden ingevoerd. Echter, bij de *automatische* voorraadwaardering wordt automatisch een boekhoudkundige boeking aangemaakt voor de waardering van de inventaris zodra een product de inventaris binnenkomt of verlaat. Wanneer u kiest voor *automatische* voorraadwaardering, worden er extra velden beschikbaar gesteld om de grootboekrekeningen en dagboek te definiëren. 
 
 .. image:: Product-Configuratie-Media/image17.png
 
-Voorraadwaarde rekening: Als geautomatiseerde voorraadwaardering is ingeschakeld voor een product, zal deze rekening de actuele waarde van de producten bevatten.
+**Voorraadwaarde rekening**: Als geautomatiseerde voorraadwaardering is ingeschakeld voor een product, zal deze rekening de actuele waarde van de producten bevatten.
 
-Voorraad dagboek: Dit is het rekening journaal waarin boekingen automatisch worden vastgelegd wanneer voorraadmutaties worden verwerkt, indien de voorraadwaardering geautomatiseerd is.
+**Voorraad dagboek**: Dit is het rekening journaal waarin boekingen automatisch worden vastgelegd wanneer voorraadmutaties worden verwerkt, indien de voorraadwaardering geautomatiseerd is.
 
-Voorraadtoename rekening: Tegenboekingen voor alle inkomende voorraad verplaatsingen worden geboekt op deze rekening, tenzij er een specifieke waardering rekening is ingesteld op de bronlocatie. Dit geldt als standaardinstelling voor alle producten in deze categorie, maar kan ook direct worden ingesteld voor elk product.
+**Voorraadtoename rekening**: Tegenboekingen voor alle inkomende voorraad verplaatsingen worden geboekt op deze rekening, tenzij er een specifieke waardering rekening is ingesteld op de bronlocatie. Dit geldt als standaardinstelling voor alle producten in deze categorie, maar kan ook direct worden ingesteld voor elk product.
 
-Voorraadafname rekening: Bij geautomatiseerde voorraadwaardering worden tegenboekingen voor alle uitgaande voorraadmutaties geboekt op deze rekening, tenzij er een specifieke waarderingsrekening is ingesteld op de bestemmingslocatie.
+**Voorraadafname rekening**: Bij geautomatiseerde voorraadwaardering worden tegenboekingen voor alle uitgaande voorraadmutaties geboekt op deze rekening, tenzij er een specifieke waarderingsrekening is ingesteld op de bestemmingslocatie.
 
-Nadat de configuratie van de nieuwe productcategorie is voltooid, krijgt u toegang tot de slimme knop 'Producten' om de producten onder deze categorie te bekijken. 
+Nadat de configuratie van de nieuwe productcategorie is voltooid, krijgt u toegang tot de slimme knop *Producten* om de producten onder deze categorie te bekijken. 
 
 -------------------
 Productverpakkingen
 -------------------
 
-De Voorraad module biedt een optie om methoden te definiëren voor het verpakken van de producten en het bijhouden van hun locatie. Verpakkingen zijn essentieel voor het veilig transporteren van producten. In de Voorraadmodule kunt u twee soorten verpakkingsmethoden definiëren. U kunt meerdere verpakkingen maken voor één product, of één verpakking voor verschillende producten.
+De Voorraad module biedt een optie om methoden te definiëren voor het verpakken van de producten en het bijhouden van hun locatie. In de Voorraadmodule kunt u twee soorten verpakkingsmethoden definiëren. U kunt meerdere verpakkingen maken voor één product, of één verpakking voor verschillende producten.
 
-Om toegang te krijgen tot de instellingen van verpakkingen, navigeert u naar menu 'Instelingen' van de module. Activeer vervolgens de optie 'Verpakkingen' op het tabblad 'Bewerkingen' en de optie 'Productverpakkingen' op het tabblad 'Producten', zoals te zien is in de onderstaande schermafbeeldingen.
+Om toegang te krijgen tot de instellingen van verpakkingen, navigeert u naar menu **Instelingen** van de module. Activeer vervolgens de optie *Verpakkingen* op het tabblad *Bewerkingen* en de optie *Productverpakkingen* op het tabblad **Producten**, zoals te zien is in de onderstaande schermafbeeldingen.
 
 .. image:: Product-Configuratie-Media/image18.png
 
 .. image:: Product-Configuratie-Media/image19.png
 
-Hier worden de opties 'Verpakkingen' en 'Productverpakkingen' gebruikt voor verschillende functies. De optie 'Verpakkingen' wordt gebruikt om verpakkingen te definiëren voor verschillende producten, terwijl 'Productverpakkingen' u helpen bij het verpakken van verschillende hoeveelheden van hetzelfde product. Laten we deze opties in detail bekijken.
+Hier worden de opties *Verpakkingen* en *Productverpakkingen* gebruikt voor verschillende functies. De optie *Verpakkingen* wordt gebruikt om verpakkingen te definiëren voor verschillende producten, terwijl *Productverpakkingen* u helpen bij het verpakken van verschillende hoeveelheden van hetzelfde product. Laten we deze opties in detail bekijken.
 
 Verpakkingen
 ------------
-Zodra de functie 'Verpakkingen' is geactiveerd vanuit het menu "Instellingen", vindt u het submenu 'Verpakkingen' onder het menu "Producten". Hier kunt u reeds aangemaakte pakketten bekijken.
+Zodra de functie *Verpakkingen* is geactiveerd vanuit het menu "Instellingen", vindt u het submenu 'Verpakkingen' onder het menu "Producten". Hier kunt u reeds aangemaakte pakketten bekijken.
 
 Om een nieuwe verpakking aan te maken, kunt u de knop "Nieuw" gebruiken. Dit opent een nieuw formulier zoals hieronder weergegeven.
 
