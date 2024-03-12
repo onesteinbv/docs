@@ -41,3 +41,11 @@ Curq hanteert het concept van dubbel boekhouden. Bij dubbel boekhouden worden al
    Belastingen/belastingen
    Verkoopfacturen/verkoopfacturen
    Leveranciersfacturen/leveranciersfacturen
+   Abonnementen/verkoopcontracten
+   Betalingen/betalingen
+   Bankrekeningen/bankrekeningen
+   activa_beheer
+   Rapportages/rapportages
+   Betalingscondities
+   Prijslijsten
+   Valuta
