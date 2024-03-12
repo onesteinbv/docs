@@ -7,13 +7,13 @@ Het Mollie dagboek maak je aan via menufunctie Boekhouding -> Configuratie -> Vo
 
 In het nieuwe dagboek kies je vervolgens bij 'bank feeds' voor 'Mollie synchronisatie'.
 
-.. image:: My-Ponto-Bank-Feed-Media/bankrekeningen_mollie_sync.png
+.. image:: Media/bankrekeningen_mollie_sync.png
        :width: 6.3in
        :height: 2.93264in
 
 In dit scherm geef je ook de Mollie Organisation Access Token in. Dit is niet de live API key zoals Mollie dit in haar eigen handleiding vermeld, maar je dient hiervoor zelf een key aan te maken onder het onderdeel Organisation Access Tokens. In dit scherm kies je voor de payment opties lezen en schrijven, hierna maak je de sleutel aan. 
 
-.. image:: My-Ponto-Bank-Feed-Media/bankrekeningen_mollie_sync_token.png
+.. image:: Media/bankrekeningen_mollie_sync_token.png
        :width: 6.3in
        :height: 2.93264in
 
