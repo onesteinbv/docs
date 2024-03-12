@@ -5,19 +5,19 @@ In Curq kunnen bankafschriften worden gesynchroniseerd met je bank via de MyPont
 
 **Koppelen banknummer**: Standaard hebben we 1 bank geconfigureerd in Curq. Voeg je bankrekening toe, zoals getoond in onderstaand voorbeeld. Activeer ook de optie (OCA)Online, hiermee activeer je de optie voor bank synchronisatie.
 
-.. image:: My-Ponto-Bank-Feed-Media/Bank_1.png
+.. image::     Media/bankrekeningen_myponto001.png
        :width: 6.3in
        :height: 2.93264in
 
 Wanneer je extra banknummers wil toevoegen, doe dit dan via menufunctie 'Facturatie'-> 'Configuratie'-> 'Voeg een bankrekening toe'. Je hoeft alleen je banknummer in te geven, Curq zal bij opslaan een nieuw dagboek aanmaken en alle gegevens direct goed invullen. Er is wel een controle of het IBAN nummer dat wordt ingevoerd, correct is, maar dit is alleen een controle.
 
-.. image:: My-Ponto-Bank-Feed-Media/Bank_2.png
+.. image:: Media/bankrekeningen_myponto002.png
        :width: 6.3in
        :height: 2.93264in
 
 Wanneer je een bankrekening hebt met een andere valuta dan EUR (de basisvaluta in Curq), dan kun je een bankjournaal koppelen aan de andere valuta. Activeer eerst de valuta via onderstaand menu.
 
-.. image:: My-Ponto-Bank-Feed-Media/valuta.png
+.. image:: Media/bankrekeningen_myponto003.png
 
 Stappen om de verbinding te maken op MyPonto.
 -------
@@ -32,15 +32,15 @@ Stappen om de verbinding te maken op MyPonto.
 5. Als resultaat zie je de klant- en geheime id. Deze
    informatie later nodig in Curq.
 
-.. image:: My-Ponto-Bank-Feed-Media/image1.png
+.. image:: Media/bankrekeningen_myponto004.png
        :width: 6.3in
        :height: 2.93264in
 
-.. image:: My-Ponto-Bank-Feed-Media/image2.png
+.. image:: Media/bankrekeningen_myponto005.png
        :width: 6.3in
        :height: 2.93264in
 
-.. image:: My-Ponto-Bank-Feed-Media/image3.png
+.. image:: Media/bankrekeningen_myponto006.png
        :width: 6.3in
        :height: 2.93264in
 
@@ -67,28 +67,28 @@ Configuratie in Curq
 
 10. De banktransacties worden op de achtergrond vervolgens iedere dag automatisch opgehaald
 
-.. image:: My-Ponto-Bank-Feed-Media/image4.png
+.. image:: Media/bankrekeningen_myponto007.png
        :width: 6.3in
        :height: 2.90069in
 
-.. image:: My-Ponto-Bank-Feed-Media/image5.png
+.. image:: Media/bankrekeningen_myponto008.png
        :width: 6.3in
        :height: 2.90069in
 
-.. image:: My-Ponto-Bank-Feed-Media/image6.png
+.. image:: Media/bankrekeningen_myponto009.png
        :width: 6.3in
        :height: 2.90069in
 
-.. image:: My-Ponto-Bank-Feed-Media/image7.png
+.. image:: Media/bankrekeningen_myponto010.png
        :width: 6.3in
        :height: 2.90069in
 
-.. image:: My-Ponto-Bank-Feed-Media/image8.png
+.. image:: Media/bankrekeningen_myponto011.png
        :width: 6.3in
        :height: 2.90069in
 
 
 
-    .. image:: My-Ponto-Bank-Feed-Media/image9.png
+    .. image:: Media/bankrekeningen_myponto012.png
        :width: 5.50833in
        :height: 0.78333in
