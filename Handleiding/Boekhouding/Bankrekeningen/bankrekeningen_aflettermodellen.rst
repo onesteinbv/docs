@@ -15,7 +15,7 @@ Je kunt met 3 doeleinden een afletter regel aanmaken:
 3. Als je automatisch inkoop-en of verkoopfacturen wil matchen en door
    Curq wil laten afletteren. Optie 3 wordt standaard in Curq toegepast.
 
-.. image:: Afletteren/media/image5.png
+.. image:: Media/image5.png
        :width: 6.3in
        :height: 2.93264in
 
@@ -23,7 +23,7 @@ Je kunt met 3 doeleinden een afletter regel aanmaken:
   Wanneer je te maken krijgt met kleine betalingsverschillen op facturen dan kun je die middels een aanpassing aan het standaard aflettermodel standaard wegboeken.
   In onderstaand voorbeeld staat dat bij een afwijking onder de 5 cent het verschil automatisch op een verschillenrekening wordt weggeboekt.
 
-.. image:: Afletteren/media/aflettermodellen_betalingsverschillen.png
+.. image:: Media/aflettermodellen_betalingsverschillen.png
        :width: 6.3in
        :height: 2.93264in
 
@@ -58,7 +58,7 @@ Gebruik deze optie als je specifiek op een vaste omschrijving of tekst wil zoeke
 
 Met deze regel kun je een aflettermodel specifiek voor een klant of leverancier maken.
 
-.. image:: Afletteren/media/aflettermodellen_velden.png
+.. image:: Media/aflettermodellen_velden.png
        :width: 6.3in
        :height: 2.93264in
 
