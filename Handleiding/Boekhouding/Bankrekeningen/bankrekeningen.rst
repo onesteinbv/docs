@@ -8,17 +8,17 @@ Belangrijk om te weten is dat als je een tweede of aanvullende bankrekening wil 
 
 Hieronder zie je hoe je een tweede en volgende bankdagboek aanmaakt.
 
-.. image:: My-Ponto-Bank-Feed-Media/bankrekening_toevoegen_1.png
+.. image:: Media/bankrekening_toevoegen_1.png
        :width: 6.3in
        :height: 2.93264in
 
-.. image:: My-Ponto-Bank-Feed-Media/bankrekening_toevoegen_2.png
+.. image:: Media/bankrekening_toevoegen_2.png
        :width: 6.3in
        :height: 2.93264in
 
 De configuratie van het eerste bankboek ziet er als volgt uit.
 
-.. image:: Boekhouding/boekhouding_starten_dagboeken002.png
+.. image:: Media/boekhouding_starten_dagboeken002.png
 
 - **Bankrekening:** Koppel de juiste grootboekrekening aan de bank hier.
 - **Afletteringsmodus:** Bepaal of het mogelijk is om een aflettering op de bank ongedaan te maken na uitvoering.
@@ -42,15 +42,15 @@ De configuratie van het eerste bankboek ziet er als volgt uit.
 
 Op het tabblad "Inkomende betalingen" kun je aangeven welke betalingsmethoden beschikbaar zijn in dit dagboek. Als je van plan bent om facturen van je klanten te innen, kun je gebruikmaken van Sepa Direct Debit, dat standaard al voor je is geactiveerd.
 
-.. image:: Boekhouding/boekhouding_starten_dagboeken003.png
+.. image:: Media/boekhouding_starten_dagboeken003.png
 
 Op het tabblad "Uitgaande betalingen" kun je aangeven welke betalingsmethoden beschikbaar zijn in dit dagboek. Als je van plan bent om je leveranciers via de boekhouding te betalen, kun je gebruikmaken van Sepa Credit Transfer. Hiermee genereer je een bestand dat je vervolgens kunt uploaden naar je bank. Daarna kun je de betaling verder afhandelen in je bankomgeving. Hiermee voorkom je dubbele invoer en fouten die kunnen optreden bij handmatige betalingsverwerking.
 
-.. image:: Boekhouding/boekhouding_starten_dagboeken004.png
+.. image:: Media/boekhouding_starten_dagboeken004.png
 
 Op het tabblad "Geavanceerde instellingen" kun je de volgende instellingen configureren.
 
-.. image:: Boekhouding/boekhouding_starten_dagboeken005.png
+.. image:: Media/boekhouding_starten_dagboeken005.png
 
 - **Toegestane rekeningen:** Bepaalt welke grootboekrekeningen mogen worden gebruikt in dit dagboek.
 - **Saldolijn toevoegen:** Voegt een extra regel toe aan het bankafschrift voor het saldo.
