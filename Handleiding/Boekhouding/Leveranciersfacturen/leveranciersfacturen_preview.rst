@@ -1,7 +1,7 @@
 Facturen Preview
 ================
 
-CURQ heeft een nieuwe functionaliteit toegevoegd waarmee facturen kunnen worden voorzien van een PDF-preview. Deze preview is bijzonder handig bij het coderen van inkoopfacturen, omdat het gebruikers in staat stelt de factuur visueel te inspecteren en snel belangrijke informatie, zoals bedragen, datums en leveranciersgegevens, te achterhalen. Deze visuele controle draagt bij aan een nauwkeuriger coderingsproces en versnelt de workflow, wat cruciaal is voor een efficiënte en foutloze financiële administratie.
+Curq heeft een nieuwe functionaliteit toegevoegd waarmee facturen kunnen worden voorzien van een PDF-preview. Deze preview is bijzonder handig bij het coderen van inkoopfacturen, omdat het gebruikers in staat stelt de factuur visueel te inspecteren en snel belangrijke informatie, zoals bedragen, datums en leveranciersgegevens, te achterhalen. Deze visuele controle draagt bij aan een nauwkeuriger coderingsproces en versnelt de workflow, wat cruciaal is voor een efficiënte en foutloze financiële administratie.
 
 Beoordelen inkoopfactuur
 ------------------------
@@ -38,4 +38,4 @@ Je kunt het overzicht van boekingsregels vinden onder Facturatie > Boekhouding >
 
 .. image:: Media/Leveranciersfacturen_preview003.png
 
-In de kolom “Preview” kun je op de gekoppelde PDF klikken. Zodra je dit doet, verschijnt de PDF-factuur aan de rechterkan
+In de kolom “Preview” kun je op de gekoppelde PDF klikken. Zodra je dit doet, verschijnt de PDF-factuur aan de rechterkant.
