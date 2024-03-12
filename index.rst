@@ -9,7 +9,7 @@ Handleiding
 
     Handleiding/Algemeen/index
     Handleiding/Support/index
-    Handleiding/Boekhouding/index
+    Handleiding/Boekhouding/boekhouding
     Handleiding/Vooraad/index
     Handleiding/Website/index
     Handleiding/Projecten/index
