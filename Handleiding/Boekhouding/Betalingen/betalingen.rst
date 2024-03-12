@@ -60,5 +60,10 @@ Je vind dit menu onder Boekhouding -> Afletteren. In dit onderdeel zie je alle o
        :width: 6.3in
        :height: 2.93264in
 
+.. toctree::
+    :maxdepth: 2
 
-
+       betalingen_direct_debit
+       betalingen_interne_transfers
+       betalingen_online_betalingen_Mollie
+       betalingen_sepa
