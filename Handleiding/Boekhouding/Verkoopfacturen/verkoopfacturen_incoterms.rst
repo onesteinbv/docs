@@ -24,7 +24,7 @@ Bij het opstellen van een factuur kun je de Incoterms vinden onder het tabblad [
 
 Beschikbare Incoterms (2020)
 ----------------------------
-e 11 actuele Incoterms van 2020 zijn beschikbaar in Curq. Indien het nodig is om een Incoterm aan te passen of toe te voegen, kan dit worden gedaan via Facturatie > Configuratie > Leveringscondities.
+De 11 actuele Incoterms van 2020 zijn beschikbaar in Curq. Indien het nodig is om een Incoterm aan te passen of toe te voegen, kan dit worden gedaan via Facturatie > Configuratie > Leveringscondities.
 
 .. image:: Media/verkoopfacturen_incoterms003.png
 
