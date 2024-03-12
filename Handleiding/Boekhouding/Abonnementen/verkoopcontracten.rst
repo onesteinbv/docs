@@ -83,7 +83,7 @@ Hieronder zie je een voorbeeld van een ingevoerd voorbeeld abonnement:
 .. toctree::
     :maxdepth: 2
 
-verkoopcontracten_sjablonen
-verkoopcontracten_beeindigen
-verkoopcontracten_factureren 
-verkoopcontracten_vernieuwen
+       verkoopcontracten_sjablonen
+       verkoopcontracten_beeindigen
+       verkoopcontracten_factureren 
+       verkoopcontracten_vernieuwen
