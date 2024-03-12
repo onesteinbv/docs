@@ -20,11 +20,11 @@ Het dagboek is standaard "Leveranciers Facturen"; laat dit zo staan, tenzij er m
 Factuurregels
 -------------
 
-- **Factuurregels:** bevatten de details van de factuur. Hier staat wat er is verkocht tegen welke bedrag en met welke BTW.
+- **Factuurregels:** bevatten de details van de factuur. Hier staat wat er is gekocht tegen welke bedrag en met welke BTW.
 - **Product:** Vul hier een product in als je gebruik maakt van producten binnen Curq. Een product kan ook een dienst zijn, dan heeft het product het type dienst. Het is niet verplicht om gebruik te maken van producten.
 - **Label:** Deze verschijnt op de factuur, dus vul deze correct in. Als je producten gebruikt wordt deze automatisch overgenomen, maar je kan die altijd achteraf aanpassen.
-- **Rekening:** Het is verplicht om de juiste grootboekrekening op te geven. De omzet wordt geboekt op deze grootboekrekening. Curq kan deze automatisch invullen op basis van de producten.
-- **Aantal:** Het aantal verkocht.
+- **Rekening:** Het is verplicht om de juiste grootboekrekening op te geven. De kosten wordt geboekt op deze grootboekrekening. Curq kan deze automatisch invullen op basis van de producten.
+- **Aantal:** Het aantal ingekocht.
 - **Prijs:** De prijs per eenheid.
 - **BTW:** Curq stelt automatisch de meest logische BTW code voor. Wijk hier alleen af als er een andere BTW van toepassing is.
 - **Subtotaal:** Aantal x Prijs.
@@ -43,11 +43,12 @@ Hier wordt de journaalpost getoond van de factuur. Dit is voor de boekhouder van
 Overige informatie
 ------------------
 
-Hier worden leveringscondities, fiscale positie, automatisch boeken en controle van de factuur kunnen aangegeven.
+Hier worden leveringscondities, fiscale positie, automatisch boeken en controle van de factuur aangegeven.
+
 - **Leveringscondities:** Als INCOTERMS van belang is, dan kan je die hier invullen. In Curq zijn de meest gebruikte aanwezig.
-- **Fiscale Positie:** De BTW regime die van toepassing is op de factuur.
+- **Fiscale Positie:** Het BTW regime die van toepassing is op de factuur.
 - **Automatische boeken:** Alleen op een concept factuur kan dit worden ingesteld. Je kan een factuur al vooruit plannen om die later te laten boeken. Of je kan terugkerende facturen automatisch laten boeken tot een bepaalde tijd door Curq. Dit is handig als je elke maand dezelfde factuur wilt laten aanmaken.
-- **Te controleren:** De factuur krijgt de status te controleren. Je kan bijv. jouw boekhouder hiermee attenderen dat deze factuur nog een keer extra moeten worden gecontroleerd.
+- **Te controleren:** De factuur krijgt de status te controleren. Je kan bijv. jouw boekhouder hiermee attenderen dat deze factuur nog een keer extra moet worden gecontroleerd.
 
 .. image::Media/Leveranciersfacturen005.png
 
@@ -64,13 +65,13 @@ Alle belangrijke wijzigingen met betrekking tot de factuur worden hier bijgehoud
 
 .. image:: Media/Leveranciersfacturen006.png
 
-- **Volgers:** Contacten, medewerkers kunnen volgers zijn van het documenten. Afhankelijk van hun aanmelding worden deze volgers op de hoogte gehouden van wijzigingen op dit document.
+- **Volgers:** Contacten en/of medewerkers kunnen volgers zijn van het documenten. Afhankelijk van hun aanmelding worden deze volgers op de hoogte gehouden van wijzigingen op dit document.
 
 Wanneer alle informatie is ingevuld, selecteer "Bevestigen" links boven in de hoek.
 
 .. image:: Media/Leveranciersfacturen007.png
 
-Hierna kan de betaling geregistreerd worden, een creditfactuur voor de huidige factuur worden aangemaakt en de factuur teruggezet worden naar een consent om aanpassingen te maken
+Hierna kan de betaling geregistreerd worden, een creditfactuur voor de huidige factuur worden aangemaakt en de factuur teruggezet worden naar een concept om aanpassingen te maken.
 
 .. image:: Media/Leveranciersfacturen008.png
 
