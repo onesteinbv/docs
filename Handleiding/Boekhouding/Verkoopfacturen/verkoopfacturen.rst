@@ -109,4 +109,15 @@ Heb je een persoonlijke mail aangemaakt en wil je die de volgende keer weer gebr
 
 Zodra de factuur is verzonden binnen Curq, is dit meteen zichtbaar in het loggingsdeel. Je ziet jouw mail terug en aan de hand van de enveloppe kun je de status van jouw mail terugvinden. Je kunt eventueel corrigerende acties ondernemen door te klikken op de enveloppe.
 
-.. image:: Verkoopfacturen/verkoopfacturen009.png
+.. image:: Media/verkoopfacturen009.png
+
+.. toctree::
+    :maxdepth: 2
+
+    verkoopfacturen_algemene_voorwaarden
+    verkoopfacturen_afleveradres_factuuradres
+    verkoopfacturen_creditnota
+    verkoopfacturen_omzetspreiding
+    betalingen_herinneringen
+    verkoopfacturen_betalingskorting
+    verkoopfacturen_incoterms
