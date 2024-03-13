@@ -2,7 +2,7 @@
 Verzendwijzen
 =============
 
-De Verzendwijze functie in de Voorraadmodule, kan worden toegepast voor bedrijven die producten rechtstreeks aan hun klanten leveren of gebruikmaken van derde partij verzend connectoren. Om deze functie in te schakelen, gaat u naar het menu Instellingen en activeert u de optie *Verzendwijzen*. 
+De Verzendwijze functie in de Voorraadmodule, kan worden toegepast voor bedrijven die producten rechtstreeks aan hun klanten leveren. Om deze functie in te schakelen, gaat u naar het menu Instellingen en activeert u de optie *Verzendwijzen*. 
 
 .. image:: Product-Configuratie-Media/image62.png
 
