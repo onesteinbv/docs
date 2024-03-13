@@ -9,7 +9,7 @@ Handleiding
     Handleiding/Algemeen/index
     Handleiding/Support/index
     Handleiding/Boekhouding/boekhouding
-    Handleiding/Inkoop/index
+    Handleiding/Inkoop/Inkoop
     Handleiding/Voorraad/index
     Handleiding/Verkoop/index
     Handleiding/CRM/index
