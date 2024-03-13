@@ -6,4 +6,4 @@ Voorraad
     :maxdepth: 2
 
     Product-Configuratie
-
+    Voorraadmanagement
