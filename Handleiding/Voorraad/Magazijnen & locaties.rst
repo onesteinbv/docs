@@ -10,13 +10,13 @@ Magazijnen
 
 In het configuratiemenu van de voorraadmodule worden diverse opties getoond voor het beheren van magazijnen, locaties, routes, regels, bewerkingstypes, opslagcategorieën en wegzetregels. Dit alles is te vinden onder het menu Configuratie - Magazijnbeheer.
 
-Media
+.. image:: Product-Configuratie-Media/image69.png
 
 Deze mogelijkheden helpen bij het soepel laten verlopen van verschillende magazijnbeheer taken. Door de optie 'Magazijnen' te selecteren in het configuratiemenu, kunt u een overzicht krijgen van de magazijnen die zijn aangemaakt in Odoo. Deze lijst toont de naam van het magazijn, de voorraadlocatie, het adres en het bedrijf. 
 
 Wanneer u op een 'Magazijn' optie klikt, wordt een formulier geopend van het magazijn en kunt u de naam van het magazijn, de korte naam, het bedrijf en de locatie van het magazijn invullen in de daarvoor bestemde velden. 
 
-Media
+.. image:: Product-Configuratie-Media/image70.png
 
 Het veld "Inkomende verzendingen" stelt u in staat om de route te kiezen die gevolgd moet worden wanneer producten naar dit specifieke magazijn worden verzonden. U heeft de keuze uit verschillende opties. Bij de eerste optie, met één stap, komen de producten rechtstreeks in het magazijn aan. Bij de tweede optie worden de producten eerst ontvangen en vervolgens naar de juiste voorraadlocatie verplaatst. De derde optie omvat het ontvangen van de goederen, het uitvoeren van kwaliteitscontroles en het vervolgens verplaatsen naar de juiste voorraadlocatie.
 
@@ -24,7 +24,7 @@ Voor "Uitgaande zendingen" kunt u de standaard route instellen die gevolgd moet 
 
 Via de tab Technische informatie kunt u de magazijnlocaties in stellen en de verschillende bewerkingstypes.
 
-Media
+.. image:: Product-Configuratie-Media/image71.png
 
 --------
 Locaties
@@ -32,13 +32,13 @@ Locaties
 
 U kunt de opslagplaatsen in de magazijnen aanpassen via het menu 'Opslaglocaties'. Met deze optie kunt meerdere opslaglocaties configureren voor de voorraden binnen hetzelfde magazijn. Om deze functionaliteit te activeren, navigeert u naar het "Instellingen" menu van de voorraadmodule en schakelt u de optie "Opslaglocaties" in op het tabblad "Magazijn", zoals aangegeven in onderstaande afbeelding.
 
-Media
+.. image:: Product-Configuratie-Media/image72.png
 
-Media
+.. image:: Product-Configuratie-Media/image73.png
 
 Wanneer u deze optie activeert, wordt het bijbehorende submenu toegevoegd onder het menu Configuratie.  In de lijstweergave wordt gedetailleerde informatie getoond over de locatie, het locatietype, de opslagcategorie en het bedrijf. Gebruik de knop "Nieuw" om een nieuwe locatie te configureren.
 
-Media
+.. image:: Product-Configuratie-Media/image74.png
 
 Dit is de formulierweergave van het venster voor het aanmaken van een nieuwe locatie. Voer een naam in voor de locatie in het veld "Locatienaam" en selecteer de "Bovenliggende locatie" indien nodig. In het tabblad "Aanvullende informatie" kunt u een geschikte locatie  'soort' selecteren voor deze locatie. 
 
@@ -65,7 +65,7 @@ De datum van de volgende geplande inventarisatie op basis van een cyclisch schem
 
 De verwijderstrategie voor deze locatie kan worden ingesteld op het tabblad "Logistiek".
 
-Media
+.. image:: Product-Configuratie-Media/image75.png
 
 Dit bepaalt de standaardmethode voor het suggereren van de exacte locatie waar de producten moeten worden opgehaald, inclusief het lot en andere details, voor deze specifieke locatie. Deze methode kan worden afgedwongen op het niveau van de productcategorie en zal terugvallen op de bovenliggende locaties als er geen specifieke methode is ingesteld. 
 De beschikbare strategieën zijn als volgt:
@@ -83,7 +83,7 @@ De beschikbare strategieën zijn als volgt:
 
 De slimme knoppen in het venster van de locatie tonen de 'Wegzet regels' en de 'Huidige Voorraad' van deze specifieke locatie.
 
-Media
+.. image:: Product-Configuratie-Media/image76.png
 
 
 
