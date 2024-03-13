@@ -59,3 +59,12 @@ De lijstweergave kan worden uitgebreid door de benodigde opties in te schakelen 
 Door op de knop *Nieuw* te klikken, ga je naar een nieuw contactkaart waar je de gegevens van de leverancier kunt configureren. Het proces voor het configureren van leveranciers is identiek aan dat voor het configureren van klanten, zoals besproken in een andere handleiding (Toevoegen van een contact). Je kunt dus dezelfde stappen volgen. Vul de tabbladen **Contacten & Adressen, Verkoop & inkopen en Facturatie in. Na het configureren van de leveranciers kun je de verkoopprijslijst beheren in de Odoo Inkoopmodule.
 
 .. image:: Media/inkoop009.png
+
+.. toctree::
+    :maxdepth: 2
+
+    Inkoop_Prijslijsten_en_Inkoopoffertes
+    Inkoop_Inkoopbeheer_en_leveranciersfacturen
+    Inkoop_Inkoopovereenkomst
+    Inkoop_Inkoop_in_verschillende_maateenheden
+    Inkoop_Aanvulopdrachten
