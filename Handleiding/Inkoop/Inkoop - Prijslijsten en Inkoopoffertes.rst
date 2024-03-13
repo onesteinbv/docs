@@ -1,5 +1,5 @@
 ====================================================================
-Handleiding Inkoop  |  Prijslijsten en inkoopoffertes
+Inkoop  |  Prijslijsten en inkoopoffertes
 ====================================================================
 
 
