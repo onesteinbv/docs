@@ -20,9 +20,11 @@ exclude_patterns = []
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 html_theme = 'furo'
 html_static_path = ['_static']
+html_css_files = ["custom.css"]
 
-html_short_title = 'Onestein Documents'
-html_title = 'Onestein Documents'
+
+html_short_title = 'Onestein'
+html_title = 'Onestein'
 
 html_logo = 'logo-blauw.png'
 html_favicon = 'favicon.png'
