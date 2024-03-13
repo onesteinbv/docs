@@ -38,9 +38,9 @@ Als alternatief kun je de smart button gebruiken **Ontvangst**, om de details va
 
 .. image:: Media/inkoop026.png
 
-====================
+
 Leveranciersfacturen
-====================
+--------------------
 
 Binnen Odoo kun je leveranciersfacturen genereren op basis van de bestelde hoeveelheden en de geleverde hoeveelheden, conform het bedrijfsbeleid. Je kunt naar het menu **Instellingen** van de inkoopmodule gaan om de beleidsregels voor factuurcontrole in te stellen.
 
