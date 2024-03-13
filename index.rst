@@ -13,7 +13,7 @@ Handleiding
     Handleiding/Voorraad/index
     Handleiding/Verkoop/index
     Handleiding/CRM/index
-    Handleiding/Website/index
+    Handleiding/Website/website_introductie
     Handleiding/Projecten/index
     Handleiding/Leden/index
     Handleiding/HR/index
