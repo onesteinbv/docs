@@ -8,3 +8,4 @@ Voorraad
     Product-Configuratie
     Voorraadmanagement
     Voorraad Bewerkingen & Verplaatsingen
+    Voorraad aanvulling en Voorraad aanpassingen
