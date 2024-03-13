@@ -67,9 +67,9 @@ Hier worden de opties *Verpakkingen* en *Productverpakkingen* gebruikt voor vers
 
 Verpakkingen
 ------------
-Zodra de functie *Verpakkingen* is geactiveerd vanuit het menu "Instellingen", vindt u het submenu 'Verpakkingen' onder het menu "Producten". Hier kunt u reeds aangemaakte pakketten bekijken.
+Zodra de functie *Verpakkingen* is geactiveerd vanuit het menu **Instellingen** vindt u het submenu *Verpakkingen* onder het menu *Producten*. Hier kunt u reeds aangemaakte pakketten bekijken.
 
-Om een nieuwe verpakking aan te maken, kunt u de knop "Nieuw" gebruiken. Dit opent een nieuw formulier zoals hieronder weergegeven.
+Om een nieuwe verpakking aan te maken, kunt u de knop *Nieuw* gebruiken. Dit opent een nieuw formulier zoals hieronder weergegeven.
 
 .. image:: Product-Configuratie-Media/image20.png
 
@@ -77,26 +77,26 @@ In het veld verpakking referentie verschijnt een opvolgend nummer van de verpakk
 
 .. image:: Product-Configuratie-Media/image21.png
 
-Het tabblad "Inhoud" toont de producten die in dit pakket zitten. Wanneer u dit pakket gebruikt voor het verplaatsen van de voorraad, kunt u de details van het product, het lot/serienummer, de hoeveelheid en de maateenheid bekijken.
+Het tabblad **Inhoud** toont de producten die in dit pakket zitten. Wanneer u dit pakket gebruikt voor het verplaatsen van de voorraad, kunt u de details van het product, het lot/serienummer, de hoeveelheid en de maateenheid bekijken.
 
 Bij het bevestigen van een levering order krijgt u de optie om meerdere producten in één pakket te stoppen, zoals hieronder getoond.
 
 .. image:: Product-Configuratie-Media/image22.png
 
-Op het tabblad 'Gedetailleerde bewerkingen' van de levering order vindt u de optie 'Inpakken'. 
+Op het tabblad **Gedetailleerde bewerkingen** van de levering order vindt u de optie *Inpakken*. 
 Wanneer u op deze knop klikt, worden alle producten in de levering order samengevoegd in één pakket.
 
-De knop 'Verpakkingen' kan worden gebruikt om de inhoud van de bijbehorende levering order te bekijken.
+De knop *Verpakkingen* kan worden gebruikt om de inhoud van de bijbehorende levering order te bekijken.
 
 .. image:: Product-Configuratie-Media/image23.png
 
 Product verpakking
 ------------------
-De Productverpakking Functie wordt gebruikt om diverse hoeveelheden van identieke producten te verpakken. Binnen een enkele verpakking kunnen meerdere eenheden van hetzelfde artikel worden opgenomen. Om toegang te krijgen tot deze settings, navigeert u naar het Configuratie-menu - productverpakkingen.
+De Productverpakking Functie wordt gebruikt om diverse hoeveelheden van identieke producten te verpakken. Binnen een enkele verpakking kunnen meerdere eenheden van hetzelfde artikel worden opgenomen. Om toegang te krijgen tot deze settings, navigeert u naar het **Configuratie-menu - productverpakkingen**.
 
 .. image:: Product-Configuratie-Media/image24.png
 
-Klik op 'Nieuw' om een productverpakking aan te maken.
+Klik op *Nieuw* om een productverpakking aan te maken.
 
 .. image:: Product-Configuratie-Media/image25.png
 
@@ -106,7 +106,7 @@ Soort verpakking
 ----------------
 Voor het configureren van meerdere soorten verpakkingen, navigeert u naar het configuratiemenu en selecteer u de optie verpakkingstype. Dit opent een overzicht waarin de verschillende verpakkingstypes zijn geconfigureerd. 
 
-Klik op 'Nieuw' om een nieuw verpakkingstype aan te maken. 
+Klik op *Nieuw* om een nieuw verpakkingstype aan te maken. 
 
 .. image:: Product-Configuratie-Media/image26.png
 
@@ -122,28 +122,28 @@ Over het algemeen dienen partijen als unieke identificatienummers om een groep p
 
 Serienummers daarentegen worden gebruikt voor individuele producten in de voorraad en fungeren als identificatienummers voor afzonderlijke producten.
 
-Om de volledige functionaliteit van traceerbaarheid in de Voorraad module te activeren, gaat u naar het menu Instellingen. Daar vindt u onder het tabblad 'Traceerbaarheid' de optie om Partijen & serienummers te activeren.
+Om de volledige functionaliteit van traceerbaarheid in de Voorraad module te activeren, gaat u naar het menu Instellingen. Daar vindt u onder het tabblad *Traceerbaarheid* de optie om Partijen & serienummers te activeren.
 
 .. image:: Product-Configuratie-Media/image27.png
 
-Nadat deze functie is geactiveerd, vindt u een extra submenu 'Partij/serienummers' onder het menu 'Producten' van de Voorraadmodule. 
+Nadat deze functie is geactiveerd, vindt u een extra submenu *Partij/serienummers* onder het menu *Producten* van de Voorraadmodule. 
 
 .. image:: Product-Configuratie-Media/image28.png
 
 Bij het openen ziet u de vooraf geconfigureerde lijst met partij- en serienummers. In de lijstweergave worden details weergegeven zoals het partij/serienummer, het interne referentienummer, het product en de aanmaakdatum. 
 
-Om de traceerbaarheid van een product te bepalen, navigeert u naar het tabblad 'Voorraad' in de weergave van het product formulier.
+Om de traceerbaarheid van een product te bepalen, navigeert u naar het tabblad **Voorraad** in de weergave van het product formulier.
 
 .. image:: Product-Configuratie-Media/image29.png
 
 
-U kunt de traceerbaarheid instellen op basis van unieke serienummers of partijen. Als u geen traceerbaarheid voor het product wilt instellen, kunt u de optie 'Geen tracering' selecteren.
+U kunt de traceerbaarheid instellen op basis van unieke serienummers of partijen. Als u geen traceerbaarheid voor het product wilt instellen, kunt u de optie *Geen tracering* selecteren.
 
 Wanneer u een nieuw product ontvangt in de voorraad, kunt u een nieuw lot/serienummer toewijzen aan dat product. Dit kan worden gedaan voor een bevestigde inkooporder.
 
 .. image:: Product-Configuratie-Media/image30.png
 
-Om een nieuw lot/serienummer aan een product toe te kennen, kunt u klikken op de knop 'Detail' op de inkooporder.
+Om een nieuw lot/serienummer aan een product toe te kennen, kunt u klikken op de knop *Detail* op de inkooporder.
 
 .. image:: Product-Configuratie-Media/image31.png
 
@@ -152,7 +152,7 @@ In de pop-upvenster kan het lot/serienummer voor dit product worden toegevoegd. 
 .. image:: Product-Configuratie-Media/image32.png
 
 
-Op het productblad is er een smartbutton 'Partijen/serienummers' beschikbaar waarbij u de voorraad op serienummer kan bekijken.
+Op het productblad is er een smartbutton *Partijen/serienummers* beschikbaar waarbij u de voorraad op serienummer kan bekijken.
 
 .. image:: Product-Configuratie-Media/image33.png
 
