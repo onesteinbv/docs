@@ -2,8 +2,8 @@
     :maxdepth: 2
 
     Inkoop
-    Inkoop-Prijslijsten en Inkoopoffertes
-    Inkoop-Inkoopbeheer en leveranciersfacturen
+    Inkoop-Prijslijsten_en_Inkoopoffertes
+    Inkoop-Inkoopbeheer_en_leveranciersfacturen
     Inkoop-Inkoopovereenkomst
-    Inkoop-Inkoop in verschillende maateenheden
+    Inkoop-Inkoop_in_verschillende_maateenheden
     Inkoop-Aanvulopdrachten
