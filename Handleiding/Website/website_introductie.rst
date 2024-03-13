@@ -8,3 +8,13 @@ Bovendien biedt Curq naadloze integratie met populaire tools zoals OpenStreet Ma
 Door de volledige integratie met alle andere applicaties binnen Curq, kun je jouw website aanpassen aan de specifieke behoeften van jouw bedrijf. Of het nu gaat om het beheren van klantgegevens, het stroomlijnen van de boekhouding of het automatiseren van marketingcampagnes, Curq biedt een naadloze ervaring om jouw online aanwezigheid te optimaliseren en je bedrijf te laten groeien.
 
 Met Curq kun je ook eenvoudig de stijl van je website aanpassen wanneer je maar wilt, dankzij verschillende thema's, animaties en een uitgebreide selectie van lettertypen. Of je nu een strak en professioneel design wilt of een creatieve en levendige uitstraling nastreeft, Curq biedt alle tools die je nodig hebt om je website te laten opvallen en je merk te versterken.
+
+.. toctree::
+    :maxdepth: 2
+    :hidden:
+
+    website_pagina_editor
+    E-commerce
+    Webdomein_instellen
+    Website_Configuratie
+
