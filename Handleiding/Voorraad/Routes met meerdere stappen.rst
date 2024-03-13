@@ -6,23 +6,23 @@ Om een nauwkeurige traceerbaarheid van product bewegingen te garanderen, is het 
 
 Voor het instellen van 'Routes' gaat u naar het menu "Instellingen" en activeert u de optie "Routes in meerdere stappen" op het tabblad "Magazijn". Het is van cruciaal belang om passende werklocaties en magazijnen te configureren voordat u routes instelt. 
 
-Media
+.. image:: Product-Configuratie-Media/image77.png
 
 Zodra u deze functie heeft geactiveerd, zal de optie "Routes" beschikbaar zijn onder het menu "Configuratie". Voordat we nieuwe routes aanmaken, is het raadzaam om nieuwe 'Regels' te definiëren voor de routes en product verplaatsingen. 	
 
-Media
+.. image:: Product-Configuratie-Media/image78.png
 
 Een 'Regel' aanmaken
 --------------------
 In het menu Configuratie kunt u de optie "Regels" selecteren onder het tabblad Magazijnbeheer. Hierdoor opent zich een nieuw venster waarin u de vooraf geconfigureerde lijst met verschillende regels in de voorraadmodule kunt bekijken.
 
-Media
+.. image:: Product-Configuratie-Media/image79.png
 
 De voorvertoning van de lijst toont de details van de Actie, Bronlocatie, Bestemmingslocatie en Route per regel. U kunt de standaard- en aanpasbare Filters en GroupBy-opties gebruiken om het zoeken te vereenvoudigen. Klik op de knop "Nieuw" om een nieuwe 'Regel' aan te maken. 
 
 Geef een passende titel voor de nieuwe regel in het veld "Naam". U kunt de actie voor deze specifieke regel definiëren in de daarvoor bestemde ruimte. Selecteer een geschikte 'actie' uit de dropdown.  
 
-Media
+.. image:: Product-Configuratie-Media/image80.png
 
 De beschikbare opties zijn:
 
@@ -42,12 +42,12 @@ Om nieuwe routes voor voorraad bewegingen aan te maken, gaat u naar het menu Con
 
 Gebruik de knop "Nieuw" om een nieuwe route aan te maken.
 
-Media
+.. image:: Product-Configuratie-Media/image81.png
 
 Vul de naam van de voorraadroute in het veld "Route" in. Selecteer vervolgens in het veld "Van toepassing op" de plaatsen waar u deze route wilt gebruiken. Dit kunnen Producten, Productcategorieën, Verpakkingen, Magazijnen of Verkooporderregels zijn. Op het tabblad "Regels" kunt u de regels specificeren voor deze specifieke route.
 U kunt ook de operationele route definiëren op het productformulier. Hierbij heeft u de optie "Routes" onder het tabblad "Voorraad", waarmee u de operationele routes voor dat specifieke product kunt specificeren.
 
-Media
+.. image:: Product-Configuratie-Media/image82.png
 
 Opslag Categorieën
 ------------------
@@ -55,7 +55,7 @@ De functie 'Opslag Categorieën' biedt de meest efficiënte manier om opslagloca
 
 Om deze functie te activeren, gaat u naar het menu Instellingen en vinkt u de optie 'Opslag Categorieën' aan onder 'Magazijn'.
 
-Media
+.. image:: Product-Configuratie-Media/image83.png
 
 Klik op de knop "Nieuw" om een nieuwe opslagcategorie toe te voegen. Geef het nieuwe record een naam in het veld "Opslagcategorie". Kies vervolgens een van de drie opties:
 
@@ -63,7 +63,7 @@ Klik op de knop "Nieuw" om een nieuwe opslagcategorie toe te voegen. Geef het ni
 - Als alle producten hetzelfde zijn
 - Gemengde producten toestaan, om aan te geven onder welke omstandigheden je een nieuw product wilt toestaan.
 
-Media
+.. image:: Product-Configuratie-Media/image84.png
 
 Onder "Capaciteit per verpakking" kunt u attributen zoals het type verpakking en de hoeveelheid definiëren.
 
@@ -84,13 +84,13 @@ Bij het aanmaken kunt u de volgende velden vullen:
 - Productcategorie
 - Verpakkingstype 
 
-Media
+.. image:: Product-Configuratie-Media/image85.png
 
 - Opslaan naar sublocatie
 - Categorie hebben
 - Bedrijf 
 
-Media
+.. image:: Product-Configuratie-Media/image86.png
 
 Het systeem verplaatst het product naar de locatie die is aangegeven in 'Opslaan naar sublocatie' zodra het de locatie bereikt die is opgegeven in het veld 'Wanneer product aankomt in'. 
 
