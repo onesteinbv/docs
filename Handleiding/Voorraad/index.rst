@@ -9,3 +9,4 @@ Voorraad
     Voorraadmanagement
     Voorraad Bewerkingen & Verplaatsingen
     Voorraad aanvulling en Voorraad aanpassingen
+    Verzendwijzen
