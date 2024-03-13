@@ -1,5 +1,5 @@
 ====================================================================
-Handleiding Inkoop  |  Product- en leveranciersbeheer
+Inkoop
 ====================================================================
 
 Binnen de Inkoopmodule van Odoo 16 heb je volledige controle over alle aspecten met betrekking tot de inkoop van jouw producten. De inkoopmodule vereenvoudigt het beheer van inkooporders, productconfiguraties, leveranciersbeheer en prijs instellingen voor producten/diensten. Bovendien biedt deze module toezicht op inkooporder aanvragen en offertes. De naadloze integratie van de inkoopmodule met andere Odoo 16-modules zoals boekhouding, voorraadbeheer, verkoop en facturatie zorgt voor een probleemloos inkoopproces.
