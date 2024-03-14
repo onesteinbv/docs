@@ -30,25 +30,27 @@ Invulscherm kilometerregistratie
 
 We hebben nieuwe velden toegevoegd aan het menu 'Kilometerregistratie'.
 
-- **Contact**. Vul hier de klantnaam in van je bezoek. Je ziet in de dropdown lijst je bestaande klanten, maar je kunt ook vanaf deze plek direct een nieuwe aanmaken. Dit is geen verplicht veld
+- **Contact**. Vul hier de klantnaam in van je bezoek. Je ziet in de dropdown lijst je bestaande klanten staan, maar je kunt ook vanaf deze plek direct een nieuwe klant aanmaken. Dit is geen verplicht veld.
 
 - **Van**. Vul hier het vertrekpunt van je rit in.
 
-- **Naar**. Vul hier de bestelling van je rit in
+- **Naar**. Vul hier de bestemming van je rit in.
 
-- **Enkele reis**. Vul hier de afstand van de enkele reis in
+- **Enkele reis**. Vul hier de afstand van de enkele reis in.
 
-- **Is een retourrit?** Vink dit veld aan als je een heen- en een terugreis wil registreren
+- **Is een retourrit?** Vink dit veld aan als je een heen- en een terugreis wil registreren.
 
-- **Totale km-rit**. Als het veld 'is een retourrit' niet is aangekruist dan zie je de waarde van 'enkele reis', anders verdubbelt Curq de enkele reis waarde
+- **Totale km-rit**. Als het veld 'is een retourrit' niet is aangekruist dan zie je de waarde van 'enkele reis', anders verdubbelt Curq de enkele reis waarde.
 
-- **Totaal km's**. Dit is een berekend veld van het totaal aantal kilometers van de rit
+- **Totaal km's**. Dit is een berekend veld van het totaal aantal kilometers van de rit.
 
-- **Onkostencategorie**. De waarde wordt overgenomen van de auto, je kan deze overschrijven als je meerdere categorieeen gebruikt
+- **Is een prive rit?**. Vink dit veld aleen aan als het een niet-zakelijke rit betreft. Prive rit regels krijgen een niet-declarabele status en kun je niet doorbelasten.
 
-- **kilometerstand start**. Vul hier de kilometerstand in bij aanvang van de rit. Dit is geen verplicht veld
+- **Onkostencategorie**. De waarde wordt overgenomen van de auto, je kan deze overschrijven als je meerdere categorieeen gebruikt.
 
-- **kilometerstand einde**, Vul hier de kilometerstand in bij einde van de rit. Dit is geen verplicht veld
+- **kilometerstand start**. Vul hier de kilometerstand in bij aanvang van de rit. Dit is geen verplicht veld.
+
+- **kilometerstand einde**, Vul hier de kilometerstand in bij einde van de rit. Dit is geen verplicht veld.
 
 Invoerscherm kilometer registratie
 
