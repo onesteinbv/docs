@@ -1,22 +1,35 @@
 Wat is RGS
 ---------------------------------------------------------------------------------------------------
+Het Referentie Grootboekschema (RGS) is een grootboekrekeningschema dat is gebaseerd op gestandaardiseerde codering van financiële gegevens. Bedrijven die met RGS werken kunnen eenvoudig gegevens uit de administratie halen en deze delen met andere systemen of opnemen in rapportages voor externe partijen.
 
-Het Referentie Grootboekschema (RGS) is een omvangrijk uniform (grootboek)rekeningschema met als belangrijkste functie het vereenvoudigen van rapportages vanuit de boekhouding. In de praktijk wordt dit bereikt door enerzijds bestaande (grootboek)rekeningschema’s te koppelen aan het ReferentieGrootboekSchema, en anderzijds door rapportages te genereren op basis van het RGS.
+Interne en externe rapportages worden sneller opgemaakt en het opstellen van betrouwbare dashboards of vergelijkingen wordt eenvoudiger.
 
-Het voordeel van RGS is dat het direct is gekoppeld aan de bron (het grootboek) en dat rapportages daar ook uit kunnen worden afgeleid.
+De kern van RGS is de referentiecode: een unieke code die is gekoppeld aan alle grootboekrekeningen. Omdat een referentiecode gekoppeld is aan SBR, kan RGS worden gebruikt in de gehele financiële keten. SBR staat voor Standaard Business Reporting en is de nationale standaard voor de digitale uitwisseling van alle bedrijfsmatige rapportages, zoals jaarrekeningen, vastgoedtaxaties en belastingaangiftes.
 
-RGS wordt tevens gebruikt als brug om te koppelen aan de rapportageschema’s van bijvoorbeeld SBR en de Productie jaarstatistiek CBS.
+Voordelen van RGS
+----
+
+Bedrijven en intermediairs (zoals accountants en belastingadviseurs) die met RGS werken, stellen direct uit hun financiële administratie rapportages en dashboards op. Handmatige bewerkingen zijn daarbij niet meer nodig. Ook maakt werken met RGS het mogelijk om op betrouwbare wijze de eigen financiële cijfers te vergelijken met bedrijfsprestaties en andere bedrijven.
+
+De intermediair kan met RGS de dienstverlening verbeteren. Doordat het opstellen van rapportages minder tijd kost en RGS het financieel overzicht in je bedrijf vergroot, kun je beter worden geadviseerd en ondersteund.
+
+Met RGS:
+
+- Administreer je eenduidiger en efficiënter, omdat alle administraties gekoppeld zijn aan een standaardschema.
+
+- Kun je sneller en beter rapporteren door de automatische koppeling met de RGS-codes.
+
+- Krijg je sneller inzicht, omdat gegevens eenvoudiger zijn uit te wisselen tussen verschillende systemen.
+
+- Kun je jouw financiële situatie beter beoordelen, omdat gegevens vergelijkbaar worden. Het biedt daarnaast kansen voor overheden, banken en andere organisaties om dashboard-informatie over jouw bedrijf en branche (terug) te leveren.
 
 RGS in Curq
----------------------------------------------------------------------------------------------------
-
-Wij hebben ervoor gekozen om RGS standaard in te voeren als basis grootboekschema in Curq. Het RGS bevat in totaal 1400 rekeningen per bedrijf, die allemaal zijn ingelezen in Curq. We hebben 600 rekeningen actief gemaakt en 800 op inactief gezet. Als je het aantal actieve grootboeknummers wilt verminderen, kun je dit zelf doen door rekeningen te archiveren (we adviseren om de rekeningen niet te verwijderen maar op inactief te zetten).
+----
+Het RGS bevat in totaal 1400 grootboekrekeningen. Deze rekeningen zijn overgenomen in de basisinrichting van Curq. Van deze 1400 zijn de 600 meest gebruikte rekeningen actief gezet; de overige 800 staan op inactief. Grootboekrekeningen kun je zelf archiveren of dearchiveren, maar doe dit wel in overleg met je boekhouder.
 
 Het RGS is volledig geïntegreerd in de boekhouding binnen Curq, inclusief algemene instellingen, BTW-codes, fiscale posities en rapportages zoals BTW ICP-aangifte, Balans en V&W.
 
-Bovenstaande aanpassingen zorgen ervoor dat je direct kunt starten in Curq en in de basis alleen je eigen bankrekeningen hoeft in te voeren om te beginnen met de boekhouding.
-
-Velden van grootboekrekening
+Verklaring van grootboekrekeningvelden
 ---------------------------------------------------------------------------------------------------
 
 .. image:: Media/Rekening.png
@@ -35,9 +48,11 @@ Velden van grootboekrekening
 
 **Labels**: Naast het veld 'soort' om aan te geven onder welke hoofdgroep een rekening valt, is er ook het veld 'labels'. Met een label maak je een verdere detaillering van de hoofdgroep. In Curq is dit veld gerelateerd aan het veld 'groep'. Ons advies is om geen aanpassingen te doen aan het veld 'labels', omdat dit de standaardrapportages beïnvloedt.
 
-**Toegestane dagboeken**: Om ervoor te zorgen dat je bij het kiezen van een grootboekrekening geen onlogische rekeningen selecteert (bijvoorbeeld een kostenrekening bij het invoeren van een verkoopfactuur), hebben we ervoor gezorgd dat het veld 'toegestane dagboeken' is gevuld met logische waarden. Bij elke rekening zie je de dagboek(en) waar de rekening mag worden gebruikt. Als je een rekening selecteert die niet hoort bij het dagboek waarmee je bezig bent, ontvang je een waarschuwing. Je hebt wel de mogelijkheid om ervoor te kiezen het dagboek alsnog aan de rekening toe te voegen.
+**Toegestane dagboeken**: Om ervoor te zorgen dat je bij het kiezen van een grootboekrekening geen onlogische rekeningen selecteert (bijvoorbeeld een kostenrekening bij het invoeren van een verkoopfactuur), hebben we ervoor gezorgd dat het veld 'toegestane dagboeken' is gevuld met logische waarden. 
 
-**Rekening valuta**: Dit dwingt alle boekingsregels in deze rekening om een specifieke valuta te hebben (bijvoorbeeld bankjournalen). Als er geen valuta is ingesteld, kunnen boekingen elke valuta gebruiken.
+Bij elke rekening zie je de dagboek(en) waar de rekening mag worden gebruikt. Als je een rekening selecteert die niet hoort bij het dagboek waarmee je bezig bent, ontvang je een waarschuwing. Je hebt wel de mogelijkheid om ervoor te kiezen het dagboek alsnog aan de rekening toe te voegen.
+
+**Rekening valuta**: Indien gevuld dienen alle boekingsregels van deze rekening de ingevoerde valuta te hebben (bijvoorbeeld bankjournalen). Als er geen valuta is ingesteld, kun je bij boekingen elke actieve valuta gebruiken.
 
 **Vervallen**: Met dit veld geef je aan of een rekening wel of niet in gebruik is. Je kunt meerdere regels tegelijk selecteren en ze op 'vervallen' zetten.
 
