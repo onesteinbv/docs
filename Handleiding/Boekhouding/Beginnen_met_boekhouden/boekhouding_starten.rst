@@ -53,6 +53,7 @@ Houd er rekening mee dat het instellen van boekhouding in Curq enigszins kan var
 
 .. toctree::
     :maxdepth: 2
+    :hidden:
 
     boekhouding_rgs
     boekhouding_cheatsheet
