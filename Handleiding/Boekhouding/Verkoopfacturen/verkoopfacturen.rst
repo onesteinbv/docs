@@ -113,6 +113,7 @@ Zodra de factuur is verzonden binnen Curq, is dit meteen zichtbaar in het loggin
 
 .. toctree::
     :maxdepth: 2
+    :hidden:
 
     verkoopfacturen_algemene_voorwaarden
     verkoopfacturen_afleveradres_factuuradres
