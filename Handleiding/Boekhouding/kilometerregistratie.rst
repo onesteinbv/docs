@@ -7,27 +7,19 @@ Voorbereidingen
 ---------------------------------------------------------------------------------------------------
 Om met de module te kunnen werken dien je de volgende zaken in te richten:
 
-- Bij menu werknemers maak je een werknemer aan en koppel je je gebruikersaccount aan de werknemer. 
-
-- Om de geregistreerde kilometers te kunnen declareren in de onkostencategorie moet het selectievakje 'Kan gebruikt worden in de wagenpark module' aangevinkt staan. Bij de categorie is het ook mogelijk om specifieke grootboek -of analytische rekening toe te voegen aan de categorie. Bij de categorie kun je ook de kilometervergoeding ingeven en kiezen voor de eenheid km (kilometer) of mi (miles).
-
-- Bij menu Wagenpark dien je een auto aan te maken, merk en kenteken zijn verplichte velden.
-
-- Op de geregistreerde auto kan de standaard onkostencategorie worden toegevoegd, dit vereenvoudigt de invoer.
-
-Werknemer
+- Via Menu > Werknemers maak je een werknemer aan en koppel je je gebruikersaccount (tab Personeelsbeheer instellingen) aan de werknemer. 
 
 .. image:: Kilometerregistratie/km_invulscherm_medewerker.png
        :width: 6.3in
        :height: 2.93264in
 
-Declaratiecategorie
+- Om de geregistreerde kilometers te kunnen declareren, ga naar Menu > Declaraties > Configuratie > Declaratiecategorieën. In de onkostencategorie Kilometerstand (of maak een nieuwe categorie aan) moet het selectievakje ‘Kan gebruikt worden in de wagenpark module’ aangevinkt staan en bij FACTURATIE de optie ‘Verkoopprijs’ geselecteerd worden. Bij BOEKHOUDING is het ook mogelijk om een specifieke Kostenrekening (grootboek) of Analytisch account (kostenplaats) toe te voegen. Bij ALGEMENE INFORMATIE kun je ook de kilometervergoeding (Verkoopprijs) ingeven en kiezen voor de maateenheid km (kilometer) of mi (miles).
 
 .. image:: Kilometerregistratie/km_invulscherm_declaratie.png
        :width: 6.3in
        :height: 2.93264in
 
-Aanmaken voertuig
+- Bij Menu > Wagenpark dien je een auto aan te maken. Merk en Kentekenplaat zijn verplichte velden. Ook kan de standaard onkostencategorie worden toegevoegd (Declaratie categorie), dit vereenvoudigt de invoer van je kilometer registratie.
 
 .. image:: Kilometerregistratie/km_invulscherm_auto.png
        :width: 6.3in
@@ -67,7 +59,7 @@ Invoerscherm kilometer registratie
 Kilometers doorbelasten
 ---------------------------------------------------------------------------------------------------
 
-Vanuit de lijstweergave kun je de regels doorbelasten die de status 'Te declareren' hebben. Je selecteert deze regels, en declareert ze vervolgens via de actieknop. Curq zal de regels per onkosten declaratiecategorie doorbelasten naar de declaratiemodule. De status van de kilometer regels verandert vervolgens naar 'Gedeclareerd'.
+Via Menu > Wagenpark > Wagenpark > Kilometertellers kun je vanuit de lijstweergave de regels doorbelasten die de status ‘Te declareren’ hebben. Je selecteert deze regels, en declareert ze vervolgens via de actieknop. De status van de kilometer regels verandert vervolgens naar ‘Gedeclareerd’. Als het veld status in de lijstweergave staat dan zie je aangepaste status staan.
 
 .. image:: Kilometerregistratie/km_kilometer_declaratie.png
        :width: 6.3in
