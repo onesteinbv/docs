@@ -8,10 +8,11 @@ Aanpassen huisstijl
 Als je je huisstijl niet hebt opgegeven tijdens de aanmaak van je omgeving, kun je dit alsnog doen via Instellingen > Algemene instellingen, onder het kopje Bedrijven.
 
 .. image:: Media/verkoopfacturen001.png
+   :width: 400
 
 Kies "Configureer documentlay-out". In het volgende scherm heb je de mogelijkheid om jouw huisstijl toe te voegen.
 
-.. image:: Media/verkoopfacturen002.png
+.. figure:: Media/verkoopfacturen002.png
 
 - **Lay-out:** Hier zijn vier opties beschikbaar om het ontwerp van jouw facturen of andere documenten te configureren.
 - **Lettertype:** Kies hier een van de beschikbare lettertypes
