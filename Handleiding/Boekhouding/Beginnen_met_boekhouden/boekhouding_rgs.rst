@@ -1,5 +1,5 @@
 Wat is RGS
----------------------------------------------------------------------------------------------------
+==========================================================================
 Het Referentie Grootboekschema (RGS) is een grootboekrekeningschema dat is gebaseerd op gestandaardiseerde codering van financiële gegevens. Bedrijven die met RGS werken kunnen eenvoudig gegevens uit de administratie halen en deze delen met andere systemen of opnemen in rapportages voor externe partijen.
 
 Interne en externe rapportages worden sneller opgemaakt en het opstellen van betrouwbare dashboards of vergelijkingen wordt eenvoudiger.
@@ -7,7 +7,7 @@ Interne en externe rapportages worden sneller opgemaakt en het opstellen van bet
 De kern van RGS is de referentiecode: een unieke code die is gekoppeld aan alle grootboekrekeningen. Omdat een referentiecode gekoppeld is aan SBR, kan RGS worden gebruikt in de gehele financiële keten. SBR staat voor Standaard Business Reporting en is de nationale standaard voor de digitale uitwisseling van alle bedrijfsmatige rapportages, zoals jaarrekeningen, vastgoedtaxaties en belastingaangiftes.
 
 Voordelen van RGS
-----
+---------------------------------------------------------------------------
 
 Bedrijven en intermediairs (zoals accountants en belastingadviseurs) die met RGS werken, stellen direct uit hun financiële administratie rapportages en dashboards op. Handmatige bewerkingen zijn daarbij niet meer nodig. Ook maakt werken met RGS het mogelijk om op betrouwbare wijze de eigen financiële cijfers te vergelijken met bedrijfsprestaties en andere bedrijven.
 
@@ -24,13 +24,13 @@ Met RGS:
 - Kun je jouw financiële situatie beter beoordelen, omdat gegevens vergelijkbaar worden. Het biedt daarnaast kansen voor overheden, banken en andere organisaties om dashboard-informatie over jouw bedrijf en branche (terug) te leveren.
 
 RGS in Curq
-----
+---------------------------------------------------------------------------
 Het RGS bevat in totaal 1400 grootboekrekeningen. Deze rekeningen zijn overgenomen in de basisinrichting van Curq. Van deze 1400 zijn de 600 meest gebruikte rekeningen actief gezet; de overige 800 staan op inactief. Grootboekrekeningen kun je zelf archiveren of dearchiveren, maar doe dit wel in overleg met je boekhouder.
 
 Het RGS is volledig geïntegreerd in de boekhouding binnen Curq, inclusief algemene instellingen, BTW-codes, fiscale posities en rapportages zoals BTW ICP-aangifte, Balans en V&W.
 
 Verklaring van grootboekrekeningvelden
----------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------
 
 .. image:: Media/Rekening.png
    :width: 6.3in
