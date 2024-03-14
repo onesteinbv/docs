@@ -36,6 +36,7 @@ Curq hanteert het concept van dubbel boekhouden. Bij dubbel boekhouden worden al
 
 .. toctree::
     :maxdepth: 2
+    :hidden:
 
     Beginnen_met_boekhouden/boekhouding_starten
     Belastingen/belastingen
