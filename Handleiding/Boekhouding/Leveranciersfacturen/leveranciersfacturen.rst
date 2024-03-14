@@ -77,6 +77,7 @@ Hierna kan de betaling geregistreerd worden, een creditfactuur voor de huidige f
 
 .. toctree::
     :maxdepth: 2
+    :hidden:
 
     leveranciersfacturen_preview
     leveranciersfacturen_kostenspreiding
