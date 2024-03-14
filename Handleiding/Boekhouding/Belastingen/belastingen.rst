@@ -41,6 +41,7 @@ Weet je niet zeker welke methode je moet gebruiken, overleg dan met je accountan
 
 .. toctree::
     :maxdepth: 2
+    :hidden:
 
     belastingen_vies
     belastingen_fiscale_posities
