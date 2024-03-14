@@ -59,6 +59,7 @@ Op het tabblad "Geavanceerde instellingen" kun je de volgende instellingen confi
 
 .. toctree::
     :maxdepth: 2
+    :hidden:
 
     bankrekeningen_afletteren
     bankrekeningen_aflettermodellen
