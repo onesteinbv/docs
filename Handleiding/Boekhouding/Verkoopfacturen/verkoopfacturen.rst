@@ -86,7 +86,6 @@ Tabblad [Overige Info]
 - **Activiteiten:** Je kunt een bepaalde activiteit inplannen voor iemand. Dit kan een to-do zijn, maar ook een afspraak.
 
 .. image:: Media/verkoopfacturen005.png
-   :width: 100%
 
 - **Volgers:** Contacten en medewerkers kunnen volgers zijn van het document. Afhankelijk van hun aanmelding worden deze volgers op de hoogte gehouden van wijzigingen op dit document.
 
