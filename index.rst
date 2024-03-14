@@ -9,9 +9,9 @@ CURQ is een all incusive en voledig open source ERP systeem. Wij bieden u vrijhe
 +----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
 | Image                                                                                        | Image                                                                                               |
 | Boekhouden                                                                                   | Website                                                                                             |
-| Nederlandse standaarden                                                                      | Website builder                                                                                     |
-| RGS                                                                                          | Web analytics                                                                                       |
-| Integratie met banken                                                                        | E-commerce                                                                                          |
+| - Nederlandse standaarden                                                                    | - Website builder                                                                                   |
+| - RGS                                                                                        | - Web analytics                                                                                     |
+| - Integratie met banken                                                                      | - E-commerce                                                                                        |
 +----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
 | Image Leden Secties Registratie via een website formulier Betaalde en gratis lidmaatschappen | Image Werving en selectie Maak vacatures Post de vacatures op de website Creeer uw wervings process |
 +----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
