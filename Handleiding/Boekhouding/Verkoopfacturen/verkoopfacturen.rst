@@ -8,7 +8,6 @@ Aanpassen huisstijl
 Als je je huisstijl niet hebt opgegeven tijdens de aanmaak van je omgeving, kun je dit alsnog doen via Instellingen > Algemene instellingen, onder het kopje Bedrijven.
 
 .. image:: Media/verkoopfacturen001.png
-   :width: 100%
 
 Kies "Configureer documentlay-out". In het volgende scherm heb je de mogelijkheid om jouw huisstijl toe te voegen.
 
@@ -87,6 +86,7 @@ Tabblad [Overige Info]
 - **Activiteiten:** Je kunt een bepaalde activiteit inplannen voor iemand. Dit kan een to-do zijn, maar ook een afspraak.
 
 .. image:: Media/verkoopfacturen005.png
+   :width: 100%
 
 - **Volgers:** Contacten en medewerkers kunnen volgers zijn van het document. Afhankelijk van hun aanmelding worden deze volgers op de hoogte gehouden van wijzigingen op dit document.
 
