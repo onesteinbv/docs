@@ -62,6 +62,7 @@ Door op de knop *Nieuw* te klikken, ga je naar een nieuw contactkaart waar je de
 
 .. toctree::
     :maxdepth: 2
+    :hidden:
 
     Inkoop_Prijslijsten_en_Inkoopoffertes
     Inkoop_Inkoopbeheer_en_leveranciersfacturen
