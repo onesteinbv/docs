@@ -1,13 +1,13 @@
 Interne overboekingen
----------------------------------------------------------------------------------------------------
+=========================================================================
 Interne overboekingen kunnen worden afgehandeld in Curq. Er zijn minstens twee bankrekeningen nodig om interne overschrijvingen te doen.
 
 Configuratie
----------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------
 Een interne overboekingsrekening wordt automatisch aangemaakt in je database op basis van het in Curq gebruikte RGS. Om de standaardrekening voor interne overschrijvingen te wijzigen, ga naar Boekhouding ‣ Configuratie ‣ Instellingen en scroll naar beneden naar de sectie Standaardrekeningen. Wij adviseren deze aanpassing alleen te doen in overleg met je boekhouder.
 
 Een interne overschrijving van de ene bank naar de andere registreren
----------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------
 
 Als je geld wilt overmaken van de ene bank naar de andere, ga dan naar het Boekhouddashboard, klik op de keuzeknop (⋮) bij de bank van waaruit je de overschrijving wil doen en klik vervolgens op Betalingen. Selecteer of creëer een betaling, vink Interne overboeking aan en selecteer een Bestemmingsjournaal voordat je de interne overboeking bevestigt.
 
