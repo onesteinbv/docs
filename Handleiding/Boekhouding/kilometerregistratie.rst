@@ -30,25 +30,25 @@ Invulscherm kilometerregistratie
 
 We hebben nieuwe velden toegevoegd aan het menu 'Kilometerregistratie'.
 
-- Contact. Bij welke klant ben je geweest?
+- **Contact**. Vul hier de klantnaam in van je bezoek. Je ziet in de dropdown lijst je bestaande klanten, maar je kunt ook vanaf deze plek direct een nieuwe aanmaken. Dit is geen verplicht veld
 
-- Van. Wat was je vertrekpunt?
+- **Van**. Vul hier het vertrekpunt van je rit in.
 
-- Naar. Wat was je bestemming?
+- **Naar**. Vul hier de bestelling van je rit in
 
-- Enkele reis. Afstand van de enkele reis
+- **Enkele reis**. Vul hier de afstand van de enkele reis in
 
-- Is een retourrit? 
+- **Is een retourrit?** Vink dit veld aan als je een heen- en een terugreis wil registreren
 
-- Totale km-rit. Als 'is een retourrit' niet is aangekruist dan zie je de waarde van 'enkele reis' anders verdubbelt de enkele reis waarde
+- **Totale km-rit**. Als het veld 'is een retourrit' niet is aangekruist dan zie je de waarde van 'enkele reis', anders verdubbelt Curq de enkele reis waarde
 
-- Totaal km's. Berekend veld van aantal kilometers 
+- **Totaal km's**. Dit is een berekend veld van het totaal aantal kilometers van de rit
 
-- Onkostencategorie. De waarde wordt overgenomen van de auto, kan overschreven worden mocht je meerdere categorieeen gebruiken
+- **Onkostencategorie**. De waarde wordt overgenomen van de auto, je kan deze overschrijven als je meerdere categorieeen gebruikt
 
-- Niet verplicht veld kilometerstand start
+- **kilometerstand start**. Vul hier de kilometerstand in bij aanvang van de rit. Dit is geen verplicht veld
 
-- Niet verplicht veld kilometerstand einde
+- **kilometerstand einde**, Vul hier de kilometerstand in bij einde van de rit. Dit is geen verplicht veld
 
 Invoerscherm kilometer registratie
 
