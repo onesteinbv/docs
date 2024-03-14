@@ -1,5 +1,5 @@
 Snelle betalingskortingen klant en inkoopkorting leveranciers
----------------------------------------------------------------------------------------------------
+======================================================================
 
 Betalingskortingen zijn kortingen op het bedrag dat een klant moet betalen voor goederen of diensten als stimulans voor het snel betalen van de factuur. Inkoopkortingen zijn kortingen die je afspreekt met je leverancier als je zelf binnen een afgesproken termijn betaalt. 
 
@@ -10,7 +10,7 @@ Om kortingen in contanten te kunnen registreren, moet je eerst de winst- en verl
 Configureer vervolgens de betalingsvoorwaarden en voeg een betalingskorting toe door het selectievakje Vroegtijdige korting in te schakelen en het kortingspercentage, de kortingsdagen en de velden voor belastingvermindering in te vullen. de betalingsvoorwaarden kun je voor zowel de verkoop- als ook de inkoopfacturen gebruiken.
 
 Voorbeeld
----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------
 
 Je maakt een factuur van €100,- op 2 januari. De volledige betaling moet binnen 30 dagen worden voldaan en je biedt ook een korting van 2% als de klant binnen vijf  dagen betaalt.
 De klant kan €98,- betalen tot 7 januari. Daarna zou hij €100,- moeten betalen op 31 januari.
@@ -38,7 +38,7 @@ Als de klant het met de korting gereduceerde bedrag overmaakt, dan zal Odoo auto
 Als je direct het bedrag verwerkt vanuit de bank, dan is het aan te raden om een aflettermodel aan te maken waarmee je het betalingsverschil wegboekt.
 
 Betalingskortingen en BTW
----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------
 De belastingdienst heeft een aantal richtlijnen opgesteld rondom het omgaan met BTW in het geval van snelle betalingskorting. Meer info vind je hier :
 `Belastingdienst BTW: <https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/administratie_bijhouden/facturen_maken/factuureisen/aangepaste_regels_facturen/u_geeft_korting_voor_tijdige_betalingen>`_
 
