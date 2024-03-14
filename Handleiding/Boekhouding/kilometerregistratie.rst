@@ -13,7 +13,7 @@ Om met de module te kunnen werken dien je de volgende zaken in te richten:
        :width: 6.3in
        :height: 2.93264in
 
-- Om de geregistreerde kilometers te kunnen declareren, ga naar Menu > Declaraties > Configuratie > Declaratiecategorieën. In de onkostencategorie Kilometerstand (of maak een nieuwe categorie aan) moet het selectievakje ‘Kan gebruikt worden in de wagenpark module’ aangevinkt staan en bij FACTURATIE de optie ‘Verkoopprijs’ geselecteerd worden. Bij BOEKHOUDING is het ook mogelijk om een specifieke Kostenrekening (grootboek) of Analytisch account (kostenplaats) toe te voegen. Bij ALGEMENE INFORMATIE kun je ook de kilometervergoeding (Verkoopprijs) ingeven en kiezen voor de maateenheid km (kilometer) of mi (miles).
+- Om de geregistreerde kilometers te kunnen declareren, ga naar Menu > Declaraties > Configuratie > Declaratiecategorieën. In de onkostencategorie Kilometerstand (of maak een nieuwe categorie aan) moet het selectievakje ‘Kan gebruikt worden in de wagenpark module’ aangevinkt staan en bij **FACTURATIE** de optie ‘Verkoopprijs’ geselecteerd worden. Bij **BOEKHOUDING** is het ook mogelijk om een specifieke kostenrekening (grootboek) of analytisch account (kostenplaats) toe te voegen. Bij **ALGEMENE INFORMATIE** kun je ook de kilometervergoeding (Verkoopprijs) ingeven en kiezen voor de maateenheid km (kilometer) of mi (miles).
 
 .. image:: Kilometerregistratie/km_invulscherm_declaratie.png
        :width: 6.3in
