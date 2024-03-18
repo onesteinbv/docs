@@ -54,7 +54,7 @@ Bij elke rekening zie je de dagboek(en) waar de rekening mag worden gebruikt. Al
 
 **Rekening valuta**: Indien gevuld dienen alle boekingsregels van deze rekening de ingevoerde valuta te hebben (bijvoorbeeld bankjournalen). Als er geen valuta is ingesteld, kun je bij boekingen elke actieve valuta gebruiken.
 
-**Vervallen**: Met dit veld geef je aan of een rekening wel of niet in gebruik is. Je kunt meerdere regels tegelijk selecteren en ze op 'vervallen' zetten.
+**Vervallen**: Met dit veld geef je aan of een rekening wel of niet in gebruik is. 
 
 **Groep**: Dit veld komt vanuit de RGS-standaard, waarbij elke unieke rekening is gekoppeld aan een vaste groep. Je mag en kunt dit veld niet aanpassen. De Balans en V&W-rapportages zijn gebaseerd op dit veld.
 
