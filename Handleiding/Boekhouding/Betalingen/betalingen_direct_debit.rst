@@ -5,7 +5,7 @@ SEPA, de Single Euro Payments Area, is een betalingsintegratie-initiatief van de
 
 Met SEPA Direct Debit (SDD) kunnen je klanten een mandaat ondertekenen dat jou machtigt om toekomstige betalingen van hun bankrekeningen te innen. Dit is vooral handig voor terugkerende betalingen op basis van een abonnement.
 
-Je kunt klantmandaten vastleggen in Curq en .xml-bestanden genereren met lopende betalingen die zijn gedaan met een SDD-mandaat.
+Je kunt klantmandaten vastleggen in Curq. Vervolgens kun je .xml-bestanden genereren op basis van te innen verkoopfacturen. Het XML bestand kun je vervolgens bij je bank uploaden.
 
 Mandaat instellingen
 -------------------------------------------------------------------------
@@ -16,10 +16,9 @@ De functie SEPA-incasso kan worden geactiveerd via het menu Instellingen van de 
        :width: 6.3in
        :height: 2.93264in
 
-Aanmaken mandaat van een klant
+Aanmaken en bevestigen mandaat van een klant
 -------------------------------------------------------------------------
-
-Je kunt nu een nieuw incassomachtiging configureren vanuit het menu Klanten. Zodra een factuur is gemaakt in Curq voor een klant met een mandaat actief op de factuurdatum, zal de validatie ervan de automatische betaling activeren, en je hoeft dan alleen nog maar een SEPA Direct Debit (SDD) XML-bestand te genereren met deze bewerking en het naar je bank te sturen.
+Je kunt nu een nieuw incassomachtiging configureren vanuit het menu Klanten. Na ingeven van de klantgegevens kun je vervolgens een document afdrukken via de knop 'Print'. Dit docunent kan de klant vervolgens ondertekenen. Via de knop 'Upload'kun je het ondertekende formulier bij het record opslaan.
 
 .. image:: Media/direct_debit_aanmaken_machtiging.png
        :width: 6.3in
@@ -30,6 +29,8 @@ Na opslaan ziet de definitieve machtiging er alsvolgt uit:
 .. image:: Media/direct_debit_bevestigde_machtiging.png
        :width: 6.3in
        :height: 2.93264in
+
+Zodra een factuur is gemaakt in Curq voor een klant met een mandaat actief op de factuurdatum, zal de validatie ervan de automatische betaling activeren, en je hoeft dan alleen nog maar een SEPA Direct Debit (SDD) XML-bestand te genereren met deze bewerking en het naar je bank te sturen.
 
 Aanmaken verkoopfactuur
 -------------------------------------------------------------------------
@@ -60,3 +61,14 @@ Na bevestigen van het betaalbestand verandert de status en zal een XML bestand w
 Afletteren van incassobatch via bank
 -------------------------------------------------------------------------
 Wanneer de bedragen zijn geincasseerd en bijgeschreven op je bankrekening, dan kun je deze betaalregel vervolgens aflettteren en worden de betalingen op de facturen op de juiste manier afgeboekt.
+
+Beeindigen van een incasso mandaat
+-------------------------------------------------------------------------
+
+Je beeindigt een incassomandaat door op de knop annuleren te klikken
+
+.. image:: Media/direct_debit_stopzetten_mandaat.png
+       :width: 6.3in
+       :height: 2.93264in
+
+
