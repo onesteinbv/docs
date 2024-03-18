@@ -1,4 +1,5 @@
-In dit onderdeel geven we een korte uitleg waar de balans en de verlies en winst onderdelen in Curq uit bestaan. We beschrijven de onderdelen op basis van de door Curq voorgedefineerde rekening categorien
+In dit onderdeel geven we een korte uitleg waar de balans en de verlies en winst onderdelen in Curq uit bestaan. We beschrijven de onderdelen op basis van de door Curq voorgedefineerde rekening categorieën. Wil je ook weten welke boekingen er gemaakt worden bij de verschillende handelingen, kijk dan ook eens op : https://www.odoo.com/documentation/16.0/nl/applications/finance/accounting/get_started/cheat_sheet.html
+
 
 
 Introductie Balans
