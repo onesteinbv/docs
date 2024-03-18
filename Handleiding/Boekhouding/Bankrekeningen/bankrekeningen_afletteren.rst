@@ -5,7 +5,7 @@ banktransacties met je bedrijfsadministratie, zoals klantenfacturen,
 leveranciersfacturen en betalingen.
 
 Dit is niet alleen verplicht voor de meeste bedrijven, maar het biedt
-ook verschillende voordelen, zoals minder risico op fouten infinanciële rapporten, detectie van frauduleuze activiteiten en
+ook verschillende voordelen, zoals minder risico op fouten in financiële rapporten, detectie van frauduleuze activiteiten en
 verbetert cashflowbeheer.
 
 Dankzij de reconciliatiemodellen kan Curq de overeenkomende boekingen
@@ -54,8 +54,7 @@ puntjes rechts in de tegel:
 .. Note::
    In onderstaand schermvoorbeeld zie je dat de geselecteerde regel aangeklikt is en van kleur is veranderd. Dit 
    betekent in Curq dat de focus op de regel staat en je bijvoorbeeld de
-   BTW code kan toevoegen. Bij enkele scenario's is het belangrijk dat je duidelijk ziet dat de regel staat 
-   aangeklikt. Wij geven dit per afletter scenario aan.
+   BTW code kan toevoegen. Let er dus op dat je altijd op de af te letteren regel klikt als je deze wilt verwerken.
 
 .. image:: Media/focus.png
        :width: 6.3in
@@ -67,7 +66,12 @@ Afletter scenario's
 Afletteren van een volledig betaalde factuur
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Wanneer bij de gekozen transactieregel de klant of leverancier staat ingevuld, het bedrag overeenkomt met een openstaande post en het overeenkomstige factuurnummer vermeld staat in de label omschrijving, dan zal Curq de regel automatisch afletteren. Je kunt er voor kiezen ook deze laatste stap te automatiseren. Curq zal dan de gevonden regel direct bevestigen. Stel dit in bij de afletterregels.
+Wanneer bij de gekozen transactieregel de klant of leverancier staat ingevuld, het bedrag overeenkomt met een openstaande post en het overeenkomstige factuurnummer vermeld staat in de label omschrijving, dan zal Curq de regel automatisch afletteren. Je kunt er voor kiezen ook deze laatste stap te automatiseren. Curq zal dan de gevonden regel direct bevestigen. Stel dit in bij de aflettermodellen, je vind deze terug bij menu Facturatie > Configuratie > Afletterregels.
+
+.. image:: Media/bank_aflettermodellen_direct_verwerken.png
+       :width: 6.3in
+       :height: 2.93264in
+
 
 .. image:: Media/image4.png
        :width: 6.3in
@@ -82,7 +86,7 @@ Curq zal het betaalde bedrag automatisch afletteren tegen de openstaande post.
 
 Vervolgens kun je het restbedrag ook direct afboeken, je doet dit door de regel aan te klikken zoals je hieronder ziet in het
 schermvoorbeeld. Hiermee wordt de optie zichtbaar om de factuur op volledig betaald te zetten. Je kunt er vervolgens voor kiezen om het
-restbedrag af te schrijven op een andere grootboekrekening. Je kan hier of een aflettermodel voor gebruiken of de rekening handmatig op te zoeken.
+restbedrag af te schrijven op een andere grootboekrekening. Je kan hier ofwel een aflettermodel voor gebruiken ofwel je doet dit door de rekening handmatig op te zoeken.
 
 .. image:: Media/rest_afboeken_1.png
    :width: 6.69306in
@@ -139,7 +143,7 @@ Terugdraaien aflettering
 Heb je een fout gemaakt, dan is het mogelijk om na bevestigen een
 afgeletterde regel terug te draaien. Klik hiervoor op de knop 'afletteren ongedaan maken'.
 
-.. image:: Media/image8.png
+.. image:: Media/bank_aflettermodellen_terugdraaien_aflettering.png
    :width: 6.69306in
    :height: 3.08125in
 
@@ -148,7 +152,7 @@ Overige functionaliteit
 
 Chatter
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-De chatter fuctionaliteit is beschikbaar bij het afletteren van een regel. Hierdoor kun je direct een collega of een klant een bericht sturen bij een vraag over de betaalregel. Ook kun je in de chatter documenten koppelen.
+De chatter fuctionaliteit is beschikbaar bij het afletteren van een regel. Hierdoor kun je direct een collega of een klant een bericht sturen bij een vraag over de betaalregel. Ook kun je in de chatter documenten koppelen. Denk hierbij bijvoorbeeld aan een gedownload bestand van je banktransacties.
 
 .. image:: Media/Chatter_afletteren.png
    :width: 6.69306in
@@ -166,7 +170,7 @@ vervolgens op diverse plekken in de boekhouding nagekeken worden (zoals hieronde
 
 Na controle van de regel klik je op ‘stel in als gecontroleerd’ om aan te geven dat de regel gecontroleerd is.
 
-.. image:: Media/image10.png
+.. image:: Media/bank_aflettermodellen_extra_controle.png
    :width: 6.69306in
    :height: 3.08125in
 
