@@ -9,5 +9,6 @@ Algemeen
     Discuss
     Rapportages
     Toevoegen_van_een_contact
+    Toevoegen_van_een_contact
     Zoeken&filtreren
 
