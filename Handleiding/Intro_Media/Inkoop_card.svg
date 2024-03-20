@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg57713"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="Inkoop_card.svg"
+   inkscape:export-filename="/home/loek/Nextcloud/Loek/Odoo_icons/Inkoop_card.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview57715"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.64052329"
+     inkscape:cx="396.55076"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1850"
+     inkscape:window-height="1136"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <defs
+     id="defs57710">
+    <rect
+       x="200.90385"
+       y="631.41732"
+       width="423.96975"
+       height="342.35314"
+       id="rect93470" />
+    <rect
+       x="195.68351"
+       y="520.60095"
+       width="423.3416"
+       height="136.05819"
+       id="rect86820" />
+    <rect
+       x="211.11279"
+       y="528.13873"
+       width="371.82123"
+       height="93.216019"
+       id="rect70930" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient62334">
+      <stop
+         style="stop-color:#89afc4;stop-opacity:1;"
+         offset="0"
+         id="stop62330" />
+      <stop
+         style="stop-color:#89afc4;stop-opacity:0.84705882;"
+         offset="0.53344923"
+         id="stop62628" />
+      <stop
+         style="stop-color:#89afc4;stop-opacity:0.79215686;"
+         offset="0.9018805"
+         id="stop62694" />
+      <stop
+         style="stop-color:#89afc4;stop-opacity:0;"
+         offset="1"
+         id="stop62332" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient62334"
+       id="linearGradient62336"
+       x1="0.10100395"
+       y1="0.10100395"
+       x2="209.89899"
+       y2="296.89902"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-210)" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2">
+    <rect
+       style="fill:url(#linearGradient62336);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect62161"
+       width="209.79799"
+       height="296.798"
+       x="-209.89899"
+       y="0.10100395"
+       ry="16.463564"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/loek/Nextcloud/Loek/Odoo_icons/Inkoop_card.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text70928"
+       style="fill:#000000;stroke-width:0.75590552;stroke:#000000;font-size:74.66666761px;text-align:center;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;white-space:pre;shape-inside:url(#rect70930)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-1.2376076,-0.34691738)"
+       id="text86818"
+       style="font-size:74.6667px;text-align:center;white-space:pre;shape-inside:url(#rect86820);fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+         x="283.01329"
+         y="586.66409"
+         id="tspan964">Inkoop</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text93468"
+       style="font-size:37.3333px;text-align:center;white-space:pre;shape-inside:url(#rect93470);fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.755906;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal"
+       inkscape:export-filename="/home/loek/Nextcloud/Loek/Odoo_icons/Inkoop_card.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="227.71695"
+         y="664.44919"
+         id="tspan966">Leveranciersbeheer
+</tspan><tspan
+         x="412.88867"
+         y="711.11582"
+         id="tspan968">
+</tspan><tspan
+         x="287.05284"
+         y="757.78244"
+         id="tspan970">Automatiseer </tspan><tspan
+         x="291.53721"
+         y="804.44907"
+         id="tspan972">inkooporders
+</tspan><tspan
+         x="412.88867"
+         y="851.11569"
+         id="tspan974">
+</tspan><tspan
+         x="260.42917"
+         y="897.78232"
+         id="tspan976">Bereken marges </tspan><tspan
+         x="296.93304"
+         y="944.44895"
+         id="tspan978">automatisch
+</tspan><tspan
+         x="200.9043"
+         y="991.11557"
+         id="tspan980">
+</tspan></text>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       width="100"
+       height="100"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAACMCAMAAACZHrEMAAADAFBMVEVHcEw6UmBOanlNanhNaXew y9ityNa60d1sgZdPaXiwy9m3z9y/1eq80tyAq8F/qsJ9mac4Tlg9VWNOaXiStcd9qcCxztqxzNp/ q8GQtMqUtcmStsiStsi70t280t280t46UV05T1tzmK0+WmtcfpD///9jgpOIr8R/qsGLscVggJJf gJKErcOBq8JhgZNigpNfgJGKsMWFrcODrMKCrMJ8qMBhgZKNssaGrsNdf5GMscV+qcGAqsFlg5N9 qcCHr8Ref5F7qMBqhpVdfpFkg5OOssZmhJSPs8Z6p7+JsMWGrsSJr8SHrsRkgpOJsMRHXGdlhJRc fpFohZWCq8JnhJWRtMeAq8KFrsN9qcGDrMOQtMd+qsFlg5SMssZFW2ZnhJR4pr9FWmZ6p8BegJGH rsOOs8ZphZWPs8c4TVlphpWBq8F4pr5hgJJhgpOAq8FJXWiErcN5p79+qcBHXGhJXmhLXmh5pr98 qcCKsMRqh5WLsMVIXGhbfpE6TllKZnWQs8d2pb680d2MscZZdoVsh5Y7UFqNssVifIlGXGdDWmW2 ztpMZ3Z6iZJ8i5Pt7/BMXml1pL51g4uStchbfpBZa3ayy9pabXa3ztupusOxy9mStce5z9uhr7dS anZJXGhriJdDWmaQtclrh5VbeIZfeomzzNp6k6JnhpZtiJd7p8Bif4+ru8O1zdrD0Ne8xMjF0dhP aHaLscZmgZBdeIZzg4tzgotYa3WAqsJqh5fCz9eTt8lDWWVtiZhlfYq7w8dtkaWsu8RkgJC50Nuu vMS70Nxhfo9ffY5wlqt4k6FohZRpjJ9ngpF0oLZ5iZKBrMKOs8dzm7Hh5edJYG39/f3m6+50g4tT coNuiplJZXTM1NhmiZuZpKt7pr36+vt1orpqipv09vdVcH55pLpbfZByjp1ggZKOn6hlhZd/maeb qLCoxNR4obZbeoxPa3nF2OLV3eCstrx8k6Bic36Yucudvc7Y5ezO3ebI1t53h4/ByMy5yNBhfIxi hJbR2N2yxc6LmaBYIJhBAAAA7nRSTlMAo8nT7/aYXglcfKMM8fvyG/p8oPvoPtDLp+fxx/Hnx9Dt 5z7y//////////////////////////////////////////////////////////////////////// //////////////////////////////////////////////////////////////////////////// //////////////////////////////////////////////////////////////////////////// ///////////////////////////////////////////+e991cgAAE6hJREFUeNrEmV9sk9cZxs8N ZVLbbRf7//eKxJaSWHHs2IoTW47s2I7zTyF/SByTEMVEJJDIAQwkFwkRohMXI43GGLRiAhW1FFDV dlsnpAlGQ9EoGkwtF6ODVb0YGhfdBXTbxTTted5zPvMF8rFd4Pk93xeuWv30PM97zns+K6XUN577 5rp1x1bXEf3nyOnTp4+dturc6XNP1NFD5w6dO8o6JI+pV7j4SF2+vHL58iv8s7KywrdY+/fvX/n+ D374/PoXFOtLzx9bu47IY2MhzRo4QDkHoFUsmueohSL/rAiSZrlsRwLPyv4X1xPmuWP3H2RbB/oa p6obq6unJqqrqyd8G314BuqqBurqqurwVnm9Vd5+b2vQizcYbGuNRMYilZFKU6mOVG1Hbe1et3tv rXt2dtbtXlx0N2QbAoEGvIGD8XguF8+N58bHE4nBBN7B3l48vcvH+V548PD+sZX9oPnqupMuVKOr r7GxDzSsjdXVglPnA0qVKS+J+lv7g61YwbZgpG0s0iYklenKdCqd6kjXAqXWbWqxATTZgKl4IBeP J3KJ8cT44PggkXoHBaf3+DLW8eUL9198Qa1vzbhCrveA09fYN6XlmQALhPHVgYa6aKB+SAMcb7DV G4y0BtsibUV5wJJO1aZqRR4CLbopTLYBwkCagySJ38glcnHIkphPzA8OzhNFlwAdX364Xn3bNUNl iOOiMlNYv5/wwSnwbBSbBqoMj7eqH1Z5RZtIMDgWGasUlhRXOp3WVsEseLUo4mSzmiZ+MBcPxHNx 2ERtIMwgnl5LG/wBznPqWxAm5LKcmqJRU+IUbBrw+RgcAA0IjZfK9LfCLPLQJm0UqqOyI9VRywVh aNWsu8FNZbJZ0tCoXPyG4IxTG9JomF7JDWiWv6e+PhOaybgymoZGCRBi7OMijjZKr34viYISYqwx MWpMhxjiAKVjrzZqVoJDnAYxCqnBGkeOE3EalRB5dI6pDpz6jvpKKJMJwakQWEScPqDQqWKGB+iV 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 ebQ9TnKATl4AAAAASUVORK5CYII= "
+       id="image57725"
+       x="55"
+       y="30"
+       style="fill:#89afc4;fill-opacity:1" />
+  </g>
+</svg>
