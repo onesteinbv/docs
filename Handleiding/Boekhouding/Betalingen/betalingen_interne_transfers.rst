@@ -1,6 +1,7 @@
 Interne overboekingen
 =========================================================================
-Interne overboekingen kunnen worden afgehandeld in Curq. Er zijn minstens twee bankrekeningen nodig om interne overschrijvingen te doen.
+Interne overboekingen kunnen worden afgehandeld in Curq. Denk hierbij aan overboekingen tussen eigen bankrekeningen. Je kan niet direct een boeking doen van de ene bank naar de andere, met interne overboekingen doe je dit wel op de correcte manier.
+Er zijn minstens twee bankrekeningen nodig om interne overschrijvingen te doen.
 
 Configuratie
 -------------------------------------------------------------------------
