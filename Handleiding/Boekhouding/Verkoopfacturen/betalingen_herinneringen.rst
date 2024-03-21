@@ -35,11 +35,11 @@ helpt. In de wizard geef je aan welke klanten je wil herinneren
 presenteren). Ook kun je in de wizard aangeven naar wie de herinnering
 toe wordt gestuurd.
 
-Bij Filters kun je op klant en/of verkoper filteren.
+Bij **FILTERS** kun je op klant en/of verkoper filteren.
 
-De standaard instellingen die je eerder rondom de onderdelen 'Neem contact op met', 'Wizard interface', 'Triggervertraging' en 'Minimum vertraging' hebt ingegeven, kun je hier eventueel aanpassen.
+De standaard instellingen die je eerder rondom de onderdelen 'Neem contact op met', 'Wizard interface', 'Triggervertraging' en 'Minimum vertraging' hebt ingegeven, kun je onder het onderdeel **OPTIES** eventueel aanpassen.
 
-Na selectie start het proces door op de knop ‘Start’ te klikken
+Na het maken van de selectie start het proces door op de knop ‘Start’ te klikken.
 
 .. image:: Media/betalingsherinneringen_2.png
    :width: 6.3in
@@ -56,13 +56,13 @@ tekst per klant worden aangepast.
    :width: 6.3in
    :height: 2.90069in
 
-Met de knop ‘valideren’ verstuur je de mail en werkt Curq de status
+Met de knop **VALIDEREN** verstuur je de mail en werkt Curq de status
 automatisch bij. Wanneer een herinnering verstuurd is dan krijgen de facturen die zijn aangemaand een volgnummer (1). Je kunt dit volgnummer ook in de lijstweergave van de facturen terugvinden.
 
 Bij de factuur zelf zie je dat deze vervallen is en op het tabblad
 ‘Betalingsherinnering’ zie je de status. Hier kun je ook aanvullende informatie kwijt, bijvoorbeeld als je de klant gaat nabellen.
 
-Het e-mail sjabloon is ook zo ingericht dat er verschillende teksten worden getoond per volgnummer. Bij de derde aanmaning (volgnummer 3) zie je dwingende tekst dat de klant direct moet betalen. Je kunt de tekst eventueel ook zelf aanpassen in het e-mail sjabloon.
+Het e-mail sjabloon is ook zo ingericht dat er verschillende teksten worden getoond per volgnummer. Bij de tweede aanmaning (volgnummer 2) zie je een dwingende tekst dat de klant direct moet betalen. Je kunt de tekst eventueel ook zelf aanpassen in het e-mail sjabloon of bij de aanmaning naar de klant zelf.
 
 .. image:: Media/betalingsherinneringen_5.png
    :width: 6.3in
