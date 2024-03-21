@@ -60,12 +60,23 @@ Wanneer korting wordt geselecteerd, wordt het ingevoerde percentage van de prijs
 
 .. image:: Prijslijsten/Prijslijsten008.png
 
-De Formule-knop is complexer en bevat meerdere velden die de prijs beïnvloeden. De eerste is gebaseerd op veld, dit beïnvloedt waarop de nieuwe prijs wordt gebaseerd. Dit kan de verkoopprijs zijn; dit is de prijs die wordt opgegeven wanneer een product wordt aangemaakt. De tweede optie is kostprijs; hier wordt de prijs gebaseerd op de kosten die zijn gemaakt om het product te kunnen verkopen, zoals de aankoopprijs, de transportkosten, de fabricagekosten of enige andere kosten die aan het proces zijn verbonden.
-Als laatste kan de prijs ook afhangen van een andere eerder gemaakte prijslijst, denk aan eerst een prijslijst om de verkoopprijs te berekenen van de kostprijs en hierna met de nieuwe prijslijst korting op de berekende verkoopprijs.
-Het tweede veld is korting hier wordt de korting berekend per percentage. Dit kan ook een negatief nummer zijn om het product een bepaald percentage duurder te maken.
-Het derde veld zijn extra kosten dit is een vast getal dat aan de prijs wordt toegevoegd. Dit kan ook een negatief getal zijn, denk aan -0,01 om de prijs te laten eindigen op 0,99. Om dit goed te berekenen is het vierde veld nodig.
-Het vierde veld is de afrondmethode dit is de manier hoe de berekening wordt afgerond, zoals op een heel getal, op een getal achter de komma, per vijf of per tiental. Hiermee kun je in één keer een mooi rond getal krijgen of met de negatieve getallen in het extra kosten-vlak een strategisch verantwoorde prijs.
-Het laatste vlak, marges, kan een minimum- en maximumwinstmarge worden ingesteld, gebaseerd op de kostprijs.
+De Formule-knop is complexer en bevat meerdere velden die de prijs beïnvloeden.
+
+Het eerste veld is gebaseerd op. Dit beïnvloedt waarop de nieuwe prijs wordt gebaseerd.
+
+1. Verkoopprijs: De prijs wordt berekend op basis van de prijs die is aangegeven op de productpagina.
+
+2. Kostprijs: Hier wordt de prijs gebaseerd op de kosten die zijn gemaakt om het product te kunnen verkopen, zoals de inkoopprijs. Het kan ook andere kosten bevatten, zoals de productiekosten als het product in-house wordt gemaakt.
+
+3. Eerder gemaakte prijslijst: Denk aan eerst een prijslijst om de verkoopprijs te berekenen van de kostprijs en hierna met de nieuwe prijslijst korting op de berekende verkoopprijs.
+
+Het tweede veld is korting. Hier wordt de korting berekend per percentage. Dit kan ook een negatief nummer zijn om het product een bepaald percentage duurder te maken.
+
+Het derde veld zijn extra kosten. Dit is een vast getal dat aan de prijs wordt toegevoegd. Dit kan ook een negatief getal zijn, denk aan -0,01 om de prijs te laten eindigen op 0,99. Om dit goed te berekenen is het vierde veld nodig.
+
+Het vierde veld is de afrondmethode. Dit is de manier waarop de berekening wordt afgerond, zoals op een heel getal, op een getal achter de komma, per vijf of per tiental. Hiermee kun je in één keer een mooi rond getal krijgen of met de negatieve getallen in het extra kosten-veld een strategisch verantwoorde prijs.
+
+Het laatste veld, marges, kan een minimum- en maximumwinstmarge worden ingesteld, gebaseerd op de kostprijs
 
 .. image:: Prijslijsten/Prijslijsten009.png
 
