@@ -29,7 +29,7 @@ In het afletterscherm vind je de knop terug op onderstaand schermvoorbeeld:
        :width: 6.3in
        :height: 2.93264in
 
-Hieronder zie je een voorbeeld van een aflettermodel waarmee direct een tegenboeking wordt gegenereerd (optie 2).
+Hieronder zie je een voorbeeld van een aflettermodel waarmee direct een tegenboeking wordt gegenereerd (optie 2). Bij dit model is ingegeven dat er gezocht wordt op het woord 'Abonnement' in het notitie veld en op klant 'testklant'. Het voorstel wordt alleen gedaan als aan beide voorwaarden is voldaan.
 
 .. image:: Media/bank_aflettermodellen_voorstel_tegenboeking.png
        :width: 6.3in
@@ -42,9 +42,15 @@ Met als resultaat dat bij een transactieregel waarbij in de notitie de tekst 'Ab
        :height: 2.93264in
 
 
-Tenslotte zie je hieronder een voorbeeld van het 'perfect match' model (optie 3). Curq kan op basis van de klant/leveranciersnaam en het bedrag de factuur direct matchen.
+Tenslotte zie je hieronder een voorbeeld van het 'perfect match' model (optie 3). Curq kan op basis van de klant/leveranciersnaam, de betaalreferentie en het bedrag de factuur direct matchen.
 
 .. image:: Media/image5.png
+       :width: 6.3in
+       :height: 2.93264in
+
+Het resultaat zie je hieronder in het afletterscherm. Het bedrag, de klant en de betaalreferentie komen overeen, dus Curq zal direct de juiste factuur voorstellen om het bedrag tegen af te letteren.
+
+.. image:: Media/bank_aflettermodellen_resultaat_perfect_match.png
        :width: 6.3in
        :height: 2.93264in
 
