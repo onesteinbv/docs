@@ -11,7 +11,7 @@ De Prognose Venster toont kansen die zijn gecategoriseerd op basis van verwachte
 
 Klik op de knop *Nieuw* om direct vanuit dit venster een nieuwe mogelijkheid aan te maken. Er wordt een nieuw dialoogvenster geopend waarin je de benodigde gegevens kunt invoeren, zoals Organisatie/Contact, Opportunity, E-mail, Telefoon en Verwachte omzet. Klik ten slotte op *Toevoegen*.
 
-media026
+.. image:: Media/026.png
 
 Pijplijn
 --------
@@ -20,7 +20,7 @@ Je kunt de activiteiten van de pijplijn analyseren aan de hand van verschillende
 In het venster Pijplijn analyse kun je de rapporten in drie verschillende mogelijkheden bekijken: *Grafiek, Draaitabel* en *Lijstweergave*. Klik op een pictogram in de rechterbovenhoek van het venster. Je kunt ook het type grafische weergave aanpassen, d.w.z. staafdiagram, lijndiagram of cirkeldiagram.
 Standaard wordt dit overzicht getoond op basis van de verschillende fases.
 
-media027
+.. image:: Media/027.png
 
 Leads
 -----
@@ -30,7 +30,7 @@ Met de 'Leads' rapportage krijg je een samenvatting te zien van de gemaakte lead
 
 Met behulp van de *Filters* en *Groeperen op* opties kunnen leads worden gefilterd en gecategoriseerd op basis van specifieke criteria. Onder *Vergelijking* zijn er twee keuzemogelijkheden: *Aangemaakt op: Vorige periode* en *Aangemaakt op: Vorig jaar*. Hiermee kun je leads filteren op basis van de vorige periode of het vorige jaar, om ze nauwkeurig te vergelijken. De Favorieten-optie maakt het mogelijk om specifieke filters op te slaan en als standaard in te stellen.
 
-media028
+.. image:: Media/028.png
 
 Activiteiten
 ------------
@@ -42,7 +42,7 @@ Lead Genereer Weergave
 
 Dit menu genereert een rapportage overzicht van leads die zijn gegenereerd via de *Bezoekers naar Leads Regels* in het Configuratiemenu.  In dit venster worden details zoals het IP-adres, de leadgeneratie regel, de Staat of Provincie en de aanmaakdatum weergegeven. Dit overzicht ordent op een effectieve manier de activiteiten met betrekking tot zowel potentiële als bestaande klanten.
 
-media029
+.. image:: Media/029.png
 
 
 
