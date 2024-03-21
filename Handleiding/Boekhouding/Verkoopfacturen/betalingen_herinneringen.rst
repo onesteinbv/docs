@@ -1,7 +1,7 @@
 Herinneringen in Curq
 ====================================================================
 
-Via menu Klanten -> Betalingsherinneringen kun je vervallen
+Via menu Facturatie > Klanten > Betalingsherinneringen kun je vervallen
 klantfacturen opvolgen.
 
 .. image:: Media/betalingsherinneringen_1.png
@@ -16,18 +16,21 @@ toe wordt gestuurd.
 
 Bij Filters kun je op klant en/of verkoper filteren.
 
-Bij opties kun je aangeven of je alle herinneringen 1 voor 1 wil
-afhandelen of in 1 keer. Ook kun je hier het aantal dagen aangeven dat
-tussen de volgende herinnering zit.
+* Neem contact op om te herinneren. 
 
-Na selectie start het proces door op ‘Start’ te klikken
+* Wizard interface. Hier kun je aangeven of je alle herinneringen 1 voor 1 wil bekijken of dat je alle klanten in 1 keer wil verwerken.
+
+* Het veld Triggervertraging kun je gebruiken om een aantal extra dagen in te geven tussen de vervaldatum en het meenemen in de lijst met te herinneren facturen. 
+
+* Minimumvertraging sinds laatste herinnering. Hier kun je het aantal dagen aangeven dat tussen de volgende herinnering zit.
+
+Na selectie start het proces door op de knop ‘Start’ te klikken
 
 .. image:: Media/betalingsherinneringen_2.png
    :width: 6.3in
    :height: 2.90069in
 
-Het resultaat wordt per klant weergegeven. Je kunt
-facturen handmatig van de lijst te verwijderen. Indien gewenst kan de email
+Het resultaat wordt per klant weergegeven. Je kunt facturen handmatig van de lijst te verwijderen. Indien gewenst kan de email
 tekst per klant worden aangepast.
 
 .. image:: Media/betalingsherinneringen_3.png
@@ -39,11 +42,12 @@ tekst per klant worden aangepast.
    :height: 2.90069in
 
 Met de knop ‘valideren’ verstuur je de mail en werkt Curq de status
-automatisch bij.
+automatisch bij. Wanneer een herinnering verstuurd is dan krijgen de facturen die zijn aangemaand een volgnummer (1). Je kunt dit volgnummer ook in de lijstweergave van de facturen terugvinden.
 
 Bij de factuur zelf zie je dat deze vervallen is en op het tabblad
-‘Betalingsherinnering’ zie je de status. Hier kun je ook
-aanvullende informatie kwijt, bijvoorbeeld als je de klant gaat nabellen.
+‘Betalingsherinnering’ zie je de status. Hier kun je ook aanvullende informatie kwijt, bijvoorbeeld als je de klant gaat nabellen.
+
+Het e-mail sjabloon is ook zo ingericht dat er verschillende teksten worden getoond per volgnummer. Bij de derde aanmaning (volgnummer 3) zie je dwingende tekst dat de klant direct moet betalen. Je kunt de tekst eventueel ook zelf aanpassen in het e-mail sjabloon.
 
 .. image:: Media/betalingsherinneringen_5.png
    :width: 6.3in
