@@ -5,7 +5,7 @@ Inkoop  |  Prijslijsten en inkoopoffertes
 
 Prijslijsten
 ---------------------------------------------------------------------------------------------------
-Prijslijsten spelen een cruciale rol in zowel de verkoop- als inkoopactiviteiten van een bedrijf. Met de leveranciers prijslijst functie, beschikbaar in de Odoo Inkoopmodule, kun je specifieke inkoopprijzen configureren voor bepaalde leveranciers gedurende een bepaalde periode. Deze prijslijsten kunnen worden toegepast tijdens het inkopen van de gespecificeerde producten van die leverancier. Om deze instellingen te beheren, navigeer je naar het menu *Configuratie - Leveranciers Prijslijsten*. 
+Prijslijsten spelen een cruciale rol in zowel de verkoop- als inkoopactiviteiten van een bedrijf. Met de leveranciers prijslijst functie, beschikbaar in de Curq Inkoopmodule, kun je specifieke inkoopprijzen configureren voor bepaalde leveranciers gedurende een bepaalde periode. Deze prijslijsten kunnen worden toegepast tijdens het inkopen van de gespecificeerde producten van die leverancier. Om deze instellingen te beheren, navigeer je naar het menu *Configuratie - Leveranciers Prijslijsten*. 
 
 .. image:: Media/inkoop010.png
 
@@ -47,7 +47,7 @@ Onder het tabblad **Overige informatie** voeg je de gegevens van de inkoopverteg
 
 .. image:: Media/inkoop017.png
 
-Het tabblad **Alternatieven** is een nieuwe functie in Odoo 16. Hiermee kun je alternatieve inkooporders met hetzelfde product van verschillende leveranciers toevoegen. Wanneer je alternatieve bestellingen toevoegt, wordt er een aanbesteding aangemaakt. Je kunt de alternatieven vergelijken en de beste optie selecteren. Klik op de knop *Alternatief maken* om alternatieven te maken. Er verschijnt een pop-upvenster zoals hieronder afgebeeld.
+Het tabblad **Alternatieven** is een nieuwe functie in Curq. Hiermee kun je alternatieve inkooporders met hetzelfde product van verschillende leveranciers toevoegen. Wanneer je alternatieve bestellingen toevoegt, wordt er een aanbesteding aangemaakt. Je kunt de alternatieven vergelijken en de beste optie selecteren. Klik op de knop *Alternatief maken* om alternatieven te maken. Er verschijnt een pop-upvenster zoals hieronder afgebeeld.
 
 .. image:: Media/inkoop018.png
 
