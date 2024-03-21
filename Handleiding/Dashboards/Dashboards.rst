@@ -15,7 +15,7 @@ We nemen de 3 opties met je door.
 Standaard Dashboards
 --------------------
 
-Zoals zichtbaar in onderstaande schermafbeelding, omvat de module diverse soorten dashboards, waaronder Verkoop, CRM, Financiën, Logistiek en Projecten. 
+Zoals zichtbaar in onderstaande schermafbeelding, omvat de module diverse soorten dashboards, waaronder **Verkoop, CRM, Financiën, Logistiek** en **Projecten**. 
 
 .. image:: Media/001.png
 
