@@ -8,7 +8,7 @@ CURQ is een all incusive en voledig open source ERP systeem. Wij bieden u vrijhe
 .. :target: https://curq.nl/
 
 +----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
-| .. Image:: Handleiding/Intro_Media/accounting_card.png                                       | .. Image:: Handleiding/Intro_Media/Website_Card.png                                                 |
+| .. Image:: Handleiding/Intro_Media/Boekhouding_card.png                                      | .. Image:: Handleiding/Intro_Media/Website_Card.png                                                 |
 +----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
 | .. Image:: Handleiding/Intro_Media/CRM_Card.png                                              | .. Image:: Handleiding/Intro_Media/Verkoop_card.png                                                 |
 +----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------+
