@@ -1,7 +1,10 @@
+Basisbegrippen boekhouding
+========================================================================
+
 In dit onderdeel geven we een korte uitleg waar de balans en de verlies en winst onderdelen in Curq uit bestaan. We beschrijven de onderdelen op basis van de door Curq voorgedefineerde rekening categorieën. 
 
 Introductie Balans
----------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------
 De **Balans** is een momentopname van de financiën van het bedrijf op een specifieke datum (in tegenstelling tot de Winst- en Verliesrekening, die een analyse is over een periode).
 
 •    **Activa** vertegenwoordigen het vermogen van het bedrijf en de goederen die het bezit. Vaste activa omvatten gebouwen
@@ -21,7 +24,7 @@ Er wordt onderscheid gemaakt tussen activa en kosten:
 •	Een kostenpost zijn de operationele kosten die een bedrijf draagt om inkomsten te genereren. Het betreft zowel kosten die gemaakt zijn t.b.v de inkoopwaarde van de omzet als ook kosten als bijvoorbeeld R&D, personeels -en transportkosten.
 
 Introductie Verlies en Winst
----------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------
 Wat is een winst en verliesrekening?
 De winst en verliesrekening laat het resultaat van een bedrijf zien voor een bepaalde periode. Hieruit kan je opmaken of er winst of verlies is gemaakt, zoals de naam ook aangeeft. In dit overzicht neem je de opbrengsten minus de kosten, waarna er vervolgens per saldo een winst of verliessaldo resulteert. De winst- en verliesrekening behoort bij de jaarcijfers van een bedrijf. De balans vormt hier ook een onderdeel van.
 
@@ -59,7 +62,7 @@ Kort samengevat wordt het resultaat bepaalt met de volgende formule:
 **Bedrijfsresultaat na belasting** = Netto omzetresultaat - overige lasten en opbrengsten - belastingen
 
 Grootboek
----------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------
 Het grootboek bevat alle grootboek rekeningen van het bedrijf: zowel balansrekeningen als resultatenrekeningen. Elke transactie wordt geregistreerd door meerdere rekeningen te debiteren en crediteren in een journaalpost. Binnen Curq maken we gebruik van een gestandaardiseerd grootboekschema (RGS). 
 
 Elke rekening die in het grootboek staat, behoort tot een specifieke categorie. In Odoo heeft elke rekening een unieke code en behoort tot een van deze categorieën:
