@@ -10,11 +10,11 @@ Een inkooporder wordt beschouwd als een bindende overeenkomst tussen de verkoper
 
 Indien er een positieve reactie van de leverancier is ontvangen, kan de RFQ direct worden omgezet in een definitieve inkooporder door op de knop *Bevestig Order* te klikken. 
 
-Om een directe inkooporder aan te maken, gaat u naar het menu 'Orders' in de hoofdmenubalk van de module en selecteert u de optie *Inkooporders*. Hier wordt een lijst met inkooporders en hun status weergegeven, zoals hieronder getoond.
+Om een directe inkooporder aan te maken, ga je naar het menu 'Orders' in de hoofdmenubalk van de module en selecteert u de optie *Inkooporders*. Hier wordt een lijst met inkooporders en hun status weergegeven, zoals hieronder getoond.
 
 .. image:: Media/inkoop022.png
 
-Het voorbeeld toont specifieke details zoals het **referentienummer, de bevestigingsdatum, de leverancier, het bedrijf, de verwachte ontvangstdatum, de inkoop vertegenwoordiger, de totale prijs en de factuurstatus** van de inkooporder. Je kunt een inkooporder selecteren om gedetailleerde informatie te bekijken of om de betreffende inkooporder te bewerken. Net als in andere Odoo-modules zijn er sorteeropties en verschillende weergaven van de gegevens beschikbaar. 
+Het voorbeeld toont specifieke details zoals het **referentienummer, de bevestigingsdatum, de leverancier, het bedrijf, de verwachte ontvangstdatum, de inkoop vertegenwoordiger, de totale prijs en de factuurstatus** van de inkooporder. Je kunt een inkooporder selecteren om gedetailleerde informatie te bekijken of om de betreffende inkooporder te bewerken. Net als in andere Curq modules zijn er sorteeropties en verschillende weergaven van de gegevens beschikbaar. 
 
 Gebruik de knop *Nieuw* om een nieuwe inkooporder te genereren.
 
@@ -28,7 +28,7 @@ In het menu **Instellingen** kun je ervoor kiezen om **Bevestigde orders blokker
 
 .. image:: Media/inkoop024.png
 
-Zodra je de bestelling hebt bevestigd, wordt deze automatisch vergrendeld zoals hieronder weergegeven. Als u wijzigingen wilt aanbrengen in de bevestigde bestelling, kunt u op de knop *Ontgrendel* klikken.
+Zodra je de bestelling hebt bevestigd, wordt deze automatisch vergrendeld zoals hieronder weergegeven. Als je wijzigingen wilt aanbrengen in de bevestigde bestelling, kun je op de knop *Ontgrendel* klikken.
 
 .. image:: Media/inkoop025.png
 
@@ -42,13 +42,13 @@ Als alternatief kun je de smart button gebruiken **Ontvangst**, om de details va
 Leveranciersfacturen
 --------------------
 
-Binnen Odoo kun je leveranciersfacturen genereren op basis van de bestelde hoeveelheden en de geleverde hoeveelheden, conform het bedrijfsbeleid. Je kunt naar het menu **Instellingen** van de inkoopmodule gaan om de beleidsregels voor factuurcontrole in te stellen.
+Binnen Curq kun je leveranciersfacturen genereren op basis van de bestelde hoeveelheden en de geleverde hoeveelheden, conform het bedrijfsbeleid. Je kunt naar het menu **Instellingen** van de inkoopmodule gaan om de beleidsregels voor factuurcontrole in te stellen.
 
 .. image:: Media/inkoop027.png
 
 Onder het tabblad **Facturatie** heb je de optie *Factuurcontrole*. Hiermee kun je instellen hoe facturen voor aankopen moeten worden gegenereerd. De optie die je hier instelt, zal dienen als het standaard facturering beleid voor alle producten. Later kun je het facturering beleid van een specifiek product wijzigen vanuit de product settings. 
 
-Je hebt de keuze om facturen te genereren vóór en ná levering. Als je facturen wilt genereren voor alle bestelde hoeveelheden, kun je *Bestelde hoeveelheden* selecteren als factuurcontrole. Hierdoor worden facturen gegenereerd voor alle hoeveelheden die in de inkooporder zijn vermeld. Als je echter *Ontvangen hoeveelheden* selecteert, zal Odoo alleen factureren voor de hoeveelheden die daadwerkelijk zijn geleverd.
+Je hebt de keuze om facturen te genereren vóór en ná levering. Als je facturen wilt genereren voor alle bestelde hoeveelheden, kun je *Bestelde hoeveelheden* selecteren als factuurcontrole. Hierdoor worden facturen gegenereerd voor alle hoeveelheden die in de inkooporder zijn vermeld. Als je echter *Ontvangen hoeveelheden* selecteert, zal Curq alleen factureren voor de hoeveelheden die daadwerkelijk zijn geleverd.
 
 Het is ook mogelijk om het controlebeleid in te stellen vanuit de productconfiguratie van elk product. Onder het tabblad **Inkoop** vind je de relevante optie, zoals hieronder afgebeeld.
 
