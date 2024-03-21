@@ -60,6 +60,11 @@ Door op de knop *Nieuw* te klikken, ga je naar een nieuw contactkaart waar je de
 
 .. image:: Media/inkoop009.png
 
+.. toctree::
+    :maxdepth: 2
 
+    Inkoop_Prijslijsten_en_Inkoopoffertes
+    Inkoop_Inkoopbeheer_en_leveranciersfacturen
+    Inkoop_Inkoopovereenkomst
     Inkoop_Inkoop_in_verschillende_maateenheden
     Inkoop_Aanvulopdrachten
