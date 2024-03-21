@@ -42,7 +42,7 @@ Met als resultaat dat bij een transactieregel waarbij in de notitie de tekst 'Ab
        :height: 2.93264in
 
 
-Tenslotte zie je hieronder een voorbeeld van de 'perfect match' optie. Curq kan op basis van de klant/leveranciersnaam en het bedrag de factuur direct matchen.
+Tenslotte zie je hieronder een voorbeeld van het 'perfect match' model (optie 3). Curq kan op basis van de klant/leveranciersnaam en het bedrag de factuur direct matchen.
 
 .. image:: Media/image5.png
        :width: 6.3in
