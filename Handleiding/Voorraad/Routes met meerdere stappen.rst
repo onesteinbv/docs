@@ -14,7 +14,7 @@ Zodra je deze functie hebt geactiveerd, zal de optie *Routes* beschikbaar zijn o
 
 Een *Regel* aanmaken
 --------------------
-In het menu Configuratie kun je de optie *Regels* selecteren onder het tabblad Magazijnbeheer. Hierdoor opent zich een nieuw venster waarin u de vooraf geconfigureerde lijst met verschillende regels in de voorraadmodule kunt bekijken.
+In het menu Configuratie kun je de optie *Regels* selecteren onder het tabblad Magazijnbeheer. Hierdoor opent zich een nieuw venster waarin je de vooraf geconfigureerde lijst met verschillende regels in de voorraadmodule kunt bekijken.
 
 .. image:: Product-Configuratie-Media/image79.png
 
