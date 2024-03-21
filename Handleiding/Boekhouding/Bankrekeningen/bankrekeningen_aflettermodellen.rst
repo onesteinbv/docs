@@ -8,15 +8,21 @@ ingericht, je vind deze onder menu 'afletterregels'.
 Je kunt met 3 doeleinden een afletter regel aanmaken:
 
 1. Als je direct een tegenboeking van de af te letteren transactieregel
-   wil genereren
+   wil genereren.
 
 2. Als je zelf wil bepalen of je het model wilt gebruiken. Je maakt in
-   dit geval een knop aan waarmee je de tegenrekening laat toevoegen
+   dit geval een knop aan waarmee je de tegenrekening laat toevoegen.
 
 3. Als je automatisch inkoop-en of verkoopfacturen wil matchen en door
    Curq wil laten afletteren. Optie 3 wordt standaard in Curq toegepast.
 
 .. image:: Media/image5.png
+       :width: 6.3in
+       :height: 2.93264in
+
+Hieronder zie je een voorbeeld van een afletter knop. In dit voorbeeld is het model 'Bankkosten' gekoppeld aan bankrekening 'Bankkosten'
+
+.. image:: Media/bank_aflettermodellen_knop.png
        :width: 6.3in
        :height: 2.93264in
 
@@ -63,4 +69,9 @@ Met deze regel kun je een aflettermodel specifiek voor een klant of leverancier 
        :width: 6.3in
        :height: 2.93264in
 
+Tabblad Relatiemapping
+----------------------------------------------------------
 
+Relatie mapping maakt het mogelijk om regels vast te stellen voor het automatisch koppelen van transacties aan de juiste relatie, wat tijd bespaart en het risico op fouten vermindert die kunnen optreden tijdens handmatige aflettering. Je kunt bijvoorbeeldrelatie mappingregel maken voor inkomende betalingen met specifieke referentienummers of trefwoorden in de transactiebeschrijving. Wanneer een inkomende betaling aan deze criteria voldoet, koppelt Curq deze automatisch aan de overeenkomstige relatie.
+
+Om een relatie mappingregel te maken, ga naar het tabblad relatie mapping en voer de tekst in om te vinden in het label, de tekst om te vinden in de notities en de partner.
