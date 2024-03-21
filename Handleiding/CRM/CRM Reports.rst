@@ -7,7 +7,7 @@ De CRM module heeft een aantal rapportage mogelijkheden voor het gedetailleerd a
 Prognose
 --------
 
-De Prognose Venster toont kansen die zijn gecategoriseerd op basis van verwachte *sluiting* maanden. Je kunt de weergave van deze details aanpassen met behulp van de vier pictogrammen in de rechterbovenhoek van het venster: *Kanban, Grafiek, Pivot* en *Lijst(. De opties *Filters* en *Groeperen op* bieden meer flexibiliteit om specifieke gegevens te tonen. Je kunt ook *Favorieten* gebruiken om veelgebruikte filters op te slaan of standaardcriteria in te stellen voor het segmenteren van leads. 
+De Prognose Venster toont kansen die zijn gecategoriseerd op basis van verwachte 'sluiting' maanden. Je kunt de weergave van deze details aanpassen met behulp van de vier pictogrammen in de rechterbovenhoek van het venster: *Kanban, Grafiek, Pivot* en *Lijst(. De opties *Filters* en *Groeperen op* bieden meer flexibiliteit om specifieke gegevens te tonen. Je kunt ook *Favorieten* gebruiken om veelgebruikte filters op te slaan of standaardcriteria in te stellen voor het segmenteren van leads. 
 
 Klik op de knop *Nieuw* om direct vanuit dit venster een nieuwe mogelijkheid aan te maken. Er wordt een nieuw dialoogvenster geopend waarin je de benodigde gegevens kunt invoeren, zoals Organisatie/Contact, Opportunity, E-mail, Telefoon en Verwachte omzet. Klik ten slotte op *Toevoegen*.
 
