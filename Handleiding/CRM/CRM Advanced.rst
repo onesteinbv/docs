@@ -12,22 +12,22 @@ Verkoop Teams
 -------------
 Om verkoopteams te beheren ga je naar **Configuratie - Verkoopteams**. In dit overzicht staan de reeds aangemaakte verkoopteams.
 
-media0018
+.. image:: Media/018.png
 
 
 Om toegang te krijgen tot het dashboard van het verkoopteam, navigeer je naar het menu *Verkoop* en selecteer je *Teams*. In Curq worden de teams waarvan gebruikers deel uitmaken weergegeven als dashboard tegels.
 
-media0019
+.. image:: Media/019.png
 
 Elke tegel biedt een samenvatting van de *open verkoopkansen, offertes, verkooporders* en *verwachte omzet* van het verkoopteam. Daarnaast bevat het een staafdiagram dat de nieuwe kansen per week weergeeft, evenals een voortgangsbalk voor facturatie.
 
 Bij het aanklikken van een verkoopteam wordt het instellingenmenu geopend van dit verkoopteam waarbij er een aantal belangrijke settings gemaakt kan worden.  
 
-media0020
+.. image:: Media/020.png
 
 Je kunt een *E-mail Alias* instellen om automatisch een lead of opportunity te genereren voor dit verkoopteam telkens wanneer een bericht naar dat unieke e-mailadres wordt verzonden. Je kunt kiezen of je e-mails wilt accepteren van iedereen, geauthenticeerde partners of alleen volgers.
 
-media0021
+.. image:: Media/021.png
 
 Als dit team specifieke maandelijkse facturatie doelen heeft, kun je dit instellen.  
 
@@ -41,15 +41,15 @@ Op regels gebaseerde toewijzing
 -------------------------------
 Je kunt één of meerdere filters instellen om leads of verkoopkansen aan een verkoopteam toe te wijzen op basis van specifieke eigenschappen, zoals bijvoorbeeld land, taal of campagne.
 
-media0022
+.. image:: Media/022.png
 
 Klik op 'Bewerk Domein' om deze in te stellen. Klik vervolgens op  + voeg filter toe om een filter (of meerdere) in te stellen. 
 
-media0023
+.. image:: Media/023.png
 
 Het instellen van filters kan ook op *verkoper* niveau die toegevoegd zijn aan een verkoopteam. 
 
-media0024
+.. image:: Media/024.png
 
 Predictive Lead Scoring
 -----------------------
@@ -60,16 +60,16 @@ Naarmate er meer kansen door de CRM-pijplijn gaan, verzamelt Curq meer gegevens,
 
 Wanneer je op *Kansen bijwerken* klikt (in het menu **configuratie - instellingen**), opent zich een pop-upvenster waarin je naast de standaardcriteria verschillende andere criteria kan instellen t.b.v. het voorspellen van lead scores. 
 
-media0025
+.. image:: Media/025.png
 
 Elk van de volgende variabelen kan worden geactiveerd:
 
-**Status**: de geografische provincie waar de kans vandaan komt
-**Land**: het geografische land waar de opportunity vandaan komt
-**Telefoon Kwaliteit**: of er al dan niet een telefoonnummer wordt vermeld voor de opportunity
-**Email Kwaliteit**: of er al dan niet een e-mailadres wordt vermeld voor de opportunity
-**Bron**: de bron van een kans (bijv. zoekmachine, sociale media)
-**Taal**: de gesproken taal van de opportunity
-**Labels**: de tags die op de opportunity zijn geplaatst
+- **Status**: de geografische provincie waar de kans vandaan komt
+- **Land**: het geografische land waar de opportunity vandaan komt
+- **Telefoon Kwaliteit**: of er al dan niet een telefoonnummer wordt vermeld voor de opportunity
+- **Email Kwaliteit**: of er al dan niet een e-mailadres wordt vermeld voor de opportunity
+- **Bron**: de bron van een kans (bijv. zoekmachine, sociale media)
+- **Taal**: de gesproken taal van de opportunity
+- **Labels**: de tags die op de opportunity zijn geplaatst
 
 
