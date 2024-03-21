@@ -7,22 +7,44 @@ ingericht, je vind deze onder menu 'afletterregels'.
 
 Je kunt met 3 doeleinden een afletter regel aanmaken:
 
-1. Als je direct een tegenboeking van de af te letteren transactieregel
-   wil genereren.
 
-2. Als je zelf wil bepalen of je het model wilt gebruiken. Je maakt in
+1. Als je zelf wil bepalen of je het model wilt gebruiken. Je maakt in
    dit geval een knop aan waarmee je de tegenrekening laat toevoegen.
+
+2. Als je direct een tegenboeking van de af te letteren transactieregel
+   wil genereren.
 
 3. Als je automatisch inkoop-en of verkoopfacturen wil matchen en door
    Curq wil laten afletteren. Optie 3 wordt standaard in Curq toegepast.
 
-.. image:: Media/image5.png
+Hieronder zie je een voorbeeld van een afletter knop (optie 1). In dit voorbeeld is het model gekoppeld aan bankrekening 'Bankkosten'.
+
+.. image:: Media/bank_aflettermodellen_voorbeeld_knop.png
        :width: 6.3in
        :height: 2.93264in
 
-Hieronder zie je een voorbeeld van een afletter knop. In dit voorbeeld is het model 'Bankkosten' gekoppeld aan bankrekening 'Bankkosten'
+In het afletterscherm vind je de knop terug op onderstaand schermvoorbeeld:
 
 .. image:: Media/bank_aflettermodellen_knop.png
+       :width: 6.3in
+       :height: 2.93264in
+
+Hieronder zie je een voorbeeld van een aflettermodel waarmee direct een tegenboeking wordt gegenereerd (optie 2).
+
+.. image:: Media/bank_aflettermodellen_voorstel_tegenboeking.png
+       :width: 6.3in
+       :height: 2.93264in
+
+Met als resultaat dat bij een transactieregel waarbij in de notitie de tekst 'Abonnement' staat en bij de relatie 'Testklant' direct de juiste grootboekregel staat:
+
+.. image:: Media/bank_aflettermodellen_resultaat_tegenboeking.png
+       :width: 6.3in
+       :height: 2.93264in
+
+
+Tenslotte zie je hieronder een voorbeeld van de 'perfect match' optie. Curq kan op basis van de klant/leveranciersnaam en het bedrag de factuur direct matchen.
+
+.. image:: Media/image5.png
        :width: 6.3in
        :height: 2.93264in
 
