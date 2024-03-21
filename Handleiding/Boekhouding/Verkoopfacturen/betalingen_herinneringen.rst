@@ -1,6 +1,27 @@
 Herinneringen in Curq
 ====================================================================
 
+In het instellingen menu kun je een aantal standaard waarden bepalen voor het herinneringproces. Ga hiervoor naar Instellingen > Facturatie > Betalingsherinneringen
+
+Je kunt hier de volgende zaken aangeven:
+
+* **Checkbox Facturen bijvoegen**. Als je deze optie activeert dan stuurt Curq standaard een kopie van alle facturen met de herinnering mee.
+
+* **Neem contact op om te herinneren**. Hiermee kies je wie binnen de organisatie je wil benaderen over de herinnering. Je hebt de keuze uit de contactpersoon van de laatst verstuurde herinnering, de laatst verstuurde factuur of de standaard factuurrelatie.
+
+* **Standaard Wizard interface**. Hier kun je aangeven of je alle herinneringen 1 voor 1 wil bekijken of dat je alle klanten in 1 keer wil verwerken.
+
+* **Standaard herinneringsvertraging**. Dit kun je gebruiken om een aantal extra dagen in te geven tussen de vervaldatum en het daadwerkelijk meenemen in de lijst met te herinneren facturen. 
+
+* **Standaard herinnerings minimuminterval**. Hier kun je het aantal dagen aangeven dat tussen de volgende herinnering zit.
+
+.. image:: Media/betalingsherinneringen_Instellingen.png
+   :width: 6.3in
+   :height: 2.90069in
+
+Betalingsherinneringen sturen
+---------------------------------------------------------------
+
 Via menu Facturatie > Klanten > Betalingsherinneringen kun je vervallen
 klantfacturen opvolgen.
 
@@ -16,13 +37,7 @@ toe wordt gestuurd.
 
 Bij Filters kun je op klant en/of verkoper filteren.
 
-* Neem contact op om te herinneren. 
-
-* Wizard interface. Hier kun je aangeven of je alle herinneringen 1 voor 1 wil bekijken of dat je alle klanten in 1 keer wil verwerken.
-
-* Het veld Triggervertraging kun je gebruiken om een aantal extra dagen in te geven tussen de vervaldatum en het meenemen in de lijst met te herinneren facturen. 
-
-* Minimumvertraging sinds laatste herinnering. Hier kun je het aantal dagen aangeven dat tussen de volgende herinnering zit.
+De standaard instellingen die je eerder rondom de onderdelen 'Neem contact op met', 'Wizard interface', 'Triggervertraging' en 'Minimum vertraging' hebt ingegeven, kun je hier eventueel aanpassen.
 
 Na selectie start het proces door op de knop ‘Start’ te klikken
 
