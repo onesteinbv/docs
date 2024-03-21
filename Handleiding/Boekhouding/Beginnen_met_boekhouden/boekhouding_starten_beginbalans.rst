@@ -13,8 +13,7 @@ Klik vervolgens op de knop [NIEUW]. Het volgende scherm verschijnt.
 
 .. image:: Media/boekhouding_starten_beginbalans002.png
 
-:Referentie: Geef hier een duidelijke omschrijving mee, zodat je weet waar deze boeking voor bedoeld is.
-
+- **Referentie:** Geef hier een duidelijke omschrijving mee, zodat je weet waar deze boeking voor bedoeld is.
 - **Boekhouddatum:** Dit is de datum van deze boeking. Voor een openingsbalans wordt vaak het einde van een periode gekozen, meestal 31 december voor de meeste bedrijven. Als je ergens in het jaar overgaat, kies dan de laatste dag van de vorige maand. Mocht je twijfelen, overleg dan met je boekhouder welke datum geschikt is.
 - **Dagboek:** Kies hier het memoriaal dagboek dat hiervoor bestemd is.
 
