@@ -3,10 +3,9 @@ Aflettermodellen
 =========================================================================
 
 Met aflettermodellen kun je het proces van afletteren verder automatiseren. Curq heeft zelf een aantal standaard aflettermodellen
-ingericht, je vind deze onder menu 'afletterregels'.
+ingericht, je vind deze onder menu Facturatie > Configuratie > Afletterregels.
 
 Je kunt met 3 doeleinden een afletter regel aanmaken:
-
 
 1. Als je zelf wil bepalen of je het model wilt gebruiken. Je maakt in
    dit geval een knop aan waarmee je de tegenrekening laat toevoegen.
@@ -35,7 +34,7 @@ Hieronder zie je een voorbeeld van een aflettermodel waarmee direct een tegenboe
        :width: 6.3in
        :height: 2.93264in
 
-Met als resultaat dat bij een transactieregel waarbij in de notitie de tekst 'Abonnement' staat en bij de relatie 'Testklant' direct de juiste grootboekregel staat:
+Met als resultaat dat bij een transactieregel waarbij in de notitie de tekst 'Abonnement' staat en bij de relatie 'Testklant', je direct de juiste grootboekregel ziet staan.
 
 .. image:: Media/bank_aflettermodellen_resultaat_tegenboeking.png
        :width: 6.3in
