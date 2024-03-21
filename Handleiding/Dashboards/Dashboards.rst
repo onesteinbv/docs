@@ -8,7 +8,7 @@ Het Curq Dashboard maakt gebruik van een responsive **Bootstrap-Framework** en b
 
 - **Standaard Dashboards**:  deze zijn aangemaakt vanuit Odoo en worden automatisch geüpdate. Er zijn filteropties aanwezig en bestaande spreadsheets kunnen worden aangepast.
 - **Mijn Dashboard**:  elke user kan eigen dashboards maken die responsive zijn maar geen filter optie hebben.  
-- **Spreadsheets**: Met Spreadsheets kun je eigen dashboards maken en toevoegen aan de standaard dashboards.
+- **Spreadsheets**: met Spreadsheets kun je eigen dashboards maken en toevoegen aan de standaard dashboards.
 
 We nemen de 3 opties met je door.
 
