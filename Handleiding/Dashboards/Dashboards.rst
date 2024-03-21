@@ -24,7 +24,7 @@ Je kunt de gewenste sorteermethode selecteren uit de vervolgkeuzelijst in het be
 
 .. image:: Media/002.png
 
-Gebruikers hebben de mogelijkheid om het gedetailleerde analyserapport te bekijken door te klikken op de specifieke gegevens in het dashboard. Als voorbeeld kunnen gebruikers klikken op de gegevensnaam "Topoffertes" in het verkoopdashboard. Hierdoor worden ze doorgestuurd naar de startpagina van het offertesrapport, zoals hieronder weergegeven.
+Gebruikers hebben de mogelijkheid om het gedetailleerde analyserapport te bekijken door te klikken op de specifieke gegevens in het dashboard. Als voorbeeld kunnen gebruikers een offerte aanklikken in "Topoffertes" in het verkoopdashboard. Hierdoor worden ze doorgestuurd naar de startpagina van het offertesrapport, zoals hieronder weergegeven.
 
 .. image:: Media/003.png
 
