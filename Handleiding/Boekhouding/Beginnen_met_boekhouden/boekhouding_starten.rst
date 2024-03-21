@@ -56,7 +56,7 @@ Houd er rekening mee dat het instellen van boekhouding in Curq enigszins kan var
     :hidden:
 
     boekhouding_rgs
-    boekhouding_cheatsheet
+    boekhouding_basisbegrippen
     boekhouding_starten_dagboeken
     boekhouding_starten_beginbalans
     boekhouding_starten_datumreeksen
