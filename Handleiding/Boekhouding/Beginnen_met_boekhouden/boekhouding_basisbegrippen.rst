@@ -1,4 +1,4 @@
-Basisbegrippen boekhouding
+Basisbegrippen Boekhouding
 ========================================================================
 
 In dit onderdeel geven we een korte uitleg waar de balans en de verlies en winst onderdelen in Curq uit bestaan. We beschrijven de onderdelen op basis van de door Curq voorgedefineerde rekening categorieën. 
