@@ -2,7 +2,7 @@
 Magazijnen & locaties
 =====================
 
-Magazijnbeheer speelt een belangrijke rol in het naadloos functioneren van voorraadbeheer én productverplaatsingen. Odoo biedt een uitstekende voorraadbeheer voor het soepel afhandelen van magazijnactiviteiten binnen het bedrijf. In Odoo is het mogelijk om meerdere magazijnen tegelijkertijd te beheren en te monitoren.
+Magazijnbeheer speelt een belangrijke rol in het naadloos functioneren van voorraadbeheer én productverplaatsingen. Curq biedt een uitstekende voorraadbeheer voor het soepel afhandelen van magazijnactiviteiten binnen het bedrijf. In Curq is het mogelijk om meerdere magazijnen tegelijkertijd te beheren en te monitoren.
 
 ----------
 Magazijnen
@@ -12,17 +12,17 @@ In het configuratiemenu van de voorraadmodule worden diverse opties getoond voor
 
 .. image:: Product-Configuratie-Media/image69.png
 
-Deze mogelijkheden helpen bij het soepel laten verlopen van verschillende magazijnbeheer taken. Door de optie *Magazijnen* te selecteren in het configuratiemenu, kunt u een overzicht krijgen van de magazijnen die zijn aangemaakt in Odoo. Deze lijst toont de naam van het magazijn, de voorraadlocatie, het adres en het bedrijf. 
+Deze mogelijkheden helpen bij het soepel laten verlopen van verschillende magazijnbeheer taken. Door de optie *Magazijnen* te selecteren in het configuratiemenu, kun je een overzicht krijgen van de magazijnen die zijn aangemaakt in Curq. Deze lijst toont de naam van het magazijn, de voorraadlocatie, het adres en het bedrijf. 
 
-Wanneer u op een *Magazijn* optie klikt, wordt een formulier geopend van het magazijn en kunt u de naam van het magazijn, de korte naam, het bedrijf en de locatie van het magazijn invullen in de daarvoor bestemde velden. 
+Wanneer je op een *Magazijn* optie klikt, wordt een formulier geopend van het magazijn en kun je de naam van het magazijn, de korte naam, het bedrijf en de locatie van het magazijn invullen in de daarvoor bestemde velden. 
 
 .. image:: Product-Configuratie-Media/image70.png
 
-Het veld *Inkomende verzendingen* stelt u in staat om de route te kiezen die gevolgd moet worden wanneer producten naar dit specifieke magazijn worden verzonden. U heeft de keuze uit verschillende opties. Bij de eerste optie, met één stap, komen de producten rechtstreeks in het magazijn aan. Bij de tweede optie worden de producten eerst ontvangen en vervolgens naar de juiste voorraadlocatie verplaatst. De derde optie omvat het ontvangen van de goederen, het uitvoeren van kwaliteitscontroles en het vervolgens verplaatsen naar de juiste voorraadlocatie.
+Het veld *Inkomende verzendingen* stelt je in staat om de route te kiezen die gevolgd moet worden wanneer producten naar dit specifieke magazijn worden verzonden. Je hebt de keuze uit verschillende opties. Bij de eerste optie, met één stap, komen de producten rechtstreeks in het magazijn aan. Bij de tweede optie worden de producten eerst ontvangen en vervolgens naar de juiste voorraadlocatie verplaatst. De derde optie omvat het ontvangen van de goederen, het uitvoeren van kwaliteitscontroles en het vervolgens verplaatsen naar de juiste voorraadlocatie.
 
-Voor *Uitgaande zendingen* kunt u de standaard route instellen die gevolgd moet worden bij het verzenden van producten uit het magazijn. Net als bij de inkomende zendingen zijn er verschillende opties beschikbaar. De eerste optie omvat alleen het rechtstreeks verzenden van de goederen vanuit het magazijn. Bij de tweede optie **(pick/ship)** worden de goederen eerst verzonden naar een verzendlocatie en vervolgens afgeleverd. De derde optie **(pick/pack/ship)** vereist dat de goederen worden verpakt, verzonden naar een verzendlocatie en vervolgens afgeleverd.
+Voor *Uitgaande zendingen* kun je de standaard route instellen die gevolgd moet worden bij het verzenden van producten uit het magazijn. Net als bij de inkomende zendingen zijn er verschillende opties beschikbaar. De eerste optie omvat alleen het rechtstreeks verzenden van de goederen vanuit het magazijn. Bij de tweede optie **(pick/ship)** worden de goederen eerst verzonden naar een verzendlocatie en vervolgens afgeleverd. De derde optie **(pick/pack/ship)** vereist dat de goederen worden verpakt, verzonden naar een verzendlocatie en vervolgens afgeleverd.
 
-Via de tab Technische informatie kunt u de magazijnlocaties in stellen en de verschillende bewerkingstypes.
+Via de tab Technische informatie kun je de magazijnlocaties instellen en de verschillende bewerkingstypes.
 
 .. image:: Product-Configuratie-Media/image71.png
 
@@ -30,17 +30,17 @@ Via de tab Technische informatie kunt u de magazijnlocaties in stellen en de ver
 Locaties
 --------
 
-U kunt de opslagplaatsen in de magazijnen aanpassen via het menu *Opslaglocaties*. Met deze optie kunt meerdere opslaglocaties configureren voor de voorraden binnen hetzelfde magazijn. Om deze functionaliteit te activeren, navigeert u naar het **Instellingen** menu van de voorraadmodule en schakelt u de optie *Opslaglocaties* in op het tabblad **Magazijn**, zoals aangegeven in onderstaande afbeelding.
+Je kunt de opslagplaatsen in de magazijnen aanpassen via het menu *Opslaglocaties*. Met deze optie kun je meerdere opslaglocaties configureren voor de voorraden binnen hetzelfde magazijn. Om deze functionaliteit te activeren, navigeer je naar het **Instellingen** menu van de voorraadmodule en schakel je de optie *Opslaglocaties* in op het tabblad **Magazijn**, zoals aangegeven in onderstaande afbeelding.
 
 .. image:: Product-Configuratie-Media/image72.png
 
 .. image:: Product-Configuratie-Media/image73.png
 
-Wanneer u deze optie activeert, wordt het bijbehorende submenu toegevoegd onder het menu Configuratie.  In de lijstweergave wordt gedetailleerde informatie getoond over de locatie, het locatietype, de opslagcategorie en het bedrijf. Gebruik de knop *Nieuw* om een nieuwe locatie te configureren.
+Wanneer je deze optie activeert, wordt het bijbehorende submenu toegevoegd onder het menu Configuratie.  In de lijstweergave wordt gedetailleerde informatie getoond over de locatie, het locatietype, de opslagcategorie en het bedrijf. Gebruik de knop *Nieuw* om een nieuwe locatie te configureren.
 
 .. image:: Product-Configuratie-Media/image74.png
 
-Dit is de formulierweergave van het venster voor het aanmaken van een nieuwe locatie. Voer een naam in voor de locatie in het veld *Locatienaam* en selecteer de *Bovenliggende locatie* indien nodig. In het tabblad **Aanvullende informatie** kunt u een geschikte locatie *soort* selecteren voor deze locatie. 
+Dit is de formulierweergave van het venster voor het aanmaken van een nieuwe locatie. Voer een naam in voor de locatie in het veld *Locatienaam* en selecteer de *Bovenliggende locatie* indien nodig. In het tabblad **Aanvullende informatie** kun je een geschikte locatie *soort* selecteren voor deze locatie. 
 
 Hieronder worden de beschikbare *locatietypes* vermeld:
 
@@ -58,9 +58,9 @@ Hieronder worden de beschikbare *locatietypes* vermeld:
 
 7. **Transit Locatie**: De transit locatie fungeert als een tussenstation bij intercompany- of *inter* magazijn operaties.
 
-Er is een mogelijkheid om een opslagcategorie in te vullen. Door het veld *Is een afkeurlocatie* te activeren, kunt u deze locatie aanduiden als een plaats voor het opslaan van afgekeurde en beschadigde producten. Als u een locatie wilt gebruiken voor het opslaan van geretourneerde producten, kunt u de functie "Is een retourlocatie" inschakelen. Om alle hoeveelheden op deze specifieke locatie aan te vullen, kunt u de optie *Locatie aanvullen* activeren.
+Er is een mogelijkheid om een opslagcategorie in te vullen. Door het veld *Is een afkeurlocatie* te activeren, kun je deze locatie aanduiden als een plaats voor het opslaan van afgekeurde en beschadigde producten. Als je een locatie wilt gebruiken voor het opslaan van geretourneerde producten, kun je de functie "Is een retourlocatie" inschakelen. Om alle hoeveelheden op deze specifieke locatie aan te vullen, kun je de optie *Locatie aanvullen* activeren.
 
-Op het tabblad *Cyclische telling* kunt u de frequentie van inventarisatie specificeren. Als het verschil meer dan nul is, wordt de datum van de inventarisatie voor de producten die op deze locatie zijn opgeslagen automatisch ingesteld op de gedefinieerde frequentie. De datum van de laatste inventarisatie op deze locatie wordt weergegeven in het veld *Laatste effectieve inventarisatie*. 
+Op het tabblad *Cyclische telling* kun je de frequentie van inventarisatie specificeren. Als het verschil meer dan nul is, wordt de datum van de inventarisatie voor de producten die op deze locatie zijn opgeslagen automatisch ingesteld op de gedefinieerde frequentie. De datum van de laatste inventarisatie op deze locatie wordt weergegeven in het veld *Laatste effectieve inventarisatie*. 
 De datum van de volgende geplande inventarisatie op basis van een cyclisch schema verschijnt in het veld "Volgende verwachte voorraadtelling".
 
 De verwijderstrategie voor deze locatie kan worden ingesteld op het tabblad **Logistiek**.
