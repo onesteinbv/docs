@@ -1,11 +1,11 @@
 CRM Basis
-=========
+=====================================================================================================================
 
 De CRM-module binnen Curq is van onschatbare waarde voor het beheer van leadgeneratie en klantenwerving. Het stelt gebruikers in staat om leads van diverse bronnen te verzamelen en te organiseren, waardoor ze effectief kunnen worden omgezet in kansen. De naadloze integratie met andere modules, zoals bijvoorbeeld Verkoop, bevordert de productiviteit bij het omzetten van leads in kansen. 
 
 
 Instellingen
-------------
+---------------------------------------------------------------------------------------------------------------------
 Voordat we beginnen met de flow van CRM, lopen we eerst even de instellingen met je door. 
 Ga hiervoor naar **Configuratie - Instellingen**. Hiermee wordt het volgende overzicht geopend:
 
@@ -22,7 +22,7 @@ Ga hiervoor naar **Configuratie - Instellingen**. Hiermee wordt het volgende ove
 **Predictive Lead Scoring**:  Dit is een machine-learning model dat historische gegevens uit de CRM module gebruikt om open leads en kansen te beoordelen op basis van hun 'waarschijnlijkheid' om te resulteren in een succesvolle deal. Meer info vind je in de handleiding **CRM Advanced**.
 
 Leadgeneratie
--------------
+-----------------------------------------------------------------------------------------------------------------------
 Met de leadgeneratie settings heeft u een aantal opties om bestaande leads te verrijken met aanvullende bedrijfsgegevens en om nieuwe leads te creëren op basis van bijvoorbeeld land, industrie, grootte, enz. 
 
 .. image:: Media/002.png
@@ -78,7 +78,7 @@ Vul zoveel mogelijk velden in, zoals de bedrijfsnaam of contactpersoon, de omsch
 
 
 Een offerte aanmaken vanuit een verkoopkans
--------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
 Vanuit een verkoopkans is eenvoudig om een nieuwe offerte te maken. Om dit te doen, klik je op *Nieuwe Offerte*. 
 
 .. image:: Media/010.png
@@ -121,7 +121,7 @@ Nadat je de inhoud van de e-mail in het pop-upvenster heebt gecontroleerd, klik 
 
 
 Activiteiten plannen
---------------------
+----------------------------------------------------------------------------------------------------------------------------
 
 Het plannen van bedrijfsgerelateerde activiteiten op een gecoördineerde manier helpt bij het micromanagen en efficiënt gebruiken van tijd. Je kunt verschillende acties voor je klanten plannen en uitvoeren, of evenementen met hen plannen in het Pijplijn overzicht. 
 
