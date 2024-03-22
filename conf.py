@@ -20,11 +20,11 @@ extensions = [
     "sphinx_github_changelog",
 ]
 print(os.environ.items())
-sphinx_github_changelog_token = os.environ.get("gitkey") or ''
+sphinx_github_changelog_token = os.environ.get("GIT_ACCESS_KEY") or ''
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
-html_theme = os.environ.get("gitkey") or 'blabalbabla'
+html_theme = 'furo'
 html_static_path = ['_static']
 html_css_files = ["custom.css"]
 
