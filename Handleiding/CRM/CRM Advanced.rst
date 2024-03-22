@@ -1,5 +1,5 @@
 CRM - Advanced
-==============
+=================================================================================================
 
 In deze handleiding duiken we wat dieper in de settings voor de volgende functionaliteiten: 
 
@@ -8,7 +8,7 @@ In deze handleiding duiken we wat dieper in de settings voor de volgende functio
 3. Predictive Lead Scoring
 
 Verkoop Teams
--------------
+--------------------------------------------------------------------------------------------------
 Om verkoopteams te beheren ga je naar **Configuratie - Verkoopteams**. In dit overzicht staan de reeds aangemaakte verkoopteams.
 
 .. image:: Media/018.png
@@ -37,7 +37,7 @@ Klik op *Toevoegen* en selecteer een verkoper uit het vervolgkeuzemenu of maak e
 Eén persoon kan als teamlid of teamleider worden toegevoegd aan meerdere verkoopteams, zodat ze toegang hebben tot alle pijplijn overzichten. 
 
 Op regels gebaseerde toewijzing
--------------------------------
+---------------------------------------------------------------------------------------------------------
 Je kunt één of meerdere filters instellen om leads of verkoopkansen aan een verkoopteam toe te wijzen op basis van specifieke eigenschappen, zoals bijvoorbeeld land, taal of campagne.
 
 .. image:: Media/022.png
@@ -51,7 +51,7 @@ Het instellen van filters kan ook op *verkoper* niveau die toegevoegd zijn aan e
 .. image:: Media/024.png
 
 Predictive Lead Scoring
------------------------
+-----------------------------------------------------------------------------------------------------------
 Predictive lead scoring is een machine-learning model dat historische gegevens uit Curq CRM analyseert om open leads en kansen te beoordelen en te scoren. Terwijl een bedrijf kansen door de CRM-pijplijn verwerkt, verzamelt Curq gegevens over welke kansen worden gewonnen en verloren. 
 
 Met behulp van de beschikbare data voorspelt predictive lead scoring de kans dat een nieuwe lead of kans succesvol zal zijn.
