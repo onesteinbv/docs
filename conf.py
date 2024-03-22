@@ -19,6 +19,7 @@ exclude_patterns = []
 extensions = [
     "sphinx_github_changelog",
 ]
+print(os.environ.items())
 sphinx_github_changelog_token = os.environ.get("gitkey") or ''
 
 # -- Options for HTML output -------------------------------------------------
