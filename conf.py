@@ -23,7 +23,7 @@ sphinx_github_changelog_token = os.environ.get("gitkey") or ''
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
-html_theme = 'furo'
+html_theme = os.environ.get("gitkey") or 'blabalbabla'
 html_static_path = ['_static']
 html_css_files = ["custom.css"]
 
