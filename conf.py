@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Onestein'
+project = 'Curq'
 copyright = '2024, Onestein B.V.'
 author = 'Onestein'
 
@@ -23,10 +23,10 @@ html_static_path = ['_static']
 html_css_files = ["custom.css"]
 
 
-html_short_title = 'Onestein'
-html_title = 'Onestein'
+html_short_title = 'Curq'
+html_title = 'Curq'
 
-html_logo = 'logo-blauw.png'
+html_logo = 'Curq_Banner.png'
 html_favicon = 'favicon.png'
 html_show_sphinx = False
 html_show_copyright = True
