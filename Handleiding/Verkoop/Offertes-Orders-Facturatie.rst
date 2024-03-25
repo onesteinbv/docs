@@ -20,7 +20,7 @@ Je kunt de standaard geldigheidsduur van een offerte instellen in het instelling
 .. image:: Verkoop-Media/003.png
 
 In de aangegeven ruimte kun je de standaard geldigheid instellen. Deze limiet wordt gebruikt om de vervaldatum van uw nieuwe offerte te berekenen.
-Keer nu terug naar het offertecreatievenster. U kunt de producten toevoegen op basis van de vereisten van de klant onder *Orderregel*. Gebruik de knop *Regel toevoegen* om de producten één voor één toe te voegen.
+Keer nu terug naar het offertecreatievenster. Je kunt de producten toevoegen op basis van de vereisten van de klant onder *Orderregel*. Gebruik de knop *Regel toevoegen* om de producten één voor één toe te voegen.
 
 .. image:: Verkoop-Media/004.png
 
