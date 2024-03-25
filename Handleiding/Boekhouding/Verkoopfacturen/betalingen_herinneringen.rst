@@ -39,7 +39,9 @@ Bij **FILTERS** kun je op klant en/of verkoper filteren.
 
 De standaard instellingen die je eerder rondom de onderdelen 'Neem contact op met', 'Wizard interface', 'Triggervertraging' en 'Minimum vertraging' hebt ingegeven, kun je onder het onderdeel **OPTIES** eventueel aanpassen.
 
-Na het maken van de selectie start het proces door op de knop ‘Start’ te klikken.
+Bij het onderdeel **BETALINGEN UP-TO-DATE?** zie je informatie over de laatste datum dat er betalingen zijn verwerkt per bank, hiermee zie je snel of je bij bent bent met verwerken van je dagafschriften.
+
+Na het maken van de selectie start het proces door op de knop **Start** te klikken.
 
 .. image:: Media/betalingsherinneringen_2.png
    :width: 6.3in
