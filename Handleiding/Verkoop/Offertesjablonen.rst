@@ -39,9 +39,9 @@ De blokken die in de sjabloon staan, worden netjes getoond als de offerte online
 
 .. image:: Verkoop-Media/028.png
 
+Onderaan de offerte vind je de *optionele* producten, die door de klant handmatig kan worden toegevoegd aan de offerte.
 
-
-
+.. image:: Verkoop-Media/029.png
 
 
 
