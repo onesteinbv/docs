@@ -3,6 +3,10 @@ Kilometerregistratie
 
 Deze module is een uitbreiding op de Wagenpark module en geeft de gebruiker de mogelijkheid om zakelijke ritten te registreren en te declareren. De module is gebaseerd op de Nederlandse belastingregels, maar kan ook worden gebruikt voor kilometerregistratie in het algemeen. In Nederland is het soms nodig om ook de privékilometers te registreren, vandaar dat we het (niet verplichte) veld 'Is privérit' hebben toegevoegd. Deze module verbindt de wagenparkmodule met de onkostenmodule.
 
+Op de website van de belastingdienst vind je meer informatie over de wettelijke richtlijnen, zie hiervoor
+
+https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/inkomstenbelasting/inkomstenbelasting_voor_ondernemers/privegebruik_auto/rittenregistratie
+
 Voorbereidingen
 ---------------------------------------------------------------------------------------------------
 Om met de module te kunnen werken dien je de volgende zaken in te richten:
@@ -44,7 +48,9 @@ We hebben nieuwe velden toegevoegd aan het menu 'Kilometerregistratie'.
 
 - **Totaal km's**. Dit is een berekend veld van het totaal aantal kilometers van de rit.
 
-- **Is een prive rit?**. Vink dit veld aleen aan als het een niet-zakelijke rit betreft. Prive rit regels krijgen een niet-declarabele status en kun je niet doorbelasten.
+- **Is een prive rit?**. Vink dit veld aleen aan als het een niet-zakelijke rit betreft. Prive rit regels krijgen een niet-declarabele status en kun je niet doorbelasten. De belastingdienst zegt hierover het volgende:
+
+*Als uw rittenregistratie niet voldoet aan deze eisen of als u geen rittenregistratie hebt bijgehouden, dan moet u de bijtelling privégebruik auto verrekenen met de autokosten van uw onderneming. Kunt u echter op een andere manier aantonen dat u op jaarbasis niet meer dan 500 kilometer privé hebt gereden, dan hoeft u niets te verrekenen.*
 
 - **Onkostencategorie**. De waarde wordt overgenomen van de auto, je kan deze overschrijven als je meerdere categorieeen gebruikt.
 
