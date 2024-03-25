@@ -27,7 +27,7 @@ html_short_title = 'Curq'
 html_title = 'Curq'
 
 html_logo = 'Curq_Banner.png'
-html_favicon = 'Curq_Banner.png'
+html_favicon = 'Curq_favicon.png'
 html_show_sphinx = False
 html_show_copyright = True
 html_show_sourcelink = False
