@@ -24,6 +24,7 @@ html_css_files = ["custom.css"]
 
 
 html_short_title = 'Curq'
+html_title = ''
 
 html_logo = 'Curq_Banner.png'
 html_favicon = 'Curq_favicon.png'
