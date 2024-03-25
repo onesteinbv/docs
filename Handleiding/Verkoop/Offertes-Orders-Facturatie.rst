@@ -9,18 +9,18 @@ Het opstellen van offertes vormt de eerste stap in het ontwikkelen van een verko
 
 .. image:: Verkoop-Media/001.png
 
-Hier kun je alle reeds aangemaakte offertes bekijken, inclusief details zoals aantal, aanmaakdatum, klant, verkoper, activiteiten, bedrijf, totaalbedrag en status. Naast de standaard lijstweergave heb je ook de mogelijkheid om de offertes te bekijken via kanban, draaitabel, kalender, grafiek en activiteiten. Je kunt filters toepassen op basis van *offertes, verkooporders, jouw eigen offertes* en *aanmaakdatum*. Bovendien kun je de offertes groeperen op verkoper, klant en orderdatum. Om een nieuwe offerte voor een klant aan te maken, klik je eenvoudigweg op de knop "Nieuw".
+Hier kun je alle reeds aangemaakte offertes bekijken, inclusief details zoals aantal, aanmaakdatum, klant, verkoper, activiteiten, bedrijf, totaalbedrag en status. Naast de standaard lijstweergave heb je ook de mogelijkheid om de offertes te bekijken via kanban, draaitabel, kalender, grafiek en activiteiten. Je kunt filters toepassen op basis van *offertes, verkooporders, jouw eigen offertes* en *aanmaakdatum*. Bovendien kun je de offertes groeperen op verkoper, klant en orderdatum. Om een nieuwe offerte voor een klant aan te maken, klik je eenvoudigweg op de knop *Nieuw*.
 
 .. image:: Verkoop-Media/002.png
 
 Nadat je de klantnaam uit de lijst hebt geselecteerd, worden automatisch het factuuradres, het afleveradres, de prijslijst en de betalingsvoorwaarden weergegeven op basis van vooraf ingestelde gegevens. Als deze gegevens niet beschikbaar zijn, kun je het factuuradres en het afleveradres handmatig invoeren in de daarvoor bestemde velden. In Curq kun je verkoopordersjablonen maken via het configuratiemenu, die vervolgens kunnen worden gebruikt bij het opstellen van offertes. De vervaldatum van de offerte an worden weergegeven, en de gebruikte prijslijst kan worden geselecteerd uit het aangeboden veld. Betalingsvoorwaarden voor de klant kunnen worden gedefinieerd in het betreffende veld.
 
-Je kunt de standaard geldigheidsduur van een offerte instellen in het instellingenmenu van de Verkoopmodule. Als dit is geconfigureerd, wordt het veld "Geldigheid" automatisch ingevuld volgens de standaard geldigheidsduur van de offerte telkens wanneer je een nieuwe offerte maakt.
+Je kunt de standaard geldigheidsduur van een offerte instellen in het instellingenmenu van de Verkoopmodule. Als dit is geconfigureerd, wordt het veld *Geldigheid* automatisch ingevuld volgens de standaard geldigheidsduur van de offerte telkens wanneer je een nieuwe offerte maakt.
 
 .. image:: Verkoop-Media/003.png
 
 In de aangegeven ruimte kun je de standaard geldigheid instellen. Deze limiet wordt gebruikt om de vervaldatum van uw nieuwe offerte te berekenen.
-Keer nu terug naar het offertecreatievenster. U kunt de producten toevoegen op basis van de vereisten van de klant onder "Orderregel". Gebruik de knop "Regel toevoegen" om de producten één voor één toe te voegen.
+Keer nu terug naar het offertecreatievenster. U kunt de producten toevoegen op basis van de vereisten van de klant onder *Orderregel*. Gebruik de knop *Regel toevoegen* om de producten één voor één toe te voegen.
 
 .. image:: Verkoop-Media/004.png
 
