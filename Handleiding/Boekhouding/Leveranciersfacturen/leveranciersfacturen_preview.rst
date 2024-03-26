@@ -13,7 +13,7 @@ Een inkoopfactuur kan op verschillende manieren worden aangemaakt binnen Curq:
 3. Via de knop [UPLOAD] bij Facturatie > Leveranciers > Leveranciersfacturen
 4. Via de knop [NIEUW] bij Facturatie > Leveranciers > Leveranciersfacturen
 
-Bij optie 1, het definitieve mailadres kan je vinden bij Facturatie > Dashboard.
+Bij optie 1. Je kunt het uiteindelijke e-mailadres vinden onder Facturatie > Dashboard.
 
 .. image:: Media/Leveranciersfacturen_preview001.png
 
