@@ -2,7 +2,7 @@
 Verkoop - Productvarianten & kenmerken
 ======================================
 
-Wanneer een product meerdere varianten heeft, kun je deze gemakkelijk configureren met behulp van de optie *Productvarianten* in de Verkoopmodule. Om van deze functie gebruik te kunnen maken, dien je de optie *Productvarianten* te activeren in het menu **Instellingen** van de module, zoals weergegeven in de onderstaande afbeelding.
+Wanneer een product meerdere varianten heeft, kun je deze gemakkelijk configureren met behulp van de optie *Productvarianten* in de Verkoopmodule. Om van deze functie gebruik te kunnen maken, dien je de optie *Varianten* te activeren in het menu **Instellingen** van de module, zoals weergegeven in de onderstaande afbeelding.
 
 .. image:: Verkoop-Media/030.png
 
