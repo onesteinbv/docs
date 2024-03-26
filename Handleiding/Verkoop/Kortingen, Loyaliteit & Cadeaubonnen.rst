@@ -2,7 +2,7 @@
 Kortingen, Loyaliteit & Cadeaubonnen
 ====================================
 
-Het gebruik van promoties, kortingsbonnen en cadeaubonnen kan de zichtbaarheid van je product vergroten en de verkoop stimuleren. Om deze functies te activeren, ga je naar het **Instellingen** menu in de configuratie en schakel je *Kortingen, loyaliteit & cadeaubonnen* in onder het gedeelte Prijzen.
+Het gebruik van promoties, kortingsbonnen en cadeaubonnen kan de zichtbaarheid van je product vergroten en de verkoop stimuleren. Om deze functie te activeren, ga je naar menu **Instellingen** in de configuratie en schakel je *Kortingen, loyaliteit & cadeaubonnen* in onder het gedeelte Prijzen.
 
 .. image:: Verkoop-Media/035.png
 
