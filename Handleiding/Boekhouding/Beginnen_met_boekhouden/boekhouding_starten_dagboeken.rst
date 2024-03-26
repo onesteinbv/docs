@@ -74,11 +74,12 @@ Op het tabblad "Geavanceerde instellingen" kun je de volgende instellingen confi
 
 .. image:: Media/boekhouding_starten_dagboeken007.png
 
-- **Saldolijn toevoegen:** Deze is niet van toepassing.
+- **Saldolijn toevoegen:** Deze is alleen van toepassing voor het bankboek.
 - **Blokkeer datum:** Vergrendelt het dagboek volledig, zodat niemand wijzigingen kan aanbrengen na de opgegeven datum.
 - **Blokkeerdatum voor standaard gebruiker:** Alleen de facturatiebeheerder kan nog wijzigingen aanbrengen in dit dagboek. Dit is handig als de boekhouder wel wijzigingen mag aanbrengen, maar een standaard gebruiker niet.
 - **Vergrendel ingevoerde gegevens met hash:** Zodra een factuur wordt geboekt, wordt deze vergrendeld. Achteraf aanpassingen maken op de factuur is hierdoor niet mogelijk.
-- **E-mailservers configureren:** Deze is niet van toepassing.
+- **E-mailservers configureren:** Hiermee kun je een mailbox koppelen aan je verkoopfacturen. Curq leest dan automatisch je e-mails uit en maakt de factuur automatisch aan. Je hoeft de PDF dan niet apart in Curq te uploaden. 
+Dit is handig als je verkoopfacturen elders worden aangemaakt.
 - **Elektronische facturatie:** Je kunt een factuur ook via XML of EDI versturen. Je hebt de keuze tussen NLCIUS of Peppol BIS Billing 3.0 formaat. De ontvangende partij kan hierdoor sneller jouw factuur invoeren als ze hiervan gebruik maken. Alle factuurgegevens zijn dan opgeslagen in het XML- of EDI-formaat.
 - **Communicatiesoort:** Bepaalt hoe de referentie op de factuur zal verschijnen, zodat de klant beter zijn betaling kan uitvoeren.
 - **Standaard communicatie:** Bepaalt hoe de referentie wordt opgebouwd. Standaard staat deze instelling op Odoo.
@@ -101,7 +102,7 @@ De configuratie van het verkoopboek ziet er als volgt uit.
 
 .. image:: Media/boekhouding_starten_dagboeken009.png
 
-- **Saldolijn toevoegen:** Deze is niet van toepassing.
+- **Saldolijn toevoegen:** Deze is alleen van toepassing voor het bankboek.
 - **Blokkeer datum:** Vergrendelt het dagboek volledig, zodat niemand wijzigingen kan aanbrengen na de opgegeven datum.
 - **Blokkeerdatum voor standaard gebruiker:** Alleen de facturatiebeheerder kan nog wijzigingen aanbrengen in dit dagboek. Dit is handig als de boekhouder wel wijzigingen mag aanbrengen, maar een standaard gebruiker niet.
 - **Vergrendel ingevoerde gegevens met hash:** Zodra een factuur wordt geboekt, wordt deze vergrendeld. Achteraf aanpassingen maken op de factuur is hierdoor niet mogelijk.
@@ -122,7 +123,7 @@ De configuratie van het verkoopboek ziet er als volgt uit.
   
 .. image:: Media/boekhouding_starten_dagboeken011.png
 
-- **Saldolijn toevoegen:** Deze is niet van toepassing.
+- **Saldolijn toevoegen:** Deze is alleen van toepassing voor het bankboek.
 - **Blokkeer datum:** Vergrendelt het dagboek volledig, zodat niemand wijzigingen kan aanbrengen na de opgegeven datum.
 - **Blokkeerdatum voor standaard gebruiker:** Alleen de facturatiebeheerder kan nog wijzigingen aanbrengen in dit dagboek. Dit is handig als de boekhouder wel wijzigingen mag aanbrengen, maar een standaard gebruiker niet.
 - **Vergrendel ingevoerde gegevens met hash:** Zodra een boeking wordt geboekt, wordt deze vergrendeld. Achteraf aanpassingen maken op de boeking is hierdoor niet mogelijk.
