@@ -6,7 +6,7 @@ Wanneer een product meerdere varianten heeft, kun je deze gemakkelijk configurer
 
 .. image:: Verkoop-Media/030.png
 
-Door deze functie te activeren, krijg je toegang tot een nieuwe optie onder het menu *Producten: Productvarianten*. Hiermee kun je producten verkopen met verschillende attributen.
+Door deze functie te activeren, krijg je toegang tot een nieuwe optie onder het menu *Producten: Productvarianten*. Hiermee kun je producten verkopen met verschillende kenmerken. 
 
 .. image:: Verkoop-Media/031.png
 
