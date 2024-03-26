@@ -3,7 +3,7 @@ Afstandsverkopen binnen de EU
 
 Afstandsverkopen binnen de EU omvatten de handel in goederen en diensten van bedrijven naar consumenten (B2C), waarbij de verkoper geregistreerd is voor BTW-doeleinden in een EU-lidstaat en de koper zich bevindt in een andere EU-lidstaat. Deze transacties, veelal via online platforms, postorders, telefoon of andere communicatiemiddelen, vormen een vorm van grensoverschrijdende handel binnen de Europese Unie.
 
-Bij verkoop van goederen in de EU aan klanten zonder btw-aangifte te doen, dient doorgaans de btw te worden aangegeven in het EU-land van ontvangst, waarbij het tarief van dat specifieke EU-land wordt toegepast. Een alternatieve, vereenvoudigde aanpak is beschikbaar via de 'Unieregeling' binnen het éénloketsysteem (One Stop Shop, OSS), waarmee de btw op een centrale wijze kan worden afgehandeld.
+Als goederen binnen de EU worden verkocht aan klanten die geen btw-aangifte doen, moet doorgaans de btw worden aangegeven in het EU-land van ontvangst, waarbij het tarief van dat specifieke EU-land geldt. Een alternatieve, vereenvoudigde aanpak is beschikbaar via de 'Unieregeling' binnen het éénloketsysteem (One Stop Shop, OSS), waarmee de btw op een centrale wijze kan worden afgehandeld.
 
 Klanten die geen btw-aangifte doen, zoals particulieren, ondernemers met alleen vrijgestelde prestaties en niet-ondernemende rechtspersonen, vallen onder deze regeling. Voor deze groep geldt echter een drempel; wanneer hun aankopen het drempelbedrag overschrijden, zijn zij verplicht btw-aangifte te doen en kunnen zij geen gebruik maken van de Unieregeling.
 
@@ -17,7 +17,7 @@ Curq vergemakkelijkt afstandsverkopen binnen de EU door vooraf BTW-codes per lan
 
 .. image:: Media/belastingen_afstandsverkopen_EU001.png
 
-Curq genereert momenteel BTW-codes en fiscale posities per land. Je kunt deze gegevens terugvinden onder Facturatie > Configuratie > BTW of Fiscale Posities.
+Curq genereert vervolgens de BTW-codes en fiscale posities per land. Je kunt deze gegevens terugvinden onder Facturatie > Configuratie > BTW of Fiscale Posities.
 
 .. image:: Media/belastingen_afstandsverkopen_EU002.png
 
