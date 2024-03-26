@@ -7,3 +7,4 @@
     Inkoop_Inkoopovereenkomst
     Inkoop_Inkoop_in_verschillende_maateenheden
     Inkoop_Aanvulopdrachten
+    Inkoop | Extra kosten voor producten (Logistieke kosten)
