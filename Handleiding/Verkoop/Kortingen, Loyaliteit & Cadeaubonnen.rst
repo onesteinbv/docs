@@ -27,7 +27,7 @@ Geef het nieuwe programma een naam in het veld *Programmanaam*. In de vervolgkeu
 
 - **Klantenkaarten**: klantenkaarten helpen bij het verzamelen van punten tijdens aankopen, die ze vervolgens kunnen inwisselen voor beloningen bij toekomstige aankopen. 
 
--**Promoties**: met promoties kun je voorwaardelijke regels instellen voor bestellingen om klanten toegang te geven tot beloningen. Elke regel kan klanten punten geven die ze kunnen inwisselen voor beloningen.
+- **Promoties**: met promoties kun je voorwaardelijke regels instellen voor bestellingen om klanten toegang te geven tot beloningen. Elke regel kan klanten punten geven die ze kunnen inwisselen voor beloningen.
 
 - **Kortingscodes**: gebruik een *Kortingscodes* met voorwaardelijke regels, waarmee klanten voordelen kunnen inruilen. 
 
