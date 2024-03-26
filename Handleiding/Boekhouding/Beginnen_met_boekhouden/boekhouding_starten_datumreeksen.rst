@@ -33,9 +33,9 @@ Via Instellingen > Technisch > Datumreekssoorten kun je verschillende soorten co
 
 - **Naam:** Geef hier de naam op voor de datumreekssoort.
 - **Overlappen toestaan:** Datumreeksen met deze soort mogen elkaar overlappen qua datum.
-- **Is fiscal month?** Niet van toepassing.
-- **Is fiscal quarter?** Niet van toepassing.
-- **Is fiscal year?** Niet van toepassing.
+- **Is fiscal month?** Niet van toepassing. Deze soorten zijn al reeds aan gemaakt in Curq en kunnen niet meer gewijzigd worden.
+- **Is fiscal quarter?** Niet van toepassing. Deze soorten zijn al reeds aan gemaakt in Curq en kunnen niet meer gewijzigd worden.
+- **Is fiscal year?** Niet van toepassing. Deze soorten zijn al reeds aan gemaakt in Curq en kunnen niet meer gewijzigd worden.
 
 Op tabblad [Generatie] kun je de configuratie wijzigen voor het automatisch genereren van datumreeksen.
 
