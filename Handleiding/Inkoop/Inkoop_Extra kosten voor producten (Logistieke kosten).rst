@@ -8,7 +8,7 @@ en de bedrijfsactiviteiten, is het mogelijk dat twee bedrijven verschillende *Lo
 
 Om *Logistieke kosten* te activeren, ga je naar de *Waarde* sectie in het venster **Instellingen**.
 
-image50
+.. image:: Media/inkoop050.png
 
 Nu wordt het menu *Logistieke kosten* weergegeven in de vervolgkeuzelijst van het tabblad Bewerkingen. Klik erop om het menu te openen.
 In dit venster worden alle *Logistieke kosten* weergegeven die aan de module zijn toegevoegd. Standaard worden alle details in een lijstweergave getoond, maar je kunt ook 
@@ -17,7 +17,7 @@ snel te identificeren, sorteren en categoriseren. Als je een filter of criterium
 
 Voordat je nieuwe *Logistieke kosten* aanmaakt, ga je naar *Productcategorieën* op het tabblad **Configuratie**. Selecteer een categorie uit de lijst die verschijnt.
 
-image51
+.. image:: Media/inkoop051.png
 
 Het product waarop de grondprijs wordt toegepast, moet een productcategorie hebben die is ingesteld op een FIFO- of een AVCO-methode. Stel dus de *Kostenprijsbepaling* in als *First In First Out (FIFO)*
 of *Gemiddelde kostprijs (AVCO)*. Als je de goederen verkoopt in dezelfde volgorde als ze zijn geleverd, kies dan *FIFO* als de kosten berekeningsmethode. Bij *Gemiddelde kostprijs* worden de 
@@ -25,17 +25,17 @@ kosten die aan de producten worden toegewezen berekend door de kosten van alle b
 
 Ga nu naar *Producten* en klik op *Nieuw* om een nieuw artikel aan te maken. Stel *Productsoort* in als *Dienst* om een service te configureren die *Logistieke kosten* definieert.
 
-image52
+.. image:: Media/inkoop052.png
 
 Activeer de optie *Zijn logistieke kosten* onder het tabblad **Inkoop** om de kosten berekeningsmethoden toe te wijzen aan deze service. In het veld **Standaard Splitsingsmethode** 
 kunt u aangeven hoe u de kosten wilt splitsen.
 
-image53
+.. image:: Media/inkoop053.png
 
 Om een nieuwe *Logistieke kosten* aan te maken, klikt u op de knop *Nieuw*. 
 Geef de velden op zoals **Datum, Verplaatsingen, Dagboek** en eventueel **Leveranciersfactuur**. De keuze van *verplaatsing* bepaalt op welke domeinen je de *Logistieke* kosten wilt toepassen.
 
-image54
+.. image:: Media/inkoop054.png
 
 Klik onder *Aanvullende kosten* op de knop Regel toevoegen. Je kunt het product selecteren uit de vervolgkeuzelijst in het veld Product. Voeg de details toe zoals 
 **Omschrijving, Rekening, Splitsingsmethode** (hoe de logistieke kosten worden gesplitst) en **Kostprijs**. 
@@ -47,4 +47,4 @@ Planner uitvoeren
 Odoo maakt gebruik van een scheduler om in- en verkoop transacties van jouw bedrijf te automatiseren. De planner draait automatisch 1 x per dag en kan handmatig gestart worden. 
 Om toegang te krijgen tot deze functie, klik je op *Planner uitvoeren* in het menu **Bewerkingen**. Vervolgens verschijnt er een pop-upvenster. Klik op *Planner uitvoeren*. 
 
-image55
+.. image:: Media/inkoop055.png
