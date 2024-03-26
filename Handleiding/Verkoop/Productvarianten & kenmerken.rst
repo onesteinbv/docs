@@ -31,6 +31,13 @@ Op de manier hoe de varianten worden aangemaakt heb je 3 opties:
 
 De modus voor het maken van varianten kan niet worden gewijzigd zodra het kenmerk wordt gebruikt in ten minste één product. In het veld *Zichtbaarheid eCommerce filter* kun je beslissen of je het kenmerk zichtbaar wilt maken of wilt verbergen voor de beschikbare filters op eCommerce. Onder *Kenmerkwaardes* kun je waarden toevoegen met de knop *Regel toevoegen*. Producten met dit kenmerk kunnen worden bekeken met de slimme knop *Gerelateerde producten* in de formulierweergave.
 
+Configuratie
+------------
+
+Via de productkaart kunnen kenmerken worden toegevoegd aan het product. Indien er een prijsverschil moet worden ingesteld, dan kun je naar *configureren*. Per kenmerk kan een extra prijsstijging worden ingesteld in veld *Waarde extra prijs*.
+
+.. image:: Verkoop-Media/034.png
+
 
 
 
