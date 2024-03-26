@@ -5,7 +5,7 @@ Wanneer alle gegevens van het contract/abonnement zijn ingevoerd kun je direct d
 
 De "Generate Recurring Invoices from Contracts" cron draait dagelijks om de facturen te genereren. Als je je in debugmodus bevindt, kun je op de knop voor het aanmaken van facturen klikken.
 
-.. image:: My-Ponto-Bank-Feed-Media/Verkoopcontract_eerste_factuur.png
+.. image:: Media/Verkoopcontract_eerste_factuur.png
        :width: 6.3in
        :height: 2.93264in
 
@@ -14,6 +14,6 @@ Klantenportaal weergave
 De klant ziet het afgesloten abonnement ook in het klantenportaal. Indien dit bij het contract is ingegeven dan kan de klant zelf het abonnement beeindigen.
 
 
-.. image:: My-Ponto-Bank-Feed-Media/Verkoopcontract_klantvoorbeeld_portal.png
+.. image:: Media/Verkoopcontract_klantvoorbeeld_portal.png
        :width: 6.3in
        :height: 2.93264in
