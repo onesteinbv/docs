@@ -4,3 +4,4 @@
 
     Offertes - Orders - Facturatie
     Offertesjablonen
+    Productvarianten & kenmerken
