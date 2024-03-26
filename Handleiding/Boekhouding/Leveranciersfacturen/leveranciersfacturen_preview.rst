@@ -8,17 +8,22 @@ Beoordelen inkoopfactuur
 
 Een inkoopfactuur kan op verschillende manieren worden aangemaakt binnen Curq:
 
-1. Via de knop [UPLOAD] bij de Facturatie Dashboard
-2. Via de knop [UPLOAD] bij Facturatie > Leveranciers > Leveranciersfacturen
-3. Via de knop [NIEUW] bij Facturatie > Leveranciers > Leveranciersfacturen
+1. Via een email naar facturen@uwbedrijf....curq.nl
+2. Via de knop [UPLOAD] bij de Facturatie Dashboard
+3. Via de knop [UPLOAD] bij Facturatie > Leveranciers > Leveranciersfacturen
+4. Via de knop [NIEUW] bij Facturatie > Leveranciers > Leveranciersfacturen
 
-Bij optie 3 moet de PDF-factuur apart worden geüpload via de bijlage-optie boven de logging.
+Bij optie 1, het definitieve mailadres kan je vinden bij Facturatie > Dashboard.
 
 .. image:: Media/Leveranciersfacturen_preview001.png
 
-Na het uploaden wordt de PDF aan de rechterkant getoond. Het tonen hiervan is afhankelijk van jouw schermgrootte. Als het scherm te klein is, wordt de PDF-preview niet weergegeven.
+Bij optie 4 moet de PDF-factuur apart worden geüpload via de bijlage-optie boven de logging.
 
 .. image:: Media/Leveranciersfacturen_preview002.png
+
+Na het uploaden wordt de PDF aan de rechterkant getoond. Het tonen hiervan is afhankelijk van jouw schermgrootte. Als het scherm te klein is, wordt de PDF-preview niet weergegeven.
+
+.. image:: Media/Leveranciersfacturen_preview003.png
 
 We zullen de volgende veelgebruikte knoppen bespreken:
 
@@ -36,6 +41,6 @@ De boekhouder of accountant controleert vaak de boekhouding aan de hand van de b
 
 Je kunt het overzicht van boekingsregels vinden onder Facturatie > Boekhouding > Boekingsregels
 
-.. image:: Media/Leveranciersfacturen_preview003.png
+.. image:: Media/Leveranciersfacturen_preview004.png
 
 In de kolom “Preview” kun je op de gekoppelde PDF klikken. Zodra je dit doet, verschijnt de PDF-factuur aan de rechterkant.
