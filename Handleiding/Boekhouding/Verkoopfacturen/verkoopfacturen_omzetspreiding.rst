@@ -47,9 +47,9 @@ In het nieuwe scherm krijg je een aantal opties te zien:
 
 - **Spreiding Actie Type:** Welke spreiding wil je uitvoeren.
   
- * Koppel Factuur Regel met Spreiding Tabel: Als je handmatig al een spreiding hebt aangemaakt, kun je deze achteraf koppelen aan een factuur.
- * Spreidingsjabloon: Hier kun je een bestaand spreidingsjabloon koppelen, waarbij de gegevens automatisch worden overgenomen vanuit het sjabloon.
- * Nieuwe Spreiding Tabel: Je kunt hier een volledig nieuwe spreidingstabel aanmaken.
+ * **Koppel Factuur Regel met Spreiding Tabel:** Als je handmatig al een spreiding hebt aangemaakt, kun je deze achteraf koppelen aan een factuur.
+ * **Spreidingsjabloon:** Hier kun je een bestaand spreidingsjabloon koppelen, waarbij de gegevens automatisch worden overgenomen vanuit het sjabloon.
+ * **Nieuwe Spreiding Tabel:** Je kunt hier een volledig nieuwe spreidingstabel aanmaken.
 
 Afhankelijk van je keuze bij **Spreiding Actie Type** worden verschillende opties weergegeven. Alleen bij de optie “Nieuwe Spreidingstabel” moet je je eigen omzet grootboekrekening, balansrekening en dagboek invoeren. Zodra je een optie hebt gekozen en bevestigd, word je doorgeleid naar het scherm van een Spreidingstabel.
 
