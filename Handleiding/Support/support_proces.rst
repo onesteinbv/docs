@@ -37,6 +37,7 @@ Met deze eenvoudige stappen kun je snel en efficiënt een support ticket aanmake
 
 .. toctree::
     :maxdepth: 2
+    :hidden:
 
     Helpdesk_Advanced
     Helpdesk
