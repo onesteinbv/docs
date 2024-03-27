@@ -40,3 +40,8 @@ Met website details kan worden ingesteld onder welke categorie het project op de
 Onder het tabblad "Members" kunnen de verschillende leden worden gezien die het project ondersteunen.
 
 .. image:: Projecten/Projecten007.png
+
+.. toctree::
+    :maxdepth: 2
+
+    Urenstaten_gebruiker
