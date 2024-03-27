@@ -1,4 +1,4 @@
-Support Proces
+Support
 ====================================================================
 
 Curq biedt ondersteuning via support tickets, waarmee gebruikers vragen kunnen stellen en hulp kunnen ontvangen voor hun specifieke problemen. Deze handleiding geeft stapsgewijze instructies voor het indienen van een support ticket via e-mail of telefoon.
@@ -33,3 +33,10 @@ Algemene Tips:
 * stel een vraag per mail om het support proces te versoepelen.
 
 Met deze eenvoudige stappen kun je snel en efficiënt een support ticket aanmaken bij Curq, zodat je hulp kunt krijgen bij eventuele problemen of vragen.
+
+
+.. toctree::
+    :maxdepth: 2
+
+    Helpdesk_Advanced
+    Helpdesk
