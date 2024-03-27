@@ -4,6 +4,6 @@ Verkoop
 .. toctree::
     :maxdepth: 2
 
-    Offertes - Orders - Facturatie
+    Offertes-Orders-Facturatie
     Offertesjablonen
     Productvarianten & kenmerken
