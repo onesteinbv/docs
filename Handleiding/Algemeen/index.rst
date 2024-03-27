@@ -3,7 +3,7 @@
 
     Agenda
     Discuss
-    Rapportages
     Toevoegen_van_een_contact
+    Rapportages
     Zoeken&filtreren
 
