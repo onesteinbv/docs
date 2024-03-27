@@ -7,3 +7,4 @@ Verkoop
     Offertes-Orders-Facturatie
     Offertesjablonen
     Productvarianten & kenmerken
+    Kortingen, Loyaliteit & Cadeaubonnen
