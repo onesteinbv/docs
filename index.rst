@@ -33,4 +33,4 @@ CURQ is een all incusive en voledig open source ERP systeem. Wij bieden u vrijhe
     Handleiding/Projecten/index
     Handleiding/Leden/Introductie
     Handleiding/HR/index
-    ChangeLog
+    changeLog
