@@ -133,4 +133,9 @@ In dit venster zie je velden zoals Activiteitstype, Vervaldatum, Samenvatting en
 
 .. image:: Media/017.png
 
+.. toctree::
+    :maxdepth: 2
+    :hidden:
 
+    CRM Advanced
+    CRM Reports
