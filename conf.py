@@ -2,6 +2,7 @@
 #
 # For the full list of built-in configuration values, see the documentation:
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
+import os
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
@@ -15,6 +16,10 @@ author = 'Onestein'
 
 templates_path = ['_templates']
 exclude_patterns = []
+extensions = [
+    "sphinx_github_changelog",
+]
+sphinx_github_changelog_token = os.environ.get("GIT_ACCESS_KEY") or ''
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
