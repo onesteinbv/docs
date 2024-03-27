@@ -26,9 +26,11 @@ sphinx_github_changelog_token = os.environ.get("GIT_ACCESS_KEY") or ''
 html_theme = 'furo'
 html_static_path = ['_static']
 html_css_files = ["custom.css"]
+html_theme_options = {
+    "sidebar_hide_name": True,
+}
 
-
-html_short_title = 'Curq'
+html_short_title = ' '
 html_title = ''
 
 html_logo = 'Curq_Banner.png'
