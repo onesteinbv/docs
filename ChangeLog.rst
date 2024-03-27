@@ -3,6 +3,5 @@ Changelog
 ================================================
 
 .. changelog::
-    :github: https://github.com/ewjoachim/sphinx-github-changelog/releases
-
+    :github: https://github.com/onesteinbv/addons-container/releases
 
