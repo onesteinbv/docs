@@ -1,4 +1,4 @@
-contacten
+Contacten
 ====================================================================
 
 Een contact in Odoo kan meerdere functies hebben. Dit kan een klant zijn, een leverancier, of beide. Een contact kan tevens een persoon of bedrijf zijn en verschillende informatie bevatten, afhankelijk van het type contact.
