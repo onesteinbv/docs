@@ -43,5 +43,6 @@ Onder het tabblad "Members" kunnen de verschillende leden worden gezien die het 
 
 .. toctree::
     :maxdepth: 2
+    :hidden:
 
     Urenstaten_gebruiker
