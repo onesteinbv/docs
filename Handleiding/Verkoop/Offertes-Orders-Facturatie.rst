@@ -38,7 +38,7 @@ Voor de *Facturatie- en Betalingsgegevens* kun je de *Fiscale Positie* vermelden
 
 .. image:: Verkoop-Media/007.png
 
-Om de functies voor **Online handtekening** en **Online betaling** op offertes te activeren, kun je de bijbehorende opties activeren in het menu **Instellingen** van de module. Door deze opties te activeren, kun je een online handtekening en betaling aanvragen om de bestellingen te bevestigen.
+Om de functies voor **Online handtekening** en **Online betaling** op offertes te activeren, kun je de bijbehorende opties activeren in het menu **Instellingen** van de module. Door deze opties te activeren, kun je een online handtekening en betaling aanvragen om de bestellingen te bevestigen en te laten betalen.
 
 .. image:: Verkoop-Media/008.png
 
