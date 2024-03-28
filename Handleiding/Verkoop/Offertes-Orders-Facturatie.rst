@@ -13,9 +13,9 @@ Hier kun je alle reeds aangemaakte offertes bekijken, inclusief details zoals aa
 
 .. image:: Verkoop-Media/002.png
 
-Nadat je de klantnaam uit de lijst hebt geselecteerd, worden automatisch het factuuradres, het afleveradres, de prijslijst en de betalingsvoorwaarden weergegeven op basis van vooraf ingestelde gegevens. Als deze gegevens niet beschikbaar zijn, kun je het factuuradres en het afleveradres handmatig invoeren in de daarvoor bestemde velden. In Curq kun je verkoopordersjablonen maken via het configuratiemenu, die vervolgens kunnen worden gebruikt bij het opstellen van offertes. De vervaldatum van de offerte an worden weergegeven, en de gebruikte prijslijst kan worden geselecteerd uit het aangeboden veld. Betalingsvoorwaarden voor de klant kunnen worden gedefinieerd in het betreffende veld.
+Nadat je de klantnaam uit de lijst hebt geselecteerd, worden automatisch het factuuradres, het afleveradres, de prijslijst en de betalingsvoorwaarden weergegeven op basis van vooraf ingestelde gegevens. Als deze gegevens niet beschikbaar zijn, kun je het factuuradres en het afleveradres handmatig invoeren in de daarvoor bestemde velden. In Curq kun je verkoopordersjablonen maken via het configuratiemenu, die vervolgens kunnen worden gebruikt bij het opstellen van offertes. De vervaldatum van de offerte wordt automatisch gevuld en eventueel een geselecteerde prijslijst. Indien de prijslijst optie actief staat zal de standaard *Verkoopprijslijst* worden getoond. Betalingsvoorwaarden voor de klant kunnen worden gedefinieerd in het betreffende veld.
 
-Je kunt de standaard geldigheidsduur van een offerte instellen in het instellingenmenu van de Verkoopmodule. Als dit is geconfigureerd, wordt het veld *Geldigheid* automatisch ingevuld volgens de standaard geldigheidsduur van de offerte telkens wanneer je een nieuwe offerte maakt.
+Je kunt de standaard geldigheidsduur van een offerte instellen in het instellingenmenu van de Verkoopmodule. Als dit is geconfigureerd, wordt het veld *Vervaldatum* automatisch ingevuld volgens de standaard geldigheidsduur van de offerte telkens wanneer je een nieuwe offerte maakt.
 
 .. image:: Verkoop-Media/003.png
 
