@@ -64,8 +64,8 @@ Voor de automatische toepassing van een Fiscale Positie zijn de instellingen rec
 
 - **Automatisch detecteren:** Voor automatische toepassing aan of uit.
 - **BTW verplicht:** De relatie moet voorzien zijn van een BTW-nummer voor automatische toepassing.
-- **Landengroep:** De relatie bevindt zich in een land binnen de Landengroep.
-- **Land:** De relatie bevindt zich in het opgegeven land.
+- **Landengroep:** De relatie of afleveradres bevindt zich in een land binnen de Landengroep.
+- **Land:** De relatie of afleveradres bevindt zich in het opgegeven land.
 
 Als er meerdere Fiscale Posities automatisch worden toegepast dan is de volgorde waar deze in staat van belang. In de lijst van alle Fiscale Posities zie je in welke volgorde ze staan. Het is mogelijk om deze volgorde te wijzigen door ze te slepen.
 
