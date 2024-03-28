@@ -92,9 +92,6 @@ Hier kun je het type factuur selecteren, zoals een **gewone factuur, een aanbeta
 .. image:: Verkoop-Media/018.png
 
 Vervolgens wordt een concept factuur weergegeven die je kunt bevestigen door op de knop *Bevestigen* te klikken.
-Na het bevestigen van de factuur, krijg je de optie om de betaling te registreren.
-
-.. image:: Verkoop-Media/019.png
-
-De *betaling registreren* optie hoeft enkel gebruikt te worden als je een *aanbetaling* factuur wilt maken en als er géén directe koppeling aanwezig is met je bank of indien er **geen** bankafschriften worden ingelezen. De afletter functie zorgt ervoor dat een factuur status *betaald* krijgt als de betaling is afgeletterd.   
+De factuur is nu gereed voor verwerking.
+ 
 
