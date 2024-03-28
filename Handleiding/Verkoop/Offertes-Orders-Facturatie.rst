@@ -46,7 +46,7 @@ Nadat je een offerte hebt opgesteld, kun je deze naar de desbetreffende klant st
 
 .. image:: Verkoop-Media/009.png
 
-Nadat je de ontvangers hebt geselecteerd en het onderwerp hebt ingevuld, kun je op de knop "Verzenden" klikken. De offerte wordt dan als bijlage aan de e-mail toegevoegd. Zodra de offerte is verzonden, wordt de status automatisch gewijzigd naar "Offerte verzonden".
+Nadat je de ontvangers hebt geselecteerd en het onderwerp hebt ingevuld, kun je op de knop *Verzenden* klikken. De offerte wordt dan als bijlage aan de e-mail toegevoegd. Zodra de offerte is verzonden, wordt de status automatisch gewijzigd naar *Offerte verzonden*.
 
 .. image:: Verkoop-Media/010.png
 
@@ -73,13 +73,13 @@ Hier kan de klant een handtekening toevoegen. Na het toevoegen van een handteken
 
 .. image:: Verkoop-Media/015.png
 
-Afhankelijk van het betalingsbeleid kan de klant de bestelling afrekenen. 
+Wanneer een payment provider is geconfigureerd kan de klant de bestelling afrekenen. 
 
 
 Facturatie
 ----------
 
-Nadat je de verkooporder hebt bevestigd, is de volgende stap het genereren van facturen voor de orders. De knop voor het genereren van facturen verschijnt op het scherm zodra je de verkooporder hebt bevestigd. Let op! Indien je producten hebt die als voorraad product zijn ingesteld, dan moet de levering eerst worden afgerond voordat je de factuur kan maken.
+Nadat een verkooporder is bevestigd en online betaald, dan wordt de factuur automatisch geboekt met status 'betaald'. Indien enkel gebruik wordt gemaakt van het bevestigen van een order dan moet de factuur handmatig worden gemaakt. De knop voor het genereren van facturen verschijnt op het scherm zodra je de verkooporder hebt bevestigd. Let op! Indien je producten hebt die als voorraad product zijn ingesteld, dan moet de levering eerst worden afgerond voordat je de factuur kan maken.
 
 .. image:: Verkoop-Media/016.png
 
@@ -96,5 +96,5 @@ Na het bevestigen van de factuur, krijg je de optie om de betaling te registrere
 
 .. image:: Verkoop-Media/019.png
 
-De *betaling registreren* optie hoeft enkel gebruikt te worden als er géén directe koppeling aanwezig is met je bank of indien er **geen** bankafschriften worden ingelezen. De afletter functie zorgt ervoor dat een factuur status *betaald* krijgt als de boekingen tegen elkaar zijn afgeletterd.   
+De *betaling registreren* optie hoeft enkel gebruikt te worden als je een *aanbetaling* factuur wilt maken en als er géén directe koppeling aanwezig is met je bank of indien er **geen** bankafschriften worden ingelezen. De afletter functie zorgt ervoor dat een factuur status *betaald* krijgt als de betaling is afgeletterd.   
 
