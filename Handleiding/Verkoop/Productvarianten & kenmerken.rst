@@ -10,7 +10,7 @@ Door deze functie te activeren, krijg je toegang tot een nieuwe optie onder het 
 
 .. image:: Verkoop-Media/031.png
 
-Hierboven zie je een overzicht van alle aangemaakte *Productvarianten*. Het voorbeeld van de lijst bevat de **Interne referentie, Naam, Website, Variant Waarden, Verkoopprijs, Kosten, Hoeveelheid in voorraad, Verwachte hoeveelheid** en **Maateenheid**. Met de knop *Nieuw* kun je moeiteloos een nieuwe productvariant configureren. 
+Hierboven zie je een overzicht van alle aangemaakte *Productvarianten*. Het voorbeeld van de lijst bevat de **Interne referentie, Naam, Website, Variant Waarden, Verkoopprijs, Kosten, Hoeveelheid in voorraad, Verwachte hoeveelheid** en **Maateenheid**. 
 
 Om de kenmerken van een productvariant te definiëren, kun je naar het menu *Configuratie* van de module gaan. Hier vind je de optie *Kenmerken*. Wanneer je op deze optie klikt, kom je op een nieuw scherm zoals hieronder weergegeven, waar je een lijst ziet met **Kenmerk, Soort weergave, Variant aanmaken** en **E-commerce Filter Zichtbaarheid**.
 
