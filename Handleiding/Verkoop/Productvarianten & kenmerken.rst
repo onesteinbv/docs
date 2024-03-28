@@ -8,10 +8,6 @@ Wanneer een product meerdere varianten heeft, kun je deze gemakkelijk configurer
 
 Door deze functie te activeren, krijg je toegang tot een nieuwe optie onder het menu *Producten: Productvarianten*. Hiermee kun je producten verkopen met verschillende kenmerken. 
 
-.. image:: Verkoop-Media/031.png
-
-Hierboven zie je een overzicht van alle aangemaakte *Productvarianten*. Het voorbeeld van de lijst bevat de **Interne referentie, Naam, Website, Variant Waarden, Verkoopprijs, Kosten, Hoeveelheid in voorraad, Verwachte hoeveelheid** en **Maateenheid**. 
-
 Om de kenmerken van een productvariant te definiëren, kun je naar het menu *Configuratie* van de module gaan. Hier vind je de optie *Kenmerken*. Wanneer je op deze optie klikt, kom je op een nieuw scherm zoals hieronder weergegeven, waar je een lijst ziet met **Kenmerk, Soort weergave, Variant aanmaken** en **E-commerce Filter Zichtbaarheid**.
 
 .. image:: Verkoop-Media/032.png
@@ -38,7 +34,10 @@ Via de productkaart kunnen kenmerken worden toegevoegd aan het product. Indien e
 
 .. image:: Verkoop-Media/034.png
 
+Zodra de kenmerken zijn toegevoegd op de producten dan kun je een overzicht ophalen van alle aangemaakte *Productvarianten*. In dit overzicht staan alle producten, dus ook de producten zonder kenmerk.
+Het voorbeeld van de lijst bevat de **Interne referentie, Naam, Website, Variant Waarden, Verkoopprijs, Kosten, Hoeveelheid in voorraad, Verwachte hoeveelheid** en **Maateenheid**. 
 
+.. image:: Verkoop-Media/031.png
 
 
 
