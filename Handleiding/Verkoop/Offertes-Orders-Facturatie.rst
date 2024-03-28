@@ -79,7 +79,7 @@ Wanneer een payment provider is geconfigureerd kan de klant de bestelling afreke
 Facturatie
 ----------
 
-Nadat een verkooporder is bevestigd en online betaald, dan wordt de factuur automatisch geboekt met status 'betaald'. Indien enkel gebruik wordt gemaakt van het bevestigen van een order dan moet de factuur handmatig worden gemaakt. De knop voor het genereren van facturen verschijnt op het scherm zodra je de verkooporder hebt bevestigd. Let op! Indien je producten hebt die als voorraad product zijn ingesteld, dan moet de levering eerst worden afgerond voordat je de factuur kan maken.
+Nadat een verkooporder is bevestigd en online betaald, dan wordt de factuur automatisch geboekt met status 'betaald'. Indien enkel gebruik wordt gemaakt van het bevestigen van een order dan moet de factuur handmatig worden gemaakt. De knop voor het genereren van facturen verschijnt op het scherm zodra je de verkooporder hebt bevestigd. 
 
 .. image:: Verkoop-Media/016.png
 
