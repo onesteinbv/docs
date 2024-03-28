@@ -34,7 +34,7 @@ Als er een *Optioneel Product* wordt aangeboden aan de klant, kun je deze toevoe
 
 Op het tabblad **Overige info** kun je een verkoper en verkoopteam toewijzen om deze offerte te beheren. De bedrijfsnaam wordt automatisch ingevuld in het bijbehorende veld. Als je wilt zorgen voor online bevestiging, kun je de opties *Handtekening* en *Betaling* activeren, zodat de klant online kan betalen en de bestelling kan bevestigen door een online handtekening toe te voegen. Gebruik het veld *Labels* om passende tags toe te voegen.  
 
-Voor de *Facturatie- en Betalingsgegevens* kun je de *Fiscale Positie* vermelden die zal worden gebruikt om belastingen en rekeningen aan te passen voor bepaalde klanten. Via tab *Levering* kun je het *Verzendbeleid* en *Leverdatum* opgeven. Voor *Traceerbewerkingen* kun je *Brondocument, Campagne, Medium* en *Bron* opgeven.
+Voor de *Facturatie- en Betalingsgegevens* kun je de *Fiscale Positie* vermelden die zal worden gebruikt om belastingen en rekeningen aan te passen voor bepaalde klanten. Via tab *Levering* kun je het *Verzendbeleid* en *Leverdatum* opgeven. Om beter inzicht te krijgen waar de verkoopkansen vandaan komen kun je *Brondocument, Campagne, Medium* en *Bron* opgeven.
 
 .. image:: Verkoop-Media/007.png
 
