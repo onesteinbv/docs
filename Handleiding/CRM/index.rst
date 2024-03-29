@@ -5,7 +5,8 @@ CRM
 .. toctree::
     :maxdepth: 2
 
-    CRM Basis
+    Leads & Verkoopkansen
+    Offerte maken vanuit een verkoopkans
     CRM Advanced
     CRM Reports
    
