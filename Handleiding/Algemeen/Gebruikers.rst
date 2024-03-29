@@ -57,7 +57,7 @@ Om het wachtwoord van een gebruiker direct te wijzigen in Curq, ga je naar Inste
 Voer het nieuwe wachtwoord in en bevestig door op *Wachtwoord wijzigen* te klikken.
 
 Meerdere bedrijven:
-------------------
+-------------------
 In het veld *Meerdere Bedrijven* kun je instellen tot welke van de databases met meerdere bedrijven de gebruiker toegang heeft. Deze optie wordt pas zichtbaar als er 2 of meerdere bedrijven zijn aangemaakt.
 
 .. image:: Media/008.png
