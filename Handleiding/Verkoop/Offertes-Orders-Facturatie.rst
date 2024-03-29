@@ -75,9 +75,9 @@ Hier kan de klant een handtekening toevoegen. Na het toevoegen van een handteken
 
 Wanneer een payment provider is geconfigureerd kan de klant de bestelling afrekenen. 
 
-.. image:: Verkoop-Media/048.png
+De order is bevestigd en in tab *Handtekening klant* van de order is de handtekening zichtbaar.
 
-De order is bevestigd en in tab *Handtekening klant* is de handtekening zichtbaar.
+.. image:: Verkoop-Media/048.png
 
 
 Facturatie
