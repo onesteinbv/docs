@@ -64,7 +64,7 @@ Vervolgens heb je de optie *Intercompany transacties* te activeren onder **Inste
 
 .. image:: Media/014.png
 
-**Factuur synchroniseren**: Hierbij wordt een factuur gegenereerd wanneer bedrijf A een factuur bevestigt aan bedrijf B. Bijvoorbeeld: een factuur die in bedrijf A is geplaatst voor bedrijf B, maakt automatisch een leveranciersfactuur aan in bedrijf B voor bedrijf A. 
+**Facturen synchroniseren**: Hierbij wordt een factuur gegenereerd wanneer bedrijf A een factuur bevestigt aan bedrijf B. Bijvoorbeeld: een factuur die in bedrijf A is geplaatst voor bedrijf B, maakt automatisch een leveranciersfactuur aan in bedrijf B voor bedrijf A. 
 
 **Verkoop-/inkooporder synchroniseren**: Dit genereert een concept inkoop-/verkooporder met gebruikmaking van het geselecteerde bedrijfsmagazijn wanneer een verkoop-/inkooporder voor het geselecteerde bedrijf wordt bevestigd. Als je wilt dat de inkoop-/verkooporder automatisch wordt gevalideerd in plaats van dat deze wordt opgesteld, schakel je Automatische validatie in. Bijvoorbeeld: wanneer een verkooporder voor bedrijf B wordt bevestigd in bedrijf A, dan wordt er automatisch een inkooporder opgesteld in bedrijf B (en wordt deze bevestigd als de functie Automatische validatie is ingeschakeld).
 
