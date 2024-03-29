@@ -1,11 +1,27 @@
 CRM - Advanced
 =================================================================================================
 
-In deze handleiding duiken we wat dieper in de settings voor de volgende functionaliteiten: 
+In deze handleiding duiken we wat dieper in de settings voor o.a. de volgende functionaliteiten: 
 
 1. Meerdere Verkoop Teams
 2. Op regels gebaseerde toewijzing
 3. Predictive Lead Scoring
+
+Instellingen
+---------------------------------------------------------------------------------------------------------------------
+Ga hiervoor naar **Configuratie - Instellingen**. Hiermee wordt het volgende overzicht geopend:
+
+.. image:: Media/001.png
+
+**Herhaalde omzetten**:  Met deze functionaliteit kun je herhalende plannen en inkomsten definiëren voor verkoopkansen. De standaard ingestelde frequenties zijn: Maandelijks, Jaarlijks, Over 3 jaar en Over 5 jaar. Er is een mogelijkheid om een andere frequentie aan te maken.
+
+**Leads**:  Met Leads wordt er een extra kwalificatie stap toegevoegd alvorens het een verkoopkans wordt.  Zodra de lead voldoet aan bepaalde criteria volgens het bedrijf, kan deze daarna worden omgezet naar verkoopkans.
+
+**Meerdere Teams**:  Er kunnen verschillende Verkoop Teams worden aangemaakt die gerelateerd zijn aan een productgroep of dienst. Zo kunnen de leads & verkoopkansen verdeeld worden en krijgt u een helder beeld wat in de pijplijn zit per team. 
+
+**Op regels gebaseerde toewijzing**:  In de CRM module kunnen leads en kansen worden toegewezen aan verkoopteams en verkopers op basis van specifieke regels. Door toewijzingsregels te creëren op basis van de kans op succes van de leads, kunnen prioriteiten worden gesteld aan leads die een grotere kans hebben om tot een deal te leiden. 
+
+**Predictive Lead Scoring**:  Dit is een machine-learning model dat historische gegevens uit de CRM module gebruikt om open leads en kansen te beoordelen op basis van hun 'waarschijnlijkheid' om te resulteren in een succesvolle deal. 
 
 Verkoop Teams
 --------------------------------------------------------------------------------------------------
