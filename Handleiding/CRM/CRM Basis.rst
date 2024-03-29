@@ -4,22 +4,6 @@ CRM
 De CRM-module binnen Curq is van onschatbare waarde voor het beheer van leadgeneratie en klantenwerving. Het stelt gebruikers in staat om leads van diverse bronnen te verzamelen en te organiseren, waardoor ze effectief kunnen worden omgezet in kansen. De naadloze integratie met andere modules, zoals bijvoorbeeld Verkoop, bevordert de productiviteit bij het omzetten van leads in kansen. 
 
 
-Instellingen
----------------------------------------------------------------------------------------------------------------------
-Voordat we beginnen met de flow van CRM, lopen we eerst even de instellingen met je door. 
-Ga hiervoor naar **Configuratie - Instellingen**. Hiermee wordt het volgende overzicht geopend:
-
-.. image:: Media/001.png
-
-**Herhaalde omzetten**:  Met deze functionaliteit kun je herhalende plannen en inkomsten definiëren voor verkoopkansen. De standaard ingestelde frequenties zijn: Maandelijks, Jaarlijks, Over 3 jaar en Over 5 jaar. Er is een mogelijkheid om een andere frequentie aan te maken.
-
-**Leads**:  Met Leads wordt er een extra kwalificatie stap toegevoegd alvorens het een verkoopkans wordt.  Zodra de lead voldoet aan bepaalde criteria volgens het bedrijf, kan deze daarna worden omgezet naar verkoopkans.
-
-**Meerdere Teams**:  Er kunnen verschillende Verkoop Teams worden aangemaakt die gerelateerd zijn aan een productgroep of dienst. Zo kunnen de leads & verkoopkansen verdeeld worden en krijgt u een helder beeld wat in de pijplijn zit per team. Meer info vind je in de handleiding **CRM Advanced**. 
-
-**Op regels gebaseerde toewijzing**:  In de CRM module kunnen leads en kansen worden toegewezen aan verkoopteams en verkopers op basis van specifieke regels. Door toewijzingsregels te creëren op basis van de kans op succes van de leads, kunnen prioriteiten worden gesteld aan leads die een grotere kans hebben om tot een deal te leiden. Meer info vind je in de handleiding **CRM Advanced**.
-
-**Predictive Lead Scoring**:  Dit is een machine-learning model dat historische gegevens uit de CRM module gebruikt om open leads en kansen te beoordelen op basis van hun 'waarschijnlijkheid' om te resulteren in een succesvolle deal. Meer info vind je in de handleiding **CRM Advanced**.
 
 Leadgeneratie
 -----------------------------------------------------------------------------------------------------------------------
