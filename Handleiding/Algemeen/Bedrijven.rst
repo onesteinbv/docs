@@ -22,7 +22,7 @@ Activeer bedrijven door hun selectievakjes in te schakelen om ze te activeren. H
 
 .. image:: Media/011.png
 
-Gegevens zoals *Producten* en *Contacten* kunnen worden gedeeld of ingesteld om alleen voor een specifiek bedrijf te worden weergegeven. Dit kan worden ingesteld op hun formulieren door te kiezen tussen:
+Gegevens zoals *Producten* en *Contacten* kunnen worden gedeeld of ingesteld om alleen voor een specifiek bedrijf te worden weergegeven. Een voorbeeld vind je hieronder van een product waarbij je in veld *Bedrijf* kan kiezen tussen:
 
 1. Een leeg veld: het record wordt gedeeld binnen alle bedrijven.
 2. Een specifiek bedrijf toevoegen: het record is alleen zichtbaar voor gebruikers die zijn aangemeld bij dat specifieke bedrijf.
