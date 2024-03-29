@@ -63,6 +63,8 @@ Vul zoveel mogelijk velden in, zoals de bedrijfsnaam of contactpersoon, de omsch
     :maxdepth: 2
     :hidden:
 
+    Leads & Verkoopkansen
+    Offetre maken vanuit een verkoopkans
     CRM Advanced
     CRM Reports
 
