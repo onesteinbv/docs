@@ -9,25 +9,25 @@ Bedrijven en records beheren
 
 Navigeer naar **Instellingen ‣ Bedrijven beheren** en vul het formulier in met de gegevens van het bedrijf. Als een moederbedrijf is geselecteerd, worden records gedeeld tussen de twee bedrijven (zolang beide omgevingen actief zijn).
 
-Media/009
+.. image:: Media/009.png
 
 Tip:
 Activeer de ontwikkelaarsmodus om een Favicon te kiezen voor elk van de bedrijven, zodat ze gemakkelijk te herkennen zijn aan de browsertabbladen. Stel de bestandsgrootte van uw favicons in op 16x16 of 32x32 pixels. JPG, PNG, GIF en ICO zijn geaccepteerde bestandsextensies.
 
-Media/010
+.. image:: Media/0010.png
 
 Schakelen tussen of selecteren van meerdere bedrijven (v.a. Growth & Professional
 ---------------------------------------------------------------------------------
 Activeer bedrijven door hun selectievakjes in te schakelen om ze te activeren. Het grijs weergegeven bedrijf is de omgeving die momenteel in gebruik is. Klik op de naam van het bedrijf om van omgeving te wisselen. Bijvoorbeeld, in het onderstaande voorbeeld heeft de gebruiker toegang tot twee bedrijven, waarvan er één geactiveerd is en waarbij de omgeving van Onestein momenteel in gebruik is.
 
-Media/011
+.. image:: Media/0011.png
 
 Gegevens zoals *Producten* en *Contacten* kunnen worden gedeeld of ingesteld om alleen voor een specifiek bedrijf te worden weergegeven. Dit kan worden ingesteld op hun formulieren door te kiezen tussen:
 
 1. Een leeg veld: het record wordt gedeeld binnen alle bedrijven.
 2. Een specifiek bedrijf toevoegen: het record is alleen zichtbaar voor gebruikers die zijn aangemeld bij dat specifieke bedrijf.
 
-Media/012
+.. image:: Media/0012.png
 
 Toegang werknemers
 ------------------
@@ -44,7 +44,7 @@ Om de opmaak van documenten per bedrijf in te stellen, kun je de volgende stappe
 1. Activeer en selecteer het relevante bedrijf.
 2. Navigeer naar Instellingen en klik op *Configureer document lay-out*.
 
-Media/013
+.. image:: Media/0013.png
 
 Transacties tussen bedrijven (v.a. Growth & Professional)
 ---------------------------------------------------------
@@ -60,7 +60,7 @@ Om transacties tussen bedrijven mogelijk te maken, moet je er eerst voor zorgen 
 
 Vervolgens dien je de optie *Intercompany transacties* te activeren onder **Instellingen**. Je krijgt de optie om transacties tussen bedrijven te synchroniseren op factuurniveau en verkoop- inkoopniveau.
 
-Media/014
+.. image:: Media/0014.png
 
 **Factuur synchroniseren**: Hierbij wordt een factuur gegenereerd wanneer bedrijf A een factuur bevestigt aan bedrijf B. Bijvoorbeeld: een factuur die in bedrijf A is geplaatst voor bedrijf B, maakt automatisch een leveranciersfactuur aan in bedrijf B voor bedrijf A. 
 
