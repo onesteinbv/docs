@@ -27,7 +27,7 @@ Gegevens zoals *Producten* en *Contacten* kunnen worden gedeeld of ingesteld om 
 1. Een leeg veld: het record wordt gedeeld binnen alle bedrijven.
 2. Een specifiek bedrijf toevoegen: het record is alleen zichtbaar voor gebruikers die zijn aangemeld bij dat specifieke bedrijf.
 
-.. image:: Media/012.png
+.. image:: Media/015.png
 
 Toegang werknemers
 ------------------
