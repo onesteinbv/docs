@@ -48,7 +48,7 @@ Om reset instructies voor het wachtwoord naar gebruikers te sturen, ga je naar *
 .. image:: Media/007.png
 
 Opmerking:
-De knop *Instructies voor het resetten van wachtwoorden verzenden* verschijnt alleen als de gebruiker de Odoo-uitnodigingse-mail al heeft bevestigd. 
+De knop *Instructies voor het resetten van wachtwoorden verzenden* verschijnt alleen als de gebruiker de Curq uitnodigingsemail al heeft bevestigd. 
 
 Deze e-mail bevat alle nodige instructies om het wachtwoord opnieuw in te stellen, evenals een link die de gebruiker doorverwijst naar een inlogpagina.
 
