@@ -60,7 +60,7 @@ Om transacties tussen bedrijven mogelijk te maken, moet je er eerst voor zorgen 
 5. Fiscale lokalisaties
 6. Prijslijsten
 
-Vervolgens dien je de optie *Intercompany transacties* te activeren onder **Instellingen**. Je krijgt de optie om transacties tussen bedrijven te synchroniseren op factuurniveau en verkoop- inkoopniveau.
+Vervolgens heb je de optie *Intercompany transacties* te activeren onder **Instellingen**. Je krijgt de mogelijkheid om transacties tussen bedrijven te synchroniseren op factuurniveau of op verkoop- inkoopniveau.
 
 .. image:: Media/014.png
 
