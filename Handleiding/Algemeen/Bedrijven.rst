@@ -34,6 +34,8 @@ Toegang werknemers
 
 Zodra bedrijven zijn aangemaakt, kun je de toegangsrechten van de medewerkers beheren voor meerdere bedrijven.
 
+.. image:: Media/008.png
+
 Wanneer een gebruiker meerdere bedrijven heeft geactiveerd in zijn database en hij bewerkt een record, wordt de bewerking toegepast op het gerelateerde bedrijf van het record. Bijvoorbeeld, als je een verkooporder bewerkt die is uitgegeven onder bedrijf A terwijl je werkt in de omgeving van bedrijf B, dan worden de wijzigingen toegepast onder bedrijf A (het bedrijf van waaruit de verkooporder is uitgegeven).
 
 Layout van documenten
