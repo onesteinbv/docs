@@ -45,4 +45,5 @@ Onder het tabblad "Members" kunnen de verschillende leden worden gezien die het 
     :maxdepth: 2
     :hidden:
 
+    projecten_taken
     Urenstaten_gebruiker
