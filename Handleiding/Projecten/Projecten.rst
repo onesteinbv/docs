@@ -47,3 +47,4 @@ Onder het tabblad "Members" kunnen de verschillende leden worden gezien die het 
 
     projecten_taken
     Urenstaten_gebruiker
+    urenstaten_goedkeuren
