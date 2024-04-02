@@ -71,7 +71,7 @@ Import-sjablonen worden geleverd in de importtool van de meest voorkomende gegev
 
 - Voeg, verwijder en sorteer kolommen om de gegevensstructuur het beste aan te passen.
 
-- Het wordt sterk aangeraden om de kolom Externe ID (ID) niet te verwijderen (zie waarom in de volgende sectie).
+- Het wordt sterk aangeraden om de kolom Externe ID (ID) niet te verwijderen.
 
 - Wijs aan elke record een unieke ID toe door de ID-sequentie naar beneden te slepen in de kolom Externe ID (ID).
 
