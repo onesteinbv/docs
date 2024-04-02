@@ -12,11 +12,11 @@ Bij het werken met een database is het soms nodig om gegevens in een apart besta
 
 Met Curq kunnen de gegevens worden geëxporteerd uit elk veld in elk record. Om dit te doen, activeer je de lijstweergave (☰ (drie horizontale lijnen) icoon) op de items die moeten worden geëxporteerd, en selecteert u vervolgens de records die moeten worden geëxporteerd. Om een record te selecteren, vinkt u het selectievakje aan naast het overeenkomstige record. Klik ten slotte op ⚙️ Actie en vervolgens op Export.
 
-media/001
+.. image:: Media/016.png
 
 Wanneer je op *Exporteer* klikt, verschijnt er een pop-upvenster *Gegevens exporteren* met verschillende opties voor de 'te exporteren' gegevens:
 
-media/002
+.. image:: Media/017.png
 
 1. Met optie **Ik wil gegevens bijwerken (exporteren die compatibel zijn met import)** aangevinkt, toont het systeem alleen de velden die kunnen worden geïmporteerd. Dit is handig in het geval dat de bestaande records moeten worden bijgewerkt. Dit werkt ook als een filter. Als het vak niet is aangevinkt, worden veel meer veldopties weergegeven omdat alle velden worden getoond, niet alleen degene die kunnen worden geïmporteerd.
 
@@ -43,7 +43,7 @@ Het importeren van gegevens in Curq is buitengewoon nuttig tijdens implementatie
 
 *Tip: Door de ontwikkelaarsmodus te activeren, worden de zichtbare importinstellingen in het linkermenu gewijzigd. Hierdoor wordt een geavanceerd menu onthuld. In dit geavanceerde menu bevinden zich twee opties: 'Volg geschiedenis tijdens importeren' en 'Matching met subvelden toestaan'.*
 
-media/003
+.. image:: Media/018.png
 
 De optie **Volg geschiedenis tijdens importeren** stuurt meldingen tijdens de import, maar leidt tot een langzamere import.  Bij de optie **Matching met subvelden toestaan** worden alle subvelden die binnen een veld vallen gebruikt om overeenkomsten te vinden onder het corresponderende Curq veld. Dit betekent dat als een veld meerdere subvelden heeft, al die subvelden worden gebruikt om de geïmporteerde gegevens te koppelen aan het juiste veld in Curq.
 
@@ -51,17 +51,17 @@ Aan de slag
 -----------
 Binnen elke module in Curq kunnen gegevens worden geïmporteerd met behulp van Excel (.xlsx) of CSV (.csv) bestanden. 
 
-media/004
+.. image:: Media/019.png
 
 Open de weergave van een module waarop de gegevens moeten worden geïmporteerd en klik op ⭐ Favorieten ‣ Records importeren.
 
 Na het klikken op *Records importeren*, verschijnt er een aparte pagina om bestanden te uploaden en waarbij er een sjabloon kan worden gedownload en voorzien is van de juiste kolommen. Dergelijke sjablonen kunnen met één klik worden geïmporteerd, omdat de gegevenskoppeling al is gedaan. Klik om een sjabloon te downloaden op *Importeer sjabloon voor Klanten* in het midden van de pagina (voorbeeld Contacten).
 
-media/004
+.. image:: Media/020.png
 
 *Belangrijk!  Bij het importeren van een CSV-bestand biedt Curq opmaakopties. Deze opties verschijnen niet bij het importeren van een Excel-bestandstype (.xls, .xlsx).*
 
-media/005
+.. image:: Media/021.png
 
 Maak de noodzakelijke aanpassingen aan de *opmaakopties* en zorg ervoor dat alle kolommen vrij zijn van fouten. Klik tenslotte op *Importeren* om de gegevens te importeren.
 
@@ -75,11 +75,11 @@ Import-sjablonen worden geleverd in de importtool van de meest voorkomende gegev
 
 - Wijs aan elke record een unieke ID toe door de ID-sequentie naar beneden te slepen in de kolom Externe ID (ID).
 
-media/006
+.. image:: Media/022.png
 
 Wanneer er een nieuwe kolom wordt toegevoegd, kan Curq deze mogelijk niet automatisch toewijzen als de label niet overeenkomt met een veld binnen Curq.  Echter, nieuwe kolommen kunnen handmatig worden toegewezen tijdens het testen van de import. Zoek in het vervolgmenu naar het overeenkomstige veld.
 
-media/007
+.. image:: Media/023.png
 
 Gebruik vervolgens de label van dit veld in het importbestand om ervoor te zorgen dat toekomstige imports succesvol zijn.
 
