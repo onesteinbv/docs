@@ -81,7 +81,7 @@ Wanneer er een nieuwe kolom wordt toegevoegd, kan Curq deze mogelijk niet automa
 
 .. image:: Media/021.png
 
-Gebruik vervolgens de label van dit veld in het importbestand om ervoor te zorgen dat toekomstige imports succesvol zijn.
+Gebruik vervolgens de label van dit veld in het importbestand om ervoor te zorgen dat toekomstige imports succesvol worden uitgevoerd. 
 
 *Tip: Een andere handige manier om de juiste kolomnamen voor import te vinden, is door een voorbeeldbestand te exporteren met de velden die moeten worden geïmporteerd. Op deze manier, als er geen voorbeeld-importsjabloon is, zijn de namen nauwkeurig.*
 
