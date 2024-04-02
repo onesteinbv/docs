@@ -13,3 +13,10 @@ In veel bedrijven is het gebruikelijk dat medewerkers wekelijks hun urenregistra
 
 Zodra de weekstaat volledig is ingevuld, kan de medewerker deze ter goedkeuring aanbieden aan de manager. De manager kan alle te accorderen weekstaten vinden onder 'Urenstaten' > 'Beoordeling' > 'Urenstaatformulieren'.
 
+Op het tabblad 'Details' kan de manager alle details van de uren bekijken, inclusief een overzicht van alle geschreven uren.
+
+.. image:: Media/projecten_uren_goedkeuren002.png
+
+Een volledig overzicht van alle geschreven uren is te vinden onder 'Urenstaten' > 'Urenstaten' > 'Alle urenstaten'. Bovendien zijn uren ook beschikbaar in rapportages als draaitabelrapporten, waardoor het management analyses kan uitvoeren.
+
+.. image:: Media/projecten_uren_goedkeuren003.png
