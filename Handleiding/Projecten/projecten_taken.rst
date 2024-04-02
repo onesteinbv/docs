@@ -1,39 +1,36 @@
-Project taken
+Project taken 
 ====================================================================
 
-De Urenstaat module biedt een gestroomlijnde oplossing voor het invoeren en volgen van de gewerkte uren door werknemers. De ingevoerde uren kunnen nauwkeurig worden gekoppeld aan specifieke taken en projecten, waardoor een transparante en efficiënte registratie ontstaat. Bovendien kunnen de ingevoerde uren direct worden gebruikt voor het genereren van facturen.
+Curq biedt de mogelijkheid om het beheren van projecten en taken via kanban omvat het organiseren van taken in verschillende stadia van voltooiing op een visueel kanbanbord. Eerst identificeer je de projecten die moeten worden beheerd en breek je ze op in specifieke taken. Vervolgens organiseer je deze taken op het kanbanbord, waarbij je kolommen gebruikt om de verschillende fasen van het project weer te geven, zoals "Te doen", "In uitvoering" en "Voltooid". Teamleden worden toegewezen aan taken en de voortgang wordt regelmatig bijgehouden door taken over de kolommen te verplaatsen naarmate ze vorderen.
 
-Mijn Urenstaten
+Door dit gestructureerde aanpak te volgen, kunnen teams efficiënter werken, deadlines halen en projectdoelen bereiken. Het biedt een duidelijk overzicht van de voortgang van elk project, waardoor eventuele knelpunten of achterstanden snel kunnen worden geïdentificeerd en aangepakt. Bovendien bevordert het gebruik van taken en kanbanborden een cultuur van transparantie en verantwoording binnen het team, wat essentieel is voor succesvol projectbeheer op lange termijn.
+
+Taken management
 --------------------------------------------------------------------
 
-Binnen het "Mijn Urenstaten" formulier hebben gebruikers de mogelijkheid om de gemaakte uren nauwkeurig in te voeren. De procedure begint met het selecteren van de "+Nieuw" knop. In dit formulier wordt de periode waarin de uren zijn gemaakt gespecificeerd, met een aanbeveling om dit wekelijks in te vullen. In het geval van werken binnen een multi-company omgeving, wordt geadviseerd het relevante bedrijf te selecteren. Het gedeelte onder "Details" biedt de mogelijkheid om uren per taak in te vullen. Gebruikers kunnen "Add a Line" selecteren en alle benodigde informatie invullen.
+Zodra een project is aangemaakt, begint het proces met het definiëren van de fasen, wat direct na het maken van het project kan plaatsvinden.
 
-.. image:: Media/Urenstaten_gebruiker001.png
+.. image:: Media/projecten_taken001.png
 
-* De datum waarop de uren zijn gemaakt.
-* Het project waaraan de taak is gekoppeld; alleen de projecten waarvoor de gebruiker is opgegeven, worden weergegeven voor selectie.
-* Selecteer de specifieke taak waaraan de uren zijn besteed.
-* Verstrek een korte beschrijving van de gemaakte uren.
-* Voer het aantal gemaakte uren in. Afhankelijk van de instellingen kan de eenheid variëren, bijvoorbeeld per kwartier, vijf minuten, enzovoort.
+Geef de fase een naam en klik op [TOEVOEGEN]. Als voorbeeld hebben we 3 fasen toegevoegd: "Te doen", "In uitvoering" en "Voltooid". Na het aanmaken ziet het er als volgt uit.
 
-Onder het tabblad "Opsomming" worden alle ingevoerde uren overzichtelijk weergegeven in een spreadsheet, waardoor snel kan worden gecontroleerd of het juiste aantal uren is opgegeven.
+.. image:: Media/projecten_taken002.png
 
-Ook onder de individuele taken kunnen de uren worden ingevoerd. Navigeer naar "Projecten", selecteer het relevante project en vervolgens de taak. Onderaan het scherm verschijnt het "Urenstaat" tabblad, waar gebruikers de uren kunnen invoeren voor de werknemers die aan de taak hebben gewerkt. Daarnaast kan worden aangegeven hoeveel uren maximaal aan de taak besteed mogen worden.
+Door op het [+] icoontje te klikken, maak je direct een taak aan in de betreffende fase.
 
-.. image:: Media/Urenstaten_gebruiker002.png
+.. image:: Media/projecten_taken003.png
 
-Om een gedetailleerd overzicht van alle ingevoerde uren te verkrijgen, navigeert u binnen de Urenstaten module naar "Urenstaten > Mijn Urenstaten". Op deze pagina kunnen de uren op diverse manieren worden weergegeven:
-1. **Lijst**: Hier worden alle uren per dag en taak overzichtelijk genoteerd.
-2. **Kanban**: Alle uren per dag en taak worden naast elkaar in kanban blokken weergegeven, waardoor eenvoudige groepering mogelijk is.
-3. **Pivot**: De uren worden in een spreadsheet weergegeven en kunnen op verschillende manieren worden gegroepeerd, bijvoorbeeld per week en dag verticaal en per project verticaal.
+Geef de taak een titel en wijs deze toe aan de juiste persoon. Je kunt de taak vervolgens verder specificeren door deze te bewerken. Als je eerst alle taken wilt aanmaken, klik dan op "Toevoegen".
 
-.. image:: Media/Urenstaten_gebruiker003.png
+.. image:: Media/projecten_taken004.png
 
-4. **Diagram**: Uren kunnen worden weergegeven in diagrammen, waardoor informatie snel gecategoriseerd kan worden om diverse gegevens zichtbaar te maken.
+Je kunt een taak verder uitbreiden door extra informatie toe te voegen, deze te koppelen aan een klant, deadlines in te stellen en labels toe te voegen. Ook is het mogelijk om je uren bij te houden om de voortgang te bewaken. Voor elke taak kun je ook de geplande uren bijhouden, zodat je precies weet hoeveel uren er nog beschikbaar zijn.
 
-Deze diverse weergavemogelijkheden bieden een snelle en duidelijke analyse van de ingevoerde gegevens en zorgen ervoor dat alles compleet en correct is ingevuld. Bovendien kan via de zoekbalk en de groepeer- en filteropties specifieker naar informatie worden gezocht.
+Je kunt taken beheren door ze in de juiste fase te plaatsen, wat direct vanuit een taak kan worden gedaan.
 
-Beoordeling
---------------------------------------------------------------------
+.. image:: Media/projecten_taken005.png
 
-Na het invoeren van de uren is een essentiële stap de goedkeuring. Onder het tabblad "Beoordeling" kan worden gecontroleerd of de ingevoerde uren zijn goedgekeurd door de manager. Indien dit niet het geval is, biedt het scherm van de specifieke urenstaat inzicht in waarom de uren niet zijn goedgekeurd, waarna aanpassingen kunnen worden doorgevoerd.
+In het Kanban-projectoverzicht kun je ook vrij eenvoudig de taak slepen naar een andere fase.
+
+.. image:: Media/projecten_taken006.png
+
