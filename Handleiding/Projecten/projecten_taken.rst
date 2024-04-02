@@ -1,4 +1,4 @@
-Urenstaten
+Project taken
 ====================================================================
 
 De Urenstaat module biedt een gestroomlijnde oplossing voor het invoeren en volgen van de gewerkte uren door werknemers. De ingevoerde uren kunnen nauwkeurig worden gekoppeld aan specifieke taken en projecten, waardoor een transparante en efficiënte registratie ontstaat. Bovendien kunnen de ingevoerde uren direct worden gebruikt voor het genereren van facturen.
