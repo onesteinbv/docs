@@ -6,7 +6,7 @@ Wegzetregels zijn essentieel voor het correct opslaan van voorraden binnen een b
 
 Om toegang te krijgen tot deze functie, ga je naar *Configuratie → Wegzetregels*.
 In dit venster zie je een lijst met wegzetregels die eventueel zijn aangemaakt. 
-*Belangrijk: Wegzetregels kunnen worden gedefinieerd per **product/productcategorie** en/of **verpakkingssoort** (de instelling 'Verpakkingen' moet ingeschakeld zijn in de Voorraad app.*
+*Belangrijk: Wegzetregels kunnen worden gedefinieerd per 'product/productcategorie' en/of 'verpakkingssoort' (de instelling 'Verpakkingen' moet ingeschakeld zijn in de Voorraad app.*
 
 Bij het aanmaken kun je de volgende velden vullen:
 
