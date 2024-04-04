@@ -2,7 +2,7 @@
 Curq
 =========================================================================
 
-CURQ is een all incusive en voledig open source ERP systeem. Wij bieden u vrijheid, privacy en flexibilitijd met onze gebruiksvriendelijke oplossing. Verbeter uw bedrijfs processen en behoud controle over al uw data.
+CURQ is een all inclusive en volledig open source ERP systeem. Wij bieden u vrijheid, privacy en flexibiliteit met onze gebruiksvriendelijke oplossing. Verbeter uw bedrijfsprocessen en behoud controle over al uw data.
 
 .. image:: Handleiding/Intro_Media/CURQ_homepage.png
 .. :target: https://curq.nl/
