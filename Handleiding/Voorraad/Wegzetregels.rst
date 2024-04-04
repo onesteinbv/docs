@@ -6,7 +6,7 @@ Wegzetregels zijn essentieel voor het correct opslaan van voorraden binnen een b
 
 Om toegang te krijgen tot deze functie, ga je naar *Configuratie → Wegzetregels*.
 In dit venster zie je een lijst met wegzetregels die eventueel zijn aangemaakt. 
-*Belangrijk: Wegzetregels kunnen worden gedefinieerd per 'product/productcategorie' en/of 'verpakkingssoort' (de instelling 'Verpakkingen' moet ingeschakeld zijn in de Voorraad app.*
+*Belangrijk: Wegzetregels kunnen worden gedefinieerd per 'product/productcategorie' en/of 'verpakkingssoort' (de instelling 'Verpakkingen' moet ingeschakeld zijn in de Voorraad app).*
 
 Bij het aanmaken kun je de volgende velden vullen:
 
@@ -66,7 +66,7 @@ Voor product Volla Phone 22 zijn de volgende wegzetregels geconfigureerd:
 
 Opslag Categorieën
 ------------------
-De functie *Opslag Categorieën* biedt de meest efficiënte manier om opslaglocaties te beheren in de voorraadmodule, wat de soepele werking van *Wegzetregels* bevordert. De werking van *Wegzetregels* zal verder worden toegelicht in de volgende sectie.
+De functie *Opslag Categorieën* biedt de meest efficiënte manier om opslaglocaties te beheren in de voorraadmodule, wat de soepele werking van *Wegzetregels* bevordert. 
 
 Om deze functie te activeren, ga je naar het menu **Instellingen** en vink je de optie *Opslag Categorieën* aan onder *Magazijn*.
 
