@@ -83,3 +83,41 @@ Klik op de knop *Nieuw* om een nieuwe opslagcategorie toe te voegen. Geef het ni
 Onder *Capaciteit per verpakking* kun je attributen zoals het type verpakking en de hoeveelheid definiëren.
 
 Onder *Capaciteit per product* kun je een product, de hoeveelheid en de maatteenheid specificeren.
+
+Voorbeeld:
+----------
+
+We maken een wegzetregel aan voor items die op pallets worden opgeslagen met een real-time opslagcapaciteitscontrole en de naam van de opslagcategorie in te stellen als "Hoogfrequente pallets". 
+Selecteer *Als alle producten hetzelfde zijn* in het veld *Nieuw product toestaan*.
+
+Tevens stellen we de verpakkingscapaciteit in het tabblad *Capaciteit per verpakking*, waarbij het aantal verpakkingen voor het aangewezen verpakkingstype wordt gespecificeerd en een maximum van 2 pallets wordt ingesteld voor een specifieke locatie.
+
+.. image:: Product-Configuratie-Media/image101.png
+
+Nadat de instellingen voor de opslagcategorie zijn opgeslagen, kan de opslagcategorie worden gekoppeld aan een locatie.
+Ga hiervoor naar de locatie (Configuratie -> Locaties), en selecteer de specifieke locatie. Klik op Bewerken en selecteer de aangemaakte categorie in het veld Opslagcategorie.
+
+.. image:: Product-Configuratie-Media/image102.png
+
+Opslagcategorieën in wegzetregels
+---------------------------------
+
+Om door te gaan met het voorbeeld hierboven, passen we de opslagcategorie "Hoogfrequente Pallets" toe op de locaties PAL1 en PAL2. 
+Stel dat er één pallet met Volla Phones 22 wordt ontvangen:
+
+- Als PAL1 en PAL2 leeg zijn, wordt de pallet omgeleid naar WH/Stock/Pallets/PAL1.
+
+- Als PAL1 vol is, wordt de pallet omgeleid naar WH/Stock/Pallets/PAL2.
+
+- Als PAL1 en PAL2 vol zijn, wordt de pallet omgeleid naar WH/Stock/Pallets.
+
+.. image:: Product-Configuratie-Media/image103.png
+
+
+
+
+
+
+
+
+
