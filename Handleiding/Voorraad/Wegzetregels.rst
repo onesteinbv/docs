@@ -26,7 +26,31 @@ Bij het aanmaken kun je de volgende velden vullen:
 Het systeem verplaatst het product naar de locatie die is aangegeven in *Opslaan naar sublocatie* zodra het de locatie bereikt die is opgegeven in het veld *Wanneer product aankomt in*.
 Zie onderstaand voorbeeld:
 
+In een magazijnlocatie, WH/Stock, zijn er de volgende sublocaties:
 
+WH/Stock/Smartphones
+
+WH/Stock/Laptops
+
+Als beide artikelen binnenkomen op WH/Stock, dan worden deze automatisch opgeslagen op de sublocatie.
+Je kunt dit dus per product doen, maar ook per productcategorie. 
+
+.. image:: Product-Configuratie-Media/image99.png
+
+Prioriteit van wegzetregels
+---------------------------
+Curq selecteert een wegzetregel op basis van de volgende prioriteitenlijst (van hoog naar laag) totdat een overeenkomst is gevonden:
+
+1. Verpakkingstype en product
+2. Verpakkingstype en productcategorie
+3. Verpakkingstype
+4. Product
+5. Productcategorie
+
+Voorbeeld:
+----------
+
+.. image:: Product-Configuratie-Media/image100.png
 
 Opslag Categorieën
 ------------------
