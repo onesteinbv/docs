@@ -50,6 +50,18 @@ Curq selecteert een wegzetregel op basis van de volgende prioriteitenlijst (van 
 Voorbeeld:
 ----------
 
+Voor product Volla Phone 22 zijn de volgende wegzetregels geconfigureerd: 
+
+1. Bij ontvangst van een Pallet (Verpakkingstype) met Volla Phone 22 smartphones wordt deze omgeleid naar WH/Stock/Pallets/PAL1.
+
+2. De Productcategorie van Volla Phone 22 is *All/Smartphones*, en bij ontvangst van een Box met een willekeurige smartphones uit deze productcategorie, worden de items omgeleid naar WH/Stock/Stelling A1.
+
+3. Elk product op een Pallet wordt omgeleid naar WH/Stock/Pallets.
+
+4. Een los product *Volla Phone 22* wordt omgeleid naar WH/Stock/Stelling B1.
+
+5. Items in de productcategorie All/Smartphones worden omgeleid naar WH/Stock/Stelling A2. 
+
 .. image:: Product-Configuratie-Media/image100.png
 
 Opslag Categorieën
