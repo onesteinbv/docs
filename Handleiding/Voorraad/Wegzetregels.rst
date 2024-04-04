@@ -5,8 +5,9 @@ Wegzetregels
 Wegzetregels zijn essentieel voor het correct opslaan van voorraden binnen een bedrijf. Door gebruik te maken van Wegzetregels kun je producten 'automatisch' verplaatsen van ontvangstlocaties naar de meest geschikte plaatsen in het magazijn zelf.
 
 Om toegang te krijgen tot deze functie, ga je naar *Configuratie → Wegzetregels*.
-
 In dit venster zie je een lijst met wegzetregels die eventueel zijn aangemaakt. 
+*Belangrijk: Wegzetregels kunnen worden gedefinieerd per **product/productcategorie** en/of **verpakkingssoort** (de instelling 'Verpakkingen' moet ingeschakeld zijn in de Voorraad app.*
+
 Bij het aanmaken kun je de volgende velden vullen:
 
 - Wanneer een product aankomt in
@@ -23,6 +24,9 @@ Bij het aanmaken kun je de volgende velden vullen:
 .. image:: Product-Configuratie-Media/image86.png
 
 Het systeem verplaatst het product naar de locatie die is aangegeven in *Opslaan naar sublocatie* zodra het de locatie bereikt die is opgegeven in het veld *Wanneer product aankomt in*.
+Zie onderstaand voorbeeld:
+
+
 
 Opslag Categorieën
 ------------------
