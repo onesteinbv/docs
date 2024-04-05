@@ -81,6 +81,8 @@ Om sommige eenheden van producten te onderscheiden van andere, moeten de eenhede
 
 Image110
 
+Image111
+
 *Note: Om de FEFO (First Expired, First Out) verwijderingsstrategie te gebruiken, moet ook de instelling voor Vervaldatums worden geactiveerd. Ga hiervoor naar de Voorraad-app ‣ Configuratie ‣ Instellingen, scrol omlaag naar de sectie Traceerbaarheid en klik op het selectievakje naast Vervaldatums. Vergeet niet op Opslaan te klikken om alle wijzigingen op te slaan.*
 
 Nu kunnen specifieke verwijderingsstrategieën worden gedefinieerd voor productcategorieën. Ga hiervoor naar de Voorraad-app ‣ Configuratie ‣ Productcategorieën, en kies een productcategorie om de verwijderingsstrategie te definiëren. In het veld 'Force Removal Strategy' (Forceer verwijderingsstrategie), kies een verwijderingsstrategie.
@@ -104,7 +106,7 @@ Lot/Serienummers
 ----------------
 Om alle producten te bekijken waarbij lot- of serienummers aan hen zijn toegewezen, navigeer je naar de Voorraad-app ‣ Producten ‣ Lots/Serienummers. Hiermee wordt een pagina geopend met vervolgkeuzemenu's van alle producten met toegewezen lot- of serienummers, standaard gefilterd op product. Om de categorie te wijzigen waarop deze producten zijn gefilterd, klik je op Product (in de zoekbalk, rechtsboven op de pagina) om het standaardfilter te verwijderen, en selecteer je indien gewenst een nieuw filter.
 
-Image111
+Image112
 
 Om de serienummers te bekijken die worden geselecteerd voor een verkooporder, ga naar de Verkoop-app en selecteer de betreffende verkooporder. Klik in de verkooporder op de knop Aflevering in de rechterbovenhoek. In het tabblad Handelingen klik je op het ⦙≣ (Gedetailleerde Handelingen) icoon helemaal rechts voor het desbetreffende product. Het venster Gedetailleerde Handelingen verschijnt en toont de lot- of serienummers die zijn geselecteerd voor dat specifieke product voor de afleveringsorder.
 
