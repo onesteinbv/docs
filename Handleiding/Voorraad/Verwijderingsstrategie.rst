@@ -4,8 +4,6 @@ Verwijderingsstrategieën (FIFO, LIFO, FEFO)
 
 Voor bedrijven met magazijnen bepalen verwijderingsstrategieën welke producten uit het magazijn worden genomen en wanneer. Verwijderingsstrategieën worden meestal gedefinieerd voor specifieke pickoperaties. Dit helpt bedrijven bij het selecteren van de beste producten, optimaliseren van de afstand die werknemers moeten afleggen bij het verzamelen van items voor bestellingen, en rekening houden met kwaliteitscontrole, zoals het verplaatsen van producten met vervaldatums.
 
-Gewoonlijk worden verwijderingsstrategieën gedefinieerd in pickoperaties om de beste producten te selecteren om de afstand voor de werknemer te optimaliseren, voor kwaliteitscontrole doeleinden, of om eerst de producten met de dichtstbijzijnde vervaldatum te verplaatsen.
-
 Wanneer een product moet worden verplaatst, vindt Curq beschikbare producten die aan de transfer kunnen worden toegewezen. De manier waarop Curq deze producten toewijst, is afhankelijk van de verwijderingsstrategie die is gedefinieerd in ofwel de **Productcategorie** of de **Locatie**. 
 
 Om de verwijderingsstrategie te wijzigen, ga naar Configuratie -> Locaties of Productcategorieën. Klik op een Locatie of Productcategorie en klik vervolgens op Bewerken. Wijzig de verplichte verwijderingsstrategie van de productcategorie of de verwijderingsstrategie van de locatie door op het vervolgkeuzemenu te klikken en de gewenste verwijderingsstrategie te selecteren. Nadat de nieuwe verwijderingsstrategie is geselecteerd, klik op Opslaan.
