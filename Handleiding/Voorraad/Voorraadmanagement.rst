@@ -44,6 +44,57 @@ De voorraadwaardering kan worden ingesteld als **Handmatig** en **Geautomatiseer
 
 Nadat de configuratie van de nieuwe productcategorie is voltooid, krijg je toegang tot de slimme knop *Producten* om de producten onder deze categorie te bekijken. 
 
+-----------------------------
+Traceerbaarheid van producten
+-----------------------------
+
+In Curq is het mogelijk om partijen en serienummers te gebruiken om producten te traceren. Deze traceerbaarheid functies verschillen in hun functie. 
+
+Over het algemeen dienen partijen als unieke identificatienummers om een groep producten van hetzelfde type te onderscheiden. Producten die klein en lastig individueel te tellen zijn, kunnen worden samengevoegd in een enkele verpakking met een partijnummer. Deze producten worden als batches in de inventaris opgenomen. 
+
+Serienummers daarentegen worden gebruikt voor individuele producten in de voorraad en fungeren als identificatienummers voor afzonderlijke producten.
+
+Om de volledige functionaliteit van traceerbaarheid in de Voorraad module te activeren, ga je naar het menu Instellingen. Daar vind je onder het tabblad *Traceerbaarheid* de optie om Partijen & serienummers te activeren.
+
+.. image:: Product-Configuratie-Media/image27.png
+
+Nadat deze functie is geactiveerd, vind je een extra submenu *Partij/serienummers* onder het menu *Producten* van de Voorraadmodule. 
+
+.. image:: Product-Configuratie-Media/image28.png
+
+Bij het openen zie je vooraf de geconfigureerde lijst met partij- en serienummers. In de lijstweergave worden details weergegeven zoals het partij/serienummer, het interne referentienummer, het product en de aanmaakdatum. 
+
+Om de traceerbaarheid van een product te bepalen, navigeer je naar het tabblad **Voorraad** in de weergave van het product formulier.
+
+.. image:: Product-Configuratie-Media/image29.png
+
+
+Je kunt de traceerbaarheid instellen op basis van unieke serienummers of partijen. Als je geen traceerbaarheid voor het product wilt instellen, kun je de optie *Geen tracering* selecteren.
+
+Wanneer je een nieuw product ontvangt in de voorraad, kun je een nieuw lot/serienummer toewijzen aan dat product. Dit kan worden gedaan voor een bevestigde inkooporder.
+
+.. image:: Product-Configuratie-Media/image30.png
+
+Om een nieuw lot/serienummer aan een product toe te kennen, kun je klikken op de knop *Detail* op de inkooporder.
+
+.. image:: Product-Configuratie-Media/image31.png
+
+In de pop-upvenster kan het lot/serienummer voor dit product worden toegevoegd. Er is een mogelijkheid om serienummers automatisch toe te wijzen, of deze handmatig in te stellen (regel toevoegen).
+
+.. image:: Product-Configuratie-Media/image32.png
+
+
+Op het productblad is er een smartbutton *Partijen/serienummers* beschikbaar waarbij je de voorraad op serienummer kan bekijken.
+
+.. image:: Product-Configuratie-Media/image33.png
+
+.. image:: Product-Configuratie-Media/image34.png
+
+
+
+
+
+
 
 
 
