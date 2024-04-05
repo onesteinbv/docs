@@ -80,17 +80,18 @@ nadat de pakbon volledig of gedeeltelijk is afgehandeld.
 
 Staat standaard op stuks. Meerdere categorieën zijn beschikbaar zoals
 lengte, volume, werktijd, enz.
+De maateenheid van een product kan anders zijn dan de inkoopmaateenheid. Voorbeeld: ik kan een kabel verkopen van 50cm en deze inkopen per 10m.
 
 **Verkoopprijs & Verkoop BTW:**
 
 De verkoopprijs wordt excl. BTW ingevuld, de BTW label heeft standaard
-keuzes uit 0%, 9%, 21% en export BTW.
+keuzes uit 0%, 9%, 21% en export BTW (onderverdeeld in goederen en diensten).
 
 **Kostprijs:**
 
 Dit veld wordt gebruikt om de voorraad te waarderen en om marges op
 verkooporders te berekenen. De voorraadwaardering stel je in op
-productcategorie.
+productcategorie. Bij gemiddelde kostprijs en FIFO wordt de kostprijs automatisch berekend.
 
 .. image:: Product-Configuratie-Media/image4.png
    :width: 6.05764in
@@ -220,9 +221,9 @@ meerdere 'standaard' velden zichtbaar te maken (zie onder).
    :width: 2.71319in
    :height: 1.98681in
 
-Met **'Inkoop BTW'** kun je de standaard belastingtarieven instellen die
+Met **Inkoop BTW** kun je de standaard belastingtarieven instellen die
 van toepassing zijn bij de aankoop van het product. Onder
-**'Controlebeleid'** kun je kiezen of je facturering wilt baseren op de
+**Controlebeleid** kun je kiezen of je de inkoopfactuur wilt baseren op de
 bestelde hoeveelheden of de ontvangen hoeveelheden. Daarnaast kun je
 notities toevoegen aan inkooporders met behulp van de **'Inkoop
 Beschrijving'.** Deze functies helpen bij het beheren van
