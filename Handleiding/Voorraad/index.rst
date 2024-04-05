@@ -12,4 +12,6 @@ Voorraad
     Verzendwijzen
     Magazijnen & locaties
     Routes met meerdere stappen
+    Wegzetregels
+    Verwijderingsstrategie
     Afkeurorders
