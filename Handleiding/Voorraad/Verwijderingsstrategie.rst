@@ -72,6 +72,65 @@ Partij 20001 kwam op 1 juli in voorraad en verloopt op 15 juli, partij 20002 kwa
 
 Met gebruik van de FEFO-methode wordt een overdracht aangevraagd voor de vijf dozen uit partij 20002 en één uit partij 20001. Alle dozen in partij 20002 worden overgebracht omdat ze de vroegste vervaldatum hebben. De overdracht vraagt ook één doos uit partij 20001 omdat deze de eerstvolgende vervaldatum heeft na partij 20002.
 
+Image109
+
+Gebruik van verwijderingsstrategieën
+------------------------------------
+
+Om sommige eenheden van producten te onderscheiden van andere, moeten de eenheden worden bijgehouden, hetzij per lotnummer of serienummer. Ga hiervoor naar Voorraad ‣ Configuratie ‣ Instellingen. Activeer vervolgens de instellingen voor Opslaglocaties, Meerstapsroutes en Lotnummers & Serienummers. Klik op Opslaan. 
+
+Image110
+
+*Note: Om de FEFO (First Expired, First Out) verwijderingsstrategie te gebruiken, moet ook de instelling voor Vervaldatums worden geactiveerd. Ga hiervoor naar de Voorraad-app ‣ Configuratie ‣ Instellingen, scrol omlaag naar de sectie Traceerbaarheid en klik op het selectievakje naast Vervaldatums. Vergeet niet op Opslaan te klikken om alle wijzigingen op te slaan.*
+
+Nu kunnen specifieke verwijderingsstrategieën worden gedefinieerd voor productcategorieën. Ga hiervoor naar de Voorraad-app ‣ Configuratie ‣ Productcategorieën, en kies een productcategorie om de verwijderingsstrategie te definiëren. In het veld 'Force Removal Strategy' (Forceer verwijderingsstrategie), kies een verwijderingsstrategie.
+
+De First Expired, First Out (FEFO) strategie verschilt een beetje van de andere twee verwijderingsstrategieën. Voor FEFO is de vervaldatum belangrijk, niet de datum waarop het product in de voorraad is gekomen.
+
+Bijvoorbeeld, stel je voor dat er drie partijen zijn van zes-eierdozen (in dit specifieke geval, vergeet niet om eenheden van maat te gebruiken). Die drie partijen hebben de volgende nummers: 20001, 20002 en 20003, elk met vijf dozen erin.
+
+20001 kwam op 1 juli in de voorraad en vervalt op 15 juli, 20002 kwam op 2 juli binnen en vervalt op 14 juli, en 20003 kwam op 4 juli binnen en vervalt op 21 juli. Een klant bestelt op 5 juli zes dozen. Met de FEFO-strategie geselecteerd, wordt er een overdracht aangevraagd voor de vijf dozen van 20002 en één van 20001. De overdracht voor alle dozen in partij 20002 is omdat ze de dichtstbijzijnde vervaldatum hebben. De overdracht vraagt ook één doos van 20001 aan omdat deze de volgende dichtstbijzijnde vervaldatum heeft na partij 20002.
+
+Kort gezegd, voor elke verkooporder van een product met de FEFO-strategie wordt een overdracht aangevraagd voor het product met de dichtstbijzijnde vervaldatum vanaf de besteldatum.
+
+Dichtstbijzijnde locatie
+------------------------
+
+De Dichtstbijzijnde Locatie strategie verschilt volledig van de andere verwijderingsstrategieën. Het heeft geen betrekking op de datum van binnenkomst in het magazijn, maar eerder op de locatie van het product. Het wordt vaak gebruikt voor producten die niet verslechteren met de tijd.
+
+Het doel is om te voorkomen dat de magazijnmedewerker een lange reis moet maken naar de onderkant van de voorraad wanneer het product zich ook op een nabije locatie bevindt. Deze methode is alleen beschikbaar als de instelling voor Opslaglocaties is ingeschakeld. De dichtstbijzijnde locatie is eigenlijk degene die als eerste komt in alfabetische volgorde.
+
+Lot/Serienummers
+----------------
+Om alle producten te bekijken waarbij lot- of serienummers aan hen zijn toegewezen, navigeer je naar de Voorraad-app ‣ Producten ‣ Lots/Serienummers. Hiermee wordt een pagina geopend met vervolgkeuzemenu's van alle producten met toegewezen lot- of serienummers, standaard gefilterd op product. Om de categorie te wijzigen waarop deze producten zijn gefilterd, klik je op Product (in de zoekbalk, rechtsboven op de pagina) om het standaardfilter te verwijderen, en selecteer je indien gewenst een nieuw filter.
+
+Image111
+
+Om de serienummers te bekijken die worden geselecteerd voor een verkooporder, ga naar de Verkoop-app en selecteer de betreffende verkooporder. Klik in de verkooporder op de knop Aflevering in de rechterbovenhoek. In het tabblad Handelingen klik je op het ⦙≣ (Gedetailleerde Handelingen) icoon helemaal rechts voor het desbetreffende product. Het venster Gedetailleerde Handelingen verschijnt en toont de lot- of serienummers die zijn geselecteerd voor dat specifieke product voor de afleveringsorder.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
