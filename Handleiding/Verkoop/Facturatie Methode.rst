@@ -18,7 +18,7 @@ Om de benodigde functies voor factureringsbeleid te activeren, ga je naar **Verk
 
 .. image:: Verkoop-Media/049.png
 
-Note: Als de regel *Geleverde hoeveelheden* wordt gekozen, is het niet mogelijk om de functie voor *Automatische Facturering* te activeren, die automatisch facturen genereert wanneer een online betaling is bevestigd.
+Note: Als de regel *Factureer wat is geleverd* wordt gekozen, is het niet mogelijk om de functie voor *Automatische Facturering* te activeren, die automatisch facturen genereert wanneer een online betaling is bevestigd.
 
 Factureringsbeleid op productformulier
 --------------------------------------
