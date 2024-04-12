@@ -9,7 +9,7 @@ Verschillende bedrijfsbeleidsregels kunnen verschillende opties voor facturering
 
 - De regel *Bestelde Hoeveelheden* wordt gebruikt als de standaardmodus in Curq Verkoop, wat betekent dat klanten worden gefactureerd zodra de verkooporder is bevestigd.
 
-- De regel *Geleverde hoeveelheden* factureert klanten zodra de levering is voltooid. Deze regel wordt vaak gebruikt voor bedrijven die voorraadhoudende artikleen verkopen. In deze gevallen kan de bestelde hoeveelheid verschillen van de geleverde hoeveelheid, waardoor het de voorkeur heeft om de daadwerkelijk geleverde hoeveelheid te factureren.
+- De regel *Geleverde hoeveelheden* factureert klanten zodra de levering is voltooid. Deze regel wordt vaak gebruikt voor bedrijven die voorraadhoudende artikelen verkopen. In deze gevallen kan de bestelde hoeveelheid verschillen van de geleverde hoeveelheid, waardoor het de voorkeur heeft om de daadwerkelijk geleverde hoeveelheid te factureren.
 
 Kenmerken van factureringsbeleid
 --------------------------------
