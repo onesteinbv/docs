@@ -36,7 +36,7 @@ Hieronder volgt een uiteenzetting van hoe factureringsbeleidsregels van invloed 
 
 - Factureren wat is besteld: Geen impact op het basisverkoopproces. Een factuur wordt aangemaakt zodra een verkoop is bevestigd.
 
-- Factureren wat is geleverd: Geringe impact op het verkoopproces, omdat eerst de hoeveelheid geleverd moet worden voordat er een factuur kan worden aangemaakt. Wanneer dit niet gebeurd verschijnt er een foutmelding. 
+- Factureren wat is geleverd: Geringe impact op het verkoopproces, omdat eerst de hoeveelheid geleverd moet worden voordat er een factuur kan worden gemaakt. Wanneer dit niet gebeurd verschijnt er een foutmelding. 
 
 .. image:: Verkoop-Media/051.png
 
