@@ -3,7 +3,7 @@ Website
 
 Binnen de Curq-omgeving is het moeiteloos om een volledige en professionele website te creëren met behulp van thema's en de intuïtieve bouwer die pagina's opbouwt met bouwblokken. Met de website-applicatie kun je niet alleen je eigen webshop opzetten, maar ook blogs starten en bijhouden, vacatures plaatsen, evenementen adverteren, en nog veel meer.
 
-.. image:: Media/Website_introductie001.png
+.. image:: media/Website_intro001.png
 
 Bovendien biedt Curq naadloze integratie met populaire tools zoals OpenStreet Maps, waardoor je locatiegerichte functies kunt toevoegen aan je website, zoals kaarten, routebeschrijvingen en locatiepinnen. Daarnaast heb je toegang tot de uitgebreide Font Awesome-bibliotheek, waarmee je je website kunt verrijken met een breed scala aan prachtige lettertypen voor een unieke visuele uitstraling.
 
