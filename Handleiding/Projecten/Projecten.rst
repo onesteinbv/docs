@@ -15,7 +15,11 @@ Wanneer een project is aangemaakt, verschijnt het op de projectpagina, dit is te
 
 .. image:: Media/Projecten002.png
 
-Wanneer de stadia zijn aangemaakt, kunnen er taken worden aangemaakt door op de +Nieuw knop te drukken. Hier kan een naam aan de taak worden gegeven. Wanneer de taak is aangemaakt kan deze worden aangepast door bijvoorbeeld de verantwoordelijke te selecteren, een deadline te geven en uren in te vullen. Voor meer informatie ga naar onze taken documentatie.
+Wanneer de stadia zijn aangemaakt, kunnen er taken worden aangemaakt door op de +Nieuw knop te drukken. Hier kan een naam aan de taak worden gegeven. 
+
+.. image:: Media/Projecten009.png
+
+Wanneer de taak is aangemaakt kan deze worden aangepast door bijvoorbeeld de verantwoordelijke te selecteren, een deadline te geven en uren in te vullen. Voor meer informatie ga naar onze taken documentatie.
 
 .. image:: Media/Projecten003.png
 
