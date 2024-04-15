@@ -1,7 +1,3 @@
-De tekst bevat enkele spelling- en grammaticafouten. Hier is de gecorrigeerde versie:
-
----
-
 Projecten
 ====================================================================
 
