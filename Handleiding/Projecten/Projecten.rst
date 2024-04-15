@@ -1,3 +1,7 @@
+De tekst bevat enkele spelling- en grammaticafouten. Hier is de gecorrigeerde versie:
+
+---
+
 Projecten
 ====================================================================
 
@@ -40,6 +44,17 @@ Met website details kan worden ingesteld onder welke categorie het project op de
 Onder het tabblad "Members" kunnen de verschillende leden worden gezien die het project ondersteunen.
 
 .. image:: Media/Projecten007.png
+
+Facturatie
+---------------------------
+
+Om de uren van projecten te factureren moet het project via een dienst product worden aangemaakt.
+
+De dienst kan worden aangemaakt via het productenmenu in de voorraad- en verkoopapplicaties. Maak een nieuw product aan en selecteer onder producttype de optie 'dienst'. Hier verschijnt de optie om een project, taak of een project en taak aan te maken. Ook kan de eenheid als uren worden ingesteld om de opgegeven uren te verkopen.
+
+.. image:: Media/Projecten008.png
+
+Wanneer het product is aangemaakt, worden ook meteen de geselecteerde opties aangemaakt met de naam die aan het product is gegeven. Wanneer er uren op het project worden geschreven, kunnen deze gefactureerd worden via de verkoopmodule.
 
 .. toctree::
     :maxdepth: 2
