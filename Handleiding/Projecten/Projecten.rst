@@ -15,7 +15,7 @@ Wanneer een project is aangemaakt, verschijnt het op de projectpagina, dit is te
 
 .. image:: Media/Projecten002.png
 
-Wanneer de stadia zijn aangemaakt, kunnen er taken worden aangemaakt door op de +Nieuw knop te drukken. Hier kan een naam aan de taak worden gegeven. 
+Wanneer de stadia zijn aangemaakt, kunnen er taken worden aangemaakt door op de +Nieuw knop te drukken. Hier kan een naam aan de taak worden gegeven en personen aan de taak worden toegewezen. wanneer de taak goed is ingesteld kan die worden toegevoegd door op toevoegen te klikken.
 
 .. image:: Media/Projecten009.png
 
