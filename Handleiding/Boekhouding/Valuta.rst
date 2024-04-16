@@ -5,6 +5,10 @@ In de facturatie/boekhouding module ga naar Configuratie > Instellingen. Hier zi
 
 .. image:: Valuta/Valuta001.png
 
+Wanneer de valuta is ingesteld, moet de provider worden geselecteerd van waaruit de wisselkoers wordt opgehaald. Ga naar 'Configuratie' en vervolgens naar 'Wisselkoersaanbieders'. Selecteer 'Nieuw'. In dit menu kan een wisselkoersaanbieder worden gekozen, zoals de Europese Centrale Bank, en de interval van de updates voor de wisselkoers kan worden ingesteld; standaard is dit eens per dag. Onderaan kan worden ingesteld welke valuta moet worden bijgewerkt door de provider. Maak dit je standaardvaluta.
+
+.. image:: Valuta/Valuta004.png
+
 Door op de 'Valuta'-knop onder de 'Hoofdvaluta'-knop te drukken, komt u op de valutapagina. U kunt hier ook komen via Configuratie > Valuta (onder het kopje Boekhouden). Op de valutapagina staan alle beschikbare valuta. U zult zien dat de standaardvaluta al op actief staat en onder 'Huidige wisselkoers' op 1,00000 staat weergegeven. Dit is de valuta waar de wisselkoers van andere valuta op wordt berekend. Om andere valuta te gebruiken, moeten deze op actief worden gezet aan de rechterkant van het scherm. Wanneer de automatische wisselkoers is aangezet, wordt de koers automatisch berekend; als dit niet het geval is, moet deze handmatig worden ingevoerd. Dit kan door op de valuta te klikken.
 
 .. image:: Valuta/Valuta002.png
