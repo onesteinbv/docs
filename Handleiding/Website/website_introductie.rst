@@ -19,6 +19,7 @@ Met Curq kun je ook eenvoudig de stijl van je website aanpassen wanneer je maar 
     Menu_editor
     html_editor
     E-commerce
+    SAO optimalisatie
     Webdomein_instellen
     Website_Configuratie
     
