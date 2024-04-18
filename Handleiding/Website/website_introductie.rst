@@ -5,7 +5,7 @@ Binnen de Curq-omgeving is het moeiteloos om een volledige en professionele webs
 
 .. image:: media/Website_intro001.png
 
-Bovendien biedt Curq naadloze integratie met populaire tools zoals OpenStreet Maps, waardoor je locatiegerichte functies kunt toevoegen aan je website, zoals kaarten, routebeschrijvingen en locatiepinnen. Daarnaast heb je toegang tot de uitgebreide Font Awesome-bibliotheek, waarmee je je website kunt verrijken met een breed scala aan prachtige lettertypen voor een unieke visuele uitstraling.
+Bovendien biedt Curq naadloze integratie met populaire tools zoals OpenStreet Maps, waardoor je locatiegerichte functies kunt toevoegen aan je website, zoals kaarten, routebeschrijvingen en locatiepinnen. Daarnaast heb je toegang tot de uitgebreide Font Awesome-bibliotheek, waarmee je je website kunt verrijken met een breed scala aan prachtige iconen voor een unieke visuele uitstraling.
 
 Door de volledige integratie met alle andere applicaties binnen Curq, kun je jouw website aanpassen aan de specifieke behoeften van jouw bedrijf. Of het nu gaat om het automatiseren van marketingcampagnes of directe interacie met uw klanten. Curq biedt een naadloze ervaring om jouw online aanwezigheid te optimaliseren en je bedrijf te laten groeien.
 
