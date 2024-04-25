@@ -1,7 +1,14 @@
 Zoek- en filterfunctie
 ====================================================================
 
-Binnen de Curq zijn drie opties beschikbaar om specifiekere informatie te kunnen vinden: filteren, groeperen en de zoekbalk. De specifieke mogelijkheden binnen deze opties verschillen tussen de modules waarin de zoekfunctie zich bevindt.
+Binnen Curq zijn drie opties beschikbaar om specifiekere informatie te kunnen vinden: filteren, groeperen en de zoekbalk. Deze functionaliteit vind je bij alle menu's binnen Curq terug en helpt je om sneller de uiste informatie te kunnen terugvinden. 
+
+* **Zoeken**. In het zoekveld geef je een waarde in en Curq zoekt op basis van die waarde de overeenkomstige records
+
+* **Filteren**. Met de filterfunctie kun je specifiek zoeken op een waarde van een veld vanhet menu waarin je zoekt. Hiermee verklein je dus het zoekresultaat 
+
+* ** Groeperen**, hiermee groepeer je het zoekresultaat.
+
 
 .. image:: Zoeken_filtreren/Zoeken&filtreren001.png
 
