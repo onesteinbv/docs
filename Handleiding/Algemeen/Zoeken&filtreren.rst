@@ -7,8 +7,7 @@ Binnen Curq zijn drie opties beschikbaar om specifiekere informatie te kunnen vi
 
 * **Filteren**. Met de filterfunctie kun je specifiek zoeken op een waarde van een veld vanhet menu waarin je zoekt. Hiermee verklein je dus het zoekresultaat 
 
-* ** Groeperen**, hiermee groepeer je het zoekresultaat.
-
+* **Groeperen**, hiermee groepeer je het zoekresultaat.
 
 .. image:: Zoeken_filtreren/Zoeken&filtreren001.png
 
