@@ -1,26 +1,24 @@
 Agenda
 ====================================================================
 
-De calender module zit door veel van de modules in curq gewoven. De module registreert en beheert alle afspraken, urenstaten en andere gerelateerde informatie.
+De Kalender functionaliteit kom je op veel plaatsen tegen in Curq. De module registreert en beheert alle afspraken, urenstaten en andere gerelateerde informatie.
 
 .. image:: Agenda/Agenda001.png
 
-In de calender module kunnen direct afspraken gemaakt worden. door op een tijdstip dubbel te klikken wordt op dit tijdstip een afspraak aangemaakt worden. we wordt dan een scherm geopend.
-Hier kan een naam aan de afspraak gegeven worden.
+In de Kalender module kun je direct afspraken maken. Je maakt een afspraak door op een tijdstip te dubbelklikken. Hierna kun je de details voor de afspraak invullen.
 
 .. image:: Agenda/Agenda002.png
 
-Door de afspraak te selecteren kunnen aanpassingen gemaakt worden van name de naam en kunnen andere contacten en gebruikers aan de afspraak worden toegevoegd. 
-Onder het Afspraak details tabblad worden velden getoont zoals de start, eindtijd en duur. ook kan geselecteerd worden of de afspraak heel de dag duurt.
-De organisator kan worden ingestelds met een herinering en locatie, er kan tevens een url worden opgegeven voor een videogesprek.
-Als laatst kunnen er labels en een omgschrijving worden opgegeven.
+Onder het tabblad 'Afspraak details' zie je de velden start- en eindtijd, duur van de afspraak. 
+De organisator kan worden ingesteld met een herinnering en locatie, er kan tevens een url worden opgegeven voor een videogesprek.
+Ook kun je er labels en een omschrijving aan toevoegen.
 
 .. image:: Agenda/Agenda003.png
 
-Onder opties kan worden ingesteld of de afspraak terugkerend is, de afspraak openbaar of prive is en of de afspraak getoond wordt als beschikbaar of bezet.
+Onder opties kan worden ingesteld of de afspraak terugkerend is, of deze  openbaar of prive is, en of de afspraak getoond wordt als beschikbaar of bezet.
 
 .. image:: Agenda/Agenda004.png
 
-Onder de uitnodigingen tab kunnen alle uitgenoodigde contacten worden bekeken met de e-mail, telefoonnummer en de status van de acceptatie. Door het uitnodigingen versturen kan een email worden verstuurd on de leden uit te nodigen.
+Onder de tab 'Uitnodigingen' zie je alle uitgenodigde contacten en kun je via de knop 'uitnodigingen versturen' deze contacten ook een mail sturen.
 
-De calender kan niet alleen alle afspraken bij houden maar ook de afspraken van nextcloud door een conectie te maken met een nextcloud account. Er kan echter maar een nextcloud profiel worden gekoppeld per gebruiker.
+Met de Kalender kun je niet alleen alle afspraken bijhouden die je in Curq aanmaakt, maar ook de afspraken van Nextcloud (als je de connectie maakt met Nextcloud) Let op: er kan maar een Nextcloud profiel worden gekoppeld per gebruiker.
