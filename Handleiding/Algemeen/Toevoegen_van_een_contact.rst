@@ -1,7 +1,7 @@
 Contacten
 ====================================================================
 
-In Curq vind je alle relaties terug onder 1 hoofdmenu 'Contacten'. Het gaat om bedrijven (zowel klanten als leveranciers), personen, een ook de interne medewerkers. 
+In Curq vind je alle relaties terug onder 1 hoofdmenu 'Contacten'. Het gaat niet alleen om bedrijven (zowel klanten als leveranciers), personen, maar ook de interne medewerkers. 
 Om een contact onder een bedrijf aan te maken, ga naar de Contacten en klik op de knop 'Nieuw' in de linkerbovenhoek van het scherm.
 
 .. image:: Contact/Toevoegen_van_een_contact001.png
@@ -10,7 +10,7 @@ Om een contact onder een bedrijf aan te maken, ga naar de Contacten en klik op d
 
 Vul de relevante informatie in
 ---------------------------------------------------------------------------------------------------
-Voer alle benodigde informatie van het hoofdveld in voor de nieuwe klant, zoals naam, type (individu of bedrijf), adres, contactgegevens, de website, de taal waarmee het contact wordt benaderd en labels om contacten te identificeren en groeperen. Ook kan een foto toegevoegd worden.
+Voer alle benodigde informatie van het hoofdveld in voor de nieuwe klant, zoals naam, type (individu of bedrijf), adres, contactgegevens, de website, de taal waarmee het contact wordt benaderd en labels om contacten te identificeren en groeperen. Ook kun je een foto toevoegen.
 Let op land- of type specifieke velden zoals het KvK- of BTW-nummer. Het KvK nummer veld is alleen zichtbaar als je Nederland als land ingeeft. 
 
 .. image:: Contact/Toevoegen_van_een_contact003.png
