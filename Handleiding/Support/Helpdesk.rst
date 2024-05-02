@@ -1,4 +1,4 @@
-Helpdesk
+Helpdesk introductie
 ====================================================================
 
 De Helpdesk App is ontworpen om uw vragen en ondersteuningsbehoeften moeiteloos te beheren en op te lossen. Hier is een overzicht van hoe onze app functioneert:
@@ -26,3 +26,5 @@ Diverse Invoermogelijkheden:
 ---------------------------------------------------------------------------------------------------
 Verzoeken kunnen op verschillende manieren binnenkomen, waaronder via gelinkte e-mails, online formulieren en directe invoer door gebruikers.
 Deze flexibiliteit zorgt ervoor dat alle gebruikers op een handige manier toegang hebben tot de servicedeskfunctionaliteiten.
+
+In het onderdeel Helpdesk Advanced gaan wij verder in op de inrichting van de helpdeskmodule.
