@@ -2,7 +2,13 @@
 Verkoop - Productvarianten & kenmerken
 ======================================
 
-Wanneer een product meerdere varianten heeft, kun je deze gemakkelijk configureren met behulp van de optie *Productvarianten* in de Verkoopmodule. Om van deze functie gebruik te kunnen maken, dien je de optie *Varianten* te activeren in het menu **Instellingen** van de module, zoals weergegeven in de onderstaande afbeelding.
+Wanneer een product meerdere varianten heeft, kun je deze gemakkelijk configureren met behulp van de optie *Productvarianten* in de Verkoopmodule. Het voordeel van het werken met varianten is dat je vanuit 1 product direct meerdere varianten van het product kunt genereren. 
+
+Een voorbeeld is een T shirt in verschillende maten. Het product T shirt heeft de maten S, M en L in de kleuren rood, groen en blauw. In het product zelf geef je de algemene product informatie in, bij de variant kun je zaken als afwijkende prijs ingeven.
+
+Om van deze functie gebruik te kunnen maken, dien je de optie *Varianten* te activeren in het menu **Instellingen** van de module, zoals weergegeven in de onderstaande afbeelding. 
+
+Ons advies is om wel goed na te denken of je product catalogus aansluit bij het werken met varianten. Wij zien bijvoorbeeld dat bij handelsmaatschappijen die volledige en specifieke inkoop- en verkoop informatie per product nodig hebben dat men de varianten optie niet gebruikt. Neem contact op met onze helpdesk als je vragen hebt over dit onderdeel.
 
 .. image:: Verkoop-Media/030.png
 
@@ -23,7 +29,7 @@ Op de manier hoe de varianten worden aangemaakt heb je 3 opties:
 
 - **Dynamisch**: Elke variant wordt alleen gemaakt wanneer de bijbehorende kenmerken en waarden worden toegevoegd aan een verkooporder. *Tip! Gebruik deze optie als je producten hanteert met veel verschillende kenmerken en daardoor vele varianten worden aangemaakt (+1000)*.
 
-- **Nooit**: Er worden nooit varianten gemaakt voor het kenmerk.
+- **Nooit**: Er worden nooit varianten gemaakt voor het kenmerk. Deze optie is handig als je bijvoorbeeld op je website wel varianten wil zien zonder dat er voor iedere keuze een apart product wordt aangemaakt.
 
 De modus voor het maken van varianten kan niet worden gewijzigd zodra het kenmerk wordt gebruikt in ten minste één product. In het veld *Zichtbaarheid eCommerce filter* kun je beslissen of je het kenmerk zichtbaar wilt maken of wilt verbergen voor de beschikbare filters op eCommerce. Onder *Kenmerkwaardes* kun je waarden toevoegen met de knop *Regel toevoegen*. Producten met dit kenmerk kunnen worden bekeken met de slimme knop *Gerelateerde producten* in de formulierweergave.
 
