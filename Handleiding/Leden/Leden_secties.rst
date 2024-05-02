@@ -1,22 +1,23 @@
-leden, secties en comités
+Leden, secties en comités
 ====================================================================
 
 Secties
 ---------------------------------------------------------------------------------------------------
-
-Binnen de ledenmodule kunnen de leden in secties worden georganiseerd. Deze groepen kunnen worden gebruikt om de samenwerking tussen de leden te verbeteren door samenwerking en het delen van informatie via e-mailcampagnes. Verder kunnen deze secties worden gekoppeld aan een comité om beslissingen te nemen over de toekomst en de richting van de sectie.
+Met behulp van secties kun je de interne samenwerking verbeteren en bijvoorbeeld eenvoudig interne informatie delen. Koppel een sectie aan een comité om beslissingen te nemen over de toekomst en de richting van de sectie.
 Om deze secties aan te maken, navigeer naar Leden > Configuratie > Secties en selecteer +Nieuw.
 
 .. image:: Leden_secties/Leden_secties001.png
 
-In het nieuwe sectieveld zijn vier tot vijf vakken aanwezig:
-1. De naam van de sectie.
-2. De mailinglijst; vanuit deze lijst worden alle leden onder de sectie gemaild over nieuwe informatie. Om te leren hoe een mailinglijst wordt aangemaakt, kijk in onze documentatie.
-3. Departement: wordt de sectie gekoppeld aan een personeelszaken- of HR-afdeling. Dit veld is optioneel.
-4. Comité: hier kan de sectie aan een comité worden gelinkt. Dit veld is optioneel.
-5. Pagina: hier kan de webpagina worden geselecteerd waar de aanmeldpagina van de sectie wordt weergegeven. Wanneer dit veld leeg wordt gelaten, zal een nieuwe webpagina worden aangemaakt.
+In het nieuwe sectieveld zijn vijf vakken aanwezig:
 
-Onder het tabblad Leden (Membership) staan alle leden die onder de sectie vallen. Via "Regel toevoegen" kunnen leden worden toegevoegd.
+1. De naam van de sectie.
+
+2. De mailinglijst; vanuit deze lijst worden alle leden onder de sectie gemaild over nieuwe informatie. Om te leren hoe een mailinglijst wordt aangemaakt, kijk in onze documentatie.
+3. Departement: Koppel de sectie een personeelszaken- of HR-afdeling. Dit veld is optioneel.
+4. Comité: hier kan de sectie aan een comité worden gelinkt. Dit veld is optioneel.
+5. Pagina: hier kan de webpagina worden geselecteerd waar de aanmeldpagina van de sectie wordt weergegeven. Wanneer je dit veld leeg laat dan zal een nieuwe webpagina worden aangemaakt.
+
+Onder het tabblad Leden (Membership) staan alle leden die onder de sectie vallen. Via "Regel toevoegen" voeg je leden toe.
 Onder "Websitebeschrijving" kan de aanmeldpagina van de website worden aangemaakt.
 
 .. image:: Leden_secties/Leden_secties002.png
