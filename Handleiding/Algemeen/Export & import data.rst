@@ -2,15 +2,16 @@
 Export & import data
 ====================
 
-In Curq is het soms nodig om gegevens te exporteren of importeren voor het uitvoeren van rapporten of voor gegevens aanpassingen. Dit document behandelt het exporteren en importeren van gegevens naar en uit Curq. 
+Vanuit Curq kun je gegevens exporteren voor het uitvoeren van rapporten of gegevens importeren voor gegevens aanpassingen. Dit document behandelt het exporteren en importeren van gegevens naar en uit Curq. 
 
 *Belangrijk! Soms krijgen gebruikers een 'time-out' foutmelding of wordt een record niet verwerkt vanwege de grootte ervan. Dit kan voorkomen bij grote exports of in gevallen waar het importbestand te groot is. Om deze beperking met betrekking tot de grootte van de records te omzeilen, moet u exports of imports uitvoeren in kleinere batches.*
 
 Gegevens exporteren uit Curq
 ----------------------------
-Bij het werken met een database is het soms nodig om gegevens in een apart bestand te exporteren. Dit kan helpen bij het rapporteren over activiteiten, hoewel Curq een nauwkeurige en eenvoudige rapportagetool biedt bij elke beschikbare toepassing.
 
-Met Curq kunnen de gegevens worden geëxporteerd uit elk veld in elk record. Om dit te doen, activeer je de lijstweergave (☰ (drie horizontale lijnen) icoon) op de items die moeten worden geëxporteerd, en selecteert u vervolgens de records die moeten worden geëxporteerd. Om een record te selecteren, vinkt u het selectievakje aan naast het overeenkomstige record. Klik ten slotte op ⚙️ Actie en vervolgens op Export.
+Hoewel er binnen Curq uitgebreide mogelijkheden voor rapportage zijn, is het soms nodig om gegevens te exporteren. 
+
+Met Curq kunnen gegevens worden geëxporteerd uit elk veld in elk record. Om dit te doen, activeer je de lijstweergave (☰ (drie horizontale lijnen) icoon) van het menu van waaruit moet worden geëxporteerd, en selecteer je vervolgens de records die moeten worden geëxporteerd. Klik hierna via ⚙️ Actie op 'Export.
 
 .. image:: Media/016.png
 
@@ -37,9 +38,9 @@ Wanneer je op *Exporteer* klikt, verschijnt er een pop-upvenster *Gegevens expor
 
 Gegevens importeren in Curq
 ---------------------------
-Het importeren van gegevens in Curq is buitengewoon nuttig tijdens implementatie of in tijden waarin gegevens in bulk moeten worden bijgewerkt. We geven in dit hoofdstuk tips die je helpen bij het importeren van gegevens.
+Het importeren van gegevens in Curq is buitengewoon nuttig tijdens de eesrte implementatie of als er later gegevens in bulk moeten worden bijgewerkt. Denk hierbij aan het bijwerken van prijzen. We geven in dit hoofdstuk tips die je helpen bij het importeren van gegevens.
 
-*Waarschuwing: Imports zijn permanent en kunnen niet ongedaan worden gemaakt. Het is echter mogelijk om filters (gemaakt op of laatst gewijzigd) te gebruiken om records geïdentificeerd te krijgen die zijn gewijzigd of gemaakt door de import*.
+*Waarschuwing: Imports zijn permanent en kunnen niet ongedaan worden gemaakt. Het is echter mogelijk om filters (gemaakt op of laatst gewijzigd) te gebruiken om records geïdentificeerd te krijgen die zijn gewijzigd of gemaakt door de import. Test altijd eerst de import voordat je deze daadwerkelijk doorvoert.* 
 
 *Tip: Door de ontwikkelaarsmodus te activeren, worden de zichtbare importinstellingen in het linkermenu gewijzigd. Hierdoor wordt een geavanceerd menu onthuld. In dit geavanceerde menu bevinden zich twee opties: 'Volg geschiedenis tijdens importeren' en 'Matching met subvelden toestaan'.*
 
@@ -106,6 +107,8 @@ Veld ontbreekt om kolom te koppelen
 Curq probeert zoekend het type veld voor elke kolom in het geïmporteerde bestand te vinden, op basis van de eerste tien regels van de bestanden. Bijvoorbeeld, als er een kolom is die alleen cijfers bevat, worden alleen de velden met het type *integer* als opties gepresenteerd.
 
 Hoewel dit gedrag in de meeste gevallen gunstig kan zijn, is het ook mogelijk dat het kan mislukken, of dat de kolom wordt gekoppeld aan een veld dat niet standaard wordt voorgesteld. Als dit gebeurt, controleer dan de optie **Toon velden van relatievelden (geavanceerd)**, dan wordt er een volledige lijst met velden beschikbaar voor elke kolom.
+
+Mocht je toch nog vragen hebben bij het importeren van gegegevens, neem dan contact op met de Curq helpdesk. Onze consultants kunnen je dan verder begeleiden bij het maken van de juiste import.
 
 
 
