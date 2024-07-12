@@ -23,4 +23,4 @@ Klik eerst op Nieuw, en vul vervolgens de verschillende velden in op het formuli
     • Analytisch: Selecteer via het dropdown-menu de rekening(en) waarop de uitgave moet worden geboekt, voor Projecten, Afdelingen, of beide. Indien nodig kunnen meerdere rekeningen worden vermeld voor elke categorie. Pas het percentage aan voor elke analytische rekening door de waarde in te typen naast de rekening.
     • Notities...: Voer eventuele notities in die nodig zijn om de uitgave te verduidelijken.
 
-.. image:: Media/inkoop001.png
+.. image:: Media/Declaraties001.png
