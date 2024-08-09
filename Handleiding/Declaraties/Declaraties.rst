@@ -38,3 +38,45 @@ Klik eerst op **Nieuw**, en vul vervolgens de verschillende velden in op het for
 
 .. image:: Declaraties_Media/Declaraties001.png
 
+
+**Voeg een bonnetje toe**
+--------------------------
+
+Nadat de uitgave is aangemaakt, is de volgende stap het toevoegen van een bonnetje. Klik op de knop Voeg bonnetje toe, en een verkenner verschijnt. Navigeer naar het bonnetje dat je wilt toevoegen en klik op Openen. Het nieuwe bonnetje wordt geregistreerd in de chatter, en het aantal bonnetjes verschijnt naast het 📎 (paperclip) pictogram onder het uitgavenformulier. Er kan meer dan één bonnetje aan een individuele uitgave worden toegevoegd, indien nodig. Het aantal bonnetjes dat aan de uitgave is toegevoegd, wordt weergegeven op het paperclip-pictogram.
+
+.. image:: Declaraties_Media/Declaraties002.png
+
+**Nieuwe uitgaven aanmaken vanuit een gescand bonnetje**  
+----------------------------------------------------------
+
+In plaats van alle informatie voor een uitgave handmatig in te voeren, kunnen uitgaven worden aangemaakt door een PDF-bonnetje te scannen.  
+Klik eerst in het hoofdoverzicht van de **Uitgaven**-app (dit overzicht kan ook worden geopend via **Uitgaven-app ‣ Mijn Uitgaven ‣ Mijn Uitgaven**), op **Scan**, en een verkenner verschijnt. Navigeer naar het bonnetje dat je wilt uploaden, klik erop om het te selecteren, en klik vervolgens op **Openen**.
+
+.. image:: Declaraties_Media/Declaraties003.png
+
+Het bonnetje wordt gescand, en een nieuwe invoer wordt aangemaakt met de datum van vandaag als **Uitgavedatum**, en andere velden die automatisch worden ingevuld op basis van de gescande gegevens, zoals het totaalbedrag. Klik op de nieuwe invoer om het individuele uitgavenformulier te openen en breng de benodigde wijzigingen aan. Het gescande bonnetje verschijnt in de chatter.
+
+
+**Maak een uitgavenrapport aan** 
+---------------------------------
+
+Wanneer de uitgaven klaar zijn om ingediend te worden (bijvoorbeeld aan het einde van een zakenreis of eenmaal per maand), moet er een **uitgavenrapport** worden aangemaakt. Ga naar het hoofdoverzicht van de **Uitgaven**-app, die de standaard **Mijn Uitgaven**-weergave toont, of ga naar **Uitgaven-app ‣ Mijn Uitgaven ‣ Mijn Uitgaven**.
+
+Uitgaven worden gekleurd op basis van de status. Elke uitgave met de status **Te Rapporteren** (uitgaven die nog aan een uitgavenrapport moeten worden toegevoegd) wordt in het blauw weergegeven. Alle andere statussen (Te Indienen, **Ingediend**, en **Goedgekeurd**) worden in het zwart weergegeven.
+
+Selecteer eerst elke individuele uitgave voor het rapport door het selectievakje naast elke invoer aan te vinken, of selecteer snel alle uitgaven in de lijst door het selectievakje naast **Uitgavedatum** aan te vinken.
+
+Een andere manier om snel alle uitgaven die nog niet in een uitgavenrapport staan toe te voegen, is door op **Maak Rapport Aan** te klikken zonder uitgaven te selecteren. Odoo zal dan automatisch alle uitgaven met de status **Te Indienen** selecteren die nog niet op een rapport staan.
+
+.. image:: Declaraties_Media/Declaraties004.png
+
+Zodra de uitgaven zijn geselecteerd, klik je op de knop **Maak Rapport Aan**. Het nieuwe rapport verschijnt met alle uitgaven vermeld op het tabblad **Uitgave**. Als er een bonnetje is toegevoegd aan een individuele uitgave, verschijnt een **📎 (paperclip)**-pictogram naast de kolommen **Klant om te Factureren** en **Analytische Verdeling**.
+
+Wanneer het rapport is aangemaakt, verschijnt het datumbereik voor de uitgaven standaard in het veld **Samenvatting Uitgavenrapport**. Het wordt aanbevolen om dit veld te bewerken met een korte samenvatting voor elk rapport om de uitgaven georganiseerd te houden. Vul een korte beschrijving in voor het uitgavenrapport (bijvoorbeeld **Klantreis NYC** of **Herstellingen voor Bedrijfsauto**) in het veld **Samenvatting Uitgavenrapport**. Selecteer vervolgens een **Manager** uit het keuzemenu om een manager aan te wijzen die het rapport moet beoordelen. Indien nodig kan het **Journal** worden gewijzigd. Gebruik het keuzemenu om een ander **Journal** te selecteren.
+
+.. image:: Declaraties_Media/Declaraties005.png
+
+Als sommige uitgaven die op het rapport zouden moeten staan ontbreken, kunnen ze nog steeds worden toegevoegd. Klik op **Voeg een regel toe** onderaan het tabblad **Uitgave**. Er verschijnt een pop-up met alle beschikbare uitgaven die aan het rapport kunnen worden toegevoegd (met de status **Te Indienen**). Vink het selectievakje naast elke uitgave aan die je wilt toevoegen en klik vervolgens op **Selecteren**. De items verschijnen nu op het net aangemaakte rapport. Als er een nieuwe uitgave moet worden toegevoegd die niet op de lijst staat, klik dan op **Nieuw** om een nieuwe uitgave aan te maken en deze aan het rapport toe te voegen.
+
+.. image:: Declaraties_Media/Declaraties006.png
+
