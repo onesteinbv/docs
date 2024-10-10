@@ -9,9 +9,15 @@
 **Uitgaven opnemen**
 ====================================================================
 =======
+
+====================================================================
+**Uitgaven opnemen**
+====================================================================
+=======
 ===========
 Declaraties
 ===========
+
 
 
 
@@ -94,6 +100,9 @@ Als sommige uitgaven die op het rapport zouden moeten staan ontbreken, kunnen ze
 
 
 =======
+
+=======
+
 
 
 **Dien een onkostenrapport in**
