@@ -24,27 +24,32 @@ Spreadsheetfuncties zijn verdeeld in de volgende categorieën
 
 Array
 =====
+.. list-table::
+   :header-rows: 1
 
- - ARRAY.CONSTRAIN(input_range, rows, columns)
- - CHOOSECOLS(array, col_num, [col_num2, ...])
- - CHOOSEROWS(array, row_num, [row_num2, ...])
- - EXPAND(array, rows, [columns], [pad_with])
- - FLATTEN(range, [range2, ...])
- - FREQUENCY(data, classes)
- - HSTACK(range1, [range2, ...])
- - MDETERM(square_matrix)
- - MINVERSE(square_matrix)
- - MMULT(matrix1, matrix2)
- - SUMPRODUCT(range1, [range2, ...])
- - SUMX2MY2(array_x, array_y)
- - SUMX2PY2(array_x, array_y)
- - SUMXMY2(array_x, array_y)
- - TOCOL(array, [ignore], [scan_by_column])
- - TOROW(array, [ignore], [scan_by_column])
- - TRANSPOSE(range)
- - VSTACK(range1, [range2, ...])
- - WRAPCOLS(range, wrap_count, [pad_with])
- - WRAPROWS(range, wrap_count, [pad_with])
+
+   * - Name and arguments   
+   * - ARRAY.CONSTRAIN(input_range, rows, columns)    
+   * - CHOOSECOLS(array, col_num, [col_num2, ...])     
+   * - CHOOSEROWS(array, row_num, [row_num2, ...])  
+   * - EXPAND(array, rows, [columns], [pad_with])   
+   * - FLATTEN(range, [range2, ...])    
+   * - FREQUENCY(data, classes)    
+   * - HSTACK(range1, [range2, ...])   
+   * - MDETERM(square_matrix)   
+   * - MINVERSE(square_matrix)    
+   * - MMULT(matrix1, matrix2)   
+   * - SUMPRODUCT(range1, [range2, ...])    
+   * - SUMX2MY2(array_x, array_y)     
+   * - SUMX2PY2(array_x, array_y)    
+   * - SUMXMY2(array_x, array_y)  
+   * - TOCOL(array, [ignore], [scan_by_column])     
+   * - TOROW(array, [ignore], [scan_by_column])    
+   * - TRANSPOSE(range)   
+   * - VSTACK(range1, [range2, ...])    
+   * - WRAPCOLS(range, wrap_count, [pad_with])    
+   * - WRAPROWS(range, wrap_count, [pad_with])
+   
 
 .. _functions/database:
 
@@ -438,8 +443,7 @@ Text
 
 .. list-table::
    :header-rows: 1
-   :stub-columns: 1
-
+ 
    * - Name and arguments    
    * - CHAR(table_number)  
    * - CLEAN(text)     
