@@ -323,30 +323,21 @@ Odoo
 
 .. list-table::
    :header-rows: 1
-   :stub-columns: 1
+  
 
    * - Name and arguments
-     - Description or link
-   * - ODOO.CREDIT(account_codes, date_range, [offset], [company_id], [include_unposted])
-     - Get the total credit for the specified account(s) and period (not compatible with Excel)
-   * - ODOO.DEBIT(account_codes, date_range, [offset], [company_id], [include_unposted])
-     - Get the total debit for the specified account(s) and period (not compatible with Excel)
-   * - ODOO.BALANCE(account_codes, date_range, [offset], [company_id], [include_unposted])
-     - Get the total balance for the specified account(s) and period (not compatible with Excel)
-   * - ODOO.FISCALYEAR.START(day, [company_id])
-     - Returns the starting date of the fiscal year encompassing the provided date (not compatible with Excel)
-   * - ODOO.FISCALYEAR.END(day, [company_id])
-     - Returns the ending date of the fiscal year encompassing the provided date (not compatible with Excel)
-   * - ODOO.ACCOUNT.GROUP(type)
-     - Returns the account ids of a given group (not compatible with Excel)
-   * - ODOO.CURRENCY.RATE(currency_from, currency_to, [date])
-     - This function takes in two currency codes as arguments, and returns the exchange rate from the first currency to the second as float (not compatible with Excel)
-   * - ODOO.LIST(list_id, index, field_name)
-     - Get the value from a list (not compatible with Excel)
-   * - ODOO.LIST.HEADER(list_id, field_name)
-     - Get the header of a list (not compatible with Excel)
+    
+   * - ODOO.CREDIT(account_codes, date_range, [offset], [company_id], [include_unposted])    
+   * - ODOO.DEBIT(account_codes, date_range, [offset], [company_id], [include_unposted])  
+   * - ODOO.BALANCE(account_codes, date_range, [offset], [company_id], [include_unposted])    
+   * - ODOO.FISCALYEAR.START(day, [company_id])  
+   * - ODOO.FISCALYEAR.END(day, [company_id])    
+   * - ODOO.ACCOUNT.GROUP(type)    
+   * - ODOO.CURRENCY.RATE(currency_from, currency_to, [date])     
+   * - ODOO.LIST(list_id, index, field_name)    
+   * - ODOO.LIST.HEADER(list_id, field_name)     
    * - ODOO.FILTER.VALUE(filter_name)
-     - Return the current value of a spreadsheet filter (not compatible with Excel)
+     
 
 .. _functions/operators:
 
@@ -382,118 +373,63 @@ Statistical
 
 .. list-table::
    :header-rows: 1
-   :stub-columns: 1
+   
 
-   * - Name and arguments
-     - Description or link
-   * - AVEDEV(value1, [value2, ...])
-     - `Excel AVEDEV article <https://support.microsoft.com/office/avedev-function-58fe8d65-2a84-4dc7-8052-f3f87b5c6639>`_
-   * - AVERAGE(value1, [value2, ...])
-     - `Excel AVERAGE article <https://support.microsoft.com/office/average-function-047bac88-d466-426c-a32b-8f33eb960cf6>`_
-   * - AVERAGE.WEIGHTED(values, weights, [additional_values, ...], [additional_weights, ...])
-     - Weighted average (not compatible with Excel)
-   * - AVERAGEA(value1, [value2, ...])
-     - `Excel AVERAGEA article <https://support.microsoft.com/office/averagea-function-f5f84098-d453-4f4c-bbba-3d2c66356091>`_
-   * - AVERAGEIF(criteria_range, criterion, [average_range])
-     - `Excel AVERAGEIF article <https://support.microsoft.com/office/averageif-function-faec8e2e-0dec-4308-af69-f5576d8ac642>`_
-   * - AVERAGEIFS(average_range, criteria_range1, criterion1, [criteria_range2, ...], [criterion2, ...])
-     - `Excel AVERAGEIFS article <https://support.microsoft.com/office/averageifs-function-48910c45-1fc0-4389-a028-f7c5c3001690>`_
-   * - CORREL(data_y, data_x)
-     - `Excel CORREL article <https://support.microsoft.com/office/correl-function-995dcef7-0c0a-4bed-a3fb-239d7b68ca92>`_
-   * - COUNT(value1, [value2, ...])
-     - `Excel COUNT article <https://support.microsoft.com/office/count-function-a59cd7fc-b623-4d93-87a4-d23bf411294c>`_
-   * - COUNTA(value1, [value2, ...])
-     - `Excel COUNTA article <https://support.microsoft.com/office/counta-function-7dc98875-d5c1-46f1-9a82-53f3219e2509>`_
-   * - COVAR(data_y, data_x)
-     - `Excel COVAR article <https://support.microsoft.com/office/covar-function-50479552-2c03-4daf-bd71-a5ab88b2db03>`_
-   * - COVARIANCE.P(data_y, data_x)
-     - `Excel COVARIANCE.P article <https://support.microsoft.com/office/covariance-p-function-6f0e1e6d-956d-4e4b-9943-cfef0bf9edfc>`_
-   * - COVARIANCE.S(data_y, data_x)
-     - `Excel COVARIANCE.S article <https://support.microsoft.com/office/covariance-s-function-0a539b74-7371-42aa-a18f-1f5320314977>`_
-   * - FORECAST(x, data_y, data_x)
-     - `Excel FORECAST article <https://support.microsoft.com/office/forecast-and-forecast-linear-functions-50ca49c9-7b40-4892-94e4-7ad38bbeda99>`_
-   * - GROWTH(known_data_y, [known_data_x], [new_data_x], [b])
-     - Fits points to exponential growth trend (not compatible with Excel)
-   * - INTERCEPT(data_y, data_x)
-     - `Excel INTERCEPT article <https://support.microsoft.com/office/intercept-function-2a9b74e2-9d47-4772-b663-3bca70bf63ef>`_
-   * - LARGE(data, n)
-     - `Excel LARGE article <https://support.microsoft.com/office/large-function-3af0af19-1190-42bb-bb8b-01672ec00a64>`_
-   * - LINEST(data_y, [data_x], [calculate_b], [verbose])
-     - `Excel LINEST article <https://support.microsoft.com/office/linest-function-84d7d0d9-6e50-4101-977a-fa7abf772b6d>`_
-   * - LOGEST(data_y, [data_x], [calculate_b], [verbose])
-     - `Excel LOGEST article <https://support.microsoft.com/office/logest-function-f27462d8-3657-4030-866b-a272c1d18b4b>`_
-   * - MATTHEWS(data_x, data_y)
-     - Compute the Matthews correlation coefficient of a dataset (not compatible with Excel)
-   * - MAX(value1, [value2, ...])
-     - `Excel MAX article <https://support.microsoft.com/office/max-function-e0012414-9ac8-4b34-9a47-73e662c08098>`_
-   * - MAXA(value1, [value2, ...])
-     - `Excel MAXA article <https://support.microsoft.com/office/maxa-function-814bda1e-3840-4bff-9365-2f59ac2ee62d>`_
-   * - MAXIFS(range, criteria_range1, criterion1, [criteria_range2, ...], [criterion2, ...])
-     - `Excel MAXIFS article <https://support.microsoft.com/office/maxifs-function-dfd611e6-da2c-488a-919b-9b6376b28883>`_
-   * - MEDIAN(value1, [value2, ...])
-     - `Excel MEDIAN article <https://support.microsoft.com/office/median-function-d0916313-4753-414c-8537-ce85bdd967d2>`_
-   * - MIN(value1, [value2, ...])
-     - `Excel MIN article <https://support.microsoft.com/office/min-function-61635d12-920f-4ce2-a70f-96f202dcc152>`_
-   * - MINA(value1, [value2, ...])
-     - `Excel MINA article <https://support.microsoft.com/office/mina-function-245a6f46-7ca5-4dc7-ab49-805341bc31d3>`_
-   * - MINIFS(range, criteria_range1, criterion1, [criteria_range2, ...], [criterion2, ...])
-     - `Excel MINIFS article <https://support.microsoft.com/office/minifs-function-6ca1ddaa-079b-4e74-80cc-72eef32e6599>`_
-   * - PEARSON(data_y, data_x)
-     - `Excel PEARSON article <https://support.microsoft.com/office/pearson-function-0c3e30fc-e5af-49c4-808a-3ef66e034c18>`_
+   * - Name and arguments    
+   * - AVEDEV(value1, [value2, ...])     
+   * - AVERAGE(value1, [value2, ...])    
+   * - AVERAGE.WEIGHTED(values, weights, [additional_values, ...], [additional_weights, ...])    
+   * - AVERAGEA(value1, [value2, ...])    
+   * - AVERAGEIF(criteria_range, criterion, [average_range])     
+   * - AVERAGEIFS(average_range, criteria_range1, criterion1, [criteria_range2, ...], [criterion2, ...])    
+   * - CORREL(data_y, data_x)   
+   * - COUNT(value1, [value2, ...])    
+   * - COUNTA(value1, [value2, ...])     
+   * - COVAR(data_y, data_x)  
+   * - COVARIANCE.P(data_y, data_x)    
+   * - COVARIANCE.S(data_y, data_x)    
+   * - FORECAST(x, data_y, data_x)    
+   * - GROWTH(known_data_y, [known_data_x], [new_data_x], [b])    
+   * - INTERCEPT(data_y, data_x)   
+   * - LARGE(data, n)     
+   * - LINEST(data_y, [data_x], [calculate_b], [verbose])    
+   * - LOGEST(data_y, [data_x], [calculate_b], [verbose])    
+   * - MATTHEWS(data_x, data_y)    
+   * - MAX(value1, [value2, ...])  
+   * - MAXA(value1, [value2, ...])   
+   * - MAXIFS(range, criteria_range1, criterion1, [criteria_range2, ...], [criterion2, ...])   
+   * - MEDIAN(value1, [value2, ...])   
+   * - MIN(value1, [value2, ...])   
+   * - MINA(value1, [value2, ...])    
+   * - MINIFS(range, criteria_range1, criterion1, [criteria_range2, ...], [criterion2, ...])     
+   * - PEARSON(data_y, data_x)     
    * - PERCENTILE(data, percentile)
-     - `Excel PERCENTILE article <https://support.microsoft.com/office/percentile-exc-function-bbaa7204-e9e1-4010-85bf-c31dc5dce4ba>`_
-   * - PERCENTILE.EXC(data, percentile)
-     - `Excel PERCENTILE.EXC article <https://support.microsoft.com/office/percentrank-exc-function-d8afee96-b7e2-4a2f-8c01-8fcdedaa6314>`_
-   * - PERCENTILE.INC(data, percentile)
-     - `Excel PERCENTILE.INC article <https://support.microsoft.com/office/percentile-inc-function-680f9539-45eb-410b-9a5e-c1355e5fe2ed>`_
-   * - POLYFIT.COEFFS(data_y, data_x, order, [intercept])
-     - Compute the coefficients of polynomial regression of the dataset (not compatible with Excel)
-   * - POLYFIT.FORECAST(x, data_y, data_x, order, [intercept])
-     - Predict value by computing a polynomial regression of the dataset (not compatible with Excel)
-   * - QUARTILE(data, quartile_number)
-     - `Excel QUARTILE article <https://support.microsoft.com/office/quartile-function-93cf8f62-60cd-4fdb-8a92-8451041e1a2a>`_
-   * - QUARTILE.EXC(data, quartile_number)
-     - `Excel QUARTILE.EXC article <https://support.microsoft.com/office/quartile-exc-function-5a355b7a-840b-4a01-b0f1-f538c2864cad>`_
-   * - QUARTILE.INC(data, quartile_number)
-     - `Excel QUARTILE.INC article <https://support.microsoft.com/office/quartile-inc-function-1bbacc80-5075-42f1-aed6-47d735c4819d>`_
-   * - RANK(value, data, [is_ascending])
-     - `Excel RANK article <https://support.microsoft.com/office/rank-function-6a2fc49d-1831-4a03-9d8c-c279cf99f723>`_
-   * - RSQ(data_y, data_x)
-     - `Excel RSQ article <https://support.microsoft.com/office/rsq-function-d7161715-250d-4a01-b80d-a8364f2be08f>`_
-   * - SMALL(data, n)
-     - `Excel SMALL article <https://support.microsoft.com/office/small-function-17da8222-7c82-42b2-961b-14c45384df07>`_
-   * - SLOPE(data_y, data_x)
-     - `Excel SLOPE article <https://support.microsoft.com/office/slope-function-11fb8f97-3117-4813-98aa-61d7e01276b9>`_
-   * - SPEARMAN(data_y, data_x)
-     - Compute the Spearman rank correlation coefficient of a dataset (not compatible with Excel)
-   * - STDEV(value1, [value2, ...])
-     - `Excel STDEV article <https://support.microsoft.com/office/stdev-function-51fecaaa-231e-4bbb-9230-33650a72c9b0>`_
-   * - STDEV.P(value1, [value2, ...])
-     - `Excel STDEV.P article <https://support.microsoft.com/office/stdev-p-function-6e917c05-31a0-496f-ade7-4f4e7462f285>`_
-   * - STDEV.S(value1, [value2, ...])
-     - `Excel STDEV.S article <https://support.microsoft.com/office/stdev-s-function-7d69cf97-0c1f-4acf-be27-f3e83904cc23>`_
-   * - STDEVA(value1, [value2, ...])
-     - `Excel STDEVA article <https://support.microsoft.com/office/stdeva-function-5ff38888-7ea5-48de-9a6d-11ed73b29e9d>`_
-   * - STDEVP(value1, [value2, ...])
-     - `Excel STDEVP article <https://support.microsoft.com/office/stdevp-function-1f7c1c88-1bec-4422-8242-e9f7dc8bb195>`_
-   * - STDEVPA(value1, [value2, ...])
-     - `Excel STDEVPA article <https://support.microsoft.com/office/stdevpa-function-5578d4d6-455a-4308-9991-d405afe2c28c>`_
-   * - STEYX(data_y, data_x)
-     - `Excel STEYX article <https://support.microsoft.com/office/steyx-function-6ce74b2c-449d-4a6e-b9ac-f9cef5ba48ab>`_
-   * - TREND(known_data_y, [known_data_x], [new_data_x], [b])
-     - Fits points to linear trend derived via least-squares (not compatible with Excel)
-   * - VAR(value1, [value2, ...])
-     - `Excel VAR article <https://support.microsoft.com/office/var-function-1f2b7ab2-954d-4e17-ba2c-9e58b15a7da2>`_
-   * - VAR.P(value1, [value2, ...])
-     - `Excel VAR.P article <https://support.microsoft.com/office/var-p-function-73d1285c-108c-4843-ba5d-a51f90656f3a>`_
-   * - VAR.S(value1, [value2, ...])
-     - `Excel VAR.S article <https://support.microsoft.com/office/var-s-function-913633de-136b-449d-813e-65a00b2b990b>`_
-   * - VARA(value1, [value2, ...])
-     - `Excel VARA article <https://support.microsoft.com/office/vara-function-3de77469-fa3a-47b4-85fd-81758a1e1d07>`_
-   * - VARP(value1, [value2, ...])
-     - `Excel VARP article <https://support.microsoft.com/office/varp-function-26a541c4-ecee-464d-a731-bd4c575b1a6b>`_
-   * - VARPA(value1, [value2, ...])
-     - `Excel VARPA article <https://support.microsoft.com/office/varpa-function-59a62635-4e89-4fad-88ac-ce4dc0513b96>`_
+   * - PERCENTILE.EXC(data, percentile)   
+   * - PERCENTILE.INC(data, percentile) 
+   * - POLYFIT.COEFFS(data_y, data_x, order, [intercept])     
+   * - POLYFIT.FORECAST(x, data_y, data_x, order, [intercept])    
+   * - QUARTILE(data, quartile_number)    
+   * - QUARTILE.EXC(data, quartile_number)     
+   * - QUARTILE.INC(data, quartile_number)    
+   * - RANK(value, data, [is_ascending])    
+   * - RSQ(data_y, data_x)    
+   * - SMALL(data, n)   
+   * - SLOPE(data_y, data_x)     
+   * - SPEARMAN(data_y, data_x)   
+   * - STDEV(value1, [value2, ...])    
+   * - STDEV.P(value1, [value2, ...])     
+   * - STDEV.S(value1, [value2, ...])    
+   * - STDEVA(value1, [value2, ...])     
+   * - STDEVP(value1, [value2, ...])  
+   * - STDEVPA(value1, [value2, ...])    
+   * - STEYX(data_y, data_x)     
+   * - TREND(known_data_y, [known_data_x], [new_data_x], [b])     
+   * - VAR(value1, [value2, ...])     
+   * - VAR.P(value1, [value2, ...])    
+   * - VAR.S(value1, [value2, ...])     
+   * - VARA(value1, [value2, ...])     
+   * - VARP(value1, [value2, ...])    
+   * - VARPA(value1, [value2, ...])   
 
 .. _functions/text:
 
@@ -504,49 +440,28 @@ Text
    :header-rows: 1
    :stub-columns: 1
 
-   * - Name and arguments
-     - Description or link
-   * - CHAR(table_number)
-     - `Excel CHAR article <https://support.microsoft.com/office/char-function-bbd249c8-b36e-4a91-8017-1c133f9b837a>`_
-   * - CLEAN(text)
-     - `Excel CLEAN article <https://support.microsoft.com/office/clean-function-26f3d7c5-475f-4a9c-90e5-4b8ba987ba41>`_
-   * - CONCATENATE(string1, [string2, ...])
-     - `Excel CONCATENATE article <https://support.microsoft.com/office/concatenate-function-8f8ae884-2ca8-4f7a-b093-75d702bea31d>`_
-   * - EXACT(string1, string2)
-     - `Excel EXACT article <https://support.microsoft.com/office/exact-function-d3087698-fc15-4a15-9631-12575cf29926>`_
-   * - FIND(search_for, text_to_search, [starting_at])
-     - `Excel FIND article <https://support.microsoft.com/office/find-findb-functions-c7912941-af2a-4bdf-a553-d0d89b0a0628>`_
-   * - JOIN(delimiter, value_or_array1, [value_or_array2, ...])
-     - Concatenates elements of arrays with delimiter (not compatible with Excel)
-   * - LEFT(text, [number_of_characters])
-     - `Excel LEFT article <https://support.microsoft.com/office/left-leftb-functions-9203d2d2-7960-479b-84c6-1ea52b99640c>`_
-   * - LEN(text)
-     - `Excel LEN article <https://support.microsoft.com/office/len-lenb-functions-29236f94-cedc-429d-affd-b5e33d2c67cb>`_
-   * - LOWER(text)
-     - `Excel LOWER article <https://support.microsoft.com/office/lower-function-3f21df02-a80c-44b2-afaf-81358f9fdeb4>`_
-   * - MID(text, starting_at, extract_length)
-     - `Excel MID article <https://support.microsoft.com/office/mid-midb-functions-d5f9e25c-d7d6-472e-b568-4ecb12433028>`_
-   * - PROPER(text_to_capitalize)
-     - `Excel PROPER article <https://support.microsoft.com/office/proper-function-52a5a283-e8b2-49be-8506-b2887b889f94>`_
-   * - REPLACE(text, position, length, new_text)
-     - `Excel REPLACE article <https://support.microsoft.com/office/replace-replaceb-functions-8d799074-2425-4a8a-84bc-82472868878a>`_
-   * - RIGHT(text, [number_of_characters])
-     - `Excel RIGHT article <https://support.microsoft.com/office/right-rightb-functions-240267ee-9afa-4639-a02b-f19e1786cf2f>`_
-   * - SEARCH(search_for, text_to_search, [starting_at])
-     - `Excel SEARCH article <https://support.microsoft.com/office/search-searchb-functions-9ab04538-0e55-4719-a72e-b6f54513b495>`_
-   * - SPLIT(text, delimiter, [split_by_each], [remove_empty_text])
-     - `Excel TEXTSPLIT article <https://support.microsoft.com/office/textsplit-function-b1ca414e-4c21-4ca0-b1b7-bdecace8a6e7>`_
-   * - SUBSTITUTE(text_to_search, search_for, replace_with, [occurrence_number])
-     - `Excel SUBSTITUTE article <https://support.microsoft.com/office/substitute-function-6434944e-a904-4336-a9b0-1e58df3bc332>`_
-   * - TEXT(number, format)
-     - `Excel TEXT article <https://support.microsoft.com/office/text-function-20d5ac4d-7b94-49fd-bb38-93d29371225c>`_
-   * - TEXTJOIN(delimiter, ignore_empty, text1, [text2, ...])
-     - `Excel TEXTJOIN article <https://support.microsoft.com/office/textjoin-function-357b449a-ec91-49d0-80c3-0e8fc845691c>`_
-   * - TRIM(text)
-     - `Excel TRIM article <https://support.microsoft.com/office/trim-function-410388fa-c5df-49c6-b16c-9e5630b479f9>`_
+   * - Name and arguments    
+   * - CHAR(table_number)  
+   * - CLEAN(text)     
+   * - CONCATENATE(string1, [string2, ...])   
+   * - EXACT(string1, string2)     
+   * - FIND(search_for, text_to_search, [starting_at])    
+   * - JOIN(delimiter, value_or_array1, [value_or_array2, ...])   
+   * - LEFT(text, [number_of_characters])    
+   * - LEN(text) 
+   * - LOWER(text)    
+   * - MID(text, starting_at, extract_length)     
+   * - PROPER(text_to_capitalize)    
+   * - REPLACE(text, position, length, new_text)     
+   * - RIGHT(text, [number_of_characters])    
+   * - SEARCH(search_for, text_to_search, [starting_at])    
+   * - SPLIT(text, delimiter, [split_by_each], [remove_empty_text])   
+   * - SUBSTITUTE(text_to_search, search_for, replace_with, [occurrence_number])    
+   * - TEXT(number, format)    
+   * - TEXTJOIN(delimiter, ignore_empty, text1, [text2, ...])    
+   * - TRIM(text)    
    * - UPPER(text)
-     - `Excel UPPER article <https://support.microsoft.com/office/upper-function-c11f29b3-d1a3-4537-8df6-04d0049963d6>`_
-
+     
 .. _functions/web:
 
 Web
@@ -554,11 +469,9 @@ Web
 
 .. list-table::
    :header-rows: 1
-   :stub-columns: 1
 
-   * - Name and arguments
-     - Description or link
+
+   * - Name and arguments  
    * - HYPERLINK(url, [link_label])
-     - `Excel HYPERLINK article <https://support.microsoft.com/office/hyperlink-function-333c7ce6-c5ae-4164-9c47-7de9b76f577f>`_
-
+    
  
