@@ -124,126 +124,67 @@ Financial
 - COUPDAYS(settlement, maturity, frequency, [day_count_convention])
 - COUPDAYBS(settlement, maturity, frequency, [day_count_convention])
 - COUPDAYSNC(settlement, maturity, frequency, [day_count_convention])
-    
-   * - COUPNCD(settlement, maturity, frequency, [day_count_convention])
-    
-   * - COUPNUM(settlement, maturity, frequency, [day_count_convention])
-     
-   * - COUPPCD(settlement, maturity, frequency, [day_count_convention])
-    
-   * - CUMIPMT(rate, number_of_periods, present_value, first_period, last_period, [end_or_beginning])
-    
-   * - CUMPRINC(rate, number_of_periods, present_value, first_period, last_period, [end_or_beginning])
-   
-   * - DB(cost, salvage, life, period, [month])
-     
-   * - DDB(cost, salvage, life, period, [factor])
-    
-   * - DISC(settlement, maturity, price, redemption, [day_count_convention])
-  
-   * - DOLLARDE(fractional_price, unit)
-    
-   * - DOLLARFR(decimal_price, unit)
-    
-   * - DURATION(settlement, maturity, rate, yield, frequency, [day_count_convention])
-    
-   * - EFFECT(nominal_rate, periods_per_year)
-   
-   * - FV(rate, number_of_periods, payment_amount, [present_value], [end_or_beginning])
-  
-   * - FVSCHEDULE(principal, rate_schedule)
-   
-   * - INTRATE(settlement, maturity, investment, redemption, [day_count_convention])
-    
-   * - IPMT(rate, period, number_of_periods, present_value, [future_value], [end_or_beginning])
-    
-   * - IRR(cashflow_amounts, [rate_guess])
-   
-   * - ISPMT(rate, period, number_of_periods, present_value)
-    
-   * - MDURATION(settlement, maturity, rate, yield, frequency, [day_count_convention])
-    
-   * - MIRR(cashflow_amounts, financing_rate, reinvestment_return_rate)
-  
-   * - NOMINAL(effective_rate, periods_per_year)
-   
-   * - NPER(rate, payment_amount, present_value, [future_value], [end_or_beginning])
-    
-   * - NPV(discount, cashflow1, [cashflow2, ...])
-   
-   * - PDURATION(rate, present_value, future_value)
-    
-   * - PMT(rate, number_of_periods, present_value, [future_value], [end_or_beginning])
-    
-   * - PPMT(rate, period, number_of_periods, present_value, [future_value], [end_or_beginning])
-   
-   * - PV(rate, number_of_periods, payment_amount, [future_value], [end_or_beginning])
-   
-   * - PRICE(settlement, maturity, rate, yield, redemption, frequency, [day_count_convention])
-    
-   * - PRICEDISC(settlement, maturity, discount, redemption, [day_count_convention])
-    
-   * - PRICEMAT(settlement, maturity, issue, rate, yield, [day_count_convention])
-    
-   * - RATE(number_of_periods, payment_per_period, present_value, [future_value], [end_or_beginning], [rate_guess])
-    
-   * - RECEIVED(settlement, maturity, investment, discount, [day_count_convention])
-    
-   * - RRI(number_of_periods, present_value, future_value)
-     
-   * - SLN(cost, salvage, life)
-     
-   * - SYD(cost, salvage, life, period)
-    
-   * - TBILLPRICE(settlement, maturity, discount)
-     
-   * - TBILLEQ(settlement, maturity, discount)
-    
-   * - TBILLYIELD(settlement, maturity, price)
-     
-   * - VDB(cost, salvage, life, start, end, [factor], [no_switch])
- 
-   * - XIRR(cashflow_amounts, cashflow_dates, [rate_guess])
-    
-   * - XNPV(discount, cashflow_amounts, cashflow_dates)
-    
-   * - YIELD(settlement, maturity, rate, price, redemption, frequency, [day_count_convention])
-   
-   * - YIELDDISC(settlement, maturity, price, redemption, [day_count_convention])
-     
-   * - YIELDMAT(settlement, maturity, issue, rate, price, [day_count_convention])
+- COUPNCD(settlement, maturity, frequency, [day_count_convention])
+- COUPNUM(settlement, maturity, frequency, [day_count_convention])
+- COUPPCD(settlement, maturity, frequency, [day_count_convention])
+- CUMIPMT(rate, number_of_periods, present_value, first_period, last_period, [end_or_beginning])
+- CUMPRINC(rate, number_of_periods, present_value, first_period, last_period, [end_or_beginning])
+- DB(cost, salvage, life, period, [month])
+- DDB(cost, salvage, life, period, [factor])
+- DISC(settlement, maturity, price, redemption, [day_count_convention])
+- DOLLARDE(fractional_price, unit)
+- DOLLARFR(decimal_price, unit)
+- DURATION(settlement, maturity, rate, yield, frequency, [day_count_convention])
+- EFFECT(nominal_rate, periods_per_year)
+- FV(rate, number_of_periods, payment_amount, [present_value], [end_or_beginning])
+- FVSCHEDULE(principal, rate_schedule)
+- INTRATE(settlement, maturity, investment, redemption, [day_count_convention])
+- IPMT(rate, period, number_of_periods, present_value, [future_value], [end_or_beginning])
+- IRR(cashflow_amounts, [rate_guess])
+- ISPMT(rate, period, number_of_periods, present_value)
+- MDURATION(settlement, maturity, rate, yield, frequency, [day_count_convention])
+- MIRR(cashflow_amounts, financing_rate, reinvestment_return_rate)
+- NOMINAL(effective_rate, periods_per_year)
+- NPER(rate, payment_amount, present_value, [future_value], [end_or_beginning])
+- NPV(discount, cashflow1, [cashflow2, ...])
+- PDURATION(rate, present_value, future_value)
+- PMT(rate, number_of_periods, present_value, [future_value], [end_or_beginning])
+- PPMT(rate, period, number_of_periods, present_value, [future_value], [end_or_beginning])
+- PV(rate, number_of_periods, payment_amount, [future_value], [end_or_beginning])
+- PRICE(settlement, maturity, rate, yield, redemption, frequency, [day_count_convention])
+- PRICEDISC(settlement, maturity, discount, redemption, [day_count_convention])
+- PRICEMAT(settlement, maturity, issue, rate, yield, [day_count_convention])
+- RATE(number_of_periods, payment_per_period, present_value, [future_value], [end_or_beginning], [rate_guess])
+- RECEIVED(settlement, maturity, investment, discount, [day_count_convention])
+- RRI(number_of_periods, present_value, future_value)
+- SLN(cost, salvage, life)
+- SYD(cost, salvage, life, period)
+- TBILLPRICE(settlement, maturity, discount)
+- TBILLEQ(settlement, maturity, discount)
+- TBILLYIELD(settlement, maturity, price)
+- VDB(cost, salvage, life, start, end, [factor], [no_switch])
+- XIRR(cashflow_amounts, cashflow_dates, [rate_guess])
+- XNPV(discount, cashflow_amounts, cashflow_dates)
+- YIELD(settlement, maturity, rate, price, redemption, frequency, [day_count_convention])
+- YIELDDISC(settlement, maturity, price, redemption, [day_count_convention])
+- YIELDMAT(settlement, maturity, issue, rate, price, [day_count_convention])
     
 .. _functions/info:
 
 Info
 ====
 
-.. list-table::
-   :header-rows: 1
-   :stub-columns: 1
-
-   * - Name and arguments
-     - Description or link
-   * - CELL(info_type, reference)
-     - `Excel CELL article <https://support.microsoft.com/office/cell-function-51bd39a5-f338-4dbe-a33f-955d67c2b2cf>`_
-   * - ISERR(value)
-     - `Excel IS article <https://support.microsoft.com/office/is-functions-0f2d7971-6019-40a0-a171-f2d869135665>`_
-   * - ISERROR(value)
-     - `Excel IS article <https://support.microsoft.com/office/is-functions-0f2d7971-6019-40a0-a171-f2d869135665>`_
-   * - ISLOGICAL(value)
-     - `Excel IS article <https://support.microsoft.com/office/is-functions-0f2d7971-6019-40a0-a171-f2d869135665>`_
-   * - ISNA(value)
-     - `Excel IS article <https://support.microsoft.com/office/is-functions-0f2d7971-6019-40a0-a171-f2d869135665>`_
-   * - ISNONTEXT(value)
-     - `Excel IS article <https://support.microsoft.com/office/is-functions-0f2d7971-6019-40a0-a171-f2d869135665>`_
-   * - ISNUMBER(value)
-     - `Excel IS article <https://support.microsoft.com/office/is-functions-0f2d7971-6019-40a0-a171-f2d869135665>`_
-   * - ISTEXT(value)
-     - `Excel IS article <https://support.microsoft.com/office/is-functions-0f2d7971-6019-40a0-a171-f2d869135665>`_
-   * - ISBLANK(value)
-     - `Excel IS article <https://support.microsoft.com/office/is-functions-0f2d7971-6019-40a0-a171-f2d869135665>`_
-   * - NA()
-     - `Excel NA article <https://support.microsoft.com/office/na-function-5469c2d1-a90c-4fb5-9bbc-64bd9bb6b47c>`_
+- CELL(info_type, reference)
+- ISERR(value)
+- ISERROR(value)
+- ISLOGICAL(value)
+- ISNA(value)
+- ISNONTEXT(value)
+- ISNUMBER(value)
+- ISTEXT(value)
+- ISBLANK(value)
+- NA()
+ 
 
 .. _functions/logical:
 
