@@ -56,18 +56,24 @@ Array
 Database
 ========
 
-- DAVERAGE(database, field, criteria)
-- DCOUNT(database, field, criteria)
-- DCOUNTA(database, field, criteria)
-- DGET(database, field, criteria)
-- DMAX(database, field, criteria)
-- DMIN(database, field, criteria)
-- DPRODUCT(database, field, criteria)
-- DSTDEV(database, field, criteria)
-- DSTDEVP(database, field, criteria)
-- DSUM(database, field, criteria)
-- DVAR(database, field, criteria)
-- DVARP(database, field, criteria)
+.. list-table::
+   :header-rows: 1
+  
+
+   * - Name and arguments    
+   * - DAVERAGE(database, field, criteria)    
+   * - DCOUNT(database, field, criteria)    
+   * - DCOUNTA(database, field, criteria)     
+   * - DGET(database, field, criteria)    
+   * - DMAX(database, field, criteria)     
+   * - DMIN(database, field, criteria)    
+   * - DPRODUCT(database, field, criteria)  
+   * - DSTDEV(database, field, criteria)     
+   * - DSTDEVP(database, field, criteria)   
+   * - DSUM(database, field, criteria) 
+   * - DVAR(database, field, criteria)   
+   * - DVARP(database, field, criteria)     
+
 
 Date
 ====
