@@ -74,6 +74,7 @@ Database
    * - DVAR(database, field, criteria)   
    * - DVARP(database, field, criteria)     
 
+.. _functions/date:
 
 Date
 ====
