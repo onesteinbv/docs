@@ -22,3 +22,11 @@ Je kunt elk aangemaakt spreadsheetbestand bewerken door de optie "Bewerking" te 
 Enkele van de belangrijkste UI-elementen van de spreadsheet zijn hieronder gemarkeerd en gedefinieerd.
 
 .. image:: Spreadsheets_Media/Spreadsheet004.png
+
+    1. Top bar
+    2. Formula bar
+    3. Filters button
+    4. Row header
+    5. Column header
+    6. Cell menu
+    7. Bottom bar
