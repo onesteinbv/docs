@@ -64,5 +64,41 @@ Database
 - DVAR(database, field, criteria)
 - DVARP(database, field, criteria)
 
+Date
+====
+
+- DATE(year, month, day)
+- DATEDIF(start_date, end_date, unit)
+- DATEVALUE(date_string)
+- DAY(date)
+- DAYS(end_date, start_date)
+- DAYS360(start_date, end_date, [method])
+- EDATE(start_date, months)
+- EOMONTH(start_date, months)
+- HOUR(time)
+- ISOWEEKNUM(date)
+- MINUTE(time)
+- MONTH(date)
+- NETWORKDAYS(start_date, end_date, [holidays])
+- NETWORKDAYS.INTL(start_date, end_date, [weekend], [holidays])
+- NOW()
+- SECOND(time)
+- TIME(hour, minute, second)
+- TIMEVALUE(time_string)
+- TODAY()
+- WEEKDAY(date, [type])
+- WEEKNUM(date, [type])
+- WORKDAY(start_date, num_days, [holidays])
+- WORKDAY.INTL(start_date, num_days, [weekend], [holidays])
+- YEAR(date)
+- YEARFRAC(start_date, end_date, [day_count_convention])
+- MONTH.START(date)
+- MONTH.END(date)
+- QUARTER(date)
+- QUARTER.START(date)
+- QUARTER.END(date)
+- YEAR.START(date)
+- YEAR.END(date)
+    
 
  
