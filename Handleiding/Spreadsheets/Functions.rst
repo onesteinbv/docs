@@ -311,13 +311,11 @@ Misc
 
 .. list-table::
    :header-rows: 1
-   :stub-columns: 1
+
 
    * - Name and arguments
-     - Description or link
    * - FORMAT.LARGE.NUMBER(value, [unit])
-     - Apply a large number format (not compatible with Excel)
-
+   
 .. _functions/odoo:
 
 Odoo
@@ -357,40 +355,25 @@ Operators
 
 .. list-table::
    :header-rows: 1
-   :stub-columns: 1
+
 
    * - Name and arguments
-     - Description or link
-   * - ADD(value1, value2)
-     - Sum of two numbers (not compatible with Excel)
-   * - CONCAT(value1, value2)
-     - `Excel CONCAT article <https://support.microsoft.com/office/concat-function-9b1a9a3f-94ff-41af-9736-694cbd6b4ca2>`_
-   * - DIVIDE(dividend, divisor)
-     - One number divided by another (not compatible with Excel)
-   * - EQ(value1, value2)
-     - Equal (not compatible with Excel)
-   * - GT(value1, value2)
-     - Strictly greater than (not compatible with Excel)
-   * - GTE(value1, value2)
-     - Greater than or equal to (not compatible with Excel)
-   * - LT(value1, value2)
-     - Less than (not compatible with Excel)
-   * - LTE(value1, value2)
-     - Less than or equal to (not compatible with Excel)
-   * - MINUS(value1, value2)
-     - Difference of two numbers (not compatible with Excel)
-   * - MULTIPLY(factor1, factor2)
-     - Product of two numbers (not compatible with Excel)
-   * - NE(value1, value2)
-     - Not equal (not compatible with Excel)
-   * - POW(base, exponent)
-     - A number raised to a power (not compatible with Excel)
-   * - UMINUS(value)
-     - A number with the sign reversed (not compatible with Excel)
-   * - UNARY.PERCENT(percentage)
-     - Value interpreted as a percentage (not compatible with Excel)
+   * - ADD(value1, value2)    
+   * - CONCAT(value1, value2)    
+   * - DIVIDE(dividend, divisor)    
+   * - EQ(value1, value2)  
+   * - GT(value1, value2)   
+   * - GTE(value1, value2)     
+   * - LT(value1, value2)    
+   * - LTE(value1, value2)   
+   * - MINUS(value1, value2)    
+   * - MULTIPLY(factor1, factor2)   
+   * - NE(value1, value2)     
+   * - POW(base, exponent)    
+   * - UMINUS(value)     
+   * - UNARY.PERCENT(percentage)    
    * - UPLUS(value)
-     - A specified number, unchanged (not compatible with Excel)
+     
 
 .. _functions/statistical:
 
