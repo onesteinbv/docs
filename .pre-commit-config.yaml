@@ -40,4 +40,4 @@ repos:
         name: Check all media is in media directory
         language: python
         entry: python pre_commit_hooks/check_media_directory.py
-        files: ^Handleiding\/.*(\.png|\.jpg)$
+        files: ^Handleiding\/.*(\.png|\.jpg|\.jpeg)$
